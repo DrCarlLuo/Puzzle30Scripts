@@ -1,0 +1,1434 @@
+Hey folks!
+So this is a re-record of my gdc talk, which technically hasn't aired yet because it will air in july, but i have already recorded it and sent it off to them/
+This is sort of the extended director's cut of it or or more of the, you know, friends and colleagues version of it.
+I don't think i am allowed to share it publicly but i am sort of going to make a private and more extended version of this talk where i go into more detail on a number of the subjects and also provide a bit more background information because this talk...um 
+Let me put it this way. It is blisteringly fast at 60 minutes and really is sort of like one full university courses worth of knowledge like crammed into a one-hour talk right or even more than that.
+So, it's tough to get it all into one talk and the the point of this talk is to provide information for video game puzzle designers that is useful and relevant from the realm of traditional puzzle design.
+And i sort of live in the intersection of both of these worlds and so it was an interesting opportunity to make this talk.
+And in fact i'm working at some point you know, a decade from now i'll write a book on this topic.
+But i've been working on a series of lectures on the topic and this is sort of a very condensed version of like 30 to 40 lectures on puzzle design topics, which you know, i will get around to recording whenever i'm not too busy with all my other projects.
+
+But anyway, that's all the preamble. Let's get on with the show.
+So this is me and this is me at an event called the world puzzle championship.
+This was back in 2019. It was in germany and those folks with me are team Canada from that year.
+World puzzle championship is sort of an olympiad style puzzle-solving event.
+Every country sends a team of their representatives and there's different events both solo as well as team events.
+I was 29th in the world that year and first overall among the canadians.
+
+This is one example of a team event from the sudoku competition.
+They have a puzzle round as well as a sudoku round.
+There sort of different for historical reasons because sudoku got so popular that it split off into its own event.
+In this particular event, you had to solve these interacting sudoku pieces in the form of a trophy, 
+which you then had to assemble in the correct manner while also obeying all of the constraints of all of the puzzle
+And you know the correct way of doing this was to figure out how the puzzle pieces had to fit together solve them and then assemble them.
+If you did that in the wrong order then you ended up with this where you had to assemble it and then figure out the solution to the puzzles.
+
+Here's another example from a previous year.
+This was 2014 and it is a team chess puzzle where you're sort of standing around on squares.
+And there's sort of different things you have to do with the pieces.
+My team came third in this event overall and that was a lot of fun.
+I mean traditionally, world puzzle championship also has just sort of a lot of exam-style like paper puzzles where you're sitting down and trying to solve a bunch of puzzles in the time.
+It's actually that the main event lasts three days and there's like 20 rounds of puzzle solving.
+It's kind of a brutal endurance of the brain but a fantastic event and one of my favorite things in the world is to go to world puzzle championship.
+
+Some additional background on me in addition to that.
+I love doing puzzle speed running.
+This was a world record time i got in a game called a Monsters Expedition.
+And that was achieved through all kinds of sequence breaks and breaking the game and finding ways to solve puzzles that the designers didn't expect.
+I also have a world record in a quite obscure category of Tetris, Japanese arcade Tetris.
+But yeah, so I like puzzle solving. I did a little bit of poker playing. I played in the world series of poker.
+I actually had a background before i did puzzles in math olympiads and cs olympiads.
+And I have three math degrees. I went to mit. So i'm a bit of a nerd.
+
+On top of that, I also create puzzles you know this is a puzzle where you have to slice this shape into pentominos.
+No two adjacent pentominos can be the same shape.
+This is a puzzle. It's just a wooden assembly puzzle that i've made.
+I've had a lot of puzzle work published in online collections of puzzles as well as on different puzzle blogs and sites over the internet grandmaster puzzles, etological enigma that sort of thing.
+My style I like very visual puzzles and puzzles that have unique themes that have a bit of sparkle or enticement to them visually.
+and i like to surprise and delight people with the types of things that come out of these setups.
+I've also been featured on cracking the cryptic which i think is sort of the biggest youtube channel for logic puzzles.
+This is sort of one of my puzzles that was featured there.
+
+uh yeah, so i'm actually i'm kind of a huge puzzle nerd.
+I'm actually on the hosting committee for world puzzle championship which will be in toronto in what was originally going to be 2021 and now maybe actually 2023.
+Because we may have lost two years of world puzzle championships due to the pandemic.
+We'll see how that goes.
+
+I've had a lot of experience mentoring other puzzle designers and consulting on some video game puzzle design.
+And i'm working as I mentioned at the start on the lecture series and then possibly one day a textbook on the topic of puzzle design.
+But i also have a day job and my day job is I run a video game studio called Lunarch, which we founded in 2013.
+Right now the studio has about 15 full-time developers and we are working on our third game.
+To give you a background on Lunarch, our first game was prismata which was a sort of puzzly turn-based strategy game.
+That is the type of game that you could think many moves ahead because there's no randomness and no hidden information.
+I also developed many puzzles for this game. 
+The single-player mode is very puzzly but there's also a puzzle mode that has different challenges where there's sort of only one solution or a unique order in which you have to do things in the context of a strategy game where you're managing resources and choosing which guys are attacking and defending.
+Our second game is jelly is sticky, which is mostly a solo project of david ree who's one of our other developers.
+But I made about half the levels in the game.
+It is a sokobon style block pushing puzzle game which is coming out sometime this summer.
+I mean maybe by the time gdc rolls around this will be out or close to being out.
+we're sort of in the last legs of polishing it up.
+
+Game number three is we're doing a 100 player open world multiplayer puzzle game.
+Through like our goal in publishing this game is to have 10,000 handmade puzzles in the game amongst dozens of puzzle types both logic puzzles as well as sort of physical in universe 3d puzzles.
+And we're working with dozens of puzzle creators to create the content for this game.
+And in the process of making this game I have interviewed, hired and worked with dozens of different puzzle designers.
+and puzzle designers come in all flavors like some of these folks i'm working with are doing logic puzzles or they've had stuff published in new york times crossword.
+They've done chess compositions which are like chess puzzles.
+Some of them have designed content for escape rooms or puzzles for things like MIT mystery hunt.
+Many of them have designed physical puzzles.
+I'm also working with a number of game designers who worked on indie puzzle games sort of like their own solo indie puzzle projects or have done level design for small indie puzzle games.
+
+I've also interviewed a number of level designers for AAA games that have done sort of more puzzly type, you know, layouts and level design for action adventure like Zelda style games that have puzzles in them that sort of thing.
+And through the process of meeting and interacting with all of these people, one of the thing that i've learned is that the approach taken by sort of traditional game designers and level designers versus puzzle designers.
+Well let's just say, there's an ocean of difference in how they approach the task of creating the puzzles.
+And something else that i learned is that most traditional puzzle designers have actually never worked on video games.
+And most video game designers don't really have much of a background in traditional puzzle design.
+Even those who are assigned the task of creating puzzles for games they're often just game designer, level designer with sort of a more generalist background.
+And suddenly they're immersed in this task of creating a puzzle and they don't necessarily know what to do or even what resources to turn to learn what to do, because there aren't that many of out there.
+But puzzle design is actually a very rich topic with a history of hundreds of years.
+Humans have been creating puzzles for probably as long as we had language.
+But you know there's records of puzzles dating back thousands of years.
+And even some of the more famous puzzles that we know today like the the Chinese rings puzzle or the Baguenaudier puzzle that dates back hundreds of years.
+So do magic squares.
+
+The problem is that puzzle design knowledge is very siloed.
+And there's sort of these different sub areas, you know the crossword people the escape room people.
+And they all have their own vocabulary, their own puzzle construction techniques and their own best practices and aesthetic inclinations that they don't really share widely. 
+This knowledge isn't available in one source you know.
+For example, traditional puzzle designers for a lot of types of logic puzzles, they may hate puzzles with multiple solutions, whereas game developers working on traditional adventure games, like text adventures and point-and-click adventures, they often loved putting multiple solutions in their puzzles.
+And so the the sort of aesthetics or the choices vary between these communities.
+It's not just because they have their own personalities. 
+It's because those choices fit the medium that they are working in.
+So often you'll get uh two puzzle designers from different areas working on something and they'll have completely different approaches or instincts, as to whether like we should make this puzzle unique or we should not have a unique solution.
+And there are pros and cons to both and reasons why those aesthetic inclinations exist in those sub areas. Right?
+
+So anyways the goal of this talk.
+It's themed around 30 rapid-fire lessons, but it's really to introduce traditional puzzle design theory and sort of the language of traditional puzzle design as well as to expose a few of the sort of secret design techniques that puzzle designers use and show applications to video game puzzles.
+So in other words we're going to bust open the silos and try to reveal a little bit of that knowledge inside there.
+Before we do that, I do want to give credit where credit is due to game and level designers and what they do really well.
+Traditional game designers are great at inventing rule sets and sort of iterating on levels via play testing.
+They're great at sequencing things and sort of creating a build up to an exciting moment.
+They're great at watching people playtest the game and adjust the difficulty in order to sort
+of remove stuck points and allow lots of players to get through a challenge.
+They're good at creating fun through, you know, what game design people call flow that sort of experience of being in the zone where the level of challenge is just right, so that you feel like you're accomplishing something, but you're not bogged down by getting stuck.
+And I think traditional game designers are good at doing this.
+There are problems with this approach, right?
+You might stand off all of the interesting difficulty of your game if you have a linear puzzle sequence that you don't want anybody to get stuck on, right?
+There's all kinds of ways in which this approach will fall short.
+And the thing that I think traditional puzzle designers do best is almost completely orthogonal to that, which is they identify powerful eureka moments and they create impactful setups for those eureka moments.
+And this to me is sort of the unique skill of a puzzle designer is being good at just this one thing.
+And puzzle design is also a skill that's very transferable, like people who are good at designing logic puzzles are also often very good at designing crosswords and escape rooms and physical puzzles and chess puzzles and that sort of thing
+Like this is a transferable skill and it can also be transferred to that of video game puzzles which is something that we learned after hiring a lot of these traditional puzzles and just throwing a game stuff and realizing yeah that the content they make is great.
+You know i would encourage any game developer or game director who's trying to create puzzles for a game to consider hiring traditional puzzle designers, even if you know they're not experienced at your game engine or whatever it is you're using.
+You know, find other people that they can work with in order to make that happen but hire traditional puzzle designers and let them do their thing and you'll see that they'll be able to create interesting stuff no matter what the sort of constraints or the universe you're in is.
+
+Anyways, so on with the 30 lessons.
+Lesson number one is eureka moments are the atoms of puzzles.
+And really this lesson is just an excuse to define eureka moment, which to me is the most important definition in all of puzzle design.
+A eureka moment requires four things to be true for to truly be a eureka moment.
+It's a sudden, pleasureful, fluent, confident feeling of understanding.
+It's that thing where you know you learn something and you go "oh i get it".
+Aka an "Aha!" moment, an insight, an epiphany.
+You know I prefer eureka moment. It sounds more exciting than "aha" moment and you know, the word epiphany is sometimes a little bit religious some people don't like it.
+So eureka moment it is uh... the common example is sort of in portal where you learn that momentum is conserved when you're entering a portal.
+Aka, speedy thing goes in, speedy think comes out.
+When you get that and understand it and then use it to solve a puzzle.
+That's a very powerful, very memorable feeling.
+And so what is a puzzle I defined a puzzle as anything that conceals a eureka moment.
+You know puzzles are basically mechanisms for causing amusement or pleasure via eureka moments.
+And they do so by taking that eureka moment, packaging it up and conceal it in what could ostensibly be a challenge but is really just a way to probe you in the direction of discovering that eureka moment for yourself.
+And so you know the portal example is one, but even just like determining the weak point of a boss like how can you defeat this enemy. That might be an eureka moment.
+Even just navigating around a level.
+This is an example from super mario bros 3. It's level 6-5, which is it's one of the hardest levels in the game for young children.
+Because the thing you have to do is the level actually loops on itself.
+When you finish the level you go through a pipe and you just come back to the start.
+And what you actually have to do is get the leaf item which allows you to fly and fly up to this part at the top of the cave carrying a shell with you and throw that shell to sort of defeat these enemies and break the bricks to get out this pipe, which is the secret exit but you actually have to exit through this pipe in order to win the level, right? 
+So finding that secret, learning what you have to do uh and and also executing that you know,  flying while holding a shell which is sort of non-trivial if you're not that adept at the controls of the game.
+That whole sequence is sort of a eureka moment of discovering what it is that you need to do to win that level.
+And a lot of level design where the question is not what you have to do, but how right? 
+That can often be a eureka moment.
+
+Lesson number two is puzzles are isomorphic to humor
+And I attribute this quote to Marcel Danesi who is a professor of semiotics and linguistic anthropology at university of toronto, but he wrote this book called the puzzle instinct where he talks about how the human brain is sort of wired to solve puzzles.
+And eureka moments have an interesting psychology.
+They're obviously a source of positive affects. People enjoy this feeling.
+They're highly dopaminergic which means they Up-regulate memory formation and they sort of buffer your norepinephrine, which means they reduce your stress and increase your persistence.
+Like the time when a person is least likely to want to quit playing your game is right after they've had a huge eureka moment.
+So they're sort of impulse to continue pursuing whatever it was they were pursuing is greatly increased after a powerful eureka moment.
+And so these psychological factors are all identical to humor, right?
+So you can think of a good joke as also being a eureka moment. 
+It's sort of a discovery where your brain lights up you've just figured it out.
+And so all of the things that the sort of the tricks that game designers use to extend playtime in their games like oh let's put in some exciting music, let's add a joke.
+You know all of these sort of little blasts of dopamine that cause players to keep pressing through.
+Eureka moments are another ingredient in that tool set.
+They can be seen as things that, once players have that discovery, will make them want to continue pressing forward.
+
+Lesson number three is maximize the amount of sparkle 
+And sparkle i think of as the amplitude of eureka.
+This is a term that's very popular in crossword communities and i think that's where it originated.
+But I am now using this term everywhere. Whenever i see a puzzle i talk about how much sparkle it has, which really just means like how good is the eureka moment, how deep or memorable or long-lasting or how dense is the puzzle in eureka moments overall.
+And so crosswords the eureka moment the sort of sparkle in them comes from a couple of things.
+One is the answers themselves being lively and the other is the clues being clever or interesting.
+This is literally just a random crossword the the day i was putting these slides together i went on the new york times and i took the most recent crossword which was a saturday from june the 12th and i just pulled it in here.
+And let's find all of sort of the interesting things in this run one crossword.
+So first of all the actual word choice you know these aren't just random words from the dictionary. 
+Some of them are actually phrases like "said i do" or "he's dead jim"  right from star trek.
+"play dirty", "easing out".
+You know they're not necessarily uncommon things but they're not just dictionary words like they're kind of cool exciting words, you know. "impress me",  "I'm amazed um"
+"Said i do" is in here right next to bride, right? 
+There's sort of this this little playfulness going on with the the choice of words in this crossword. 
+There's also just kind of interesting nouns or interesting ideas.
+Some of these have cultural relevance like robyn fenty is rihanna's real name. 
+Boston pops, brave heart. You know like movies or things that people enjoy as part of pop culture they can often just make the crossword more lively.
+But also the clues, so here's a word "pressbox" and i'm going to show you in a second what the clue was that had this as the answer.
+The clue was "it covers the field" and you might have to think about that for a second, like it covers the field that sort of hints at like the grass or the turf.
+But no it's actually the press are covering the field as in they are reporting on the game.
+The press box is the place where the reporters are that are covering the game and therefore covering the field.
+So it's a pun or it's sort of a double entendre or it's a bit of misdirection where you think covering means one thing and it actually means something else.
+So when you finally get this answer and it might not be that you solve it. 
+It might be that you get all of the other words that are crossing over it and then realize the answer is "pressbox" and then you go "wait press box?"
+And then that light bulb goes off and you realize oh i get it cover means that.
+And advanced crossword solvers they know to look for these puns and clues, especially when they're solving a saturday puzzle which is sort of the more difficult clueing of of the week. 
+It's the difficulty goes up from monday to saturday so if you're on a saturday puzzle you know the author is kind of messing with you, right?
+I'll show you one other example which is this word and this word has been in the new york times crossword hundreds of times but this particular time it was clued as follows:
+"They might go for a few bucks."
+And that one might take a while, but once you you realize this is the word "does" not the word does. It's does as in female deer which might go for a few bucks as in male deer.
+When you read they might go for a few bucks you might just think some cheap item.
+But no it's it's completely unrelated to that and so this sort of word play or pun or double entendre or double meaning in this case of the word bucks creates playfulness and liveliness in the crossword which makes it more exciting.
+I will give you one more example that's quite a bit different.
+This is the word "ace" and again been in the been in the new york times crossword hundreds of times. But it was clued this time as "asexual, informally" which is sort of interesting.
+I will click this link and i'll show you there's this site called crossword info and you can go through and this is just the new york times crossword you can see every time the word ace was used and how it was clued.
+And let me just zoom in a bit.
+You know so that was june 12th that was clued as "asexuality".
+But before you know a thing in poker a whiz, a king beater, aka ace beats a king. 
+Point of no return like in tennis so there's there's some puns in here. 
+But this is the first time ever that ace was clued with anything to do with asexuality in sort of 900 results.
+uh and so that's interesting but you might also think like... uh what's going on here...where did my uh okay... fortunately that worked when i gave the actual gdc talk i'm not sure why it's messing up here. Anyways um so
+This is interesting for a number of reasons, right?
+One is the word ace is sort of slang to refer to asexuality is has existed for decades, but it sort of hasn't entered the vocabulary of sort of common folks until more recently, right? 
+So sometimes a word being in a crossword can kind of, it can show that slang has made its way into the popular vernacular and be a sign that okay now this is a word that you're expected to know or you're expected to use, right?
+It can also give representation to an underrepresented population.
+I think there's no coincidence that this was saved for pride month this particular clue.
+And you know some people might think oh that's too political. 
+It doesn't pass the sunday morning breakfast test.
+I don't want to read about sexuality in my crossword but there's other people for whom this is like really important to them, right?
+This could make their day and be a thing that makes this a very memorable crossword for them, right?
+So whenever you have the opportunity to do that, you should consider well is this going to be something even if it's only for a small portion of your solvers that will will delight them, right? 
+And this is an opportunity to do that.
+
+So lesson number four is sort of the opposite of have lots of sparkle. 
+It's avoid the chaff.
+And in the case of crosswords the chaff you know is this filler stuff that nobody ever likes in their crosswords.
+Like you see these words in the crosswords all the time, if you solve them all. You know it's the boring part.
+It's often called crosswordese.
+There is no sparkle in seeing this you know.
+When you see some river in italy, you know it's that one four-letter word and you just put it in , right? 
+You don't even think about it anymore.
+Incidentally this particular puzzle was an mit mystery hunt puzzle where they had an image instead of a clue for each one of these words.
+And you had to sort of diagramlessly fill the thing.
+And when you realized that these were all images of crosswordese style clues, it was that in it of itself was kind of a funny eureka moment.
+So this was actually a good mit mystery hunt puzzle but the the joke of it being you know just crossword ease words is kind of a funny in-joke among puzzle folks.
+Those aren't the only types of bad crossword clues.
+There's some other types.
+"Green paint" When somebody says that's a "green paint" clue, they mean it's a meaningless word combination like green paint.
+If you see the word "green paint" in a crossword then like why are those two words stuck together like you could stick any two words there and as a compound it's not really more meaningful than the sum of its parts.
+You'll also often see what are called "strained entries" meaning things that are barely words like "re-waters". 
+Is that really a word? 
+"not moody" I mean yeah okay, maybe somebody uses those terms but like are you just putting that in your crossword because you needed to sort of make the words fit.
+They're not necessarily interesting clues.
+A "Natick" is when you have two un-guessable names crossing each other and this is uh well. There's a long story behind what a natick is and why it's called a natick.
+But it's from Rex Parker's crossword blog where one time he he literally finished the entire crossword except for one letter.
+And it was the first letter in natick was missing and the horizontal word there was like the name of some actress that he had never heard of.
+So he just like didn't know what that one letter was and so this there's this rule and crossword that you you should never have two unguessable names that are crossing one another and sharing a letter.
+Here's another one which is "ALDI".
+ALDI is a grocery store chain. It's a german style grocery store chain, very popular in the US.
+There's thousands of them.
+The only thing wrong with this clue is that well it's a popular grocery store chain in the eastern half of the United States and around LA. 
+But if you are elsewhere, you may have never heard of aldi and so if somebody clues this in the crossword.
+And you know, the new york times crossword is supposed to be a crossword for all of the united states.
+So they may not put this word in because it wouldn't be fair to people who don't live in an area where this grocery store exists, right? 
+So making sure that the word vocabulary is accessible to everybody is important.
+
+Next, surprise is a key source of sparkle.
+And well, the sort of lesson here comes from Sam Lloyd who is one of the most famous puzzle creators ever.
+If you've ever seen this sort of square rearranging trick that is due to Sam Lloyd.
+Also, if you've ever seen these trick donkeys where you have to place the driver such that he's you know, both drivers are riding both donkeys and there's a clever arrangement of it that changes the way the donkeys look.
+That's also a sam lloyd puzzle but I want to give you another one of sam lloyd's puzzle which is a chess puzzle.
+This is a white to move and checkmate black in three moves puzzle.
+The sort of white to move in mate and three is what's called a stipulation in chess puzzles.
+It means sort of here's the constraint under which you have to solve this thing.
+And let me pop this out.
+So you might try a couple of things like you know, you can capture this rook and put the king in check and in fact you can checkmate black doing that, but you cannot do it in three moves.
+It will take longer.
+The move that you end up having to do is just moving your king up the board.
+And if you're a chess player that might seem like kind of a strange move like you're allowing black to queen here with double check checking you with both the brook and the queen at the same time.
+It seems like this would be the last possible move that would enable you to checkmate black.
+And in fact if you capture the queen, you cannot checkmate black in three moves.
+The thing you have to do is move away from the queen and now you only have one move left the next move white has to deliver checkmate and it seems like black should be able to stop this in so many ways.
+Like you can check the king.
+But actually white can block the check and deliver checkmate at the same time.
+And that's true even if you check the king here.
+White can capture the queen and then checkmate black at the same time.
+And in this puzzle in this position right here, there are no less than 10 ways that black can put white in check and for every single one of them white has a response or a counter that simultaneously checkmates black, which is amazing.
+It's mind-blowing. It's one of the greatest chess puzzles that has ever been created.
+And when sam lloyd created this puzzle, he sort of remarked that this was the most implausible move imagined or imaginable.
+And why is my uh it's gonna be one of those days um okay well yeah 
+And this was actually entered in a tournament of chess puzzles and it won first place.
+And sam lloyd sort of remarked that his goal was to compose a puzzle where if you showed this to a thousand grand masters.
+The correct move would be different than to what 999 of them would propose.
+And in fact, more recently with chess end game databases where there's you know a giant table that contains every single position with eight or fewer pieces and you know whether white wins black wins or nobody wins and how many moves it takes to win.
+People have been mining those databases for situations in which you have to do something crazy to win.
+Like you know promote two pawns to both a knight and a bishop and nothing else works， right？
+Like people have been trying to find these situations in which the most absurd thing happens and why?
+The answer is because this sort of surprise this sort of unique discovery is what creates the eureka moment and makes it very very sparkly.
+It's like this is totally implausible and it yet it happened.you know.
+You're showing something interesting.
+
+The next lesson is sort of interesting truths are the root of surprise, right?
+the thing that makes that chess puzzle interesting is that like that move is the winning move, right?
+That being a truth that is shared to you through the puzzle is what makes the puzzle have that sparkle.
+I will show you one other chess puzzle example.
+And that is this one which is a smothered mate theme.
+The correct move here i mean it looks like white's in trouble.
+He's down the exchange but there's an easy way to win.
+And it's to move the queen up here and black cannot recapture it because there's a bishop guarding the queen.
+But black can recapture it with a rook, after which white can then move the knight here checkmating the king trapped by its own pieces.
+And this theme is called the smothered mate and it actually occurs quite often in real chess games.
+And sort of the fact that this smothered mate is possible is itself an interesting truth.
+And the sort of value of this puzzle is its ability to convey that truth to the solver by setting it initially as a challenge but then sort of the solver realizing "oh okay" 
+There's this cool thing that happens when you win.
+You might ask why is the smothered mate interesting and we can come up with a list of reasons.
+One it's a it's a very tough position. Like normally you would be losing in this position as white and so the fact that there's a way to win is somehow a turnaround or a surprise.
+Black is in fact one move away from winning in this final position.
+Like black can take the queen here and capture down on F2 and then mate white in the corner.
+Or black can back-rank mate white in two.
+Like black has two mates in two here, but yet white was able to win.
+It also involves a queen sacrifice which is always exciting always interesting.
+There's this sort of dramatic irony of the pieces that are protecting the king somehow being the downfall.
+Like if only that pawn wasn't there, the king would just be able to escape this check and it would be nothing and black would be crushing here.
+But the fact that black is lost is due to its own pieces which is somehow a dramatic irony.
+And finally there's this lone knight delivering checkmate.
+Often in chess you're delivering checkmate with two or three powerful pieces, right?
+But here it's just a knight.
+You'll almost never see a knight giving checkmate on its own.
+And somehow these are all things that make it surprising.
+And fundamentally they're all unexpected things.
+And the fact that these are unexpected is what makes the puzzle exciting or have this sparkle or this value.
+There is a sort of neuroscience reason for this.
+And it's really that more unexpected things are actually genuinely more dopaminergic.
+And i'm sure you've all seen the classical rat in cage operant conditioning experiments, the skinner box from the 1950s.
+I want to tell you about one more recent variation from more like one decade ago.
+And in this variation you have a rat in a cage and there's two levers.
+And one of them gives the rat food 70 of the time and the other gives the rat the food 30 of the time.
+And through pressing these levers the rat learns "okay there's a good lever and a bad lever"
+It learns to press the good one.
+But then behind the scenes the people running the experiment switch the probabilities.
+And the rat will at some point realize that his good lever has gone bad and will try the other one.
+And once the rat realizes that other lever the bad lever is now good, the rat will have this dopamine spike, right?
+And they're measuring this by putting sort of these probes inside certain parts of the brain and actually literally measuring the dopamine concentration.
+And they'll see that it's actually spiking.
+Not necessarily just when the rat gets food but when the rat learns or discovers that the probability has switched and that the the bad lever is now good.
+And so that's not the experiment.
+The experiment is what happens if instead of doing 30-70, you do 90-10 and then switch it to 10-90.
+Will you still get the same dopamine spike and the answer is you actually get a bigger spike.
+And they sort of showed a correlation between the size of the spike and the amount of surprise.
+And essentially the bigger the surprise, the bigger the spike.
+The more unexpected something is, the larger this dopamine spike is.
+And remember that you know dopamine isn't just about reward or feeling good or pleasure.
+It's about memory and habituation and incentive and persistence.
+You know to sort of seek more of the same and to remember the discovery you just had.
+And the human brain and in fact all mammalian brains, they sort of evolved to find novel and unexpected things interesting and to remember them strongly and to seek more knowledge upon discovering that knowledge, right?
+The the dopamine reward system evolved a billion years ago in sort of primitive worms and sea creatures to motivate like feeding and mating and that sort of thing.
+But in humans and other mammals it's been hijacked to give this additional purpose by evolution and that's to incentivize you to seek and remember novel and surprising things.
+Your ancestors out competed their distant cousins because they were more motivated to seek novel and unexpected discoveries and were better at forming strong memories around those experiences which were crucial to their survival.
+And so as puzzle designers, what we're really doing is we're exploiting this natural human puzzle instinct to find pleasure in interesting and novel discoveries, whether that's you know making fire for the first time or making a stone tool or speedy thing goes in speedy thing comes out.
+And often when sort of novice game designers are making puzzles, they have this approach which revolves around youknow, create a puzzle using some game elements, make it not too hard and then the player will eventually win and feel smart.
+Is there something wrong with this approach?
+And well it there's nothing wrong per se, but there's often a bit of confusion here which i will sum up in the next lesson,
+
+which is eureka is not fiero um fiero is this
+
+italian word that means the emotion of
+
+overcoming a tough challenge and i've
+
+heard now a lot of game designers are
+
+using this word
+
+uh for sort of that feeling when you're
+
+playing an action game and you finally
+
+vanquished a
+
+really difficult boss you know or you're
+
+a speedrunner and you just got a world
+
+record or you've
+
+you've killed a really hard boss in dark
+
+souls or devil may cry or beaten a
+
+really tough fight in doom
+
+eternal on ultra nightmare mode um you
+
+know the the japanese have this word
+
+yata that they yell when they've
+
+they've done something really difficult
+
+uh
+
+and if you're comparing eureka to fiero
+
+i think of them as two sort of
+
+completely orthogonal ways
+
+of delivering pleasure and here i can
+
+put them even on an axis
+
+right like dark souls is a very fiero
+
+dense game
+
+and there are some brutally difficult
+
+puzzle games that also sometimes the
+
+the pleasure is mostly just the reward
+
+of having solved something really really
+
+hard
+
+but then there are games like portal
+
+where the speedy thing goes in speedy
+
+thing comes out is not necessarily hard
+
+like you don't necessarily feel rewarded
+
+because you did a hard thing or you
+
+overcame a difficult challenge
+
+the pleasure is through the discovery
+
+for the most part
+
+um you know and and so this method where
+
+you create a puzzle and make it
+
+challenging and hope the player feels
+
+good or or feels
+
+satisfied when they've solved it i think
+
+of this as the fiero
+
+approach to puzzle design uh it's it's
+
+an approach motivated by valuing
+
+overcoming the challenge
+
+rather than learning the deep
+
+interesting thing or making that
+
+interesting discovery that has the
+
+eureka moment and has the sparkle
+
+um both of these elements are there in
+
+various places
+
+uh but one thing to understand is that
+
+you don't even have to be the person
+
+that solved the puzzle to get the eureka
+
+moment right you could be sitting in a
+
+classroom and getting a yuri come on you
+
+could have somebody
+
+show you a puzzle and show you how it
+
+works and you still get the full value
+
+of the eureka moment
+
+whereas the fiero is when you yourself
+
+are presented with a challenge and
+
+nobody spoils you on it and you solve it
+
+yourself
+
+um and people who care a lot about
+
+spoilers
+
+they're caring about preserving the
+
+fiero they're caring about preserving
+
+uh the ability for a player to make the
+
+discovery on their own
+
+which heightens the experience by in
+
+addition to giving you the eureka of oh
+
+this is so
+
+interesting giving you the fiero of and
+
+i figured it out
+
+right it's those two things together
+
+that are are combining
+
+uh synergistically i would say um so
+
+is the fiero approach bad well one thing
+
+i would say
+
+is that any challenge can confer fiero
+
+like action games
+
+even just going through something really
+
+grindy and or annoying sometimes just
+
+being done with it can feel good
+
+uh but puzzles have eureka as sort of
+
+their
+
+unique selling point their unique
+
+feature um
+
+so the question is always ask people as
+
+well why are you making puzzles
+
+um because like many game designers use
+
+puzzles for what i call sort of the
+
+wrong
+
+reason or maybe an underwhelming reason
+
+which is just to sort of increase play
+
+time or to give you a break between the
+
+action moments
+
+sometimes literally just to insert an
+
+obstacle so that the reward afterwards
+
+feels better
+
+or so that you feel relief when it's
+
+over and you know if you're just putting
+
+puzzles in your game to pat out the play
+
+time or to act as downtime or whatever
+
+like that's fine it's your game you can
+
+do what you want
+
+uh but eureka moments are sort of the
+
+soul of puzzles the unique superpower of
+
+puzzles so if your puzzles don't have
+
+interesting eureka moments then
+
+as a creator of art or as a creator of
+
+some
+
+creation that you're hoping players will
+
+enjoy you're failing
+
+to live up to the aesthetic potential of
+
+puzzles as a medium
+
+if puzzles are really prominent part of
+
+your game
+
+then i think you sort of owe it to your
+
+game to apply the same level of
+
+aesthetic scrutiny
+
+to the puzzle design in the eureka
+
+moments that you would to you know your
+
+visual art your story your combat your
+
+character movement the things that game
+
+designers traditionally care a lot about
+
+um
+
+but you should care about the eureka
+
+moments of your puzzles as much
+
+and if you're just inserting them there
+
+to sort of fill a gap
+
+then you might not be doing that and i i
+
+feel that a lot of
+
+games that have little puzzle mini games
+
+in there
+
+you know you know the ones that i'm
+
+talking about they're doing this um
+
+i'll give you a a quote from jonathan
+
+blow he says it's not a good idea just
+
+to try to be trying to make the
+
+player feel smart you want to
+
+communicate to them an actual substance
+
+of something
+
+john is the guy who designed braid and
+
+the witness and he's
+
+spoken at length about his approach to
+
+puzzle design in various interviews
+
+um and i think he sort of shares this
+
+notion that the the aesthetic of making
+
+a good puzzle isn't just
+
+about making a challenge that makes the
+
+player feel satisfied it's about
+
+having something deeper as a part of
+
+that puzzle that the player can uncover
+
+and then
+
+you know communicating that truth to
+
+them through the puzzle where whether
+
+it's a truth about discrete math or
+
+or something that may have nothing to do
+
+with the universe of the
+
+story of your game uh it's it's more
+
+just the puzzle is a representation of a
+
+deep and interesting
+
+mathematical idea or logical idea that
+
+you can then learn through trying to
+
+solve that puzzle
+
+i will give one more example these are
+
+two puzzles the left one
+
+is a puzzle by john conway called the
+
+shipper's dilemma and in it you have to
+
+fit all of these blocks into a five by
+
+five by five zone
+
+and they are uh i think you get six two
+
+by four by ones
+
+six two by two by threes and then five
+
+uh one by one by ones to sort of fill
+
+the remaining
+
+voids and this puzzle is a ten out of
+
+ten
+
+fascinating deeply interesting puzzle
+
+that
+
+once you solve it the configuration of
+
+the solution there's essentially only
+
+one solution
+
+up to trivial symmetries and that
+
+solution
+
+has a very unique way of covering the
+
+space inside of this cube
+
+and you can do all kinds of mathematical
+
+analysis to reason about why that must
+
+be the one solution
+
+and if you just try and plonk them in
+
+there randomly you won't solve it you
+
+need to think
+
+deeply about covering up the space
+
+inside that
+
+cube in order to solve it but it's it's
+
+not necessarily that difficult it's just
+
+you have to apply
+
+a bit of a mental strength to get there
+
+um
+
+but this puzzle contains so much
+
+interesting truth like you can learn
+
+about reasons why that solution is the
+
+only solution
+
+that have sort of a deep combinatorial
+
+significance to them like
+
+uh things involving tiling the colors of
+
+the inside of the cube you can sort of
+
+look at
+
+oh what about these exact 27 squares in
+
+the cube how do we cover just
+
+those and you can see sort of sub
+
+problems of covering the whole cube that
+
+reveal insight about what the solution
+
+has to be
+
+meanwhile the thing on the right is you
+
+have this
+
+zed pentomino and you have 25 of them
+
+and you just have to fill the whole cube
+
+with them
+
+and somebody wrote a computer program
+
+and discovered yeah there's four
+
+solutions
+
+and there's not really any solving
+
+method or any insight this is literally
+
+just sort of a time wasting toy where
+
+you're playing around with these blocks
+
+and trying to fit them in and you will
+
+just try random stuff and eventually
+
+you'll get it but you won't have any
+
+knowledge of why that worked or how
+
+you were able to set it up so that it
+
+did that um
+
+you know it's still a fun puzzle that
+
+will amuse people but it doesn't reveal
+
+any truth about the universe there's
+
+nothing
+
+interesting about the solution to this
+
+puzzle it's just
+
+putting blocks in a box um and i think
+
+one of the things that john blow said in
+
+the same interview was that uh
+
+the beauty in puzzles sort of the amount
+
+of beauty is is correlated to how much
+
+truth they reveal
+
+right or how much uh information about
+
+the universe
+
+can be shared with the solver because of
+
+that puzzle and this left puzzle is is
+
+very dense in truth and beauty and this
+
+right one is
+
+to me it's just a time waster like uh
+
+and there are many many puzzles like
+
+this
+
+that there's not actually an interesting
+
+solution method or an interesting trick
+
+it's it's literally just play around
+
+with the thing until it's done
+
+um and so to me if i'm looking at the
+
+aesthetic values of puzzles as
+
+a medium this one on the left the conway
+
+shipper's dilemma is
+
+at the absolute peak and the one on the
+
+right is just
+
+bland um and it's sometimes hard to tell
+
+the difference it's sometimes not easy
+
+to you know there's no place where
+
+puzzles are ranked necessarily according
+
+to how
+
+truthfulness how much truth they have
+
+right like um it's something that you
+
+know real
+
+nerdy puzzle folks know and will give
+
+you recommendations about
+
+um but it's it's i think the sort of
+
+general vernacular about when people
+
+talk about puzzles they like they don't
+
+even have the words to describe this
+
+right the the fact that this puzzle is
+
+better than this one in a way that is
+
+deep and meaningful
+
+is hard for some people to understand or
+
+describe um
+
+but the way i explain it is just how
+
+much truth is there in this puzzle
+
+um and so you know this is this is
+
+basically a meme but if your goal is
+
+creating great puzzles
+
+then focus on communicating those
+
+interesting truths to the solver rather
+
+than just
+
+making the solver feel smart or feel
+
+satisfied that they completed a
+
+challenge
+
+that all said different solvers do seek
+
+vastly different solving experiences
+
+like
+
+the most popular sudoku books are
+
+actually these just like giant book of a
+
+thousand puzzles
+
+um some people refer to this as computer
+
+generated crap
+
+uh but uh honestly there are people
+
+who've done this for hundreds of hours
+
+and they like it
+
+uh it's because they're seeking a
+
+certain solver experiences some solvers
+
+just want that sort of low dose low
+
+difficulty
+
+uh repetition of the eureka moments they
+
+already know they just want to be
+
+reminded of it and they want to flow
+
+through the puzzles
+
+gradually and feel the accomplishment of
+
+uh
+
+just making progress and solving and
+
+completing all the puzzles in the book
+
+rather than having this sort of you know
+
+high-dose uh roller coaster of
+
+interesting eureka moments that might be
+
+more difficult or might present more
+
+challenge um there are other puzzles
+
+that have
+
+these different aesthetics like the
+
+chinese rings puzzle actually requires
+
+341 steps to solve
+
+um it's it's basically 1024 divided by
+
+three
+
+is how many steps it is uh and uh
+
+the process of going through and solving
+
+it is actually a very deep and
+
+meditative one where you you kind of
+
+have to remember where you are
+
+and you have to like it's sort of like
+
+counting in binary
+
+um and it's it's less about the eureka
+
+moment i mean there is a deep eureka
+
+moment when you're discovering that this
+
+is actually what you have to do
+
+but the process of solving it is more a
+
+process a meditative and slow process of
+
+methodically going through the motions
+
+uh and there are puzzle designers that
+
+have taken this to the extreme this is a
+
+puzzle called the 205 minutes cube
+
+by alexander leontev and it's called the
+
+205 minutes cube because if you're
+
+making one step per second that's how
+
+long it takes you
+
+uh and the way it works is it has all
+
+these little uh
+
+blocks inside with pegs and you kind of
+
+have to like push and pull them out and
+
+you end up counting
+
+up to 3 times 2 to the 12 in binary
+
+in the process of solving this puzzle so
+
+it's quite a grind
+
+but some people really like this this is
+
+an expensive puzzle that people will pay
+
+money for because
+
+they want the experience of just like
+
+solving this thing that takes them a few
+
+hours
+
+uh there are also like logic puzzles
+
+that are the size of a newspaper and
+
+these aren't necessarily
+
+puzzles with sort of unique and
+
+interesting structure that all merges to
+
+one final
+
+climactic ending no it's you can start
+
+anywhere on the grid and just slowly go
+
+through it
+
+but some people like this because they
+
+just want that slow meditative
+
+experience of solving a puzzle and they
+
+want the
+
+excitement at the end of having done
+
+this big project right so
+
+people solve puzzles for different
+
+reasons we try not to judge them
+
+but like understand the sort of
+
+aesthetic goal of what you're creating
+
+and who you're creating it for that's a
+
+part of creating any
+
+any creation in any medium right um so
+
+next lesson is eureka is
+
+shareable uh so this right here is chris
+
+ramsey he runs
+
+the most popular puzzle youtube channel
+
+on youtube where
+
+he's often solving these very
+
+interesting uh sort of trick locks and
+
+contraptions and
+
+things you have to get inside things
+
+that have multiple steps they're they're
+
+often called sequential
+
+discovery puzzles and uh you know here's
+
+an example this puzzle he literally has
+
+to use a
+
+phone that's been wrapped up in this
+
+sort of wooden thing to make it look all
+
+ancient
+
+and there's some ar thing going on where
+
+he has to play a melody with a little
+
+mallet in order to
+
+sort of satisfy the the constraint of
+
+the phone which will then
+
+open up the next part of this puzzle
+
+it's it's wondrous to watch this
+
+uh but the sort of lesson that comes
+
+through these sql
+
+sequential discovery puzzles and every
+
+one of these videos by the way has more
+
+than a million views on youtube right
+
+like they're quite popular
+
+the lesson is that eureka can be fully
+
+experienced by an audience like
+
+all of the excitement of learning and
+
+discovering the things that you learn
+
+and discover solving these puzzles
+
+uh can be seen by the audience and these
+
+videos like some people would regard
+
+them as
+
+spoiler videos for everything right
+
+but the sort of aspect of learning the
+
+truth cannot be
+
+spoiled that moment is the same moment
+
+whether or not
+
+you know you discovered it for yourself
+
+or not it's the fiero that you're
+
+spoiling
+
+and these puzzles are often puzzles that
+
+the audience you know they may never buy
+
+and solve for themselves right there's
+
+so many puzzles out there that you'll
+
+never actually do all of them
+
+so the experience of watching somebody
+
+else do them can be a way of getting the
+
+eureka moments without necessarily
+
+enduring the hours of trying to solve
+
+them yourselves and some people prefer
+
+that experience right like if you can
+
+just spend 20 minutes and get all of the
+
+eureka out of a puzzle
+
+rather than spending three hours trying
+
+to solve it yourself and encountering a
+
+lot of roadblocks and getting stuck but
+
+then ultimately overcoming it
+
+i mean those are two completely
+
+different experiences but in terms of
+
+the value they deliver for time they
+
+offer different things
+
+right so some people may just prefer to
+
+watch somebody solve these puzzles and
+
+learn about them
+
+the next lesson uh also relating to
+
+sequential discovery puzzles is to
+
+create
+
+many eureka moments and this is a puzzle
+
+called the lotus box by will streibos
+
+and it has so many tricks packed into
+
+this little puzzle this thing has
+
+magnets it has hidden compartments it
+
+has a spin move
+
+it has a thing that is secretly two
+
+pieces but looks like it's one piece and
+
+you have to like hold one bit to the
+
+side to kind of provide a little bit of
+
+friction so that you can then pull it
+
+apart
+
+um it has all kinds of stuff buried
+
+inside this one little box i counted
+
+eight separate eureka moments in the
+
+solution of this thing
+
+uh and it's wonderful and that's why
+
+people are willing to sort of
+
+like these things are hard to find you
+
+gotta buy them online and order them
+
+um escape rooms are similar uh if you've
+
+never done an escape room i would
+
+highly encourage you to do them uh you
+
+know if you're in a post-pandemic world
+
+and they're open again
+
+uh you know do five of them honestly
+
+like take your whole team to do them if
+
+you're working on a gamedev team in a
+
+puzzle-heavy game
+
+uh they tend to have about 10 to 15
+
+puzzles in one hour
+
+they're very intense they're high dose
+
+experiences not just because of the time
+
+pressure but also just because of the
+
+sheer amount of content
+
+they're often extremely dopaminergic
+
+highly memorable
+
+so they can be kind of addictive there
+
+are people that you know oh i've done
+
+400 escape rooms right
+
+they literally have their tally and you
+
+know their their credo amongst
+
+themselves is never think about the
+
+total amount you've spent on them
+
+um but escape rooms were a two billion
+
+dollar year
+
+industry in the us alone in 2019 and
+
+that was sort of the biggest
+
+they were still growing in fact before
+
+the pandemic hit and
+
+who knows whether they will come back to
+
+that extent afterwards
+
+um but i highly recommend them and i
+
+have had
+
+wonderful fascinating experiences i have
+
+done escape rooms where i've had to
+
+crawl around on my hands and knees and
+
+sniff things
+
+in order to solve a puzzle related to
+
+sniffing and it was a
+
+a puzzle themed after being a cat
+
+escape rooms take you in in wonderful
+
+places and
+
+i think as a game designer you can learn
+
+a lot from what they've done now the
+
+interesting thing about escape rooms is
+
+that many of the people who are working
+
+on these
+
+they didn't start in puzzle design they
+
+may have started in
+
+in like theater set design or maybe they
+
+were designing haunted houses or they
+
+were working on the tech
+
+for you know uh making stuff pop out at
+
+you at a haunted house right
+
+and they've applied that to creating
+
+this escape room
+
+but yeah escape rooms are great i'm
+
+going to pause the recording now i will
+
+start part 2 in just a sec
+
