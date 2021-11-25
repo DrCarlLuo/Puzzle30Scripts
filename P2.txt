@@ -1,0 +1,4600 @@
+hi welcome back to part two of this my
+
+extended director's cut
+
+of my gdc talk on 30 puzzle design
+
+lessons from
+
+classic uh puzzle communities and how
+
+those lessons can be applied to the
+
+creation of video game puzzles
+
+the 11th lesson is create a rewarding
+
+ending
+
+and the quintessential example of this
+
+is the puzzle picross aka nanograms
+
+which
+
+uh the the picross games have been
+
+published by nintendo since the 90s and
+
+i think the first nanograms
+
+published in the late 80s in various
+
+japanese puzzle magazines there's an
+
+interesting story about the
+
+the origin of them they were created by
+
+two different authors
+
+seemingly simultaneously um but alas one
+
+of the exciting things about nanograms
+
+is at the end you sort of get this
+
+picture
+
+and there's always this question like
+
+what is the picture gonna be
+
+anticipation for uh sort of that
+
+exciting moment where the the picture or
+
+the identity of the picture what is it
+
+oh it's a
+
+rubber duck it's a lion is finally
+
+revealed
+
+another example is this puzzle spiral
+
+galaxies
+
+which it doesn't have an ending surprise
+
+step at the end
+
+but a variant of it does and i will show
+
+you the classic first so this is the
+
+classic spiral galaxies the goal is to
+
+partition the grid
+
+into these regions each of which
+
+contains exactly one dot
+
+and the shape of the region is
+
+rotationally symmetric 180 degrees
+
+around that dot it's a very interesting
+
+puzzle there's a lot of
+
+uh fascinating logic that goes into
+
+solving them uh
+
+but another uh similar type of puzzle
+
+which is printed by nikoli under the
+
+name tentaisho which
+
+is a hilarious pun if you know japanese
+
+taisho means
+
+symmetry and 10 means symmetry about a
+
+point
+
+but tentai also means sort of a heavenly
+
+body like a galaxy so this is a
+
+show of heavenly bodies uh excellent pun
+
+anyways digression uh this was first
+
+published in nicolly magazine in 2001
+
+by an author who goes by gesaku and it's
+
+essentially a spiral galaxy's puzzle
+
+where some of the dots are dark colored
+
+and if you shade the dark colored dots
+
+you get a shape uh and here's a more
+
+sophisticated example quite a large
+
+instance when you solve it you get this
+
+and the shape is that
+
+of an astronaut uh quite an interesting
+
+uh composition that's been put together
+
+and you might ask well
+
+is the puzzle boring because of this
+
+does this sort of compromise the flow of
+
+the puzzle because you're having to make
+
+all of these
+
+regions fit together in exactly this way
+
+and the answer is mostly not like if you
+
+look over to the left side of this
+
+puzzle you can kind of see there's
+
+really elaborate snaking and winding
+
+regions going all over the place and
+
+those are quite
+
+interesting to solve and to sort of
+
+figure out the logic of how that must be
+
+shaped
+
+however putting those in sort of
+
+requires large amounts of
+
+just one color of region and that can
+
+sort of
+
+force the design if you wanted to make a
+
+qr code
+
+into this then probably most of the
+
+puzzle would be relatively uninteresting
+
+to solve
+
+it relies or depends heavily on uh
+
+the shape being a certain way here's an
+
+example that kind of illustrates that
+
+this is
+
+uh you know i'm just putting this
+
+together to show off it's gdc 2021
+
+but this is actually made using a uh a
+
+text generator by eric and martin domain
+
+and it shows you know you can do
+
+whatever you want with these ten thai
+
+show puzzles but like
+
+you know this is the two and it's just a
+
+diagonal set of one by one things it's
+
+it's not particularly interesting or
+
+solve or fun to solve
+
+um another example of putting a surprise
+
+at the end of the puzzle
+
+are the extraction steps that occur in
+
+puzzle hunts like the mit mystery hunt
+
+where every single puzzle has a solution
+
+that is a word or a phrase and often
+
+those are used in metapuzzles or other
+
+things
+
+here's a tintai show puzzle whose answer
+
+is actually a five letter word
+
+and if you solve it you get this and
+
+maybe you can guess what the five letter
+
+word answer is of course it is
+
+clubs uh this is by paul curtis from his
+
+blog
+
+etological enigma which uh has a lot of
+
+interesting puzzles that have a word or
+
+phrase
+
+as an answer the extraction steps uh
+
+have a couple of values they provide
+
+this additional final eureka moment
+
+which can be especially exciting if
+
+you're anticipating it or there's a
+
+little bit of a surprise at the end
+
+they also exploit the peak end rule
+
+which means uh well
+
+the the things that people tend to
+
+remember the most are are sort of the
+
+the peak or the most salient part of an
+
+experience as well as the ending or the
+
+last thing
+
+and so if the last part of an experience
+
+is somehow exciting or memorable then
+
+overall
+
+the experience will be viewed more
+
+positively
+
+and so that's true of puzzles like these
+
+it also can create setups for meta
+
+puzzles where
+
+words like clubs can be used as
+
+ingredients
+
+in another puzzle and many uh puzzle
+
+hunts like mit mystery hunter set up
+
+with these meta puzzles that are sort of
+
+like boss puzzles where
+
+there might be 12 other puzzles you need
+
+to solve and then you take those 12
+
+words and you use them to solve this
+
+final puzzle and maybe only eight to ten
+
+of those twelve are actually needed
+
+so uh it can create a sort of
+
+progression gate
+
+where you don't necessarily need to
+
+solve everything but you need to solve
+
+most of it
+
+um and that can be very useful for uh
+
+pacing and structuring a puzzle hunt
+
+uh lesson number 12 is to embed secrets
+
+and surprises
+
+and this is sort of another way of
+
+cramming more eureka moments into the
+
+same puzzle
+
+i'll show you one example from cryptic
+
+crosswords uh these things are called
+
+neenahs and they are sort of little
+
+easter eggs
+
+hidden in a puzzle in this puzzle if you
+
+read the words going around the outside
+
+or the letters it will say monty
+
+python's flying circus
+
+sort of going sequentially around the
+
+border of the puzzle
+
+and this is known as a nina uh the name
+
+nina comes from al hirschfeld who's a
+
+uh he was a comic author in the us
+
+and nino is the name of his daughter and
+
+here you can see the word nina is
+
+actually hidden in the hair of this
+
+character
+
+three separate times you can see the
+
+n-i-n-a
+
+and he signs his name with a little
+
+three next to it indicating that there
+
+are three nina's hidden in this one
+
+particular comic
+
+and he did this throughout his career
+
+after his daughter was born
+
+and so nina's are essentially the
+
+untracked secrets or easter eggs of uk
+
+crosswords and one feature of them
+
+that's very notable is that they are
+
+missable you could go through this
+
+entire crossword solve the whole thing
+
+think you were done and not even realize
+
+there was something there
+
+uh is this a problem or is it a feature
+
+uh well i mean one issue with it being
+
+missable is sort of that eureka moment
+
+is just not going to be experienced by
+
+the whole audience of this puzzle but on
+
+the other hand the fact that the secret
+
+is missable somehow makes it more
+
+valuable it creates
+
+uh this feeling whenever you're solving
+
+one of
+
+these this author's puzzles let's say
+
+that there might just always be
+
+something lurking around the corner
+
+and when you do find it it's more of a
+
+surprise and as we learned earlier that
+
+the sort of more surprising or
+
+unexpected something is the more
+
+exciting it is the more dopaminergic it
+
+is the the more sparkle
+
+is there so the fact that the secrets
+
+are miscible
+
+provides uh sort of additional
+
+excitement when you do find it
+
+um another thing that missable secrets
+
+can do
+
+especially in video games is they can
+
+provide a reason to sort of go back to
+
+an old game
+
+uh like if i go back to a game like
+
+chrono trigger which is an rpg from the
+
+90s
+
+uh there are things you can discover in
+
+that game that you didn't discover when
+
+you played it the first time whether
+
+it's a line of dialogue or it's a sort
+
+of a hidden
+
+item that you just never knew was there
+
+there are so many things and so much
+
+depth in a good rpg that you can play it
+
+multiple times
+
+and i think some puzzle games like the
+
+witness are starting to incorporate more
+
+and more of this
+
+into their games as well which is great
+
+um lesson number 13 aporia is a promise
+
+of surprise
+
+aporia is a statement when you're
+
+solving a puzzle
+
+where you as a solver believe that the
+
+puzzle is impossible you may even feel
+
+like you have a proof that it's
+
+impossible
+
+i need to do this but there's a catch i
+
+just can't
+
+what's the trick um this may also be
+
+called a known unknown where
+
+you as a solver know that there is
+
+something that you don't know
+
+you think that ah well i mean this this
+
+puzzle is in this game or this person
+
+has
+
+you know built and shipped this puzzle
+
+to me which i have in my hands it must
+
+have a solution and yet
+
+i convinced myself that i i believe it
+
+has no solution
+
+uh an example a simple example is with
+
+this puzzle here
+
+uh that i created uh i'll show you how
+
+it works
+
+uh let's switch to the full cam um
+
+this object right here we'll call the
+
+cage and there are two other parts which
+
+i will call a and b
+
+here's a it's sort of got the l-shaped
+
+tetris piece connected to the s-shape
+
+and this is b b sort of has this
+
+three-way junction up near the top
+
+and the goal is to sort of put a and b
+
+into the cage
+
+and well let's let's just slide a in you
+
+can kind of put it in like that
+
+and that's the only place it goes it's
+
+very easy to see that and then you try
+
+and put b
+
+in and it just like it won't fit there's
+
+not enough room to slide it in
+
+uh you could try putting it in from the
+
+bottom it there's no room to put it in
+
+there either
+
+okay well maybe you don't put a in first
+
+maybe you have to put b
+
+in first and uh you can try that you
+
+know here's
+
+here's b in i'll just slide it down
+
+there
+
+uh but then you have to put a and you
+
+can kind of see where it goes
+
+right like it's kind of kind of wrap
+
+around there and slide in there but you
+
+just
+
+you can't slide it in there's no way to
+
+make it work
+
+so it's not a before b and it's not b
+
+before a well then it must be impossible
+
+right
+
+but no actually the solution is you take
+
+b and you put it in kind of halfway
+
+and you stick it up there and then you
+
+can kind of just put a in half way and
+
+slide it in the back
+
+and then b comes down
+
+and
+
+there we go and then it's solved uh so
+
+you know the trick is you have to put a
+
+in halfway
+
+um back to the presentation
+
+uh so i mean and this isn't a difficult
+
+puzzle this might be a level one or a
+
+level two puzzle it's not particularly
+
+challenging but it illustrates the point
+
+of
+
+the obvious things lead to a
+
+non-solution to the puzzle and you might
+
+even be convinced like well then this
+
+puzzle's impossible you can't put a in
+
+first you can't put b in first so
+
+clearly it's a possible well okay but
+
+there was something
+
+that you didn't notice the state of
+
+aporia this state of feeling like the
+
+puzzle is impossible or simultaneously
+
+believing both
+
+that well i think it's impossible but
+
+yet the puzzle is in front of me and a
+
+solution has been promised
+
+um it creates this uh idea that an
+
+interesting
+
+trick exists it sort of promises you
+
+that a powerful eureka moment is coming
+
+and primes you for the discovery of
+
+something really cool
+
+and that mystery and anticipation is
+
+really motivating
+
+like there's a big reveal coming and you
+
+can now anticipate it and the sort of
+
+state of anticipating a reward or
+
+anticipating a eureka moment
+
+is it can be more motivating and more
+
+dopaminergic than actually getting the
+
+reward
+
+um and so this state of aporia is highly
+
+motivating and
+
+when a player is convinced that they're
+
+just on the cusp of a really cool
+
+discovery
+
+that could be a time where they're very
+
+unlikely to quit and very likely to
+
+remember and uh you know want to share
+
+that discovery once they found it
+
+and be very excited by it so aporia is a
+
+great trick
+
+i will show you an example this is from
+
+a game called pipe push paradise by
+
+corey martin a few years back
+
+this is a puzzle where you sort of have
+
+to push these pipes around and in this
+
+puzzle
+
+in particular on the left here you have
+
+this pipe with water flowing out and you
+
+have to connect it to the one on the
+
+right
+
+and you might realize well okay so you
+
+just have to make this u shape with
+
+these two pieces you can sort of flip
+
+and rotate the pieces around
+
+the problem is that when you get to this
+
+state you can't leave the puzzle
+
+and you have to both connect the pipes
+
+up and have a way of exiting in this
+
+case the exit is at the bottom but you
+
+just can't get down there
+
+and uh you know once you've played with
+
+this puzzle a bit you can realize that
+
+there's no way to be
+
+at the puzzle at the bottom of this
+
+puzzle while also having the pipes in
+
+this configuration there's just no last
+
+move that could have created this
+
+configuration and leave you at the
+
+bottom
+
+you could never have pushed those pipes
+
+up into that configuration because
+
+there wouldn't have been a place for you
+
+to stand um
+
+and one of the things that you'll
+
+observe if you're playing around with
+
+this puzzle enough is that you can
+
+actually rotate the pipes
+
+into a different configuration where
+
+they're out in three dimensions this is
+
+a three-dimensional puzzle solving game
+
+where
+
+the rotations sometimes take things up
+
+off of the floor
+
+and this prompts you to find the real
+
+solution which is actually to make the
+
+archway
+
+in the third dimension such that you can
+
+walk under it and leave the puzzle
+
+and this is a very memorable solution
+
+but the thing that sort of primes you
+
+for this surprise is
+
+going back to your first attempt at the
+
+solution and realizing this ain't gonna
+
+work
+
+and perhaps even being so puzzled by it
+
+that you might leave the puzzle go try
+
+something else and then come back once
+
+you've realized that
+
+well all the other puzzles had solutions
+
+this one must have one but what am i not
+
+thinking of and that final surprise is
+
+just so memorable
+
+both because it's an exciting surprise
+
+but also because
+
+of the fact that you couldn't solve it
+
+any other means
+
+now in order to make this work you have
+
+to do this which is uh
+
+our 14th lesson cultivate the trust of
+
+the solver
+
+and one example of where this comes up
+
+is say you're on the puzzle subreddit or
+
+the puzzling stack exchange and you just
+
+click on a random interesting puzzle
+
+and it looks cool but you play around
+
+with it a bit and it looks impossible
+
+and maybe you've even convinced yourself
+
+that it must be impossible you have a
+
+proof that it's impossible
+
+maybe there's a really cool eureka
+
+moment lurking beneath the service the
+
+surface that you just didn't discover
+
+yet
+
+but on the other hand maybe just there's
+
+a rule missing there's a piece
+
+missing maybe the person who made this
+
+puzzle screwed up or maybe the puzzle
+
+uh the poster of the puzzle screwed up
+
+and just forgot to include
+
+something maybe it's intended to be
+
+impossible maybe it's you know one of
+
+these famous
+
+koenigsberg bridge style puzzles that
+
+literally has no solution and
+
+discovering why
+
+is is sort of the interesting part of it
+
+and i've literally seen all of the above
+
+on these websites
+
+uh but if it's from a source that i
+
+trust or it has a lot of
+
+upvotes then maybe it's worth pursuing
+
+anyway you know but
+
+uh the ability for me to trust that this
+
+puzzle is actually something interesting
+
+is often limited if it's just you know a
+
+random post on a random website from
+
+somebody i don't know and i'm
+
+i might give up on it before i i
+
+actually push
+
+forward and find that interesting eureka
+
+moment
+
+this happens a lot in video games
+
+especially action adventure games in
+
+metroidvania
+
+let's say you you see an interesting
+
+puzzle you know there's this heart piece
+
+being teased over here in the corner in
+
+zelda
+
+uh can i get it right now maybe i'm
+
+missing an item maybe i have to come
+
+back once i find the hook shot or the
+
+glider or whatever maybe there's an
+
+ability i don't have
+
+maybe the world itself will change maybe
+
+you know in act three they'll be moving
+
+platforms and mushroom sprouting here
+
+that i could jump on
+
+maybe when i become adult link instead
+
+of child link i'll be able to jump that
+
+far maybe the game has a bug
+
+this has happened to me so many times
+
+where i play an indie puzzle game the
+
+first week it comes out and it just
+
+hasn't had a patch yet
+
+and there's some kind of issue with one
+
+of the puzzles
+
+where i you know i just can't solve it
+
+and the problem with that is
+
+once that happens to you once you no
+
+longer have
+
+any trust in the the rest of the game
+
+like every time you get stuck on a
+
+puzzle you might just think well what if
+
+the game's bugged again
+
+right uh it puts you in a state where
+
+you're no longer sort of following that
+
+drip feed of like oh i'm just on the
+
+cusp of something exciting i just need
+
+to push forward a little bit
+
+instead there's this sort of unhealthy
+
+skepticism that robs you of that
+
+motivating force to continue going in
+
+this case for this zelda puzzle it turns
+
+out you can get it at this stage of the
+
+game you just have to go grab a chicken
+
+and you have to carry the chicken up
+
+quite a ways but then you can sort of
+
+use it to sail over there because when
+
+you're holding the chicken you fall much
+
+less slowly and so it in fact does have
+
+a solution but that may not be obvious
+
+to you until much later in the game
+
+uh a way of dealing with this that
+
+superland used
+
+was to actually have npcs that tell you
+
+you have everything you need to solve
+
+this puzzle
+
+go for it uh and this happens at
+
+multiple times in the game in some cases
+
+you'll even
+
+reach an area where you can no longer go
+
+back like you have to fall
+
+off something and it locks you in a room
+
+with an npc says you
+
+says you could solve this puzzle right
+
+now and then you just have to do it
+
+and superland is a metroidvania where
+
+you're constantly getting new items that
+
+add new abilities or affordances to the
+
+player and so you might often come to a
+
+puzzle that you can't solve and say well
+
+maybe i just have to come back once i
+
+get an item
+
+and so if that were the case for every
+
+puzzle in the game then the
+
+for the puzzles that gate your
+
+progression you know the player might
+
+just turn around and go do something
+
+else
+
+and so something like this is in fact
+
+necessary to sort of tell the player no
+
+no you need to push forward on this one
+
+puzzle
+
+even though it's hard you can do it um
+
+and superland was a very highly reviewed
+
+game it was 96
+
+positive on steam it was one of my
+
+favorite puzzle games of this whole year
+
+um but you know many people might think
+
+this is breaking the fourth wall it's a
+
+little bit distasteful there's some kind
+
+of dissonance going on here between the
+
+character and the player and what's
+
+what's happening and david munich is a
+
+very experienced puzzle creator he was
+
+the the creator of the original not
+
+prawn which was
+
+the most famous internet riddle of sort
+
+of the the flash internet era back in
+
+the early to
+
+mid 2000s and so
+
+he's been creating puzzles for a long
+
+time and understands very well the
+
+experience that a solver goes through
+
+when they're solving a puzzle and he
+
+felt it was necessary to do this because
+
+he wanted to preserve the sanctity of
+
+the player's trust that the puzzle
+
+itself is solvable
+
+while also making a metroidvania where
+
+you're getting new items all the time
+
+that do new things
+
+so an interesting solution to the
+
+problem
+
+a related idea is that of square dealing
+
+which uh
+
+it's a term that i've seen in in
+
+crossword communities and other puzzle
+
+communities but it basically refers to
+
+the
+
+conventions that the constructors of
+
+puzzles are abiding by
+
+to play fair um and you'll see many of
+
+these conventions for example in puzzle
+
+hunts
+
+they will never have anagrams without a
+
+clue and the reason is because when
+
+you're doing a puzzle hunt puzzle these
+
+are typically puzzles where the rules
+
+are not provided
+
+and you have to figure out what it is
+
+that you need to do you might literally
+
+try anagraming everything you could dump
+
+every word in this puzzle the title of
+
+every puzzle whatever into anagram
+
+generators and just come up with nothing
+
+or come up with something that's maybe
+
+tenuously there but turns out to be
+
+nothing
+
+and that experience as a solver is not a
+
+pleasant experience so to
+
+you know save the solver from having to
+
+do that the uh
+
+the authors of puzzle hunt puzzles will
+
+just tell you right up front there are
+
+no
+
+uncled anagrams in this puzzle hunt and
+
+that will be part of the rules that are
+
+communicated to the player
+
+um cryptic crosswords have a similar
+
+convention where they don't do indirect
+
+anagrams which is basically like
+
+uh you know if there's an anagram it has
+
+to be clued by a trigger word and it
+
+can't be
+
+mixed with another type of hint escape
+
+rooms have some conventions like one key
+
+one lock if you get a four-digit code
+
+you're never gonna have to put it in
+
+multiple different
+
+four-digit combination locks because
+
+again that would just be irritating are
+
+you do you want the player to have to
+
+retry everything over and over again no
+
+so one key one lock is sort of a
+
+convention that saves the sanity of some
+
+players
+
+now whether or not this is advertised or
+
+told to the players before they begin
+
+it's
+
+you know it's kind of 50 50 it depends
+
+on which escape room you're doing
+
+uh no outside knowledge is another
+
+common convention
+
+but it's it's sort of like if you're a
+
+solver of cryptics you probably realize
+
+this no indirect anagrams rule
+
+even if it's just subconsciously because
+
+you just never see it right you just
+
+realize that oh well they wouldn't print
+
+that
+
+i don't have to do that but beginners
+
+may not understand this and may never
+
+even really
+
+have learned it unless somebody taught
+
+them so beginners can spend a lot of
+
+time on
+
+cryptics just trying stuff that is never
+
+possibly necessary because they don't
+
+understand the conventions of the genre
+
+right so square dealing is important but
+
+in video games especially it's also
+
+important to communicate those rules to
+
+the player
+
+because every puzzle game you play will
+
+have different rules about how the
+
+puzzles are designed and what's allowed
+
+and what's not
+
+and sometimes it's not that explicit
+
+some games actually tell the player and
+
+this is a game called it'll do which is
+
+sort of a zelda-like
+
+and after you exit the first dungeon it
+
+literally tells you there's no
+
+missable items or chests in dungeons at
+
+all
+
+and not every zelda-like has these types
+
+of conventions and in classic zelda's
+
+usually the convention is there's no
+
+need to return to dungeons later
+
+meaning that every item that you could
+
+get in a dungeon is one that you could
+
+get with sort of the the key or
+
+progression items from that dungeon
+
+and earlier or and the prerequisites
+
+although that's not true in every zelda
+
+and it's not true
+
+in uh every dungeon of every zelda
+
+so um having that type of square dealing
+
+is useful and communicating it to the
+
+player can really help build that
+
+trusting relationship
+
+that allows the player to sort of press
+
+on when they're stuck on a puzzle
+
+the sort of contra positive to that is
+
+avoid cheap tricks
+
+i'm going to pick on the talos principle
+
+when it released
+
+it had a puzzle where well this isn't
+
+one of the main puzzles in the game it's
+
+actually one of the
+
+bonus puzzles that you have to get stars
+
+for but one of the stars and it's very
+
+early on in the game it's in the the
+
+first uh first major area of the fourth
+
+world of that
+
+uh there is a hidden reflector up in a
+
+tree that you have to aim a laser at
+
+and uh up until this point in the game
+
+all the reflectors are just items on the
+
+ground you can pick them up and move
+
+them this one is stationary and it's in
+
+a tree and in no other part of the game
+
+do you ever have to look up in the tree
+
+for anything
+
+and there are so many other things that
+
+you can try to solve this puzzle that
+
+almost barely work
+
+i literally wasted i don't know more
+
+than an hour trying to get this thing
+
+and then to learn that the answer was
+
+well it was in a tree
+
+uh that was kind of upsetting
+
+but also it made me distrust the
+
+developer because for every other puzzle
+
+in that game instead of pressing on when
+
+i was stuck i just had this thought well
+
+what if it's some more like
+
+that
+
+reflector in the tree um it turns out
+
+that
+
+after the game launched they actually
+
+patched it and they changed that
+
+reflector in the tree to a
+
+reflector on a very prominent salient
+
+pillar that you could see from all
+
+directions
+
+uh that made it clear that there was a
+
+reflector up there and then it became a
+
+mystery of
+
+what's that reflector on the pillar for
+
+turns out one of the secret bonus stars
+
+and this is sort of a much more honest
+
+way of of designing this puzzle and it
+
+prevents
+
+that player's mind from being poisoned
+
+by well am i going to have to look in a
+
+tree
+
+forever i'm going to
+
+uh quote my good friend weihua who said
+
+a good puzzle has an aha moment a bad
+
+puzzle has an
+
+oh really moment um hue has a four-time
+
+world puzzle champion and he's
+
+he's been published uh everywhere he's
+
+done crosswords for new york times he's
+
+done world puzzle championship stuff
+
+he's
+
+a game designer as well and done
+
+physical puzzles uh
+
+this guy is one of the most experienced
+
+puzzle creators i know
+
+and for him you know this oh really
+
+moment this discovery of like
+
+it was that all along is uh
+
+a very negative experience when you're
+
+expecting or hoping
+
+instead for an exciting eureka um
+
+bob bates refers to that as poisoning of
+
+the well bob bates designed a lot of uh
+
+adventure games point-and-click games
+
+for infocom and legend entertainment
+
+in the late 80s and 90s and bob actually
+
+gave a gdc talk where he sort of
+
+emphasized that a good understanding of
+
+puzzle design theory was necessary to
+
+avoid
+
+this pitfall of creating a state in
+
+players where
+
+there's sort of this unhealthy
+
+skepticism that the designers aren't
+
+playing fair
+
+uh and here you know here's just a
+
+general list of things to avoid
+
+um anything that requires you to do lots
+
+of searching without a clue
+
+darkness is a big one if there are dark
+
+corners of your game and literally the
+
+player has to walk into every one of
+
+them or even
+
+walk into every one of them and jump in
+
+order to find that hidden nook where you
+
+might have hidden something
+
+that's that can be irritating wall
+
+pressing if if the player has to touch
+
+every wall shoot every wall
+
+press the action box on every wall um if
+
+there are invisible platforms the player
+
+can't see them and they just have to
+
+jump randomly to see where there might
+
+be an invisible platform
+
+those types of experiences can be very
+
+draining for players because
+
+uh instead of feeling like they're on
+
+the right track they're feeling like
+
+they're just sort of laboriously
+
+searching the entire possible game for
+
+the thing you might have hidden if they
+
+want to sort of complete the puzzles
+
+so you never want to do this and the
+
+other thing that can happen is like
+
+say you had a clue which illustrated oh
+
+well you're going to have to jump in the
+
+dark
+
+maybe the player didn't see that clue
+
+and they just happened to wander that
+
+way and find it
+
+the problem is if the player comes out
+
+and realized well there was no clue i
+
+guess i have to check every dark zone
+
+anywhere
+
+um that is sort of an equal well
+
+poisoning
+
+right so you not just have to make sure
+
+you put the clue you have to make sure
+
+that the player can't get there without
+
+the clue you have to make sure the clue
+
+is somehow
+
+sort of obvious or at least the you know
+
+maybe when the players coming back out
+
+they will then see the clue you know a
+
+way to avoid that
+
+you don't want to have puzzles that
+
+suddenly increase tenuousness
+
+like force the player to do something
+
+they never had to do force the player to
+
+look outside the game when they never
+
+had to look outside the game
+
+uh you know some kind of new trick or
+
+method that is suddenly used or required
+
+especially if it's a one-off if you only
+
+have to use it once well will the player
+
+now be paranoid that they have to use it
+
+again will they try it on every other
+
+puzzle in the rest of the game
+
+you want to make sure that you don't
+
+have that situation
+
+inconsistency in general if the rules
+
+are changing
+
+then players will never know whether
+
+they can expect
+
+their understanding of the game their
+
+conceptual model for how the game
+
+systems work to be correct if they're
+
+questioning the conceptual model
+
+then they're not in a good space to do
+
+problem solving right you want players
+
+to feel that they rock solid
+
+understand the game's rules the game's
+
+logic and are then solving things
+
+rather than questioning that at least if
+
+you're making a game that's about
+
+logic or about understanding rules there
+
+are some games that are just not about
+
+that and that's okay
+
+there are some games that are just about
+
+rule discovery but that brings us to
+
+point number 15 which is be careful with
+
+in
+
+transparencies and in transparency of a
+
+puzzle is any aspect that is not
+
+explained to the solver a hidden rule a
+
+hidden goal
+
+maybe a hidden affordance meaning a
+
+hidden thing that the player can do
+
+or a hidden interaction or hidden
+
+consequence of a certain interaction
+
+in transparencies can also come in the
+
+form of the inability to perceive or
+
+interpret
+
+the state of the puzzle essentially if
+
+you're familiar with the the quote
+
+unquote seven stages of action
+
+uh which uh i think uh don norman was
+
+the one who who initially uh made that a
+
+popular idea
+
+any one of those seven stages of action
+
+can have a failure
+
+where where due to in transparency the
+
+person trying to perform an action just
+
+doesn't understand something
+
+right um i will show you an example this
+
+is a puzzle
+
+i have it right here it's called the
+
+remove octahedron
+
+and this puzzle is a puzzle that you
+
+your goal is to try and disassemble
+
+it uh and sort of get into it and you
+
+can kind of like move
+
+one of the parts around but you know
+
+most of them
+
+don't really move and if you listen
+
+carefully
+
+you can hear that there's something
+
+going on in the inside of it but you
+
+can't see what it is
+
+right so this is an example of an in
+
+transparency in a puzzle
+
+um another example would be
+
+instructionless puzzles
+
+um this puzzle on the left is uh from a
+
+round of the german
+
+national puzzle championship which is
+
+how they select their team for world
+
+puzzle championships
+
+and they had an instructionless round
+
+and how it works is
+
+you're given an empty sort of input
+
+puzzle and then you're given its
+
+solution
+
+and your goal is to work out what is the
+
+rule where this input could lead to this
+
+solution and
+
+it's unique there is no other solution
+
+to this puzzle
+
+and sometimes that uniqueness is an
+
+important part of discovering what the
+
+rules are
+
+and then of course they'll give you an
+
+actual contest puzzle that you have to
+
+solve and
+
+all of this including both discovering
+
+the instructions and solving the puzzle
+
+you're doing under time pressure in this
+
+case the rule is that
+
+the number tells you of its four
+
+cardinal neighbors in the north south
+
+east west direction
+
+how many of them are different or how
+
+many different numbers are represented
+
+there
+
+so a one uh you know this one has two
+
+threes next to it it only has one
+
+unique neighbor whereas this four has
+
+all four of one two three four as its
+
+neighbors
+
+another example is this game understand
+
+which is a steam game where they give
+
+you a bunch of symbols on the grid and
+
+you have to
+
+figure out the rules the witness also
+
+has
+
+this instructionlessness as a part of
+
+sort of the early phase of the game when
+
+you're learning what the rules are
+
+rather than the later phase of the game
+
+where you're solving puzzles using those
+
+known rules
+
+uh mystery hunt puzzles are basically
+
+all
+
+instruction lists they tend to give you
+
+some input and then find something to
+
+solve this is one from this year's
+
+mystery hunt where the
+
+input was a picture of a bunch of
+
+diagrams
+
+of what look like sound devices or
+
+digital synthesizers and you get a bunch
+
+of these and then you also get these
+
+like
+
+random strings of letters some of which
+
+are red colored
+
+and it turns out that you have to
+
+download this software that sort of
+
+allows you to put together eurorack
+
+style modular synths
+
+and put them together this way and they
+
+would all make
+
+synth noises from popular songs uh you
+
+know like
+
+a synth from lady gaga or from
+
+eurythmics or from whatever
+
+and then these things on the right
+
+corresponded to the melodies that you
+
+had to play and then you had to put the
+
+melodies together and
+
+get a secret message from that and then
+
+there was a whole second part to it
+
+um but the point is that the rules are
+
+not given at all
+
+and figuring out the rules figuring out
+
+what you have to do and getting that aha
+
+moment of oh these are songs i have to
+
+play them that is part of the magic of
+
+mit mystery hunt
+
+is discovering what it is that you have
+
+to do and in transparencies can be a
+
+huge amount of fun
+
+but there are many caveats they can
+
+cause solvers to become stuck and
+
+i've heard this called enigma syndrome
+
+or a few other things where you
+
+literally just don't know what to do
+
+because you failed to put two and two
+
+together
+
+and that tends to be an unfun kind of
+
+stuck for many puzzles because you don't
+
+necessarily have different approaches or
+
+different things to try there isn't
+
+really a recourse for you if you just
+
+can't
+
+figure out what you need to do if you're
+
+making a linear story based game where
+
+the puzzles have to come in sequence
+
+then getting stuck means blocking
+
+progression in the game which literally
+
+means the player cannot play anymore
+
+unless they either look up the solution
+
+or
+
+or cheat or they just have to quit and
+
+come back tomorrow
+
+and some players you know they really
+
+don't want to look up the solution right
+
+but if they're gonna be uh you know very
+
+devout about that
+
+then they just can't play the game
+
+anymore right they literally may just
+
+stop there and never play beyond that
+
+um you can see with the completion
+
+statistics of many puzzle games on steam
+
+especially
+
+if they have achievements you can see
+
+well oh everybody quit after this
+
+achievement because there was a really
+
+hard puzzle there that got stuck
+
+on the other hand if you're making a
+
+linear game and you want to avoid that
+
+you may end up
+
+taking every puzzle that is remotely
+
+difficult and kind of standing off the
+
+difficulty or adding hints and those may
+
+make it a less
+
+pleasurable experience for some other
+
+players that really want the challenge
+
+right so you're
+
+you're having to balance all of these
+
+goals together if you make a linear game
+
+another common complaint is that these
+
+in transparencies can feel like an iq
+
+test it feels like oh i just have to
+
+figure out what the pattern is and some
+
+players don't want that to be their
+
+puzzle solving experience
+
+the resolution of the in transparency is
+
+also a one-time reveal you can't make a
+
+hundred puzzles that are based on one in
+
+transparency you have to have a hundred
+
+different in transparencies and so it
+
+could be hard to come up with that
+
+they're also easily spoiled especially
+
+if somebody is playing on live streaming
+
+service like twitch
+
+one person in the chat can just tell
+
+them the answer and then it's all over
+
+so in transparencies are often not that
+
+great and and the reverse can also be
+
+bad if the streamer
+
+knows what's going on or knows the
+
+answer but the audience doesn't then
+
+they'll just have to constantly explain
+
+the rules to them which can make the
+
+streaming experience a bit worse
+
+a very common example is the hidden
+
+affordance which is where you have some
+
+kind of affordance or thing you can do
+
+that is not tutorial to you or not told
+
+to you and this is an example from the
+
+wind waker you get this grappling hook
+
+and it sort of tells you how to use it
+
+and you can swing on things
+
+um but there is another thing you can do
+
+with that and that is when you are
+
+swinging you can also stop swinging and
+
+climb the rope
+
+and when i was playing this game i never
+
+even knew you could do this
+
+and the method to do it is actually a
+
+little bit counter-intuitive you have to
+
+hold the button
+
+that in the top right the the z-r button
+
+here which basically stops you from
+
+swinging
+
+and then while holding that you have to
+
+press up to climb the rope
+
+um and normally when you press up you
+
+press like up and down to swing back and
+
+forward and time your swings to move
+
+forward so there's
+
+there's a second movement assigned to
+
+the same button
+
+uh and you have to climb up to the top
+
+of this rope and now it's only required
+
+in a couple areas of the game to get a
+
+couple of secrets but you know i want
+
+100 the dungeon i want to find all the
+
+secrets so
+
+uh it was really annoying to me that
+
+this was never explained and then i just
+
+had to figure it out uh and it's
+
+counterintuitive
+
+and they also this this was a port of
+
+the game uh an hd port of the game
+
+from the original gamecube to the wii u
+
+and so they had to change the controls
+
+so they may have not tested it enough
+
+they may have not done their focus
+
+testing to discover that this was a
+
+stuck point or they might have just left
+
+it in because it was only for a couple
+
+of puzzles anyway
+
+um but for some players this is very
+
+frustrating and it could really make you
+
+distrust the developers and normally you
+
+don't see stuff like this in zelda
+
+because it's quite well tested
+
+but in this one case it was really you
+
+know there are people online who raged
+
+about this quite a bit
+
+one of the ways you can avoid that is
+
+tip number 16 which is to facilitate
+
+experimentation um and i will show the
+
+remove octahedron again as a way of
+
+illustrating this basically like
+
+it's clear that there's something
+
+rattling around on the inside of it and
+
+it's clear that if you kind of try to
+
+push it this way
+
+you can push it a little but it gets
+
+stuck and
+
+you can listen and you can discover that
+
+okay there's some balls on the inside or
+
+something moving around
+
+and if you move it very slowly and
+
+listen you can even try and hear what is
+
+the shape of the cavity inside
+
+this puzzle how many balls are there are
+
+they in the same cavity or are they not
+
+and you can learn all of these things
+
+just by experimenting and slowly moving
+
+the thing around in information
+
+so the in transparency of what's in the
+
+middle can be made transparent by your
+
+own
+
+interaction with the puzzle um you know
+
+and and you will in fact discover in
+
+this puzzle that there are two balls
+
+inside
+
+they are in the same chamber and that
+
+chamber has the shape of an s
+
+tetris piece and you have to get the
+
+balls at the two opposite sides of it
+
+because
+
+the thing you're pushing down goes in
+
+the middle so you kind of have to do a
+
+spin move to get the two balls to the
+
+opposite side to push it down which is
+
+an interesting
+
+eureka moment but one that you can
+
+actually kind of deductively logic
+
+yourself toward
+
+if you experiment with it enough to
+
+discover how it works
+
+a rule of thumb that goes along with
+
+this is avoid
+
+making experimentation frustrating
+
+i remember as a kid playing link to the
+
+past and getting to this boss the
+
+helmesor king
+
+and this boss is really tough he comes
+
+at the end of a long
+
+gauntlet of difficult enemies that you
+
+have to get through and if you die you
+
+have to restart the whole dungeon and do
+
+it all over again
+
+and he is the first boss that you cannot
+
+defeat using the sword alone
+
+every other boss up until that point you
+
+could just use the sword on them but
+
+this guy you have to use the hammer on
+
+him first and
+
+you know it's the usual zelda trope use
+
+the item from that dungeon to
+
+defeat the boss of that dungeon but this
+
+was the first time that that idea was
+
+used in this game
+
+and i remember being so frustrated that
+
+i would get to this boss fight him my
+
+sword would do nothing and i didn't know
+
+what to do and i would just die
+
+because this guy just hit so hard and
+
+you know i would try that a few times
+
+die get frustrated and then
+
+not know what to do because i wasn't
+
+able to easily experiment and figure out
+
+what the boss's weak point was the
+
+experimentation required all of this
+
+effort beforehand
+
+and i remember going to my cousin and
+
+begging him to tell me how to beat this
+
+boss
+
+and he told me hit his mask with the
+
+magic hammer
+
+and i i still as an assault as an adult
+
+remember those exact words that he used
+
+because as a child this was so
+
+pertinent and so salient to me when i'm
+
+like fighting this boss and was
+
+literally blocked by progressing in the
+
+game
+
+because i i didn't know that secret and
+
+certainly that was a huge eureka moment
+
+for me just being told the answer
+
+because it was so important to being
+
+able to progress in this game
+
+but the thing that caused that
+
+frustration was the fact that i couldn't
+
+experiment or at least that
+
+experimentation required so much effort
+
+that i was never able to get there on my
+
+own
+
+another example uh and i love this by
+
+the way is the hearthstone puzzle labs
+
+which was an expansion to the
+
+hearthstone
+
+uh game made i think a year or two ago
+
+um and there are a bunch of these
+
+puzzles that you have to solve using
+
+hearthstone cards and they're very
+
+interesting very exciting i highly
+
+highly recommend this even if you've
+
+never played hearthstone
+
+um but this particular puzzle uh
+
+is a doozy it's called the test and
+
+there is this
+
+unit on the board called the test
+
+subject and it has the property that
+
+whenever it dies
+
+it gives you a copy of every spell
+
+you've ever played on it
+
+and there is also a spell that you have
+
+in this called vivid nightmare that
+
+copies
+
+a minion and when you copy a minion it
+
+kind of also copies the triggers that
+
+are attached to that minion so there's
+
+this very sophisticated interaction of
+
+creating copies of spells via minions
+
+that you've copied
+
+and there are also a bunch of spells
+
+that you have that change the health of
+
+minions and kill them and
+
+and do various things um so the solution
+
+to this puzzle you know you only have 10
+
+cards in your hand but you actually may
+
+end up playing 20 or 30 of them
+
+to actually go through with it and for
+
+each one of the cards you play you have
+
+to sort of watch through its animation
+
+sometimes there's voice lines uh and
+
+the order of operations is very
+
+important and even
+
+learning what the priority of things are
+
+like when a death happens in what order
+
+do the triggers happen that order of
+
+trigger interaction is relevant in this
+
+puzzle
+
+and the first time i solved this puzzle
+
+or actually the first time i put
+
+together a solution that i thought would
+
+solve this puzzle
+
+it turned out that it didn't work due to
+
+some subtlety of the interactions that i
+
+didn't know
+
+and this was immensely frustrating but
+
+was even more frustrating is that
+
+that thing on the right over there is
+
+not an undo button it is a reset button
+
+there is no undo in this puzzle
+
+and when you reset it clears the whole
+
+board it plays an unskippable eight
+
+second
+
+animation there's a voice line that
+
+comes from the the boss on the other
+
+side who makes fun of you
+
+and uh it's just the experience of
+
+experimenting to learn what happens is
+
+made very tedious by the interface
+
+and you know hearthstone isn't a puzzle
+
+game it is it is a game
+
+uh that's very much about sort of the
+
+charming whimsy of the interaction of
+
+these cards in a magical universe and
+
+those voice lines are part of what makes
+
+hearthstone hearthstone
+
+uh but in the context of a puzzle game
+
+it it sort of became
+
+very irritating for me to like actually
+
+interface with the puzzle itself
+
+um so it's something to keep in mind
+
+that if you make experimentation
+
+frustrating and if you make sort of
+
+learning the underlying system of the
+
+puzzle
+
+difficult or frustrating or place
+
+obstacles in front of the player of
+
+doing that
+
+then uh the player may never get to the
+
+heart of the puzzle and may just give up
+
+right they won't be uh you know driven
+
+to continue playing by the exciting
+
+thing around the corner they'll just be
+
+like ugh
+
+i can't be bothered one solution
+
+to avoid making experimentation
+
+necessary at all
+
+is to show the player things that they
+
+would otherwise have to find out don't
+
+put a button on the ground
+
+and make the player stand on it to see
+
+what it does put a line next to the
+
+button and a little indicator on the
+
+wall
+
+that can show the player what the puzzle
+
+is going to do when they step on it this
+
+is something that portal did
+
+you know a decade and a half ago
+
+it'll do does something even more
+
+interesting where when you whenever you
+
+hit a locked door or a locked gate
+
+it will show these little particles that
+
+travel from the locked gate to either
+
+the buttons on the floor or the switches
+
+that you have to hit
+
+in order to activate it uh and this
+
+removes the need for you to
+
+figure out what combination of switches
+
+you need to hit to open this door
+
+and games like draw at deadly rooms of
+
+death also do the same thing
+
+so a related idea is always try to get
+
+the solver on the right path
+
+realizing that you're on the right track
+
+is one of the most dopaminergic things
+
+just in the same way that anticipating
+
+you know a eureka moment being right
+
+around the corner
+
+is is really interesting sort of being
+
+on the right track and being told that
+
+you're on the right track
+
+is is similarly very motivating uh in
+
+american crosswords every letter is
+
+checked meaning that every letter exists
+
+in both the horizontal and vertical word
+
+and when you get that confirmation and
+
+ah yes this is the same letter when i've
+
+solved both of these clues it gives you
+
+this sort of satisfaction that you're
+
+moving forward that you're making
+
+correct progress
+
+many crossword clues they may have
+
+multiple possible answers right
+
+there may be multiple possible words
+
+that are four letters long and satisfy
+
+this clue
+
+but as we've sort of seen in some of the
+
+earlier examples only one of them is
+
+correct and you may not
+
+know which one it is until you get this
+
+confirmer
+
+but the confirmer is sort of a push to
+
+keep going and motivation
+
+to understand that you're on the right
+
+track
+
+um cryptics actually do this within
+
+individual clues
+
+so uh in encrypted crosswords if you
+
+don't know every clue actually contains
+
+both a literal definition
+
+and a sort of pun or cryptic
+
+definition so you might see a seven
+
+letter word for terrain scrambled coach
+
+and you split it down the middle a coach
+
+is a trainer
+
+but the word terrain scrambled i.e
+
+anagrams
+
+is also the word trainer so within every
+
+individual clue
+
+you have a confirmer because you have
+
+two sides of it
+
+that make the answer and sometimes when
+
+you're solving a cryptic you won't
+
+necessarily solve both of them like you
+
+might solve the literal clue and not
+
+solve the other one and sort of check it
+
+by the letter crossings
+
+cryptics have fewer letter crossings
+
+than american crosswords
+
+um but sometimes the
+
+answer kind of reveals what the pun was
+
+and can create this exciting moment of
+
+oh i get it it's terrain scrambled
+
+um you know so it provides additional
+
+sparkle
+
+uh whoops okay we're back
+
+uh let's see um puzzle hunts often also
+
+have confirmers where sometimes
+
+you know you're halfway through a puzzle
+
+and you got somewhere and you you know
+
+you think
+
+maybe is this the answer and then you
+
+type it into the answer box and instead
+
+of saying good job you solve the puzzle
+
+it says keep going and what keep going
+
+means in that context is that that's not
+
+the answer it's another clue
+
+it's something that you can move forward
+
+on in a different direction something
+
+new you have to try
+
+uh but that can also be very motivating
+
+because it means everything you've done
+
+up until now was something that was
+
+intended for you to do
+
+a related question that i often get is
+
+are red herrings bad should you avoid
+
+them
+
+and i mean this is a very complicated
+
+subject there are a lot of different
+
+types of red herrings and whether or not
+
+they're bad is very situational
+
+a dressing is the name for sort of a
+
+needless non-pertinent decoration that's
+
+salient enough that the solver might
+
+accidentally interpret it as pertinent
+
+in chest puzzles for example if you just
+
+add extra pieces that are not relevant
+
+to the solution and don't prevent
+
+any wrong solutions from being relevant
+
+then
+
+those are considered dressings and
+
+they're often frowned upon because they
+
+may distract the solver from what they
+
+actually need to do
+
+same thing in escape rooms like people
+
+often want to decorate the escape room
+
+and make it look nice
+
+but uh you know players may see bars in
+
+a jail and try and you know count them
+
+and put that as a number in some
+
+combination lock right like you gotta
+
+really make sure
+
+that uh your dressings are not
+
+interpreted as
+
+pertinent distractors are affordances
+
+that you never need
+
+um you know there's there's an example
+
+like make 35 cents with 10 coins
+
+and the quarter is not needed therefore
+
+it is a distractor it's an affordance
+
+that you didn't need but it sort of
+
+feels like it should be there right it's
+
+not
+
+it's not a red herring that's going to
+
+confuse you um
+
+you know fake puzzles and ghost puzzles
+
+are things that come up in
+
+escape rooms where you see something
+
+that looks like a puzzle but it turns
+
+out not to be
+
+a ghost puzzle is a puzzle that used to
+
+be in the room and then was removed but
+
+somehow there's some little bit of it
+
+that's left that wasn't cleaned up
+
+you might just see a shadow on the wall
+
+of where something was or you might see
+
+some parts of what used to be a puzzle
+
+but they've been disconnected and are no
+
+longer part of the solution
+
+every escape room fan will tell you that
+
+they've seen these
+
+and they get so mad when that wasn't
+
+taken out of the room because they'll
+
+spend their time which in escape room is
+
+precious you only have an hour to get
+
+out
+
+they'll spend their time trying to
+
+figure out what to do with that thing
+
+and if it turns out oh you didn't have
+
+to do anything it wasn't part of the
+
+puzzle
+
+then that really irritates people it
+
+feels like they've been robbed of their
+
+time
+
+obfuscation and misdirection come in
+
+many forms and can be sometimes
+
+interpreted as red herrings but
+
+sometimes it's more like
+
+uh showing the solver what is a
+
+non-solution so that they can appreciate
+
+the solution more
+
+right there's various ways that
+
+misdirection can actually be good
+
+so you don't want to rule that out as
+
+bad dead end approaches
+
+are any approach that you might try to
+
+solve a puzzle that immediately leads to
+
+a negative confirmer meaning
+
+meaning you try something and then you
+
+learn oh this cannot be the approach
+
+this cannot possibly work
+
+there is a clear dead end to here the
+
+opposite is a rabbit trail
+
+which is an incorrect approach to
+
+solving a puzzle that cannot be proven
+
+not to work
+
+um you know you might be in some block
+
+pushing game and it turns out you have
+
+to do this one thing but you're trying
+
+this other thing
+
+and it seems like you're maybe making
+
+progress and you're trying a few more
+
+things and you know it's just branching
+
+and getting deeper and maybe you're
+
+making progress maybe you're not
+
+but an hour later you're still trying
+
+that one thing and you haven't quite got
+
+to the exit and maybe it's impossible
+
+right but but you don't know you don't
+
+have an obvious proof that's impossible
+
+so you waste an hour trying something
+
+that isn't the intended or correct
+
+solution
+
+rabbit trails are the most demotivating
+
+especially for novices because novices
+
+are not particularly good at guessing
+
+what will work or guessing what the
+
+intended solution method to a puzzle
+
+will be
+
+they may spend a long time and only
+
+change their approach when they've
+
+really just given up and been beaten
+
+down into
+
+thinking well you know i don't want to
+
+try this anymore
+
+to address this like really sealing off
+
+rabbit trails is a good idea if you're
+
+playtesting something and you notice
+
+that players are spending a long time
+
+trying an approach that doesn't work
+
+you should probably either prevent them
+
+from trying it or add a negative
+
+confirmer of some kind you know
+
+go back this isn't the solution not like
+
+this
+
+try something else and to discover those
+
+you
+
+really need to playtest it the the sort
+
+of lesson
+
+expressed in four words is match
+
+pertinence with
+
+salience pertinence meaning things that
+
+are relative to the actual solution of
+
+the puzzle things that are either
+
+clueful
+
+or are affordances that you need or are
+
+interactions that you need to do
+
+and salience meaning how much something
+
+sticks out how
+
+clear is it to the player that this is
+
+important how important looking is
+
+something
+
+things that are important should stick
+
+out things that
+
+stick out should be important you do not
+
+want to have negatives in either
+
+direction you don't necessarily
+
+well you don't want to have important
+
+things that are subtle or at least are
+
+more subtle than everything else in the
+
+environment
+
+and you don't want to have things that
+
+stick out and look like they might be
+
+clueful or might be puzzly that turn out
+
+not to be
+
+and keep in mind that video game players
+
+especially
+
+who are not necessarily experts at
+
+puzzles they may not have the
+
+conventions in
+
+place that allow them to determine what
+
+is clueful
+
+like when you're solving an escape room
+
+and you've done 50 of them
+
+you probably can guess whether or not
+
+something is clueful
+
+if you're doing a mystery hunt puzzle
+
+and you've done hundreds of them and you
+
+see something you can probably guess
+
+whether or not that's supposed to be a
+
+clue or whether it's supposed to be just
+
+you know flavor text flavor art not
+
+relevant
+
+but newer players are not able to make
+
+that distinction
+
+uh especially in video games because
+
+video games have
+
+conventions that change so much from
+
+genre to genre
+
+that it's it's very hard to play for
+
+players to know what they know or know
+
+what they're expected to know or know
+
+what the game designer is expecting them
+
+to
+
+interpret so always try to match
+
+pertinence with salience as much as you
+
+can
+
+next lesson is to seek depth in systems
+
+and rule sets
+
+this is a lesson that comes from
+
+physical puzzle games
+
+uh particularly those published by um
+
+publishers like think fun and smart
+
+games they have this interesting method
+
+of putting together
+
+physical puzzles rather than getting
+
+just you know one puzzle like one of
+
+these that you buy
+
+they have a kit that comes with
+
+different items that you can put
+
+together
+
+and then they'll have a booklet or a set
+
+of cards that contain challenges and
+
+each puzzle will come with say 50 to 100
+
+different challenges of increasing
+
+difficulty
+
+almost in the same kind of progression
+
+that you would see in a traditional
+
+video
+
+game um and so rush hour you're sort of
+
+moving these cars around you have to get
+
+the red car
+
+out of the grid and there's just 50
+
+different configurations of obstacles
+
+for it
+
+um each of which you have to solve and
+
+so
+
+it's a nice experience for somebody
+
+buying these because they're sort of
+
+more content it's not just one puzzle
+
+it also can make manufacturing much
+
+cheaper because you sort of have to
+
+just make the set of parts once and then
+
+make the 50 puzzles
+
+uh the cards are really cheap to make 50
+
+of and you don't have to make 50 copies
+
+of the game board
+
+it also allows the player to have a
+
+conceptual model meaning develop a
+
+sophisticated understanding
+
+of what the pieces are how the work how
+
+they move how they work how they move
+
+around
+
+once you have a eureka moment or a
+
+discovery of an emergent consequence of
+
+that system
+
+you can reuse that knowledge in future
+
+puzzles and puzzles can therefore
+
+build upon one another with increasingly
+
+complicated
+
+sort of lemmas and templates and
+
+theorems that the player can learn as
+
+they're solving this puzzle
+
+and as they develop a more and more
+
+detailed model of what are the
+
+consequences of this system so you get
+
+depth and you also get consistency in
+
+the design
+
+and the emergent surprises can be much
+
+much deeper than just some sort of
+
+one-off on the surface trick
+
+you know something something like the
+
+remove octahedra and that's sort of one
+
+trick that you can use one time
+
+but in systems-based puzzles you can
+
+have many different tricks that arise
+
+from the same situation
+
+this can make the eureka moment sort of
+
+more exciting because they're more
+
+surprising
+
+because there's more depth behind them
+
+they can also reduce the cost of content
+
+creation
+
+because you know you only have to make
+
+one of these cards and designing a new
+
+instance of a puzzle is
+
+often a lot less difficult than
+
+designing a new rule set or a new
+
+gimmick for a new puzzle completely
+
+i'll give you another example which is
+
+from thomas snyder he's a three-time
+
+world sudoku champion world puzzle
+
+champion
+
+he's the founder of grand master puzzles
+
+which is a company that publishes a
+
+puzzle blog as well as many puzzle
+
+books and puzzle magazines he's also a
+
+mentor to many people on topics relating
+
+to puzzle design he's an advisor on my
+
+latest
+
+project uh he has this idea
+
+which he's described to me as sort of
+
+the capacity of a puzzle or the the
+
+um the sort of space available to
+
+in within a certain puzzle type to
+
+express ideas of that puzzle
+
+and the way he describes it is in two
+
+different ways which are equivalent
+
+how many can you create of this puzzle
+
+type before you start repeating the same
+
+tricks over and over again like say
+
+you're doing sudoku
+
+how many sudoku's can you make before
+
+the solution to the
+
+sudoku's is just going to have no new
+
+ideas and the answer is it's probably
+
+somewhere between 50 and 100 it might be
+
+like 80 sudokus
+
+he also describes it as how many of this
+
+puzzle type he would actually want to do
+
+in his life like say somebody made the
+
+perfect puzzle book
+
+of sudoku puzzles let's say and you know
+
+tried to include
+
+all of the interesting sudoku tricks in
+
+there but not really repeat them much
+
+you know how many puzzles would that
+
+book have in it it's not a thousand
+
+sudoku puzzles it's much less
+
+and different puzzle types have
+
+different capacities
+
+you know a simple two-dimensional maze
+
+you know you can do one of them and then
+
+you sort of learn well okay follow the
+
+right-hand side or whatever
+
+there's not that much to do something
+
+like a portal gun may only really
+
+support
+
+10 different unique eureka moments
+
+sudoku might be more like a hundred
+
+and a game like the witness could be 10
+
+times that just because it has so many
+
+different
+
+uh components that can go into those
+
+puzzle systems different rules different
+
+uh
+
+symbols and constraints within each
+
+puzzle
+
+go problems might be the deepest of them
+
+all i i think there are people who've
+
+solved ten thousand go puzzles or more
+
+and are still finding unique and
+
+interesting ideas
+
+in new puzzles that they haven't seen
+
+before and that's something
+
+a bit unique and remarkable about the
+
+game of go whose rules are very simple
+
+but
+
+somehow there's this unexpected depth
+
+there where you can express
+
+tens of thousands of different ideas
+
+using the sort of basic
+
+uh go rules um
+
+you know you might think are there
+
+really only 10 portal gun puzzles like
+
+portal had more levels than that right
+
+like aren't there more ideas than that
+
+well
+
+i mean i'm talking about just the basic
+
+sort of portal gun and walls there's not
+
+that many things you can do with it like
+
+there's traversal there's some line of
+
+sight shooting tricks you can put a
+
+portal on the ceiling there's the
+
+momentum conservation trick
+
+there's a lot of tricks where you sort
+
+of move one portal but leave another in
+
+order to be able to get back to a place
+
+where you were before
+
+but very quickly you start running out
+
+of ideas to make truly unique
+
+puzzles and then you start to add you
+
+know you need to add new components the
+
+the death pits and the missile turrets
+
+and the companion cubes and the buttons
+
+you can push them on
+
+and then in portal 2 they add the light
+
+bridges and the anti-gravity spirals and
+
+the
+
+the the paint that you can paint on the
+
+walls to make them portable and the
+
+bouncy colored goop that you can speed
+
+off of and bounce on
+
+you know these new components are what's
+
+adding additional capacity to the
+
+puzzles to be able to express
+
+more unique eureka moments but just the
+
+raw ingredients
+
+uh are not really that uh
+
+they can't speak to that many eureka
+
+moments there's just not that much there
+
+and what logic puzzle folks do is they
+
+often create hybrids and variants
+
+these are all sort of variations on
+
+sudoku you can see here there's one
+
+where the regions are not square there's
+
+a hex grid
+
+there's a ish grid or sort of on the
+
+surface of this isometric cube
+
+um and then increasingly complex
+
+variations uh or hybrids as they are
+
+often called where you're blending one
+
+type of puzzle like sudoku with another
+
+type like a domino puzzle
+
+and through hybrids and variations you
+
+can sort of have limitless variety and
+
+endless eureka moments
+
+uh because each of these puzzles sort of
+
+has has its own rules and its own
+
+consequences
+
+and its own emergent complexity or
+
+lemmas that arise from that set of rules
+
+there are some sort of common tropes in
+
+these changing geometry or topology
+
+moving from
+
+you know flat geometry to a cylinder or
+
+a torus moving from a square grid to
+
+triangle or hex or
+
+whatever other grid type you want adding
+
+new constraints and clue types
+
+combining two puzzle types together liar
+
+clues you know exactly one of these
+
+clues is wrong there's a wolf in sheep's
+
+clothing somewhere
+
+cipher clues where you replace numbers
+
+in a grid with a set of letters and each
+
+letter
+
+corresponds to a unique number off by
+
+one or or cannot deny bin as it's often
+
+called
+
+uh where every number in the grid is off
+
+by one you know a three could be either
+
+a two or a four you know these are
+
+common ideas you'll see over and over
+
+again in logic puzzles
+
+and they add a lot of depth and
+
+complexity
+
+sort of new eureka moments um
+
+there's this question like where does
+
+depth come from
+
+in certain types of puzzle systems
+
+somehow go is inherently deep
+
+and it's very difficult to understand
+
+why it is so
+
+deep there is this computational
+
+complexity answer which is like oh you
+
+know a go
+
+go is np-complete or piece-based
+
+complete if you're familiar with
+
+complexity theory
+
+and that sort of represents that go can
+
+sort of encode
+
+other types of puzzles which are
+
+increasingly complex and that may be
+
+true but often
+
+uh the way you represent something very
+
+complex is like
+
+you know building a circuit out of ghost
+
+stones and then like this circuit is
+
+only satisfiable if
+
+you know player white wins in this go
+
+situation
+
+and those can be very contrived what's
+
+unique about go
+
+is that it's complex even with
+
+relatively simple constructions of you
+
+know a little puzzle that takes up one
+
+quarter of a go board or less
+
+um without necessarily a lot of
+
+contrivance right
+
+games like hearthstone have huge amount
+
+of contrivance to their puzzles because
+
+there's thousands of cards in the game
+
+you'll never run out of puzzles to
+
+create because there's just so many
+
+cards there
+
+and some games like the witness or baba
+
+is you they get away with the
+
+interaction between the different rules
+
+and constraints
+
+giving you this emergent complexity you
+
+know you may have uh
+
+n different rules but there are sort of
+
+two to the n different ways that those
+
+can be combined together and so you sort
+
+of
+
+you know there are n squared ways for
+
+example that you can take a pair of
+
+rules and combine them but sometimes
+
+even three or more
+
+will give you unique emergent eurekas
+
+that don't exist with two or less
+
+of the rules combined especially in a
+
+game like baba is you
+
+where sometimes you need five rules put
+
+together and then something magical can
+
+happen
+
+level geometry is another thing that can
+
+give you
+
+really interesting deep emergent
+
+interactions a few examples of this
+
+one is steven's sausage roll which is a
+
+game where you're running around
+
+as this little character with a fork
+
+skewering sausages pushing them around
+
+picking them up and later you know
+
+dragging them up ladders and doing
+
+interesting contortions with with your
+
+body and various other things
+
+which uh um you know i almost don't want
+
+to spoil them because they're magical i
+
+know i've been spoiling a lot of stuff
+
+in this talk
+
+when you're talking about puzzle design
+
+you invariably have to spoil things
+
+um but this is a game that is worth
+
+playing
+
+uh to the end or you know at least
+
+learning all of the things that it does
+
+uh because it's so remarkable like like
+
+there's no
+
+new items you pick up when you're
+
+playing steven saucer
+
+you don't open a chest and get the hook
+
+shot or the power glove you know it's
+
+all
+
+just the base movement of the game two
+
+other games that are similar are pipe
+
+push paradise and a monsters expedition
+
+where you really just have
+
+a sort of a simple move and push type of
+
+mechanic
+
+but a lot of emergent complexity via the
+
+interactions that happen with the
+
+objects you know in pipe push paradise
+
+you can sort of push
+
+pipes down into holes and roll them over
+
+while a piece of them
+
+goes into a hole and then comes back out
+
+uh in a monster's exposition you're
+
+rolling a log
+
+over another log and then pushing them
+
+into the water and then
+
+while in the water there's different
+
+things you can do with them it's uh
+
+quite an interesting experience and both
+
+of these games are massive rabbit holes
+
+to go down a monster's expedition has
+
+i like 500 600 i don't know how many
+
+levels it has a lot of levels
+
+hundreds of them um containing dozens
+
+and dozens of unique ideas
+
+that are all consequences of basically
+
+just moving cylinders around
+
+and if you have a sufficiently complex
+
+system
+
+then just through changing the shape of
+
+levels you can allow the player to
+
+experience
+
+all of these different things you can do
+
+without adding too much in the way
+
+of new mechanics or new things i mean
+
+all of these games do have new mechanics
+
+and new things right steven's sausage
+
+roll at some point adds in ladders
+
+pipe push paradise at some point adds in
+
+the ability to rotate a pipe
+
+monster's expedition at some point adds
+
+in uh rocks of different heights
+
+uh but it doesn't add too much of them
+
+there's a very low amount of new things
+
+whereas some puzzle games every five
+
+puzzles they give you you know a new toy
+
+to play with or a new
+
+uh ability to use these games are very
+
+minimal on that and instead try to
+
+explore the space of available ideas or
+
+or consequences of those ideas
+
+as much as possible most of the sort of
+
+common puzzle tropes that you see
+
+over and over again in puzzle games are
+
+there because they combine two things
+
+one is they're actually hard they
+
+they're sort of np-hard or p-space hard
+
+or have some kind of actual complexity
+
+theoretic
+
+hardness to them meaning they can encode
+
+many hard problems
+
+but they also they aren't too chaotic
+
+and random they're things that
+
+humans can reason about and facilitate
+
+uh deeper understanding of you know
+
+connectivity and paths human brains are
+
+just great at seeing when things are
+
+touching when they're adjacent
+
+you know when this blob is one thing
+
+instead of two things
+
+packing or covering like shapes mental
+
+rotation to fit things together
+
+perspective or line of sight sort of 3d
+
+geometry of when something can be seen
+
+from something else
+
+these are all things that human brains
+
+are just naturally good at reasoning
+
+about
+
+logic gates and state manipulation these
+
+are just you know
+
+good examples of ways to get complexity
+
+in puzzle games but also allow the
+
+puzzles to be things that have exciting
+
+eureka moments that humans can discover
+
+um next lesson is to understand your
+
+puzzles
+
+state space and this lesson comes to us
+
+via a puzzle designer this is um his
+
+name is oscar von devunter
+
+and uh he makes a lot of different types
+
+of physical puzzles
+
+twisty puzzles uh he prototypes
+
+themselves with a 3d printer he's got a
+
+youtube channel which is
+
+quite interesting to check out he's very
+
+prolific
+
+this is a puzzle that he worked on which
+
+is published by a company called
+
+hanayama puzzles
+
+it's the cast h and they're these two
+
+h-shaped pieces which can kind of
+
+be stuck together and roll around one
+
+another in these interesting 3d way
+
+ways the goal is to separate the two
+
+pieces but to do this requires a huge
+
+number of moves
+
+and oscar actually published the state
+
+diagram of this puzzle these are sort of
+
+all the different configurations that
+
+these two pieces can be
+
+in and the lines represent possible
+
+transitions from those states
+
+so wherever there is a line it means you
+
+can get the two puzzle
+
+pieces from that one state to the other
+
+one and when there isn't a line it means
+
+that somehow that transition has been
+
+blocked either by a little nubby of the
+
+puzzle a little piece of metal that kind
+
+of just prevents you
+
+from uh making that transition and
+
+therefore
+
+finding a solution to this puzzle is
+
+equivalent to finding a path
+
+through this graph from in to out along
+
+these edges and creating this puzzle was
+
+basically
+
+a task of like snipping certain edges
+
+until
+
+the graph that remained was an
+
+interesting maze to navigate that
+
+didn't have too many dead ends but also
+
+had some trails for you to wander down
+
+which may or may not
+
+lead you to the correct thing uh
+
+i'll show you another example from
+
+sokoban this is a paper by peter
+
+yaroshek and
+
+radek pelanek and in this puzzle they
+
+take a bunch of instances of sokoban
+
+and they diagram their state space using
+
+a sort of node and edge graph
+
+representation where each node
+
+is an individual state of the puzzle and
+
+each edge is sort of a connection
+
+between those two states
+
+and a state in this case con consists of
+
+a location of where the boxes are
+
+and a connected region where the player
+
+is so individual moves are not
+
+considered state changes unless they
+
+push a box
+
+um but as you can see with this puzzle
+
+there's this really tight bottleneck
+
+around down here and that's sort of
+
+is what makes this puzzle difficult
+
+there is one unique
+
+sort of key move or trick that you have
+
+to do in order to get to the goal
+
+and the coloring here is based on
+
+players trying to attempt to solve this
+
+puzzle and how much time they spent in
+
+each state of the puzzle
+
+the size of the dot corresponds to how
+
+long players spent and you could see
+
+that they spend a lot of time
+
+not getting through the bottleneck and
+
+once they get through there's hardly any
+
+time spent at all because they're
+
+immediately able to get to the goal and
+
+so understanding that state diagram
+
+allows you to sort of control
+
+aspects of your puzzle by manipulating
+
+it the larger the state space is
+
+obviously the more difficult the more
+
+possible states but the bottlenecks are
+
+what create difficulty and if you have
+
+multiple bottlenecks
+
+that can make things even more difficult
+
+this
+
+in particular this sokoban puzzle is one
+
+that takes an average of 30 to 40
+
+minutes for players to solve this is a
+
+really nasty one uh and that bottleneck
+
+is the reason could you imagine if this
+
+puzzle had a second one
+
+afterwards uh players could be here for
+
+a long time um so a related idea
+
+is to understand your puzzle's solution
+
+path and when i say solution path i
+
+don't necessarily mean
+
+just the path through that state diagram
+
+but also the sort of
+
+the state of the player as they're
+
+solving the puzzle and
+
+what are all of the understandings or
+
+eureka moments that the player will go
+
+through how are they going to make
+
+progress through your puzzle noah
+
+falstein gave a talk
+
+in 2013 at gdc where he talked about
+
+these dependency diagrams that they used
+
+uh for adventure games of the puzzles
+
+and this is sort of like the
+
+pre-requisite chain of all the different
+
+things you had to do in order to get
+
+through this
+
+this isn't even a whole game this is
+
+like the intro sequence to this game
+
+and one of the the pieces of advice sort
+
+of the main piece of advice
+
+he gave was to make these diagrams bushy
+
+meaning not a long linear prerequisite
+
+chain
+
+but sort of a lot of different things
+
+that you could make process
+
+on concurrently without them sort of
+
+blocking each other as prerequisites
+
+and the reason to do this was to allow
+
+the player to sort of explore and be
+
+able to make progress in multiple areas
+
+of the game without restricting them too
+
+much without having that one single
+
+bottleneck which would force the player
+
+to do this one thing and everywhere else
+
+in the game is just kind of useless to
+
+them
+
+um cameron brown has this interesting
+
+illustration
+
+where he shows slitherlink puzzles and
+
+the rules of this puzzle are essentially
+
+you're given as input
+
+a grid made of dots and some numbers in
+
+there and you have to draw a single
+
+closed loop
+
+uh around this grid and the numbers
+
+indicate
+
+sort of the uh adjacency uh how many
+
+edges of that loop are adjacent to the
+
+number so for example this three right
+
+here
+
+has three walls next to it this one
+
+right here has one this this two right
+
+here has two
+
+um and slitherlink exists in some video
+
+games as well the witness has a version
+
+of slytherlink there are some other
+
+games that have
+
+similar ideas um but here on the top
+
+he's showing a computer-generated puzzle
+
+that was sort of randomly constructed
+
+and on the bottom there's a
+
+human-constructed puzzle
+
+and the way in which the solver goes
+
+from the initial puzzle to the solution
+
+is very different for these two puzzles
+
+on the bottom one there's kind of two
+
+places you can make progress and you
+
+sort of linearly do the bottom half the
+
+loop and the top half of the loop and
+
+they meet together
+
+whereas this top one you can start just
+
+about anywhere on any corner of the grid
+
+and then you kind of get about this much
+
+before you then have to
+
+uh solve some more here's a bigger
+
+example of a human-constructed
+
+slitherlink puzzle where there's sort of
+
+like three different
+
+places where you can make progress
+
+linearly and then in the middle uh they
+
+all come together and and make the final
+
+solution to the puzzle
+
+and so as a solver you can start in a
+
+couple of these different corners and
+
+make progress
+
+but when you're going along each section
+
+there's this sort of smooth
+
+flow of oh i did this oh now i get this
+
+oh now i get this oh now i get this
+
+and it feels very um exciting as a
+
+solver
+
+to feel that you're on the right track
+
+and for every bit of progress to then
+
+unlock further progress it sort of makes
+
+that progress feel even better because
+
+in addition to solving part of the grid
+
+you're also
+
+allowing yourself to solve another part
+
+of the grid
+
+so it's it's very exciting the linear
+
+solution path
+
+can be much harder especially for a
+
+large puzzle because you may not know
+
+where to start if you have a big grid
+
+and there's literally only one place
+
+where you can make progress then that
+
+can
+
+take a lot of time to find um whereas if
+
+you have a bushy solution path then the
+
+solver is less likely to be stuck
+
+and can sort of proceed from more areas
+
+and feel like they're making progress
+
+sooner
+
+but yeah the linear solution pass can
+
+lead to sort of these interesting
+
+solution flows that can be more of a
+
+work of art and can be more exciting um
+
+let's see so uh yeah this this is an
+
+idea that
+
+um we use internally working on our new
+
+game
+
+which is how big is the puzzle grid
+
+versus how difficult it is
+
+uh you know if it has few steps and it's
+
+trivially difficult then it's
+
+you know it's whatever it's boring it's
+
+a tutorial puzzle it's nothing
+
+but the two types that are interesting
+
+are if you have many steps of low
+
+difficulty we call this a flow puzzle
+
+versus you have few steps but high
+
+difficulty maybe only one difficult step
+
+and sort of the whole puzzle is about
+
+figuring out that one difficult
+
+interesting thing we call that a gem
+
+puzzle
+
+and of course if you have many steps in
+
+high difficulty then it's just a slog
+
+it's going to be
+
+you know it's going to take a long time
+
+it's something you really got to get
+
+invested into
+
+but the flowy puzzles and the gems are
+
+usually the most
+
+suitable for video games and for us
+
+they've been the most interesting
+
+um i'm going to take a break and then we
+
+will come back for the final part
+

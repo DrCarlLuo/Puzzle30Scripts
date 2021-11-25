@@ -1,0 +1,4396 @@
+okay welcome back this is part three the
+
+last part
+
+um here we're gonna get into some real
+
+nitty-gritty puzzle construction and
+
+design
+
+stuff um so you know
+
+this is the meat of the talk really um
+
+lesson number 21 is
+
+speak playfully to the solver and uh
+
+to illustrate this i i want to show you
+
+an akari puzzle akari
+
+is a puzzle type where you're given a
+
+grid it's a logic puzzle
+
+and there's some cells that have
+
+different numbers in them
+
+and the goal is to place light bulbs in
+
+the grid in some of the empty cells
+
+and there are three rules one is that
+
+the lights shine horizontally and
+
+vertically and your goal
+
+is to cover the whole grid to illuminate
+
+the whole grid using lights
+
+however there are two constraints one is
+
+two lights are not allowed to illuminate
+
+each other
+
+and the second is the numbers on the
+
+grid tell you the the number of lights
+
+adjacent to that number in the sort of
+
+north south
+
+east west directions so a two for
+
+example
+
+like this one has two lights next to it
+
+here and here
+
+and this one has one light next to it
+
+there and so on that's it
+
+um so i want to show you the solution to
+
+this puzzle
+
+uh and we will observe some remarkable
+
+things
+
+um so this is a site called puzzlink
+
+where you can play a lot of these types
+
+of
+
+logic puzzles um and we'll take you
+
+through the solution at first actually
+
+this is this is a somewhat difficult
+
+puzzle this is not necessarily a
+
+completely beginner level puzzle
+
+at first you may not find any immediate
+
+location to make progress but one thing
+
+to look at is this one in the corner
+
+and so we know that there's either a
+
+light bulb here
+
+or here but we don't know which of those
+
+two it is yet
+
+however one thing we can deduce is that
+
+there cannot be a light bulb here
+
+because if there was a light bulb here
+
+then both this cell and that cell will
+
+be
+
+ruled out from having a light bulb
+
+because two light bulbs cannot
+
+illuminate each other um therefore there
+
+can't be a light bulb here
+
+and so using a dot we can mark this cell
+
+as a cell that doesn't have a light bulb
+
+another way of seeing this is that if
+
+there was a light bulb there
+
+or a light bulb there in both cases this
+
+cell is ruled out from containing a
+
+light bulb
+
+therefore in both cases there's no light
+
+bulb here
+
+we can make similar progress by looking
+
+at this two here
+
+there's sort of three candidate
+
+locations where a light bulb could be
+
+but only two of them will contain light
+
+bulbs however
+
+we can deduce that this cell right here
+
+cannot contain a light bulb
+
+otherwise there would only be one other
+
+space left adjacent to this too because
+
+these two cells would both be
+
+ruled out therefore there cannot be a
+
+light bulb
+
+here and so knowing that these two cells
+
+cannot be light bulbs allows us to make
+
+additional progress if we look at this
+
+two right down here we may
+
+also deduce that this cell can't be a
+
+light bulb because again it would rule
+
+out two
+
+possible locations of the three that
+
+could be light bulbs
+
+therefore there's no light bulb there
+
+similarly there's no light bulb here
+
+because it would rule out those two
+
+cells leaving only one place remaining
+
+for another light bulb adjacent to this
+
+two
+
+so there's no light bulb there and now
+
+we can look at this one and do similar
+
+logic there can't be a light bulb here
+
+because it would rule out both of these
+
+therefore that's not a light bulb
+
+and that chains into the next two and
+
+now we can't have a light bulb here or
+
+here because they would both rule out
+
+too many locations
+
+and using the same type of chaining
+
+logic we could see on this two there
+
+can't be light bulbs here and there
+
+and then this dot implies that for this
+
+one there can't be a light bulb there
+
+and then this too is then implied that
+
+there are no light bulbs here
+
+or here and now on this one we can learn
+
+that there's no light bulb here
+
+and on this one we can learn that
+
+there's no light bulb here because again
+
+it would rule out all the possible
+
+locations where a light bulb could be
+
+and then these two dots together imply
+
+that we can't have a light bulb
+
+here because it would rule out the only
+
+remaining locations next to this one
+
+and the chaining keeps going this two
+
+rules out that this two rules out these
+
+two that one is now ruled out from here
+
+this dot that we did earlier also rules
+
+out this side
+
+and now finally after all that setup
+
+after all that work we finally have this
+
+one over here
+
+where both sides of it have been ruled
+
+out and we can finally place our first
+
+light bulb in the puzzle and after that
+
+placing
+
+placing that light bulb in the puzzle we
+
+can place the light bulb next to this
+
+one
+
+we could place the two light bulbs next
+
+to this two
+
+which then allow us to place the two
+
+light bulbs next to this two which allow
+
+us to place the light bulb next to this
+
+one
+
+and then these two and then this one and
+
+then these two
+
+and these two and this one and these two
+
+and it just keeps going until we place
+
+the last two next to these
+
+and to finish the puzzle there is one
+
+square remaining that hasn't been
+
+illuminated and of course we have to put
+
+the final light bulb there
+
+and that is the solution to this akari
+
+puzzle
+
+and there are so many things about this
+
+puzzle that are remarkable
+
+um you know there's this whole sense of
+
+playfulness
+
+as you're going through the puzzle and
+
+taking these steps one leading to the
+
+next leading to the next
+
+there's this repeated pattern or motif
+
+where
+
+you're using the same lemma or the same
+
+uh pattern
+
+or technique over and over again to
+
+create this chain
+
+repetition of logic um and then there's
+
+a variant or a twist
+
+on that lemma where you know you're
+
+using it once and then a second time on
+
+the same thing
+
+um and there's the whole setup and
+
+payoff like you do one lap around the
+
+grid
+
+to rule out one set of spaces and then
+
+you do a second lap which rules out a
+
+second set of spaces
+
+and then results in the final placement
+
+of the the light bulbs
+
+the whole surprise ending where there's
+
+only one space left is sort of
+
+um a cherry on top but you know you look
+
+at a puzzle like this and there can be
+
+no doubt that it was created by a human
+
+this puzzle is
+
+is just like it's it's beautiful
+
+um there's some steps of how it's
+
+created that feel a little bit similar
+
+to sort of the nintendo
+
+4 step level design where you have
+
+something new and then you sort of
+
+introduce it and then create a twist on
+
+it and then
+
+um you know put it together to into a
+
+finale
+
+uh and and then you know you might throw
+
+away this idea for your next puzzle um
+
+but there's something special going on
+
+here and it makes the experience of
+
+solving this puzzle more than just one
+
+of
+
+um you know finding the answer or
+
+something it's it's it's like
+
+communicating with the author of this
+
+puzzle
+
+and i'll share with you a quote from
+
+nobuhiko kanamoto who
+
+was the editor of nicole and this is way
+
+back this is two decades ago before
+
+sudoku took over in the west this is
+
+when
+
+sudoku that was computer generated was
+
+just starting to come out
+
+and um kanemoto-san remarks that
+
+computer-generated sudoku puzzles are
+
+sort of lacking that vital
+
+ingredient that makes puzzles enjoyable
+
+this sense of communication
+
+and you know what ended up happening was
+
+these sort of
+
+massive uh numbers of computer-generated
+
+sudoku puzzles flooded the newspapers in
+
+the west and the puzzle books in the
+
+west and
+
+and as a result um you know subscribers
+
+of nicole and other japanese puzzle
+
+magazines
+
+they had this sort of taste for
+
+handcrafted puzzles
+
+uh but folks in the west never developed
+
+that taste they were just bombarded with
+
+computer-generated puzzles which
+
+uh is is sort of a tragedy in some ways
+
+because the the
+
+subtlety and excitement of really good
+
+sudoku puzzles or other
+
+paper-based logic puzzles um has been
+
+lost and a lot of people think of sudoku
+
+as as sort of
+
+a tired boring not that interesting not
+
+that novel puzzle
+
+um but there are good sudokus this is a
+
+book uh by thomas snyder
+
+called the art of sudoku and uh
+
+it's just one of many examples but the
+
+puzzles in this book
+
+they're not only artfully designed and
+
+laid out but they also have this sort of
+
+flow between the puzzle maker and solver
+
+where you're taking on a journey from
+
+starting the puzzle to the end where
+
+more and more things are
+
+revealed to you and if you've never done
+
+a good sudoku puzzle
+
+i would highly recommend you actually
+
+try them um
+
+better yet go on cracking the cryptics
+
+youtube channel and look at some of the
+
+more interesting sudokus that they've
+
+done and give
+
+give them a try yourself um but
+
+you know the question is how do you
+
+design puzzles like that and there is a
+
+trick there is a technique that allows
+
+us to do that
+
+and it's um well the technique is called
+
+designing from the front
+
+aka forward design and i will show you a
+
+demo of this
+
+um and we're going to open up
+
+the creator for these types of puzzles
+
+um
+
+and i'm literally yoloing it like when i
+
+did the recording of the gdc
+
+talk i sort of had a plan of what i'm
+
+going to do but here i'm literally just
+
+going to make it up as i go
+
+and so we're creating an akari puzzle
+
+let's let's make a low difficulty one
+
+and insert lots of easy steps
+
+something we might do is let's let's put
+
+in a zero a zero is sort of an obvious
+
+place to get started it's a so-called
+
+hook
+
+it's a thing that the player will
+
+immediately take their pencil and put in
+
+something
+
+um and let me just zoom out a tick the
+
+the method that we're using here is
+
+we're gonna place clues
+
+and solve the puzzle at the same time
+
+and we're going to place clues in the
+
+order that the player would sort of
+
+notice them as they were solving the
+
+puzzle
+
+so we flip an answer mode and then in
+
+answer mode we'll mark these two cells
+
+as cells that uh the solver will know
+
+are not light bulbs and then we'll go
+
+back into edit mode and let's just add
+
+some more stuff
+
+um you know let's let's try putting a
+
+two here
+
+right and then we'll go into answer mode
+
+and the solver will realize okay well
+
+after the zero goes there then we have
+
+to put two
+
+light bulbs there let's go back into
+
+edit mode let's try putting some walls
+
+here and here
+
+this will create a situation where that
+
+cell needs to be lit by a light bulb
+
+but the only possible location of a
+
+light bulb to light it up will be here
+
+because anywhere else um you know we
+
+can't put a light bulb there so then we
+
+go back to answer mode and we stick a
+
+light bulb there
+
+uh let's see what else let's let's try
+
+putting a wall here and maybe these two
+
+light bulbs
+
+we want them to infer together the next
+
+step and let's try
+
+uh let's try putting a two here
+
+uh and then our solver upon sort of
+
+seeing the top and bottom of this two
+
+have been ruled out can put two more
+
+light bulbs
+
+there and there uh okay pretty good now
+
+now we're gonna have to make sure like
+
+we can't put a block there otherwise it
+
+will have invalidated
+
+that part of the solution so we kind of
+
+have to keep in mind
+
+uh what are the bits that are required
+
+to sort of make the puzzle that we've
+
+done so far
+
+work um but you know if we feel that uh
+
+the lights are shining too far and we
+
+need to add more obstacles we could add
+
+some obstacles on this side let's say
+
+um you know i'm not sure what we're
+
+going to do there maybe
+
+uh well let's see we could try
+
+uh we could try putting a 1 here and
+
+that will allow us to
+
+rule out these two cells now that we've
+
+put one there
+
+can that do something interesting uh
+
+well we could maybe put a block there
+
+and then we know a light bulb has to go
+
+in the corner
+
+uh sure let's do that because that you
+
+know these two cells both have to be lit
+
+up but we can't put one there
+
+maybe this could also reveal something
+
+to us uh let's try
+
+let's try something a little more
+
+sophisticated here let's let's copy the
+
+trick
+
+from that previous akari puzzle whereby
+
+because
+
+one side of this two has been blocked we
+
+know that this can't be a light bulb
+
+and this can't be a light bulb because
+
+either of these would rule out
+
+too many spots and the two would only
+
+have one location left so let's try that
+
+then we learned that these are not light
+
+bulbs
+
+let's try well we could try putting a
+
+two there
+
+and then we'll place those two there
+
+which then feed back into the two that
+
+we were just in
+
+and give us two light bulbs there and
+
+there lovely
+
+uh what now and you can see how this
+
+just flows like i'm
+
+literally just making this up as i go i
+
+do not have a plan
+
+um maybe i could have a plan and i could
+
+try to make a puzzle that has a certain
+
+pattern or goes around the grid in a
+
+certain way like maybe i want the flow
+
+to kind of go in a circle and come into
+
+the middle that can be a nice motif
+
+let's try doing that so let's make it so
+
+this one kind of goes
+
+up and gives us some logic in the upward
+
+direction like maybe this one and this
+
+one can combine and we can have
+
+uh let's try and think let's put a
+
+number there maybe
+
+maybe a one and maybe all three of these
+
+combine to
+
+force a light bulb uh in the upward
+
+direction
+
+there whoops answer mode boom
+
+um and now this will sort of push logic
+
+horizontally
+
+let's see we could we could put one here
+
+maybe we could put a
+
+a one here and then we have that one
+
+maybe these two then are going to
+
+combine together i mean we can
+
+we can reuse tricks in a new setting or
+
+we could have new tricks or we could
+
+have the same tricks and all of these
+
+will take the solver on a different
+
+journey depending on what we want to do
+
+you know if we want to be artful and we
+
+want to have a certain
+
+sort of a plan to create something
+
+spectacular we can do that but we can
+
+also just make something flowy and
+
+simple and fast that
+
+is easy to solve and players can get
+
+through quickly it all depends on
+
+what we're feeling like or or what we
+
+want to do
+
+let's see so that was the most recent
+
+one that i put in i want that to force
+
+something i haven't really decided what
+
+we could we could try
+
+something that can be interesting is is
+
+to create uh
+
+let's see here uh
+
+well let's just try putting a two here
+
+and and blocking off
+
+a few things maybe that so that will
+
+well do we want to have this so open i
+
+guess that's okay
+
+uh we'll force a few of these like that
+
+and then maybe we can put one like that
+
+we could even put a zero here which will
+
+then mean we cannot put one there
+
+something that's interesting sometimes
+
+is to have a long row
+
+where you can't put light bulbs anywhere
+
+on them for example say i put a zero
+
+here
+
+and then let's see we can block this off
+
+we don't need that
+
+but then the zero will rule out all of
+
+these and then if you look at this the
+
+only place this can be illuminated is by
+
+placing a light bulb here
+
+uh boom and the only place where this
+
+cell can be illuminated
+
+by placing a light bulb in that cell
+
+itself boom
+
+maybe we can do this one more time
+
+if we put a zero here then that will
+
+rule out this and then the only way that
+
+cell can be illuminated
+
+is by putting a light bulb here uh
+
+whoops
+
+uh boom okay um
+
+how's that working pretty good i didn't
+
+need this for anything
+
+maybe i want this light bulb to infer
+
+something in the middle
+
+trying to think of a good way to do that
+
+um
+
+did we need that maybe we could just
+
+have
+
+a two here
+
+and then we will have to put two light
+
+bulbs there and then maybe
+
+this is where the final light bulb goes
+
+to eliminate that one
+
+and we can check our answer now uh you
+
+know we we
+
+erased and and re-added a bunch of
+
+things so we really should check our
+
+whole solution
+
+in order to confirm that the the logic
+
+flow is intact
+
+and the way to do that is erase our
+
+answer and do a complete test solve
+
+so let's just pretend we're solving the
+
+puzzle
+
+you know i would do all this is there
+
+anything i can deduce right now there
+
+actually is i can put a light bulb here
+
+because i know that this cell has to be
+
+illuminated and nothing else can light
+
+it up
+
+you know does that spoil the aesthetic
+
+of my puzzle going all the way around
+
+well maybe i might decide to fix this or
+
+i might decide i just don't care
+
+that's fine but the intended first step
+
+was here
+
+and then we can get this light bulb uh
+
+sometimes it's interesting to think like
+
+what if the player doesn't see this move
+
+like what if the solver just has to go
+
+somewhere else can they make progress
+
+elsewhere um like you might notice that
+
+you can't put two here because that
+
+would violate the one and we need
+
+sort of two of these three to be lit up
+
+and therefore this one
+
+if it wasn't lit up would force this
+
+which would be a contradiction and so
+
+this one has to be lit up
+
+does that help me move forward i'm not
+
+sure i think i still need to know which
+
+one of these two it is
+
+and so that would allow me to make that
+
+discovery
+
+and then so we get that we get that we
+
+said that would give us this which would
+
+give us this
+
+um and then this 2 gives us that
+
+that one gives us those two which gives
+
+us that
+
+which then gives us this to sort of
+
+force that which then gives us this to
+
+force that and that's sort of just an
+
+add-on
+
+then those two which finally reveal
+
+where that final light bulb in this row
+
+has to go which is there
+
+so most of our solution path is intact
+
+there's maybe a few places where we
+
+could skip ahead a little bit
+
+do we want to go back back and fix it we
+
+could if we were really trying to go for
+
+a specific
+
+uh look or a specific theme but
+
+the point is you have a lot of freedom
+
+as a puzzle designer to create that and
+
+this method of designing from the front
+
+or forward design allows you to really
+
+have quite tight control
+
+over the solution experience of the
+
+person solving the puzzle
+
+uh if you do it correctly and if you're
+
+good at it which is is hard right like
+
+i've been doing this for many years so i
+
+have some experience with this and
+
+you know i have a sense of like where it
+
+could go wrong or what types of
+
+assumptions i should and shouldn't make
+
+when i'm making these
+
+sort of you know when i'm adding a new
+
+square to the grid how is this going to
+
+affect the solution path based on what
+
+i've created so far and you have to have
+
+a good sense
+
+of how these puzzles solve in order to
+
+be able to do that so some of the best
+
+composers of these puzzles are also the
+
+best solvers of them
+
+because they themselves are able to once
+
+they place one thing in the grid they
+
+can deduce
+
+exactly all that can be deduced from it
+
+and therefore have a really good
+
+understanding of what the solver
+
+experience is going to be
+
+um with logic puzzles that's true
+
+although it's less true with other types
+
+of puzzles like crosswords um i think
+
+there's a famous mike sellinger quote
+
+where he says um you know making a good
+
+crossword versus solving a crossword is
+
+is like
+
+arson versus firefighting and it's not
+
+necessary that
+
+the same person is going to be it's not
+
+necessarily true that the same person is
+
+going to be
+
+good at both arson and firefighting
+
+but with logic puzzles i think it often
+
+is
+
+anyways i'm going to close this
+
+don't need to save it so designing from
+
+the front has a number of benefits
+
+uh you know you can control the flow you
+
+can create these
+
+playful setups and you can hide eureka
+
+moments in really interesting ways
+
+another thing that designing from the
+
+front enables is this sort of deductive
+
+solution where as a solver you're making
+
+logical deductions you're never guessing
+
+right like when you solve a sudoku you
+
+generally aren't guessing you're putting
+
+in a number once you're confident that
+
+that's true
+
+and that means that once you get to the
+
+end and you found a unique solution
+
+you're sort of aware that it is unique
+
+because in solving the puzzle
+
+deductively you have established that
+
+uniqueness
+
+and this can be a source of pleasure as
+
+a solver because it's it's sort of like
+
+the soundness and completeness meeting
+
+together
+
+implying that both the existence and
+
+uniqueness of the puzzle have been
+
+established
+
+and that's different than a puzzle where
+
+you guess and you find the answer and
+
+you don't even know is this the unique
+
+answer is this the only answer
+
+you know this definitively is the unique
+
+answer and you had to find it by sort of
+
+going through
+
+the the motions that were uh
+
+intended for you to go through um and
+
+and that is what enables this
+
+communication because you know that this
+
+is what the puzzle designer
+
+intended you to do when you're solving
+
+it and you're consciously aware of that
+
+and the the puzzle designer is
+
+surprising you with what the next step
+
+is and how it's been laid out
+
+and not just with the you know what the
+
+actual solution is the
+
+the surprising thing at the end of the
+
+puzzle isn't what the final grid looks
+
+like when it's done
+
+it's what was the logic that enabled you
+
+to deduce that that was the only way
+
+it could be and that is is the thing
+
+that elevates
+
+these types of logic puzzles to a
+
+greater aesthetic than a computer
+
+generated sudoku
+
+one of the important things to do is
+
+make the key move or sort of the key
+
+step that you have to do
+
+provably unique if we go back to that
+
+um chess puzzle by sam lloyd
+
+king e2 is the only way to achieve that
+
+made in three
+
+and and the fact that that's true kind
+
+of forces the puzzle
+
+uh the puzzle forces the solver to
+
+uncover the planned eureka moment
+
+that has been set up um and in chess you
+
+know
+
+sometimes there's different responses
+
+like if the player goes king e2
+
+uh the opponent playing black does not
+
+have to respond by queening the pawn the
+
+player
+
+the opponent can respond by just moving
+
+a bishop or doing something else
+
+right and in all of those cases the
+
+player does have mate in three
+
+but the most interesting part of the
+
+puzzle is sort of what do you do against
+
+the most challenging response
+
+and so the fact that there's one key
+
+move on the first move is essential in
+
+all
+
+chess puzzles it's sort of a requirement
+
+of the genre there needs to be a single
+
+unique
+
+key move on turn one but then often in
+
+subsequent turns it can sort of fork and
+
+branch a little bit more depending on
+
+what the opponent does
+
+and it's not you know you need to kind
+
+of find a response to
+
+everything right so the fact that the
+
+later part of the puzzle may not be
+
+unique because of what the opponent can
+
+do doesn't spoil the aesthetics of the
+
+puzzle having a unique key move
+
+puzzles that lack a unique key move are
+
+often called
+
+cooked puzzles meaning you know as in
+
+his goose is cooked it's just like not a
+
+good puzzle or it's not worthy of being
+
+printed
+
+a second solution is often called a duel
+
+or
+
+in video games i've heard it called an
+
+exploit where the player can get around
+
+the intended thing
+
+that the developer was trying to force
+
+them to do
+
+but the player is somehow able to find
+
+an exploit to avoid
+
+doing this and if the purpose of your
+
+puzzle is to conceal a unique
+
+eureka moment then intentionally having
+
+multiple solutions is not a good idea
+
+and accidentally having multiple
+
+solutions
+
+may be a problem that you know you want
+
+your qa to catch if you're doing puzzle
+
+design you want to make sure that your
+
+test solvers are really good at finding
+
+those
+
+multiple solutions and the way you want
+
+them to do that is by by being deductive
+
+solvers that can really try and
+
+establish the uniqueness of every
+
+solution by proving it
+
+um and that's hard for some types of
+
+puzzles especially
+
+uh very stateful puzzles like block
+
+pushing puzzles where there's a million
+
+different states that the puzzle can be
+
+in and it's often very hard
+
+to determine that an alternative way of
+
+solving the puzzle is impossible
+
+you really want to as a puzzle designer
+
+make sure you're slicing off those
+
+rabbit trails and just
+
+making it so that you don't have to
+
+check too deep in order to
+
+make sure that something doesn't happen
+
+i can give you a million examples of
+
+these
+
+which i didn't include in the talk i
+
+think
+
+the one that sticks with me the most is
+
+in steven's sausage roll they have this
+
+level called the tower where there's
+
+eight sausages stacked up and you have
+
+to sort of set them up in this unique
+
+way
+
+um but the way i solved that puzzle was
+
+not the intended way
+
+and the way a number of people solved it
+
+i've checked on youtube and twitch
+
+videos was really not the intended way
+
+um
+
+i mean they ultimately got to the same
+
+final state but the the sort of setup or
+
+the way they went about going about the
+
+setup to get there
+
+uh can vary in a lot of ways and some of
+
+the setups are
+
+really convoluted like the thing that i
+
+did was was kind of
+
+really complex and annoying and and
+
+difficult to set up and painful
+
+whereas there was a nice intended
+
+solution to the puzzle
+
+but i never even saw it during my first
+
+playthrough i basically had to cheat and
+
+look up the answer before i learned what
+
+the intended solution was
+
+and i think my experience playing that
+
+game would have been a lot better if i
+
+had
+
+been coerced toward the intended
+
+solution more
+
+strongly anyways
+
+like deductive puzzles kind of need to
+
+have unique solutions because
+
+the the flow demands that you sort of
+
+prove
+
+every step you're not guessing right so
+
+you need to be able to prove every step
+
+that you move forward on and therefore
+
+you have to just end up with one
+
+solution at the end
+
+you wouldn't be able to have deductive
+
+flow if the solution wasn't unique
+
+um so many types of puzzles chess
+
+puzzles logic puzzles etc demand
+
+solutions
+
+but many other types of puzzles ought to
+
+have unique solutions
+
+because of the aesthetics and because of
+
+the need to have a unique eureka moment
+
+and to force that on the player unique
+
+solutions are just a way to facilitate
+
+that
+
+so i advocate uniqueness whenever
+
+somebody asks me
+
+you know and for those point-and-click
+
+adventure games that have multiple
+
+solutions to some puzzles
+
+that can be okay like there are there
+
+are many downsides right like you're
+
+you're doing extra work that the player
+
+might not even see
+
+um sometimes you'll end up with an extra
+
+item and not even know what it was for
+
+um you know like like oh that was for
+
+the second possible
+
+solution to that puzzle and you never
+
+used it like like you want to have this
+
+feeling of every item in the game having
+
+had a purpose right like i got that
+
+thing what was it for
+
+um if you leave the game without feeling
+
+that you understood that purpose then
+
+sometimes it can feel a little
+
+incomplete or it feels like
+
+you know the communication was lost at
+
+some point um
+
+you know so there's there's a lot to
+
+think about with regards to uniqueness
+
+moving on let's talk about themes
+
+adding a theme to puzzles can bring
+
+value in many different ways
+
+one example that i will give are are
+
+burr puzzles
+
+or or kamiki puzzles kumiki puzzles are
+
+japanese animal themed burr puzzles
+
+i have one right here this is sort of
+
+themed as a pig
+
+uh i can show you too it's it's a cool
+
+puzzle it's cute it's not particularly
+
+difficult but it has this move where you
+
+have to press the nose in and then
+
+that's
+
+what's required to sort of get out the
+
+first piece uh
+
+you press the nose in and it's it's just
+
+kind of quaint and clever
+
+um as opposed to just a regular old burr
+
+puzzle
+
+which is uh you know just a bunch of
+
+wooden sticks that you have to notch
+
+together there's there's something a
+
+little bit more
+
+and uh it can also help you kind of
+
+remember what you're doing like when you
+
+have the pieces laid out on the table
+
+and you're trying to put this thing back
+
+together
+
+um you realize well okay that's the ears
+
+that's the legs that's the
+
+you know the the language of where
+
+things go and how things fit together
+
+uh can somehow uh be easier if the theme
+
+is there
+
+uh i'll show you a couple of other
+
+examples these are slither links
+
+on the left is one by circonurekly and
+
+this was done
+
+for the indian national puzzle
+
+championship
+
+uh maybe like six seven years ago i it's
+
+done in the theme of i'm not sure if
+
+it's a lily pad or a lotus flower or
+
+some kind of
+
+uh elaborate geometric design but that
+
+design
+
+actually makes the slitherling puzzle
+
+more interesting like there is a vertex
+
+of degree
+
+17 in the middle of this puzzle which
+
+you know you never see in a normal
+
+uh slither link with square geometry and
+
+sort of these two twos over here and the
+
+way they
+
+uh relate to this degree high degree
+
+vertex in the middle that's actually
+
+the break into this puzzle the essential
+
+part of the solution is to kind of
+
+work out how that might function um
+
+and so it's it's not just aesthetic for
+
+the sake of aesthetics it also
+
+lends itself to the solution the puzzle
+
+which is amazing
+
+the one on the right is a um
+
+slither link puzzle where the 0 1 2 and
+
+3 numbers
+
+have been replaced by the the four
+
+letters
+
+m-o-m-o-a-y in some order
+
+and figuring out that order is part of
+
+the puzzle um
+
+and this was also published on mother's
+
+day on grandmaster puzzles and it has
+
+the words mama
+
+mama mommy you know in in in a bunch of
+
+uh corners of the grid you know mama is
+
+there like it's
+
+it's just kind of cute and clever and
+
+interesting but it's also a valid
+
+slitherlink
+
+uh and you know it just adds some little
+
+bit of extra sparkle or spice to this
+
+puzzle
+
+um another benefit is like when you're
+
+creating these puzzles
+
+sometimes you know it's like a blank
+
+page you don't know what to do what you
+
+want to create and coming up with a good
+
+theme
+
+can lead you in the direction of uh
+
+concretizing your ideas and having some
+
+kind of uh
+
+you know key thing to frame your puzzle
+
+around like themes allow you to
+
+have a purpose to your puzzle beyond
+
+just you know make one more of the same
+
+type of
+
+logic puzzle or crossword puzzle or
+
+you know wood puzzle whatever it is
+
+you're making
+
+so you get this additional aesthetic
+
+value but but it's also useful as a
+
+constructor to be able to have them
+
+it also makes the puzzles more memorable
+
+because you know everybody knows oh that
+
+like 17 degrees slitherlink or that
+
+mother's day puzzle right it it
+
+uh gives a short description to the
+
+puzzle and
+
+allows it to have a place in your brain
+
+where it sort of sticks out
+
+the converse to that is don't be clever
+
+in ways that the solver will never
+
+notice
+
+uh there are some themes that people
+
+think of as an idea for a crossword that
+
+uh
+
+maybe make the crossword worse here's a
+
+crossword
+
+uh it's it's actually quite a remarkable
+
+construction
+
+it is a quintuple pangram meaning every
+
+letter of the alphabet from a to z
+
+has been used five times in this grid so
+
+you will notice there are five
+
+queues in the grid there are five x's
+
+and there are five zeds
+
+um and five j's and so on like
+
+so really uh the constructor here had to
+
+get in a lot of
+
+interesting words you could see like so
+
+five qs means there are ten
+
+keywords in this uh crossword because
+
+they are both across
+
+and down um so you know there's there's
+
+barbecue and square feet and
+
+quirk and quack and quintuple and quick
+
+and down quark uh q-tip right so a lot
+
+of
+
+interesting and flavorful q words but
+
+there's also some words that are kind of
+
+not
+
+that great that that you wouldn't want
+
+in a crossword there's there's
+
+dxix for example like what what is that
+
+uh i will show you in a moment um let's
+
+i'll share this quote with you which is
+
+from the late nancy solomon who passed
+
+away just a couple of months ago she is
+
+a
+
+godmother to all crossword creators with
+
+her famous
+
+sage advice uh blog um
+
+you know she she shares that a plethora
+
+of x's zed's cues and jays and the like
+
+will buy you nothing but
+
+rejections if you pay too high a price
+
+for them um
+
+and so here's a couple of examples one
+
+clue is albuquerque's home and the
+
+answer is
+
+nmex like it's supposed to be the state
+
+of new mexico
+
+but who writes nmex for new mexico like
+
+you might write nm
+
+uh this is kind of a weird abbreviation
+
+that feels
+
+kind of off and wrong and is that really
+
+the answer you want in your crossword
+
+you know the dxix is is 519 in old rome
+
+it is a roman numeral clue
+
+and let me tell you that the the number
+
+of times you've seen these if you've
+
+been doing crosswords long enough it
+
+always elicits a groan
+
+and it's always like well i guess if you
+
+had to
+
+if you really had to but like putting
+
+numbers
+
+in a crossword grid is kind of you know
+
+once you've seen it once you've seen it
+
+and like the point is you're paying
+
+sort of in the sparkle and the
+
+liveliness of the clues and the quality
+
+of the fill
+
+uh in order to achieve this goal of a
+
+quintuple pangram
+
+so the question is like you know what is
+
+what are you willing to do
+
+for your art right and are you making
+
+this as something that is designed to be
+
+pleasurable for the solver or are you
+
+making this as a work of art
+
+maybe if if you're making this as a work
+
+of art then it's worth it
+
+um but if your goal is to make it as
+
+something that's pleasurable for the
+
+solver then you've got to be a little
+
+bit careful
+
+um this puzzle is by david c duncan
+
+decker and it is a remarkable puzzle
+
+um and i think that as far as a
+
+quintuple pan gram goes it's not
+
+that bad like there's actually some good
+
+words in here it's
+
+mostly lively fill there's not
+
+too many like really tenuous ones but
+
+there are some and it's just unavoidable
+
+when you're trying to achieve a goal
+
+this lofty i can think of all the
+
+puzzles that i've like
+
+wasted hours and hours trying to finish
+
+um it was because i was trying to
+
+achieve some kind of aesthetic goal that
+
+was just not cooperating and i tried one
+
+thing and it didn't work tried another
+
+thing didn't work and constantly having
+
+to back
+
+out and a lesson hard learned is to
+
+not make your goals too difficult and
+
+especially not to compromise on the
+
+quality of the puzzle in order to
+
+achieve them
+
+i will show you one more example this is
+
+the cast elk puzzle
+
+where is it i had it on my desk at some
+
+point
+
+is it on my shelf
+
+it's hiding my my desk has a lot of
+
+stuff on it where is it there it is okay
+
+uh here we go so this is a puzzle called
+
+the cast elk it's published by hanayama
+
+uh it's actually a really cool puzzle so
+
+there's these two
+
+uh they're basically interlocked
+
+semicircular sort of c-shaped rings that
+
+are themed like a deer with
+
+antlers or an elk i guess you know is
+
+what it's called and you kind of have to
+
+slip them past each other and then sort
+
+of like
+
+rotate them sideways a bit and then they
+
+come apart
+
+and you can reverse that to push them
+
+back together the thing that's
+
+interesting about these is that
+
+well my my spouse alissa had this as a
+
+teenager
+
+and she was able to solve the puzzle but
+
+she never
+
+actually noticed the trick and the trick
+
+is that when you have these
+
+two things together um and you try to
+
+slip when you try to do this move
+
+it actually most of the time will not
+
+work uh and it's because
+
+these uh sort of tips of the antlers
+
+uh are not all the same length uh there
+
+are
+
+two antler tips in this that are shorter
+
+than all of the rest
+
+and when you have this interlock c shape
+
+there's four kind of ways of
+
+taking it apart that seem like they're
+
+isometric but they're actually not
+
+because the antlers are not the same
+
+length so
+
+my spouse spent her teenage years not
+
+realizing why sometimes she could solve
+
+this puzzle and sometimes not
+
+and when you go to put it back together
+
+it's even worse because there's actually
+
+eight possible ways of putting it
+
+together only one of which works
+
+um and so it's kind of like a cruel joke
+
+played by the puzzle designer
+
+and if you're in on it it's great you
+
+know once you know the secret it seems
+
+clever but when you're solving it it
+
+just seems kind of
+
+like a bit baffling and it can leave you
+
+with this feeling of like not really
+
+understanding what the intent of the
+
+puzzle designer was
+
+um and so i i think the the lesson is
+
+that it would be great if after you
+
+solved this puzzle you could sort of
+
+open a fortune cookie and learn
+
+by the way the secret is this um because
+
+understanding that secret is sort of
+
+having the eureka moment and if you
+
+solve the puzzle without having a eureka
+
+moment then
+
+uh part of the aesthetic value of that
+
+puzzle is lost on you
+
+and i can't count the number of times
+
+where i've i've watched somebody solve a
+
+video game puzzle and they accidentally
+
+find the solution and move on and
+
+they're sort of missing out on the
+
+beauty that lies within that puzzle
+
+because they haven't discovered
+
+that the deeper secret lying within and
+
+i mean many video game puzzles simply do
+
+not have a deeper a deeper secret lying
+
+within
+
+uh but when they do i think you know
+
+my goal is always to allow the player to
+
+experience that deeper secret to let
+
+them in on the joke to sort of maximize
+
+their exposure to the eureka moment even
+
+if it means
+
+telling them afterwards what is the
+
+thing that they were supposed to have
+
+figured out
+
+um because to me experiencing the eureka
+
+moment is the important part of the
+
+puzzle
+
+now maybe you want to leave that secret
+
+in there maybe you want it to be
+
+something that somebody can come back to
+
+maybe you want it to be
+
+you know a book that when you read it
+
+the second time you uh
+
+learn a little bit more there's a little
+
+bit of depth that you can uncover
+
+in the second reading right that that
+
+could be an option too but it's just
+
+something to think about
+
+um and and you know that's that's
+
+the end of this example i guess um next
+
+lesson is the format
+
+changes everything i want to show you a
+
+few examples of puzzles that are
+
+almost all the same these are all
+
+puzzles where you have to
+
+draw a path that sort of goes through
+
+everything on the grid and so on this
+
+left this is a puzzle called simple loop
+
+it's a paper-based logic puzzle you have
+
+to draw a loop that passes through every
+
+tile
+
+um exactly once not including the shaded
+
+ones
+
+this one on the bottom left is from a
+
+game called blossom tails
+
+and it's sort of the same puzzle except
+
+there's an entrance at the top and an
+
+exit at the bottom
+
+this one in the middle is from the
+
+witness and it's the same except there's
+
+an entrance and an exit and you only
+
+have to collect all the dots you don't
+
+actually have to visit sort of every
+
+vertex of the grid this one on the right
+
+has
+
+multiple entrances and exits and you may
+
+not know where they are this is from
+
+a mobile puzzle game called alcazar
+
+and it seems like they're all similar
+
+but there's actually a lot of
+
+differences
+
+in the solver experience when you're
+
+solving these puzzles
+
+um you know the the modality of your
+
+input
+
+and the output that you're being shown
+
+right whether you're seeing a screen or
+
+seeing something physically in front of
+
+you or doing something on paper uh
+
+whether you're using even controller
+
+versus keyboard mouse versus touch they
+
+all provide different affordances like
+
+can you click and drag do you have to
+
+move a cursor around to select which
+
+square you're on
+
+are you on a small screen or a big
+
+screen how big is the text of your
+
+puzzle
+
+um can you undo and restart can you save
+
+your progress on paper you have to
+
+literally use an eraser but you can also
+
+use multiple colors of pencils to maybe
+
+make a guess and try something out and
+
+then you know
+
+what you want to erase uh when you're
+
+uh done making that guess and decided
+
+that's not the way forward
+
+um some video games have undo systems
+
+where you can make a move and go back
+
+some don't
+
+some are brutal blossom tales actually
+
+if you step off the path onto those red
+
+zones you take damage and you have to
+
+restart
+
+and there's no undo meaning that if you
+
+don't solve the puzzle correctly on the
+
+first try you actually
+
+are hurt um you know when i got to this
+
+puzzle i literally just print screened
+
+it and turned it into ms paint and
+
+solved it in there
+
+um punishment of mistakes is is sort of
+
+uh an interesting aspect like some
+
+puzzle games if you go back to the early
+
+uh like early 90s chips challenge style
+
+puzzly adventure games which had some
+
+real time and some turn-based elements
+
+many of those games were very punishing
+
+like if you stepped the wrong way
+
+you'd have to completely restart the
+
+whole level you'd lose a life it was
+
+very frustrating
+
+um nowadays i think fewer games have
+
+that aesthetic
+
+and they're more uh you know they're
+
+more about solving the puzzles about
+
+their eureka moments and they allow undo
+
+and reset and you can often even undo
+
+your reset
+
+which can be useful if you hit it by
+
+mistake um
+
+another big one is note taking and we'll
+
+get to this in the next section but but
+
+essentially what i mean by note-taking
+
+is
+
+in the witness you just have to draw a
+
+line from the start to the end you can't
+
+sort of draw a partial line on the
+
+corner of the grid whereas in alcazar
+
+the way you're making progress is by
+
+um sort of adding little bits of lines
+
+slowly until you've drawn in the whole
+
+path and the experience of solving those
+
+two puzzles is very different
+
+note taking can increase depth and this
+
+is you know an
+
+important enough uh lesson to be a
+
+number of its own
+
+i want to show you an example in sudoku
+
+and then we will go back to the path
+
+drawing puzzles
+
+a lot of players have had different ways
+
+of doing sudoku notation but they're
+
+sort of three that are most in in common
+
+use
+
+uh and many sudoku solvers are using all
+
+three of these notations at once
+
+they're sort of candidate notation
+
+meaning this cell must contain one of
+
+these numbers you know seven two means
+
+this cell is either a seven or a two uh
+
+snyder notation
+
+is sort of the reverse it's this number
+
+goes in one of these cells like here's a
+
+box
+
+the two in this box goes in one of these
+
+cells and sometimes you sort of draw a
+
+two
+
+on the border between two boxes it's
+
+sometimes called a by value there's
+
+different ways that people do it and
+
+annotate it and then there are colors
+
+which means these two cells are the same
+
+number but i don't know which one they
+
+are yet
+
+um and this is an example from cracking
+
+the cryptic where here mark goodlife is
+
+is filling out this grid and hasn't put
+
+in a single number yet or he's just put
+
+in his first number which is a seven
+
+over here
+
+uh in this thermometer and uh it took
+
+him 30 minutes to get this far but after
+
+he put in that seven he was then able to
+
+finish the whole puzzle in less than a
+
+minute because
+
+as soon as you get one number the whole
+
+thing collapses um
+
+but this type of puzzle would not be
+
+solvable without note taking like you
+
+can't
+
+solve it the way you would in normal
+
+sudoku where you're just putting in one
+
+number then the next then the next then
+
+the next then the next you need to be
+
+able to take notes and sort of reduce
+
+the possibility
+
+space down from this large you know so
+
+many things could be the answer down to
+
+only these things could be the answer
+
+and then from there you realize ah this
+
+number has to go there
+
+um and so the eureka moments that are
+
+possible with note taking are much
+
+deeper than those without it
+
+let's go back to the witness this is an
+
+example from it's very early in the game
+
+in fact that you see this puzzle and
+
+there's multiple start locations
+
+multiple places where you could possibly
+
+end it the the goal is basically you
+
+have to draw a single line from
+
+one of those start locations to an end
+
+location that both passes through all
+
+these black hexagons
+
+as well as um well it has to cut
+
+the light and dark cells uh so that they
+
+don't live in the same connected
+
+component and there's a long
+
+uh you know definition of what that
+
+really is but it sort of is like
+
+keeping all the light cells on the left
+
+and dark cells on the right or vice
+
+versa
+
+it's it's similar to that um and if you
+
+sort of take this puzzle into ms paint
+
+you could
+
+kind of draw in some little bits of
+
+deductive analysis of where the path
+
+must go and from here you can actually
+
+solve the puzzle pretty easily
+
+uh but that's sort of not really the way
+
+this puzzle is designed right
+
+it's not a puzzle where you can enter
+
+partial bits of progress while playing
+
+it
+
+um it's it's a puzzle game where you
+
+sort of start at the beginning and then
+
+draw a line out and it goes through
+
+everything and exits
+
+this isn't necessarily a bad thing but
+
+it does
+
+limit the complexity of the types of
+
+puzzles that you could create in the
+
+witness
+
+like if you go back to this alcazar
+
+puzzle on the right hand side here
+
+you could never make this in the puzzle
+
+in the witness because it would just be
+
+too frustrating for players like they
+
+would literally need to print screen it
+
+and go into paint because you can't
+
+necessarily solve it
+
+start to end uh without making a mistake
+
+um it's just sort of too much for the
+
+player's working memory to be able to do
+
+that in their
+
+head right it's it's too big of a grid
+
+for you to be able to head solve
+
+and so the witness fundamentally limits
+
+itself to
+
+smaller grids because it wants to you
+
+know have grids that people can head
+
+solve
+
+rather than grids that people are going
+
+to need to take a million notes for but
+
+that sort of limits
+
+how deep and interesting those puzzles
+
+can be now that said
+
+taking notes isn't necessarily a good
+
+fit for the theme of the witness the
+
+witness is fundamentally a game about
+
+drawing a line from one place to the
+
+next and not a game about
+
+note-taking when you're solving logic
+
+puzzles um so i
+
+i think the witnesses approach is
+
+correct for what the witness is trying
+
+to do
+
+um but i'm just saying it does create
+
+some limitation in what types of puzzles
+
+can be expressed or or you know can be
+
+expressed in a way that's convenient for
+
+the solver
+
+to access without copy pasting the
+
+puzzle into ms paint
+
+or taking notes on paper or trying to
+
+keep
+
+way too many things in their head at
+
+once
+
+some puzzles are basically designed such
+
+that note taking
+
+is the solution to the puzzle
+
+mindsweeper is one of them if you try
+
+solving mindsweeper without noting the
+
+minds
+
+it's really hard but also even just
+
+noting where the numbers are that is the
+
+form of progress of the puzzle like note
+
+taking is progress it feels like
+
+progress
+
+uh for these types of zebra crossing or
+
+einstein's riddle type puzzles where
+
+they give you a bunch of
+
+uh sort of logical hints and then you
+
+have to fill
+
+in the grid like you know who had the
+
+milk who had the water
+
+you know who was what color etc
+
+those types of puzzles that the note
+
+taking is the progress it's what you're
+
+doing when you're solving the puzzle and
+
+this is often true
+
+of many types of logic puzzles and paper
+
+logic puzzles
+
+and it is a tradition that isn't used as
+
+much
+
+in video game puzzles that sort of rely
+
+more on statefulness and interaction
+
+because that you know this is a natural
+
+fit to pen and paper
+
+it's less of a natural fit when you're
+
+playing a game and moving a character
+
+around in three-dimensional space
+
+but they do a good job of making
+
+note-taking feel like progress and
+
+that's how they're able to access their
+
+depth in a way that isn't
+
+too annoying related to that beware of
+
+the temptations offered by the
+
+interactive
+
+medium um you know there are certain
+
+things that players are often or
+
+sorry that puzzle creators and video
+
+games are often tempted to put in their
+
+puzzles
+
+that uh especially sort of novice puzzle
+
+designers in video games uh would
+
+possibly be advised to avoid
+
+and i say this with a lot of deliberate
+
+nuance um
+
+but one example is physics um you know
+
+if you have unity or unreal or whatever
+
+there's this physics in the game it's
+
+very tempting to just use those built-in
+
+physics systems
+
+as ways to create puzzles you know you
+
+have rolling balls you have cubes that
+
+move under gravity
+
+you can can place on buttons or be
+
+placed to jump on etc
+
+um the problem is that puzzles are often
+
+about
+
+eureka moments that are sort of about
+
+discrete state spaces you know what
+
+is necessary in order to get here or to
+
+do this
+
+and physics lives in a continuous space
+
+and sometimes
+
+it's just not as nice to reason about a
+
+continuous space as a discrete one you
+
+know if you're trying to like
+
+aim a thing to see if you know the ball
+
+can get over there
+
+sometimes it's not clear like can the
+
+ball make it over there or or can it not
+
+you know did i just aim it wrong i need
+
+to aim a little higher or
+
+move a little closer or is it
+
+fundamentally impossible
+
+and sort of the projection from that
+
+continuous space down to that discrete
+
+space
+
+removes the clarity of the solver when
+
+they're trying to analyze the puzzle and
+
+what to do
+
+if your goal is to make a clear game
+
+that presents its you
+
+your that presents its uniqueness
+
+moments with as clear state of possible
+
+that as possible then physics can be a
+
+thing that makes that harder another
+
+thing that can make it harder is
+
+statefulness
+
+um the paper-based puzzles you know
+
+they're they're stateless in the sense
+
+that there aren't things moving around
+
+there's not blocks that you can push
+
+they are just
+
+you know provide the answer to this
+
+puzzle they are they are puzzles where
+
+you have to supply a certificate that
+
+obeys certain mathematical rules
+
+um whereas if you have a block pushing
+
+puzzle like sokobon
+
+that puzzle can be in a lot of different
+
+states depending on where the boxes are
+
+and it's often very difficult to reason
+
+about what can and cannot be done or
+
+what is and is not possible
+
+because of the complexity of that state
+
+space
+
+statefulness can make it harder to
+
+understand that this eureka moment was
+
+necessary or that i had to move through
+
+this bottleneck because it just seems
+
+like there are so many things to try
+
+and achieving the sort of clarity
+
+of a puzzle with a unique eureka moment
+
+is much harder when
+
+the state space of your puzzle is
+
+exponentially large because you have
+
+you know 10 different boxes all of which
+
+can be moved around
+
+linearity i already mentioned and plot
+
+driven puzzle games fits into there
+
+because you often
+
+have the urge to make them linear if
+
+your puzzles come in a linear sequence
+
+where one depends on the previous and
+
+depends on the previous game designers
+
+tend to gravitate towards this because
+
+they like the idea of one idea building
+
+upon an old one and building upon
+
+another one and getting
+
+more interesting and more complex it's
+
+used in a lot of different types of game
+
+design
+
+the problem when doing that with puzzles
+
+is again a blocking player progress
+
+if the player gets stuck and they can't
+
+advance then they may not have anything
+
+else to do other than look up the
+
+solution
+
+and you know having to sand off the
+
+difficulty or the challenges or the
+
+interestingness of your puzzles in order
+
+to preserve player throw
+
+flow through the linearity
+
+you know that can be a tough decision to
+
+make because maybe that precious eureka
+
+moment that you want it to have
+
+is not going to be as impactful because
+
+you've had to stick it in a puzzle where
+
+it's just spoon fed to the player
+
+you know maybe that's the design you're
+
+going for and that's fine maybe you're
+
+going for a low difficulty game
+
+but if you're trying to make challenging
+
+puzzles i would really strongly advise
+
+you not to make a linear game and look
+
+at
+
+look towards talos principle the witness
+
+anti-chamber
+
+uh so i think many of the most
+
+successful puzzle games of the last
+
+decade
+
+were non-linear in their structure of
+
+the sort of prerequisite chain of
+
+puzzles
+
+um and it's something to look towards
+
+now the problem with this advice
+
+is this this is this advice uh has been
+
+violated by the most successful puzzle
+
+game
+
+uh of 10 years ago and uh
+
+so many puzzle game developers i've seen
+
+hop onto these trends they try to make a
+
+portal like they make a linear puzzle
+
+game based on physics and statefulness
+
+uh you know and they have a unique
+
+narrative beat that's sort of delivered
+
+every time you go into the next room and
+
+and you have to solve one puzzle after
+
+another the problem is
+
+uh if you're not valve and you don't
+
+have valve level resources developing
+
+your game
+
+uh then you may find it difficult
+
+to control the experience in a way that
+
+makes players always eager to press on
+
+like you're either gonna have something
+
+that's too difficult in which case
+
+players will become discouraged they'll
+
+look up the answer they won't
+
+have that experience of finding the
+
+eureka moments for themselves
+
+or the puzzle will be so devoid of
+
+interest or challenge because you've
+
+sent it off all the difficulty you know
+
+portal 2 i think sometimes feels like
+
+it's focus tested to a fault
+
+every time a player must have got stuck
+
+on a puzzle they added a light in a
+
+corner or an arrow pointing to this part
+
+of the room or a
+
+you know uh a glados uh or or
+
+you know other character a bark where
+
+the character kind of tells you what to
+
+look at and what to look for and some
+
+players find this insulting or they find
+
+it kind of
+
+spoiling the the experience they want
+
+out of the puzzle game right
+
+um but those concessions are necessary
+
+when you're making a long linear story
+
+based puzzle game of that complexity
+
+um so again be aware of the trade-offs
+
+but i would strongly advise people not
+
+to copy portal 2
+
+if they're not valve and you know are
+
+less confident in what they're doing
+
+uh non-linearity solves a lot of
+
+problems
+
+and even if you want to do a story
+
+driven game you can still have story
+
+driven beats in a non-linear game you
+
+just have to be a bit more creative
+
+about how you
+
+deliver those beats you know
+
+there's lots of games that have done
+
+that and done it well next
+
+lesson break the rules sometimes
+
+perversely
+
+so i think a lot of puzzles are
+
+memorable because they broke
+
+one of the rules that i have mentioned
+
+previously in this talk i'll show you a
+
+few examples
+
+this is the clinton bob dole crossword
+
+very famous from 1996. this was
+
+literally
+
+on election day
+
+and this puzzle does not have a unique
+
+answer
+
+there are two possible answers for 39
+
+across they are clinton and bob dole
+
+and uh you know i think the clue for 39
+
+across
+
+was with 43 across tomorrow's newspaper
+
+headline
+
+and so 39 plus 43 a cross is either
+
+clinton elected or bob dole elected
+
+um and then they had two other cute uh
+
+clues
+
+one at 17 across was you know what this
+
+puzzle is making or something like that
+
+prognostication
+
+and 68 across is mr president it's it's
+
+kind of cute
+
+um but how did they do this well all of
+
+the down
+
+clues that cross clinton and bob dole
+
+have to have two answers that work for
+
+both of them
+
+and so down here 39 down you get cat
+
+down here 39 down you get bat and the
+
+clue was
+
+black halloween animal which which has
+
+both cat and bat as answers
+
+these are called schrodinger clues
+
+another example is french 101 word is
+
+either louis
+
+or we a sewing shop purchase is either
+
+yarn or
+
+yard
+
+boast or blast i think was trumpet um
+
+and you know so there's there's a lot of
+
+cleverness in designing clues that work
+
+with two possible answers
+
+that themselves are one letter apart
+
+where the one letter is the difference
+
+between clinton and bob dole like this
+
+is a work of art this is spectacular
+
+um just a wonderful and exciting puzzle
+
+that
+
+through violating the rule of have a
+
+unique answer
+
+becomes something even more i'll show
+
+you another puzzle
+
+this is called x-ray fish it's from the
+
+galactic puzzle hunt from 2017.
+
+i believe if i click this it will
+
+actually show it to you this puzzle
+
+is a video uh
+
+is it going to play i don't know if it's
+
+actually going to play i was hoping it
+
+would i tested this okay there we go
+
+okay there it is and it has music right
+
+like this this thing is kind of crazy
+
+so it's got all of these different fish
+
+in it that are moving around
+
+um it it turns out that the thing you
+
+had to do to solve this puzzle
+
+was count the number of each types of
+
+fish and figure out what they all were
+
+and then the numbers were sort of
+
+indices into words which then made a
+
+secret message it was crazy
+
+um except there was one fish that you
+
+were not supposed to count
+
+and those were the red herrings
+
+which uh which were intentional red
+
+herrings in the puzzle
+
+but the fact that they themselves were
+
+red herrings is sort of
+
+a joke it's a bit of humor it's it's
+
+itself a source of sparkle in the puzzle
+
+right so the the the rule of don't put
+
+red herrings in your puzzle is somehow
+
+flipped on its head by
+
+deliberately putting red herrings on the
+
+puzzle in sort of a cute way
+
+uh and i i've always remembered that
+
+because i thought it was funny i've also
+
+seen escape rooms where they literally
+
+have like a fish
+
+on the wall and it's a giant red herring
+
+uh at
+
+2021 mit mystery hunt there was a puzzle
+
+that you had to put together
+
+uh made of puzzle pieces and the answer
+
+was a giant red herring and it turned
+
+out that what mattered in that puzzle
+
+was whether or not the puzzle pieces
+
+went in or went out you know whether
+
+they were innies or audis
+
+that was actually the information you
+
+needed from the puzzle
+
+uh and so to illustrate that the picture
+
+itself wasn't relevant the picture was
+
+made of red herring
+
+somewhat perversely but it's hilarious
+
+here's the slitherlink example this is
+
+one of mine although the trick is not
+
+original to me it's been seen before
+
+usually when you have two threes next to
+
+each other in a slither length there's
+
+only two possible things that could
+
+happen with it
+
+either they go like this or they go like
+
+this
+
+because there's just nothing else that
+
+can work with the two threes
+
+the problem is when you try to solve it
+
+in either one of those two ways you run
+
+into a problem you sort of start
+
+navigating
+
+around the board and you just hit a dead
+
+end you can't get through
+
+and actually the solution is this
+
+which you know you can only really do
+
+this once you can only do it on a small
+
+puzzle
+
+but there it is you know for the once in
+
+your lifetime
+
+the thing you're doing with two threes
+
+and a slither link is not the typical
+
+one
+
+um take from that what you will but
+
+again violating
+
+in a perverse manner the sort of rules
+
+and conventions of the genre
+
+can lead to a bit of excitement or
+
+delight
+
+let me show you one more this is a chess
+
+puzzle by
+
+pal banco who is uh he was a chess
+
+grandmaster and also a prolific
+
+uh chess composer uh one of the greats
+
+and this is a delightful one it's from a
+
+book
+
+uh called chess brain twisters which uh
+
+was compiled together by a birch uh bert
+
+hatchberg who was i think he was editor
+
+of chess and life magazine
+
+or um you know he basically got exposed
+
+to a lot of these
+
+different unique and interesting chess
+
+puzzles and uh
+
+the book has been reprinted under a
+
+different title called
+
+outrageous chess problems uh or maybe
+
+outrageous chess puzzles i can't
+
+remember it is this is honestly my
+
+favorite puzzle book in the universe
+
+above all logic puzzle books everything
+
+else it's a glorious book
+
+and it contains chess puzzles that are
+
+so
+
+absurd uh you know they're jaw-dropping
+
+absurdities this one right here
+
+is a puzzle where the stipulation is
+
+both sides must collaborate
+
+to not checkmate black so it's not just
+
+white trying not to checkmate it's both
+
+sides collaborating
+
+uh and so what's going on here well
+
+first of all white has very few moves to
+
+make
+
+like this knight can move uh but if you
+
+move it down there you'll literally put
+
+black into checkmate so you can't do
+
+that
+
+this pawn can move but if you push it
+
+forward guess what you've checkmated
+
+black
+
+you can move this pawn up and then you
+
+know the question is okay well what's
+
+black gonna do black can
+
+move this uh pawn down here and queen it
+
+but by queening this pawn
+
+uh black will put white into check which
+
+white will be forced to block with this
+
+knight moving down there which then puts
+
+black into checkmate so you somehow have
+
+to find a sequence of moves
+
+that will not result in checkmate uh and
+
+in fact this pawn
+
+can go all the way up and promote uh to
+
+a queen which would checkmate but maybe
+
+you want to under promote to a bishop or
+
+a knight
+
+the problem is if you promote it to a
+
+knight the only place it has to move is
+
+here
+
+which checkmate's black if you promote
+
+it to a bishop the only place it has to
+
+move is here
+
+which checkmate's black so it's this
+
+really unique situation where
+
+it seems like no matter what happens
+
+black is heading for a checkmate in
+
+three
+
+and there is a way to stop it i will
+
+leave it to you to find it uh but it's a
+
+remarkable and hilarious puzzle not
+
+necessarily because of the solution just
+
+because of the construction and the
+
+stipulation and i
+
+i think this may be a unique stipulation
+
+i've never seen another help not mate
+
+uh but such a clever and interesting
+
+idea that i will always remember
+
+so the last lesson is about serendipity
+
+and about how to find unique and
+
+interesting
+
+constructions for puzzles and that is
+
+that serendipity occurs when you are
+
+actively searching for good ideas
+
+um you know one thing that is common is
+
+that great puzzles are often discovered
+
+not invented but you have to be looking
+
+out for those discoveries constantly
+
+when you're sort of
+
+working on puzzles i will show you one
+
+example this is from our upcoming game
+
+and it was
+
+uh you know i would say created but
+
+almost i would say it was discovered
+
+by one of our puzzle authors when they
+
+were working with a new type of clue
+
+that we had just added to the game
+
+and i'll show you what the puzzle is
+
+basically uh
+
+whoops let's see if we can open this
+
+um the the way this puzzle system works
+
+is there are sort of different types of
+
+of clues that can go into it
+
+um and you can color the cells in the
+
+grid either dark or light colored
+
+um but there are a couple of rules one
+
+is that the white cells have to be
+
+connected orthogonally meaning that you
+
+know if these are light-colored cells
+
+and we make dark cells like this
+
+then this would disconnect the
+
+light-colored part of the grid so that
+
+is not allowed it's it's similar to
+
+um some other puzzles like
+
+uh i don't know nurikabe puzzles the
+
+dark cells all have to be connected here
+
+the light cells have to be connected
+
+the other rules are there certain
+
+patterns that you have to avoid you
+
+cannot have two dark cells adjacent
+
+and you cannot have four light cells
+
+adjacent and then finally this one in a
+
+region means exactly one cell in that
+
+area is darkened
+
+so this one could be dark and then the
+
+rest could be light or this one could be
+
+dark and the rest could be light
+
+and it turns out from just this there is
+
+a unique solution to this puzzle
+
+and i'll i'll show you the start of the
+
+solution and basically you look at this
+
+region and you think well okay let's try
+
+putting a dark cell there and then these
+
+all have to be light well because of the
+
+no
+
+four in a row rule these two then have
+
+to be dark but we said that the dark
+
+cells can't be adjacent to one another
+
+so that's impossible therefore that one
+
+can't be the dark cell
+
+and similarly none of these other out
+
+one outer ones on the periphery can be
+
+dark so in fact the middle one is the
+
+dark cell
+
+and then you get a lot of three in a row
+
+so you have to block off all of the
+
+possible four in a rows and then you
+
+can't have two dark cells adjacent to
+
+one another so these ones all have to be
+
+light
+
+and then i mean the light cells all have
+
+to be connected so you you this light
+
+cell has to move upwards
+
+if this was dark then this light cell
+
+would be disconnected for everything so
+
+that's light
+
+and then this cell here you know if
+
+there was four in a row here then that
+
+would violate the rule so this cell has
+
+to be dark
+
+and then this light area has to escape
+
+so it's got to go out here and then
+
+there's three in a row here so that one
+
+has to be dark and we just keep going
+
+there's three in a row here
+
+this puzzle doesn't stop the the logic
+
+of how you solve this thing
+
+just keeps flowing and it turns out that
+
+from this
+
+initial just you know one in a square in
+
+the corner
+
+there's a unique solution to this puzzle
+
+and it's quite remarkable
+
+uh and i asked the creator of this his
+
+name is jeffrey barton
+
+how he came upon this and he says i
+
+don't know i just just got lucky i just
+
+found it i was just kind of i put this
+
+one region in because i thought the one
+
+region was kind of interesting and was
+
+very forcing
+
+and then i realized that you could
+
+really get a lot from it
+
+and i found a place to put it where
+
+there was just one single unique
+
+solution
+
+and that was remarkable it was amazing
+
+and everybody who test solved this
+
+puzzle remarked that like this is a
+
+fantastic puzzle this is very exciting
+
+there's another example called the
+
+miracle sudoku which was done by
+
+mitchell lee
+
+you can look it up on youtube it's one
+
+of the most famous sudoku
+
+puzzles on youtube it has only two
+
+givens and it has some extra rules like
+
+for example
+
+uh numbers that are knights move away
+
+from each other cannot be the same
+
+there's there's some additional
+
+extra rules but using only two givens
+
+the whole puzzle can be solved
+
+and the youtube video um
+
+the solver uh he's a guy named simon on
+
+cracking the cryptic
+
+he can't believe that this thing has a
+
+solution he thinks
+
+that somebody's joking with him that
+
+somebody has pranked him and when he
+
+finally realizes that this puzzle
+
+actually works his jaw hits the floor
+
+um fantastic video highly encourage you
+
+to watch it
+
+um but you know the question again how
+
+do you make these discoveries
+
+um one thing is to notice your own
+
+eureka moments
+
+and turn them into puzzles uh but
+
+another thing is
+
+just be actively searching for things
+
+that seem like
+
+there might be more there than you
+
+expect another example
+
+jonathan blow was talking about this
+
+puzzle from the witness and somebody
+
+asked him
+
+how did you get it to work and this
+
+particular puzzle is
+
+quite remarkable essentially you're
+
+solving a grid puzzle which
+
+simultaneously is making
+
+paths on the floor that you can walk on
+
+and you can only edit the blue part of
+
+the grid from one side and you can only
+
+edit the orange part of the grid from
+
+the other side and you actually have to
+
+physically walk on the path to get to
+
+the other side
+
+to be able to edit the other one and you
+
+have to go back and forth like five
+
+times in order to actually get to the
+
+final state of this puzzle
+
+um but the the sort of journey you're
+
+taking when doing that
+
+is remarkable and the fact that it works
+
+at all seems
+
+outlandish outstanding like like
+
+somebody must have been a genius to put
+
+this thing together
+
+and no doubt this is a very clever and
+
+very
+
+uh beautifully crafted puzzle but when
+
+john was asked
+
+how he was able to figure this out he
+
+kind of said well you know i started
+
+putting stuff together and then towards
+
+the end he kind of just got a bit lucky
+
+um you know the fact that you had to go
+
+back and forth five times the fact that
+
+that kind of just worked out you know he
+
+was just able to make it work
+
+um and it's kind of difficult sometimes
+
+to learn why you were able to make it
+
+work it just turned out that way
+
+and this type of serendipity happens a
+
+lot when you're creating puzzles
+
+sometimes you will just
+
+find that you're able to do something a
+
+little bit remarkable or even more
+
+remarkable than you thought every puzzle
+
+creator has had moments
+
+in their life or in their career of
+
+creating puzzles where for whatever
+
+reason they were able to
+
+like obtain an unexpectedly exciting or
+
+fantastic
+
+result because it just happened to work
+
+out and
+
+as a puzzle creator i think that one of
+
+the most important lessons is to be
+
+actively looking for these opportunities
+
+and seize them
+
+i will give you a quote from ralph
+
+peters who's uh i think he's the founder
+
+of smart games or he's one of the guys
+
+who's created a lot of puzzle for smart
+
+games
+
+um this is one of his puzzles penguins
+
+on ice and in describing
+
+this puzzle he talked about uh how he
+
+came upon the theme for it why
+
+it was sort of these these penguins uh
+
+on ice
+
+as sort of a pentomino puzzle and
+
+there's a unique mechanic where these
+
+pentominos can
+
+slide next to each other so that
+
+polyamino can go from an f pentomino to
+
+a p
+
+pentomino to a w pentomino as sort of
+
+these two blocks
+
+up top slide over here and over here and
+
+and this one as well this block sort of
+
+slides up and down so it could be a y
+
+pentomino or an l pentomino
+
+um and you know this is the quote the
+
+most
+
+important idea is you don't find good
+
+ideas by luck
+
+you find them by actively searching for
+
+them and actively trying hard to
+
+recognize the potential in the things
+
+you discover
+
+often one small innovation isn't that
+
+valuable but a combination of many small
+
+things may produce something that brings
+
+your creation to a whole new level
+
+and he was referencing um the theme of
+
+the puzzle and why he chose to make it
+
+penguins and ice
+
+um one thing is that the penguins
+
+uh made it clear that there was a top in
+
+the bottom so it made clear that the
+
+puzzles could not be flipped
+
+the sliding allowed the pieces to reach
+
+more configurations which made
+
+a more possible instances of the puzzle
+
+the way the puzzle works by the way is
+
+you get a card that shows you where the
+
+penguins ultimately have to be in the
+
+finished puzzle and then you have to
+
+find
+
+a way to slide the ice blocks and build
+
+the puzzle so that the penguins lie in
+
+the right spots
+
+but like there's a lot of pentomino
+
+puzzles out there and he wanted to make
+
+one that had fewer moving parts so that
+
+it was easier to manufacture and less
+
+frightening and didn't seem like a
+
+really complicated puzzle he wanted it
+
+to look
+
+simple and be more elegant and the
+
+sliding
+
+added back the interestingness that was
+
+lost when the number of puzzles were
+
+removed
+
+um and sort of the theme made it less
+
+abstract and sort of more fun and
+
+playful and by putting all of these
+
+things together
+
+he was able to create something that was
+
+far more exciting and compelling and
+
+interesting
+
+than just a pentomino puzzle where
+
+you're putting blocks in a grit
+
+and the sort of synergy of the theme
+
+with the idea that you can't flip them
+
+over with the playfulness and the
+
+sliding of the puzzle and somehow ice
+
+sliding into different configurations
+
+feels like it makes sense
+
+um it just ends up being more than the
+
+sum of its parts
+
+and that idea was a combination of many
+
+small things that each in and of
+
+themselves wasn't that valuable but
+
+somehow
+
+added up to a really great result and
+
+the way he was able to do this
+
+you know he chalks it all down to just
+
+being alert
+
+and looking for those things uh trying
+
+really hard to recognize the potential
+
+in every little possible innovation you
+
+might see
+
+um and that's something that as a puzzle
+
+creator you're
+
+constantly doing for your whole career
+
+you're trying to notice the little
+
+eureka moments that you're having when
+
+playing around with the parts
+
+and uh trying to find ways to
+
+cultivate more depth from those eureka
+
+moments
+
+so that's the end of the talk this is
+
+the sort of summary slide
+
+where we show all of the uh
+
+the tips or the lessons or the rules um
+
+you know we've been here a while this is
+
+the extended sort of director's cut
+
+version of this talk
+
+there's a lot there um you know if you
+
+if you came from the gdc talk
+
+uh i knew it was a bit rushed i
+
+apologize it's hard to cram all this
+
+stuff into an hour
+
+uh here it feels like i've had a bit
+
+more room to breathe and more to give a
+
+bit more nuance and discussion to the
+
+topics uh if you like this stuff i will
+
+probably be making more videos on it in
+
+the future although i don't know how
+
+soon because
+
+game number three is is very uh
+
+demanding of my time right now
+
+but um yeah that's that's sort of the
+
+puzzle design
+
+uh gdc talk or extended version of it uh
+
+i hope this was useful uh i love talking
+
+about any and all things puzzle related
+
+uh please
+
+contact me i love playing demos of
+
+puzzle games or betas
+
+or early access games
+
+i love giving feedback on them so
+
+please share them with me and i would
+
+love to share with you my thoughts
+
+if you are a puzzle designer and you are
+
+looking for a job in video games
+
+talk to me i've gotten lots of puzzle
+
+designers jobs in video games i've also
+
+hired many of them myself
+
+um either way talk to me and
+
+yeah that's that's the end of the talk
+
+have a good one
+
