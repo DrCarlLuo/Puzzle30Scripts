@@ -346,603 +346,87 @@ And often when sort of novice game designers are making puzzles, they have this 
 Is there something wrong with this approach?
 And well it there's nothing wrong per se, but there's often a bit of confusion here which i will sum up in the next lesson,
 
-which is eureka is not fiero um fiero is this
-
-italian word that means the emotion of
-
-overcoming a tough challenge and i've
-
-heard now a lot of game designers are
-
-using this word
-
-uh for sort of that feeling when you're
-
-playing an action game and you finally
-
-vanquished a
-
-really difficult boss you know or you're
-
-a speedrunner and you just got a world
-
-record or you've
-
-you've killed a really hard boss in dark
-
-souls or devil may cry or beaten a
-
-really tough fight in doom
-
-eternal on ultra nightmare mode um you
-
-know the the japanese have this word
-
-yata that they yell when they've
-
-they've done something really difficult
-
-uh
-
-and if you're comparing eureka to fiero
-
-i think of them as two sort of
-
-completely orthogonal ways
-
-of delivering pleasure and here i can
-
-put them even on an axis
-
-right like dark souls is a very fiero
-
-dense game
-
-and there are some brutally difficult
-
-puzzle games that also sometimes the
-
-the pleasure is mostly just the reward
-
-of having solved something really really
-
-hard
-
-but then there are games like portal
-
-where the speedy thing goes in speedy
-
-thing comes out is not necessarily hard
-
-like you don't necessarily feel rewarded
-
-because you did a hard thing or you
-
-overcame a difficult challenge
-
-the pleasure is through the discovery
-
-for the most part
-
-um you know and and so this method where
-
-you create a puzzle and make it
-
-challenging and hope the player feels
-
-good or or feels
-
-satisfied when they've solved it i think
-
-of this as the fiero
-
-approach to puzzle design uh it's it's
-
-an approach motivated by valuing
-
-overcoming the challenge
-
-rather than learning the deep
-
-interesting thing or making that
-
-interesting discovery that has the
-
-eureka moment and has the sparkle
-
-um both of these elements are there in
-
-various places
-
-uh but one thing to understand is that
-
-you don't even have to be the person
-
-that solved the puzzle to get the eureka
-
-moment right you could be sitting in a
-
-classroom and getting a yuri come on you
-
-could have somebody
-
-show you a puzzle and show you how it
-
-works and you still get the full value
-
-of the eureka moment
-
-whereas the fiero is when you yourself
-
-are presented with a challenge and
-
-nobody spoils you on it and you solve it
-
-yourself
-
-um and people who care a lot about
-
-spoilers
-
-they're caring about preserving the
-
-fiero they're caring about preserving
-
-uh the ability for a player to make the
-
-discovery on their own
-
-which heightens the experience by in
-
-addition to giving you the eureka of oh
-
-this is so
-
-interesting giving you the fiero of and
-
-i figured it out
-
-right it's those two things together
-
-that are are combining
-
-uh synergistically i would say um so
-
-is the fiero approach bad well one thing
-
-i would say
-
-is that any challenge can confer fiero
-
-like action games
-
-even just going through something really
-
-grindy and or annoying sometimes just
-
-being done with it can feel good
-
-uh but puzzles have eureka as sort of
-
-their
-
-unique selling point their unique
-
-feature um
-
-so the question is always ask people as
-
-well why are you making puzzles
-
-um because like many game designers use
-
-puzzles for what i call sort of the
-
-wrong
-
-reason or maybe an underwhelming reason
-
-which is just to sort of increase play
-
-time or to give you a break between the
-
-action moments
-
-sometimes literally just to insert an
-
-obstacle so that the reward afterwards
-
-feels better
-
-or so that you feel relief when it's
-
-over and you know if you're just putting
-
-puzzles in your game to pat out the play
-
-time or to act as downtime or whatever
-
-like that's fine it's your game you can
-
-do what you want
-
-uh but eureka moments are sort of the
-
-soul of puzzles the unique superpower of
-
-puzzles so if your puzzles don't have
-
-interesting eureka moments then
-
-as a creator of art or as a creator of
-
-some
-
-creation that you're hoping players will
-
-enjoy you're failing
-
-to live up to the aesthetic potential of
-
-puzzles as a medium
-
-if puzzles are really prominent part of
-
-your game
-
-then i think you sort of owe it to your
-
-game to apply the same level of
-
-aesthetic scrutiny
-
-to the puzzle design in the eureka
-
-moments that you would to you know your
-
-visual art your story your combat your
-
-character movement the things that game
-
-designers traditionally care a lot about
-
-um
-
-but you should care about the eureka
-
-moments of your puzzles as much
-
-and if you're just inserting them there
-
-to sort of fill a gap
-
-then you might not be doing that and i i
-
-feel that a lot of
-
-games that have little puzzle mini games
-
-in there
-
-you know you know the ones that i'm
-
-talking about they're doing this um
-
-i'll give you a a quote from jonathan
-
-blow he says it's not a good idea just
-
-to try to be trying to make the
-
-player feel smart you want to
-
-communicate to them an actual substance
-
-of something
-
-john is the guy who designed braid and
-
-the witness and he's
-
-spoken at length about his approach to
-
-puzzle design in various interviews
-
-um and i think he sort of shares this
-
-notion that the the aesthetic of making
-
-a good puzzle isn't just
-
-about making a challenge that makes the
-
-player feel satisfied it's about
-
-having something deeper as a part of
-
-that puzzle that the player can uncover
-
-and then
-
-you know communicating that truth to
-
-them through the puzzle where whether
-
-it's a truth about discrete math or
-
-or something that may have nothing to do
-
-with the universe of the
-
-story of your game uh it's it's more
-
-just the puzzle is a representation of a
-
-deep and interesting
-
-mathematical idea or logical idea that
-
-you can then learn through trying to
-
-solve that puzzle
-
-i will give one more example these are
-
-two puzzles the left one
-
-is a puzzle by john conway called the
-
-shipper's dilemma and in it you have to
-
-fit all of these blocks into a five by
-
-five by five zone
-
-and they are uh i think you get six two
-
-by four by ones
-
-six two by two by threes and then five
-
-uh one by one by ones to sort of fill
-
-the remaining
-
-voids and this puzzle is a ten out of
-
-ten
-
-fascinating deeply interesting puzzle
-
-that
-
-once you solve it the configuration of
-
-the solution there's essentially only
-
-one solution
-
-up to trivial symmetries and that
-
-solution
-
-has a very unique way of covering the
-
-space inside of this cube
-
-and you can do all kinds of mathematical
-
-analysis to reason about why that must
-
-be the one solution
-
-and if you just try and plonk them in
-
-there randomly you won't solve it you
-
-need to think
-
-deeply about covering up the space
-
-inside that
-
-cube in order to solve it but it's it's
-
-not necessarily that difficult it's just
-
-you have to apply
-
-a bit of a mental strength to get there
-
-um
-
-but this puzzle contains so much
-
-interesting truth like you can learn
-
-about reasons why that solution is the
-
-only solution
-
-that have sort of a deep combinatorial
-
-significance to them like
-
-uh things involving tiling the colors of
-
-the inside of the cube you can sort of
-
-look at
-
-oh what about these exact 27 squares in
-
-the cube how do we cover just
-
-those and you can see sort of sub
-
-problems of covering the whole cube that
-
-reveal insight about what the solution
-
-has to be
-
-meanwhile the thing on the right is you
-
-have this
-
-zed pentomino and you have 25 of them
-
-and you just have to fill the whole cube
-
-with them
-
-and somebody wrote a computer program
-
-and discovered yeah there's four
-
-solutions
-
-and there's not really any solving
-
-method or any insight this is literally
-
-just sort of a time wasting toy where
-
-you're playing around with these blocks
-
-and trying to fit them in and you will
-
-just try random stuff and eventually
-
-you'll get it but you won't have any
-
-knowledge of why that worked or how
-
-you were able to set it up so that it
-
-did that um
-
-you know it's still a fun puzzle that
-
-will amuse people but it doesn't reveal
-
-any truth about the universe there's
-
-nothing
-
-interesting about the solution to this
-
-puzzle it's just
-
-putting blocks in a box um and i think
-
-one of the things that john blow said in
-
-the same interview was that uh
-
-the beauty in puzzles sort of the amount
-
-of beauty is is correlated to how much
-
-truth they reveal
-
-right or how much uh information about
-
-the universe
-
-can be shared with the solver because of
-
-that puzzle and this left puzzle is is
-
-very dense in truth and beauty and this
-
-right one is
-
-to me it's just a time waster like uh
-
-and there are many many puzzles like
-
-this
-
-that there's not actually an interesting
-
-solution method or an interesting trick
-
-it's it's literally just play around
-
-with the thing until it's done
-
-um and so to me if i'm looking at the
-
-aesthetic values of puzzles as
-
-a medium this one on the left the conway
-
-shipper's dilemma is
-
-at the absolute peak and the one on the
-
-right is just
-
-bland um and it's sometimes hard to tell
-
-the difference it's sometimes not easy
-
-to you know there's no place where
-
-puzzles are ranked necessarily according
-
-to how
-
-truthfulness how much truth they have
-
-right like um it's something that you
-
-know real
-
-nerdy puzzle folks know and will give
-
-you recommendations about
-
-um but it's it's i think the sort of
-
-general vernacular about when people
-
-talk about puzzles they like they don't
-
-even have the words to describe this
-
-right the the fact that this puzzle is
-
-better than this one in a way that is
-
-deep and meaningful
-
-is hard for some people to understand or
-
-describe um
-
-but the way i explain it is just how
-
-much truth is there in this puzzle
-
-um and so you know this is this is
-
-basically a meme but if your goal is
-
-creating great puzzles
-
-then focus on communicating those
-
-interesting truths to the solver rather
-
-than just
-
-making the solver feel smart or feel
-
-satisfied that they completed a
-
-challenge
+which is Eureka is not Fiero.
+Fiero is this italian word that means the emotion of overcoming a tough challenge.
+And i've heard now a lot of game designers are using this word for sort of that feeling when you're playing an action game and you finally vanquished a really difficult boss you know.
+Or you're a speedrunner and you just got a world record.
+Or you've killed a really hard boss in dark souls or devil may cry or beaten a really tough fight in doom eternal on ultra nightmare mode.
+You know the the japanese have this word "yata" that they yell when they've done something really difficult.
+And if you're comparing eureka to fiero, I think of them as two sort of completely orthogonal ways of delivering pleasure.
+And here I can put them even on an axis, right?
+Like dark souls is a very fiero-dense game and there are some brutally difficult puzzle games that also sometimes the pleasure is mostly just the reward of having solved something really really hard.
+But then there are games like portal where the speedy thing goes in speedy thing comes out is not necessarily hard.
+Like you don't necessarily feel rewarded because you did a hard thing or you overcame a difficult challenge.
+The pleasure is through the discovery for the most part.
+You know and so this method where you create a puzzle and make it challenging and hope the player feels good or feels satisfied when they've solved it.
+I think of this as the fiero approach to puzzle design.
+It's an approach motivated by valuing overcoming the challenge rather than learning the deep interesting thing or making that interesting discovery that has the eureka moment and has the sparkle.
+Both of these elements are there in various places but one thing to understand is that you don't even have to be the person that solved the puzzle to get the eureka moment, right? 
+You could be sitting in a classroom and getting a eurika moment.
+You could have somebody show you a puzzle and show you how it works and you still get the full value of the eureka moment.
+Whereas the fiero is when you yourself are presented with a challenge and nobody spoils you on it and you solve it yourself.
+And people who care a lot about spoilers, they're caring about preserving the fiero.
+They're caring about preserving the ability for a player to make the discovery on their own, which heightens the experience by in addition to giving you the eureka of "Oh this is so interesting!" giving you the fiero of and "I figured it out!", right?
+It's those two things together that are are combining.
+Synergistically i would say.
+So is the fiero approach bad?
+Well, one thing I would say is that any challenge can confer Fiero like action games.
+Even just going through something really grindy or annoying, sometimes just being done with it can feel good.
+But puzzles have eureka has sort of their unique selling point, their unique feature.
+So the question is always ask people as well why are you making puzzles?
+Because like many game designers use puzzles for what I call sort of the wrong reason or maybe an underwhelming reason,
+which is just to sort of increase play time or to give you a break between the action moments.
+Sometimes literally just to insert an obstacle so that the reward afterwards feels better or so that you feel relief when it's over.
+And you know, if you're just putting puzzles in your game to pat out the play time or to act as downtime or whatever like.
+That's fine. It's your game you can do what you want.
+But eureka moments are sort of the soul of puzzles, the unique superpower of puzzles.
+So if your puzzles don't have interesting eureka moments, then as a creator of art or as a creator of some creation that you're hoping players will enjoy, you're failing to live up to the aesthetic potential of puzzles as a medium.
+If puzzles are really prominent part of your game, then I think you sort of owe it to your game to apply the same level of aesthetic scrutiny to the puzzle design in the eureka moments that you would to you know, your visual art, your story, your combat, your character movement...the things that game designers traditionally care a lot about.
+But you should care about the eureka moments of your puzzles as much.
+And if you're just inserting them there to sort of fill a gap, then you might not be doing that. 
+And I feel that a lot of games that have little puzzle mini games in there. 
+You know the ones that i'm talking about.
+They're doing this.
+I'll give you a quote from Jonathan Blow.
+He says "it's not a good idea just to try to be trying to make the player feel smart. You want to communicate to them an actual substance of something."
+John is the guy who designed braid and the witness and he's spoken at length about his approach to puzzle design in various interviews.
+And i think he sort of shares this notion that the the aesthetic of making a good puzzle isn't just about making a challenge that makes the player feel satisfied.
+It's about having something deeper as a part of that puzzle that the player can uncover and then you know communicating that truth to them through the puzzle whether it's a truth about discrete math or something that may have nothing to do with the universe of the story of your game.
+It's more just the puzzle is a representation of a deep and interesting mathematical idea or logical idea that you can then learn through trying to solve that puzzle.
+I will give one more example.
+These are two puzzles.
+The left one is a puzzle by John Conway called the Shipper's Dilemma.
+And in it you have to fit all of these blocks into a 5 by 5 by 5 zone.
+And they are, I think, you get 6 2-by-4-by-1s, 6 2-by-2-by-3s and then 5 1-by-1-by-1s to sort of fill the remaining voids.
+And this puzzle is a ten out of ten fascinating deeply interesting puzzle that once you solve it.
+The configuration of the solution... There's essentially only one solution up to trivial symmetries,
+and that solution has a very unique way of covering the space inside of this cube.
+And you can do all kinds of mathematical analysis to reason about why that must be the one solution,
+and if you just try and plonk them in there randomly, you won't solve it.
+You need to think deeply about covering up the space inside that cube in order to solve it.
+But it's not necessarily that difficult. It's just you have to apply a bit of a mental strength to get there.
+But this puzzle contains so much interesting truth like you can learn about reasons why that solution is the only solution, that have sort of a deep combinatorial significance to them like things involving tiling the colors of the inside of the cube.
+You can sort of look at oh what about these exact 27 squares in the cube how do we cover just those and you can see sort of sub-problems of covering the whole cube that reveal insight about what the solution has to be.
+Meanwhile, the thing on the right is you have this zed-pentomino and you have 25 of them.
+And you just have to fill the whole cube with them.
+And somebody wrote a computer program and discovered yeah there's four solutions.
+And there's not really any solving method or any insight.
+This is literally just sort of a time wasting toy where you're playing around with these blocks and trying to fit them in and you will just try random stuff and eventually you'll get it but you won't have any knowledge of why that worked or how you were able to set it up so that it did that.
+You know it's still a fun puzzle that will amuse people but it doesn't reveal any truth about the universe. 
+There's nothing interesting about the solution to this puzzle.
+It's just putting blocks in a box.
+And i think one of the things that john blow said in the same interview was that the beauty in puzzles, sort of the amount of beauty, is correlated to how much truth they reveal, right? Or how much information about the universe can be shared with the solver because of that puzzle.
+And this left puzzle is very dense in truth and beauty and this right one is to me it's just a time waster like.
+And there are many many puzzles like this that there's not actually an interesting solution method or an interesting trick.
+It's literally just play around with the thing until it's done.
+And so to me if i'm looking at the aesthetic values of puzzles as a medium, this one on the left the conway shipper's dilemma is at the absolute peak and the one on the right is just bland.
+And it's sometimes hard to tell the difference.
+It's sometimes not easy to.. you know there's no place where puzzles are ranked necessarily according to how truthfulness, how much truth they have, right?
+like um it's something that you know, real nerdy puzzle folks know and will give you recommendations about 
+But it's i think the sort of general vernacular about when people talk about puzzles they like they don't even have the words to describe this, right?
+The fact that this puzzle is better than this one in a way that is deep and meaningful is hard for some people to understand or describe.
+But the way i explain it is just how much truth is there in this puzzle.
+And so you know this is basically a meme but if your goal is creating great puzzles, then focus on communicating those interesting truths to the solver rather than just making the solver feel smart or feel satisfied that they completed a challenge.
 
 that all said different solvers do seek
 
