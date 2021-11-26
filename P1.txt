@@ -1,5 +1,5 @@
 Hey folks!
-So this is a re-record of my gdc talk, which technically hasn't aired yet because it will air in july, but i have already recorded it and sent it off to them/
+So this is a re-record of my gdc talk, which technically hasn't aired yet because it will air in july, but i have already recorded it and sent it off to them.
 This is sort of the extended director's cut of it or or more of the, you know, friends and colleagues version of it.
 I don't think i am allowed to share it publicly but i am sort of going to make a private and more extended version of this talk where i go into more detail on a number of the subjects and also provide a bit more background information because this talk...um 
 Let me put it this way. It is blisteringly fast at 60 minutes and really is sort of like one full university courses worth of knowledge like crammed into a one-hour talk right or even more than that.
@@ -428,491 +428,79 @@ The fact that this puzzle is better than this one in a way that is deep and mean
 But the way i explain it is just how much truth is there in this puzzle.
 And so you know this is basically a meme but if your goal is creating great puzzles, then focus on communicating those interesting truths to the solver rather than just making the solver feel smart or feel satisfied that they completed a challenge.
 
-that all said different solvers do seek
-
-vastly different solving experiences
-
-like
-
-the most popular sudoku books are
-
-actually these just like giant book of a
-
-thousand puzzles
-
-um some people refer to this as computer
-
-generated crap
-
-uh but uh honestly there are people
-
-who've done this for hundreds of hours
-
-and they like it
-
-uh it's because they're seeking a
-
-certain solver experiences some solvers
-
-just want that sort of low dose low
-
-difficulty
-
-uh repetition of the eureka moments they
-
-already know they just want to be
-
-reminded of it and they want to flow
-
-through the puzzles
-
-gradually and feel the accomplishment of
-
-uh
-
-just making progress and solving and
-
-completing all the puzzles in the book
-
-rather than having this sort of you know
-
-high-dose uh roller coaster of
-
-interesting eureka moments that might be
-
-more difficult or might present more
-
-challenge um there are other puzzles
-
-that have
-
-these different aesthetics like the
-
-chinese rings puzzle actually requires
-
-341 steps to solve
-
-um it's it's basically 1024 divided by
-
-three
-
-is how many steps it is uh and uh
-
-the process of going through and solving
-
-it is actually a very deep and
-
-meditative one where you you kind of
-
-have to remember where you are
-
-and you have to like it's sort of like
-
-counting in binary
-
-um and it's it's less about the eureka
-
-moment i mean there is a deep eureka
-
-moment when you're discovering that this
-
-is actually what you have to do
-
-but the process of solving it is more a
-
-process a meditative and slow process of
-
-methodically going through the motions
-
-uh and there are puzzle designers that
-
-have taken this to the extreme this is a
-
-puzzle called the 205 minutes cube
-
-by alexander leontev and it's called the
-
-205 minutes cube because if you're
-
-making one step per second that's how
-
-long it takes you
-
-uh and the way it works is it has all
-
-these little uh
-
-blocks inside with pegs and you kind of
-
-have to like push and pull them out and
-
-you end up counting
-
-up to 3 times 2 to the 12 in binary
-
-in the process of solving this puzzle so
-
-it's quite a grind
-
-but some people really like this this is
-
-an expensive puzzle that people will pay
-
-money for because
-
-they want the experience of just like
-
-solving this thing that takes them a few
-
-hours
-
-uh there are also like logic puzzles
-
-that are the size of a newspaper and
-
-these aren't necessarily
-
-puzzles with sort of unique and
-
-interesting structure that all merges to
-
-one final
-
-climactic ending no it's you can start
-
-anywhere on the grid and just slowly go
-
-through it
-
-but some people like this because they
-
-just want that slow meditative
-
-experience of solving a puzzle and they
-
-want the
-
-excitement at the end of having done
-
-this big project right so
-
-people solve puzzles for different
-
-reasons we try not to judge them
-
-but like understand the sort of
-
-aesthetic goal of what you're creating
-
-and who you're creating it for that's a
-
-part of creating any
-
-any creation in any medium right um so
-
-next lesson is eureka is
-
-shareable uh so this right here is chris
-
-ramsey he runs
-
-the most popular puzzle youtube channel
-
-on youtube where
-
-he's often solving these very
-
-interesting uh sort of trick locks and
-
-contraptions and
-
-things you have to get inside things
-
-that have multiple steps they're they're
-
-often called sequential
-
-discovery puzzles and uh you know here's
-
-an example this puzzle he literally has
-
-to use a
-
-phone that's been wrapped up in this
-
-sort of wooden thing to make it look all
-
-ancient
-
-and there's some ar thing going on where
-
-he has to play a melody with a little
-
-mallet in order to
-
-sort of satisfy the the constraint of
-
-the phone which will then
-
-open up the next part of this puzzle
-
-it's it's wondrous to watch this
-
-uh but the sort of lesson that comes
-
-through these sql
-
-sequential discovery puzzles and every
-
-one of these videos by the way has more
-
-than a million views on youtube right
-
-like they're quite popular
-
-the lesson is that eureka can be fully
-
-experienced by an audience like
-
-all of the excitement of learning and
-
-discovering the things that you learn
-
-and discover solving these puzzles
-
-uh can be seen by the audience and these
-
-videos like some people would regard
-
-them as
-
-spoiler videos for everything right
-
-but the sort of aspect of learning the
-
-truth cannot be
-
-spoiled that moment is the same moment
-
-whether or not
-
-you know you discovered it for yourself
-
-or not it's the fiero that you're
-
-spoiling
-
-and these puzzles are often puzzles that
-
-the audience you know they may never buy
-
-and solve for themselves right there's
-
-so many puzzles out there that you'll
-
-never actually do all of them
-
-so the experience of watching somebody
-
-else do them can be a way of getting the
-
-eureka moments without necessarily
-
-enduring the hours of trying to solve
-
-them yourselves and some people prefer
-
-that experience right like if you can
-
-just spend 20 minutes and get all of the
-
-eureka out of a puzzle
-
-rather than spending three hours trying
-
-to solve it yourself and encountering a
-
-lot of roadblocks and getting stuck but
-
-then ultimately overcoming it
-
-i mean those are two completely
-
-different experiences but in terms of
-
-the value they deliver for time they
-
-offer different things
-
-right so some people may just prefer to
-
-watch somebody solve these puzzles and
-
-learn about them
-
-the next lesson uh also relating to
-
-sequential discovery puzzles is to
-
-create
-
-many eureka moments and this is a puzzle
-
-called the lotus box by will streibos
-
-and it has so many tricks packed into
-
-this little puzzle this thing has
-
-magnets it has hidden compartments it
-
-has a spin move
-
-it has a thing that is secretly two
-
-pieces but looks like it's one piece and
-
-you have to like hold one bit to the
-
-side to kind of provide a little bit of
-
-friction so that you can then pull it
-
-apart
-
-um it has all kinds of stuff buried
-
-inside this one little box i counted
-
-eight separate eureka moments in the
-
-solution of this thing
-
-uh and it's wonderful and that's why
-
-people are willing to sort of
-
-like these things are hard to find you
-
-gotta buy them online and order them
-
-um escape rooms are similar uh if you've
-
-never done an escape room i would
-
-highly encourage you to do them uh you
-
-know if you're in a post-pandemic world
-
-and they're open again
-
-uh you know do five of them honestly
-
-like take your whole team to do them if
-
-you're working on a gamedev team in a
-
-puzzle-heavy game
-
-uh they tend to have about 10 to 15
-
-puzzles in one hour
-
-they're very intense they're high dose
-
-experiences not just because of the time
-
-pressure but also just because of the
-
-sheer amount of content
-
-they're often extremely dopaminergic
-
-highly memorable
-
-so they can be kind of addictive there
-
-are people that you know oh i've done
-
-400 escape rooms right
-
-they literally have their tally and you
-
-know their their credo amongst
-
-themselves is never think about the
-
-total amount you've spent on them
-
-um but escape rooms were a two billion
-
-dollar year
-
-industry in the us alone in 2019 and
-
-that was sort of the biggest
-
-they were still growing in fact before
-
-the pandemic hit and
-
-who knows whether they will come back to
-
-that extent afterwards
-
-um but i highly recommend them and i
-
-have had
-
-wonderful fascinating experiences i have
-
-done escape rooms where i've had to
-
-crawl around on my hands and knees and
-
-sniff things
-
-in order to solve a puzzle related to
-
-sniffing and it was a
-
-a puzzle themed after being a cat
-
-escape rooms take you in in wonderful
-
-places and
-
-i think as a game designer you can learn
-
-a lot from what they've done now the
-
-interesting thing about escape rooms is
-
-that many of the people who are working
-
-on these
-
-they didn't start in puzzle design they
-
-may have started in
-
-in like theater set design or maybe they
-
-were designing haunted houses or they
-
-were working on the tech
-
-for you know uh making stuff pop out at
-
-you at a haunted house right
-
-and they've applied that to creating
-
-this escape room
-
-but yeah escape rooms are great i'm
-
-going to pause the recording now i will
-
-start part 2 in just a sec
+That all said different solvers do seek vastly different solving experiences.
+Like the most popular sudoku books are actually these just like giant book of a thousand puzzles.
+Some people refer to this as computer generated crap.
+But honestly, there are people who've done this for hundreds of hours and they like it.
+It's because they're seeking a certain solver experiences.
+Some solvers just want that sort of low dose, low difficulty, repetition of the eureka moments they already know.
+They just want to be reminded of it and they want to flow through the puzzles gradually and feel the accomplishment of just making progress and solving and completing all the puzzles in the book rather than having this sort of, you know,  high-dose roller coaster of interesting eureka moments that might be more difficult or might present more challenge.
+There are other puzzles that have these different aesthetics like the chinese rings puzzle actually requires 341 steps to solve.
+It's basically 1024 divided by three, is how many steps it is.
+And the process of going through and solving it is actually a very deep and meditative one where you you kind of have to remember where you are and you have to like it's sort of like counting in binary.
+And it's less about the eureka moment.
+I mean there is a deep eureka moment when you're discovering that this is actually what you have to do.
+But the process of solving it is more a process, a meditative and slow process of methodically going through the motions.
+And there are puzzle designers that have taken this to the extreme.
+This is a puzzle called the 205 minutes cube by Aleksandr Leontev.
+And it's called the 205 minutes cube because if you're making one step per second, that's how long it takes you.
+And the way it works is it has all these little blocks inside with pegs and you kind of have to like push and pull them out and you end up counting up to 3×2^12 in binary in the process of solving this puzzle so it's quite a grind.
+But some people really like this.
+This is an expensive puzzle that people will pay money for because they want the experience of just like solving this thing that takes them a few hours.
+There are also like logic puzzles that are the size of a newspaper and these aren't necessarily puzzles with sort of unique and interesting structure that all merges to one final climactic ending.
+No, it's you can start anywhere on the grid and just slowly go through it。
+But some people like this because they just want that slow meditative experience of solving a puzzle and they want the excitement at the end of having done this big project, right?
+So people solve puzzles for different reasons. 
+We try not to judge them, but like understand the sort of aesthetic goal of what you're creating and who you're creating it for that's a part of creating any any creation in any medium, right?
+
+Next lesson is eureka is shareable.
+So this right here is chris ramsey.
+He runs the most popular puzzle youtube channel on youtube where he's often solving these very interesting sort of trick locks and contraptions and things you have to get inside things that have multiple steps.
+They're often called sequential discovery puzzles.
+And you know here's an example.
+This puzzle he literally has to use a phone that's been wrapped up in this sort of wooden thing to make it look all ancient and there's some AR thing going on where he has to play a melody with a little mallet in order to sort of satisfy the the constraint of the phone which will then open up the next part of this puzzle.
+It's wondrous to watch this, but the sort of lesson that comes through these sequential discovery puzzles.
+And every one of these videos by the way has more than a million views on youtube, right?
+Like they're quite popular,
+The lesson is that eureka can be fully experienced by an audience like all of the excitement of learning and discovering the things that you learn and discover solving these puzzles can be seen by the audience.
+And these videos like some people would regard them as spoiler videos for everything, right?
+But the sort of aspect of learning the truth cannot be spoiled that moment is the same moment whether or not you know you discovered it for yourself or not.
+It's the fiero that you're spoiling.
+And these puzzles are often puzzles that the audience you know they may never buy and solve for themselves, right?
+There's so many puzzles out there that you'll never actually do all of them.
+So the experience of watching somebody else do them can be a way of getting the eureka moments without necessarily enduring the hours of trying to solve them yourselves.
+And some people prefer that experience, right? 
+Like if you can just spend 20 minutes and get all of the eureka out of a puzzle rather than spending three hours trying to solve it yourself and encountering a lot of roadblocks and getting stuck but then ultimately overcoming it.
+I mean those are two completely different experiences but in terms of the value they deliver for time, they offer different things, right?
+So some people may just prefer to watch somebody solve these puzzles and learn about them.
+
+The next lesson also relating to sequential discovery puzzles is to create many eureka moments.
+And this is a puzzle called the lotus box by Will Strijbos and it has so many tricks packed into this little puzzle.
+This thing has magnets. It has hidden compartments. It has a spin move.
+It has a thing that is secretly two pieces but looks like it's one piece and you have to like hold one bit to the side to kind of provide a little bit of friction so that you can then pull it apart.
+It has all kinds of stuff buried inside this one little box. 
+I counted eight separate eureka moments in the solution of this thing and it's wonderful and that's why people are willing to sort of like...
+These things are hard to find. You gotta buy them online and order them.
+Escape rooms are similar.
+If you've never done an escape room, I would highly encourage you to do them, you know, if you're in a post-pandemic world and they're open again.
+You know, do five of them honestly like take your whole team to do them if you're working on a gamedev team in a puzzle-heavy game.
+They tend to have about 10 to 15 puzzles in one hour.
+They're very intense. They're high dose experiences not just because of the time pressure but also just because of the sheer amount of content.
+They're often extremely dopaminergic, highly memorable.
+So they can be kind of addictive.
+There are people that you know, "oh i've done 400 escape rooms", right?
+They literally have their tally and you know, their their credo amongst themselves is never think about the total amount you've spent on them.
+But escape rooms were a two billion dollar year industry in the US alone in 2019.
+And that was sort of the biggest.
+They were still growing in fact before the pandemic hit and who knows whether they will come back to that extent afterwards.
+But I highly recommend them and I have had wonderful fascinating experiences.
+I have done escape rooms where i've had to crawl around on my hands and knees and sniff things in order to solve a puzzle related to sniffing.
+And it was a a puzzle themed after being a cat.
+Escape rooms take you in wonderful places and I think as a game designer you can learn a lot from what they've done.
+Now the interesting thing about escape rooms is that many of the people who are working on these. 
+They didn't start in puzzle design.
+They may have started in like theater set design or maybe they were designing haunted houses or they were working on the tech for you know making stuff pop out at a haunted house, right?
+And they've applied that to creating this escape room.
+But yeah escape rooms are great.
+I'm going to pause the recording now. I will start part 2 in just a sec...
 
