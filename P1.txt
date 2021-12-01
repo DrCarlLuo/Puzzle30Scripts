@@ -1,220 +1,580 @@
 Hey folks!
-So this is a re-record of my gdc talk, which technically hasn't aired yet because it will air in july, but i have already recorded it and sent it off to them.
-This is sort of the extended director's cut of it or or more of the, you know, friends and colleagues version of it.
-I don't think i am allowed to share it publicly but i am sort of going to make a private and more extended version of this talk where i go into more detail on a number of the subjects and also provide a bit more background information because this talk...um 
-Let me put it this way. It is blisteringly fast at 60 minutes and really is sort of like one full university courses worth of knowledge like crammed into a one-hour talk right or even more than that.
-So, it's tough to get it all into one talk and the the point of this talk is to provide information for video game puzzle designers that is useful and relevant from the realm of traditional puzzle design.
-And i sort of live in the intersection of both of these worlds and so it was an interesting opportunity to make this talk.
-And in fact i'm working at some point you know, a decade from now i'll write a book on this topic.
-But i've been working on a series of lectures on the topic and this is sort of a very condensed version of like 30 to 40 lectures on puzzle design topics, which you know, i will get around to recording whenever i'm not too busy with all my other projects.
+朋友们好
+So this is a re-record of my GDC talk, which technically hasn't aired yet
+这是我之前在GDC上的讲座的重置版，实际上之前的讲座还没有播出
+because it will air in July, but i have already recorded it and sent it off to them.
+它将在7月播出，但我已经录好发给他们了
+This is sort of the extended director's cut of it or more of the, you know, friends’ and colleagues’ version of it.
+这算是我讲座的一个加长的导演剪辑版，或者说给朋友同事看的版本
+I don't think I am allowed to share it publicly but I am sort of going to make a private and more extended version of this talk 
+我觉得我应该不能公开分享这个讲座，不过我打算做一个更个人的、更扩展的版本
+where I go into more detail on a number of the subjects and also provide a bit more background information 
+这次我会对一些主题进行更深入讨论并且提供更多背景信息
+because this talk...Let me put it this way. 
+因为之前那次讲座...我这么说吧
+It is blisteringly fast at 60 minutes 
+在60分钟之内讲得超级快
+and really is sort of like one full university courses worth of knowledge like crammed into a one-hour talk right or even more than that.
+基本相当于把一门完整大学的课程塞到1个小时的讲座中，可能还更多
+So, it's tough to get it all into one talk
+所以要把这些内容全部纳入一个讲座中是很困难的
+and the point of this talk is to provide information for video game puzzle designers 
+这个讲座的重点是为电子游戏设计师提供一些
+that is useful and relevant from the realm of traditional puzzle design
+来自传统谜题设计领域的有用和相关信息
+and I sort of live in the intersection of both of these worlds and so it was an interesting opportunity to make this talk
+我算是在这两个领域的交叉点上，所以做这个演讲是一个很有趣的机会
+and in fact I’m working at some point you know, a decade from now I'll write a book on this topic
+事实上我可能在十年之后写一本关于这个主题的书
+but I've been working on a series of lectures on the topic 
+不过我一直在做关于这个话题的系列讲座
+and this is sort of a very condensed version of like 30 to 40 lectures on puzzle design topics, which you know, 
+这次这个算是一个包含了30到40个谜题设计讲座的浓缩版本
+I will get around to recording whenever I’m not too busy with all my other projects.
+只要我不忙于项目的时候，我就会录制一些这样的讲座
 
 But anyway, that's all the preamble. Let's get on with the show.
-So this is me and this is me at an event called the world puzzle championship.
-This was back in 2019. It was in germany and those folks with me are team Canada from that year.
-World puzzle championship is sort of an olympiad style puzzle-solving event.
+无论如何，前言就到这里。让我们开始吧
+So this is me and this is me at an event called the World Puzzle Championship.
+所以，这是我在一个叫做 世界谜题锦标赛 的比赛上的照片
+This was back in 2019. It was in Germany and those folks with me are team Canada from that year.
+这是2019年的时候。当时是在德国举行的，和我一起的那些人是当年的加拿大队。
+World Puzzle Championship is sort of an Olympiad style puzzle-solving event.
+世界谜题锦标赛是一个算是奥运会式的解谜比赛。
 Every country sends a team of their representatives and there's different events both solo as well as team events.
-I was 29th in the world that year and first overall among the canadians.
+每个国家都会派出一支代表队，有不同的比赛项目，有单人项目，也有团体项目。
+I was 29th in the world that year and first overall among the Canadians.
+那年我在世界排名第29位，在加拿大队中排第一。
 
 This is one example of a team event from the sudoku competition.
+这是团队赛里数独比赛的一个例子
 They have a puzzle round as well as a sudoku round.
-There sort of different for historical reasons because sudoku got so popular that it split off into its own event.
+他们有解谜赛和单独的数独赛。
+There’s sort of different for historical reasons because sudoku got so popular that it split off into its own event.
+这两个分开是由于历史原因，因为数独太受欢迎了，所以就把它分成了单独的赛事。
 In this particular event, you had to solve these interacting sudoku pieces in the form of a trophy, 
+在图中这个比赛中，你要去解决这些呈一个奖杯形状的互相影响的数独碎片。
 which you then had to assemble in the correct manner while also obeying all of the constraints of all of the puzzle
-And you know the correct way of doing this was to figure out how the puzzle pieces had to fit together solve them and then assemble them.
+你必须以正确的方式将其组装起来，同时还得遵守谜题的所有约束。
+And you know, the correct way of doing this was to figure out how the puzzle pieces had to fit together,
+你知道，正确方法应该是先弄清楚这些数独碎片是怎么相连的
+solve them, and then assemble them.
+接着单独解决它们，然后再把它们组装起来
 If you did that in the wrong order then you ended up with this where you had to assemble it and then figure out the solution to the puzzles.
+如果你做的顺序不对，那么就会出现这种情况，你先把它装起来了，然后在上面解出答案。
 
 Here's another example from a previous year.
+这是前一年的另一个例子。
 This was 2014 and it is a team chess puzzle where you're sort of standing around on squares.
+这是在2014年，这是一个团队国际象棋谜题。你得站在棋盘格子上
 And there's sort of different things you have to do with the pieces.
+用这些来做各种各样的事情。
 My team came third in this event overall and that was a lot of fun.
-I mean traditionally, world puzzle championship also has just sort of a lot of exam-style like paper puzzles where you're sitting down and trying to solve a bunch of puzzles in the time.
+我们团队这场比赛中获得季军，这很有乐趣。
+I mean traditionally, world puzzle championship also has just sort of a lot of exam-style 
+传统上，世界谜题锦标赛里也有很多考试式的解谜
+like paper puzzles where you're sitting down and trying to solve a bunch of puzzles in the time.
+比如那种得坐下来在规定时间内解决一系列谜题的纸上解谜
 It's actually that the main event lasts three days and there's like 20 rounds of puzzle solving.
-It's kind of a brutal endurance of the brain but a fantastic event and one of my favorite things in the world is to go to world puzzle championship.
+实际上，大赛的主要赛事持续三天，有大概20轮的解谜比赛。
+It's kind of a brutal endurance of the brain but a fantastic event 
+这是一种残酷大脑耐力挑战，但也是一个很棒的活动
+and one of my favorite things in the world is to go to world puzzle championship.
+我最喜欢的事情之一就是去参加世界谜题锦标赛
 
 Some additional background on me in addition to that.
+除此之外，这里还有一些关于我的背景介绍
 I love doing puzzle speed running.
-This was a world record time i got in a game called a Monsters Expedition.
+我喜欢速通解谜
+This was a world record time I got in a game called a Monsters Expedition.
+这是我在一个叫《怪物远征》的游戏中获得的世界纪录。
 And that was achieved through all kinds of sequence breaks and breaking the game and finding ways to solve puzzles that the designers didn't expect.
-I also have a world record in a quite obscure category of Tetris, Japanese arcade Tetris.
+而这是通过各种顺序的突破和打破常规解法，找到设计者没有想到的解法而取得的。
+I also have a world record in a quite obscure category of Tetris, Japanese Arcade Tetris.
+我还在一个相当不出名的俄罗斯方块类别中有世界纪录，日本街机俄罗斯方块。
 But yeah, so I like puzzle solving. I did a little bit of poker playing. I played in the world series of poker.
-I actually had a background before i did puzzles in math olympiads and cs olympiads.
-And I have three math degrees. I went to mit. So i'm a bit of a nerd.
+是的，我喜欢解谜。我也玩玩扑克，我参加过世界扑克大赛。
+I actually had a background before I did puzzles in math Olympiads and cs Olympiads.
+实际上，在我做谜题设计之前，我有数学奥林匹克竞赛和信息学奥林匹克竞赛的背景。
+And I have three math degrees. I went to MIT. So I’m a bit of a nerd.
+我有三个数学学位，我在麻省理工上过学。所以我有点书呆子
 
-On top of that, I also create puzzles you know this is a puzzle where you have to slice this shape into pentominos.
-No two adjacent pentominos can be the same shape.
-This is a puzzle. It's just a wooden assembly puzzle that i've made.
-I've had a lot of puzzle work published in online collections of puzzles as well as on different puzzle blogs and sites over the internet grandmaster puzzles, etological enigma that sort of thing.
+On top of that, I also create puzzles you know this is a puzzle where you have to slice this shape into pentominoes.
+除此之外，我也设计了许多谜题。这是一个你得把这个形状切成五格骨牌的谜题。
+No two adjacent pentominoes can be the same shape.
+并且相邻的两个五格骨牌得是不同的形状。
+This is a puzzle. It's just a wooden assembly puzzle that I've made.
+这是一个拼图。这我做的一个木制的组装拼图。
+I've had a lot of puzzle work published in online collections of puzzles as well as on different puzzle blogs and sites over the internet
+我有许多谜题作品发布在网上的谜题集、解谜博客还有一些网站上
+Grandmaster Puzzles, Etological Enigma that sort of thing.
+比如在Grandmaster Puzzles上，Etological Enigma(?)之类的。
+（译者注：Grandmaster Puzzles[gmpuzzles.com]，后面一个"Etological Enigma"没听出来是什么）
 My style I like very visual puzzles and puzzles that have unique themes that have a bit of sparkle or enticement to them visually.
-and i like to surprise and delight people with the types of things that come out of these setups.
-I've also been featured on cracking the cryptic which i think is sort of the biggest youtube channel for logic puzzles.
+至于我的风格，我喜欢非常有视觉效果的谜题，以及有独特主题的、在外表上有一定的闪光点或诱惑力的谜题
+and I like to surprise and delight people with the types of things that come out of these setups.
+我喜欢用这些设计来给人们带来惊喜和快乐。
+I've also been featured on cracking the cryptic which I think is sort of the biggest YouTube channel for logic puzzles.
+我也参与过 "Cracking The Cryptic"的合作，这个频道我认为算是油管上最大逻辑解谜频道。
 This is sort of one of my puzzles that was featured there.
+这是我的一个谜题，在那里被介绍过。
 
-uh yeah, so i'm actually i'm kind of a huge puzzle nerd.
-I'm actually on the hosting committee for world puzzle championship which will be in toronto in what was originally going to be 2021 and now maybe actually 2023.
-Because we may have lost two years of world puzzle championships due to the pandemic.
+uh yeah, so I’m actually I’m kind of a huge puzzle nerd.
+所以，是的，我实际上是一个解谜方面的超级Nerd
+I'm actually on the hosting committee for world puzzle championship 
+我也是世界谜题锦标赛的主办委员会成员
+which will be in Toronto in what was originally going to be 2021 and now maybe actually 2023.
+下一届原定于2021年在多伦多举行，现在可能要到2023年去了。
+because we may have lost two years of world puzzle championships due to the pandemic.
+由于疫情我们已经两年没有办比赛了。
 We'll see how that goes.
+我们会看到时候情况如何。
 
 I've had a lot of experience mentoring other puzzle designers and consulting on some video game puzzle design.
-And i'm working as I mentioned at the start on the lecture series and then possibly one day a textbook on the topic of puzzle design.
-But i also have a day job and my day job is I run a video game studio called Lunarch, which we founded in 2013.
+我有很多指导其他谜题设计师的经验，并为一些游戏的谜题设计提供咨询。
+and I’m working as I mentioned at the start on the lecture series and then possibly one day a textbook on the topic of puzzle design.
+而且正如我开头提到的，我在做一下谜题设计的讲座，我可能有一天会写一本教科书。
+But I also have a day job and my day job is I run a video game studio called Lunarch, which we founded in 2013.
+不过我也有日常工作，经营一家成立于2013年的，名为Lunarch的游戏工作室。
 Right now the studio has about 15 full-time developers and we are working on our third game.
-To give you a background on Lunarch, our first game was prismata which was a sort of puzzly turn-based strategy game.
+现在工作室有大约15名全职开发人员，我们正在开发我们的第三款游戏。
+To give you a background on Lunarch, our first game was Prismata 
+介绍一下Lunarch的背景，我们的第一个游戏是《Prismata》
+which was a sort of puzzly turn-based strategy game.
+这是一个带解谜性质的回合制策略游戏。
 That is the type of game that you could think many moves ahead because there's no randomness and no hidden information.
+是一种你可以提前考虑很多步的游戏，因为里面没有随机性、没有隐藏的信息。
 I also developed many puzzles for this game. 
-The single-player mode is very puzzly but there's also a puzzle mode that has different challenges where there's sort of only one solution or a unique order in which you have to do things in the context of a strategy game where you're managing resources and choosing which guys are attacking and defending.
-Our second game is jelly is sticky, which is mostly a solo project of david ree who's one of our other developers.
-But I made about half the levels in the game.
-It is a sokobon style block pushing puzzle game which is coming out sometime this summer.
-I mean maybe by the time gdc rolls around this will be out or close to being out.
-we're sort of in the last legs of polishing it up.
+我也为这个游戏设计了许多谜题。
+The single-player mode is very puzzly but there's also a puzzle mode that has different challenges 
+游戏的单人游戏模式已经很有解谜性质，不过也有一个专门的谜题模式，里面有一些不同的挑战
+where there's sort of only one solution or a unique order in which you have to do things in the context of a strategy game where you're managing resources and choosing which guys are attacking and defending.
+这里面的谜题是在策略游戏中管理资源规划部队这样的背景下的，那种只有一种解法或有特定顺序的谜题
+Our second game is Jelly Is Sticky, which is mostly a solo project of David Ree who's one of our other developers.
+我们的第二个游戏是《Jelly Is Sticky》，这主要是David Ree的个人项目，他是我们的开发者之一。
+but I made about half the levels in the game.
+不过游戏中大约一半的关卡是我做的。
+It is a Sokobon-style block pushing puzzle game which is coming out sometime this summer.
+这是一个推箱子式的解谜游戏，将在今年夏天的某个时候发售。
+I mean maybe by the time GDC rolls around, this will be out or close to being out.
+大概也许到下次GDC的时候，这个游戏就会发售或者接近发售。
+We're sort of in the last legs of polishing it up.
+我们正处于打磨游戏的最后阶段。
 
-Game number three is we're doing a 100 player open world multiplayer puzzle game.
-Through like our goal in publishing this game is to have 10,000 handmade puzzles in the game amongst dozens of puzzle types both logic puzzles as well as sort of physical in universe 3d puzzles.
-And we're working with dozens of puzzle creators to create the content for this game.
-And in the process of making this game I have interviewed, hired and worked with dozens of different puzzle designers.
-and puzzle designers come in all flavors like some of these folks i'm working with are doing logic puzzles or they've had stuff published in new york times crossword.
-They've done chess compositions which are like chess puzzles.
-Some of them have designed content for escape rooms or puzzles for things like MIT mystery hunt.
+Game number three is we're doing a 100-player open world multiplayer puzzle game.
+第三个游戏是我们正在开发的一个百人开放世界的多人解谜游戏。
+Like our goal in publishing this game is to have 10,000 handmade puzzles in the game 
+到游戏发布时我们的目标是在游戏中有一万个纯人工设计的谜题，
+amongst dozens of puzzle types both logic puzzles as well as sort of physical in universe 3d puzzles.
+里面有几十种不同的谜题类型，包括逻辑解谜以及在宇宙中的物理3D解谜
+and we're working with dozens of puzzle creators to create the content for this game.
+我们正在与几十位谜题创作者合作，为这个游戏创作内容。
+and in the process of making this game I have interviewed, hired, and worked with dozens of different puzzle designers.
+而且在制作这个游戏的过程中，我采访、聘请了几十位不同的谜题设计师，并与他们合作。
+and puzzle designers come in all flavors like some of these folks I’m working with are doing logic puzzles 
+这些谜题设计师有各自不同的风格，比如我合作的有些人是做逻辑谜题的，
+or they've had stuff published in New York Times crossword,
+或者是在《纽约时报》填字游戏上发表过的
+they've done chess compositions which are like chess puzzles.
+他们有的是研究国际象棋棋谜的，比如象棋谜题
+Some of them have designed content for escape rooms or puzzles for things like MIT Mystery Hunt.
+他们中的一些人曾为密室逃脱设计过内容的，或是为MIT Mystery Hunt设计过谜题
+（译者注：MIT Mystery Hunt是全世界最大的、历史最悠久的puzzlehunt，每年1月举行一次，官网：mit.edu/~puzzle/）
 Many of them have designed physical puzzles.
-I'm also working with a number of game designers who worked on indie puzzle games sort of like their own solo indie puzzle projects or have done level design for small indie puzzle games.
+他们中的许多人都设计过物理谜题。
+I'm also working with a number of game designers who worked on indie puzzle games 
+我也在和一些制作独立解谜游戏的设计师合作
+sort of like their own solo indie puzzle projects or have done level design for small indie puzzle games.
+他们算是在制作自己的个人独立解谜游戏项目或者是为小的独立解谜游戏做过关卡设计
 
-I've also interviewed a number of level designers for AAA games that have done sort of more puzzly type, you know, layouts and level design for action adventure like Zelda style games that have puzzles in them that sort of thing.
-And through the process of meeting and interacting with all of these people, one of the thing that i've learned is that the approach taken by sort of traditional game designers and level designers versus puzzle designers.
-Well let's just say, there's an ocean of difference in how they approach the task of creating the puzzles.
-And something else that i learned is that most traditional puzzle designers have actually never worked on video games.
-And most video game designers don't really have much of a background in traditional puzzle design.
-Even those who are assigned the task of creating puzzles for games they're often just game designer, level designer with sort of a more generalist background.
-And suddenly they're immersed in this task of creating a puzzle and they don't necessarily know what to do or even what resources to turn to learn what to do, because there aren't that many of out there.
+I've also interviewed a number of level designers for AAA games that have done sort of more puzzly type, you know,
+我还采访了一些带有解谜性质的3A游戏的关卡设计师，
+layouts and level design for action adventure like Zelda style games that have puzzles in them that sort of thing.
+他们给类似塞尔达风格的动作冒险游戏设计带有谜题的关卡设计和布局之类的
+And through the process of meeting and interacting with all of these people, 
+通过与这些人的会面交流，我了解到的一件事是
+one of the things that I’ve learned is that the approach taken by sort of traditional game designers and level designers versus puzzle designers.
+传统的游戏设计师和关卡设计师对比电子游戏设计师之间
+Well, let's just say, there's an ocean of difference in how they approach the task of creating the puzzles.
+这么说吧，他们在创造谜题的方法上有非常大的不同。
+and something else that I learned is that most traditional puzzle designers have actually never worked on video games.
+我还了解到，大多数传统的谜题设计师实际上从未在电子游戏领域中工作过。
+and most video game designers don't really have much of a background in traditional puzzle design.
+而大多数电子游戏设计师也没有什么传统谜题设计的背景。
+Even those who are assigned the task of creating puzzles for games 
+即便是那些被安排去给（电子）游戏设计谜题的人
+they're often just game designer, level designer with sort of a more generalist background.
+他们通常也只是一般的全面的游戏设计师，关卡设计师
+and suddenly they're immersed in this task of creating a puzzle and they don't necessarily know what to do 
+然后突然间，他们就沉浸在创作谜题的任务中，而他们不一定知道该怎么做
+or even what resources to turn to learn what to do, because there aren't that many of out there.
+甚至不知道该找什么资源来学习，因为并没有那么多学习谜题设计的资源能找得到
 But puzzle design is actually a very rich topic with a history of hundreds of years.
+但是，谜题设计实际上是一个非常丰富的话题，有几百年的历史。
 Humans have been creating puzzles for probably as long as we had language.
+人类从有语言开始就一直在创造谜题。
 But you know there's records of puzzles dating back thousands of years.
-And even some of the more famous puzzles that we know today like the the Chinese rings puzzle or the Baguenaudier puzzle that dates back hundreds of years.
+有关于谜题的记录可以追溯到几千年前。
+and even some of the more famous puzzles that we know today 
+甚至一些我们今天知道的更有名的谜题
+like the Chinese rings puzzle or the Baguenaudier puzzle that dates back hundreds of years.
+如九连环，就可以追溯到几百年前。
+（译者注：九连环，传说起源于战国时期，现存最早记录为明代，西方称之为"Chinese rings"或"Baguenaudier"）
 So do magic squares.
+幻方也是如此。
+
 
 The problem is that puzzle design knowledge is very siloed.
-And there's sort of these different sub areas, you know the crossword people the escape room people.
-And they all have their own vocabulary, their own puzzle construction techniques and their own best practices and aesthetic inclinations that they don't really share widely. 
+问题是，谜题设计知识是非常孤立的。
+and there's sort of these different sub areas, you know the crossword people, the escape room people.
+（谜题设计）有一些不同的小领域，比如做填字游戏的人和做密室逃脱的人
+and they all have their own vocabulary, their own puzzle construction techniques and their own best practices and aesthetic inclinations
+他们都有自己的术语，自己的谜题构造技术，自己的最佳实践方式和审美倾向
+that they don't really share widely. 
+这些他们都不会广泛分享
 This knowledge isn't available in one source you know.
-For example, traditional puzzle designers for a lot of types of logic puzzles, they may hate puzzles with multiple solutions, whereas game developers working on traditional adventure games, like text adventures and point-and-click adventures, they often loved putting multiple solutions in their puzzles.
-And so the the sort of aesthetics or the choices vary between these communities.
+这些知识并不是只有一个来源
+For example, traditional puzzle designers for a lot of types of logic puzzles, they may hate puzzles with multiple solutions, 
+比如，传统谜题设计者在许多类型的逻辑谜题上，他们可能会讨厌有多种解法的谜题
+whereas game developers working on traditional adventure games, like text adventures and point-and-click adventures, 
+而从事传统冒险游戏的游戏开发者，比如做文字冒险和点击冒险的
+they often loved putting multiple solutions in their puzzles.
+他们又通常喜欢在谜题中加入多种解法
+And so the sort of aesthetics or the choices vary between these communities.
+因此，这些圈子之间的审美或选择是不同的
 It's not just because they have their own personalities. 
+这不仅仅是因为他们有自己的个性
 It's because those choices fit the medium that they are working in.
-So often you'll get uh two puzzle designers from different areas working on something and they'll have completely different approaches or instincts, as to whether like we should make this puzzle unique or we should not have a unique solution.
+而是因为那些选择适合他们所从事的媒介。
+So often you'll get two puzzle designers from different areas working on something and they'll have completely different approaches or instincts, 
+所以你经常会看到两个来自不同领域的谜题设计师在创作时，会有完全不同的方法或直觉
+as to whether like we should make this puzzle unique or we should not have a unique solution.
+比如是否应该让这个谜题独一无二，或者是否该有唯一的解法
 And there are pros and cons to both and reasons why those aesthetic inclinations exist in those sub areas. Right?
+这两种方法都有其优缺点，而且这些审美倾向存在于这些小领域是有原因的。
+
 
 So anyways the goal of this talk.
-It's themed around 30 rapid-fire lessons, but it's really to introduce traditional puzzle design theory and sort of the language of traditional puzzle design as well as to expose a few of the sort of secret design techniques that puzzle designers use and show applications to video game puzzles.
+不管怎样，关于这次讲座的目的
+It's themed around 30 rapid-fire lessons, but it's really to introduce traditional puzzle design theory and sort of the language of traditional puzzle design 
+讲座围绕30节速成课，主要是为游戏设计师介绍传统谜题设计理论和一些术语
+as well as to expose a few of the sort of secret design techniques that puzzle designers use and show applications to video game puzzles.
+以及揭露一些谜题设计师使用的秘密设计技术，并展示如何在电子游戏中来应用。
 So in other words we're going to bust open the silos and try to reveal a little bit of that knowledge inside there.
+因此，换句话说，我们将打破领域之间的孤立，试图揭示一点里面的知识
 Before we do that, I do want to give credit where credit is due to game and level designers and what they do really well.
+在开始之前，我确实想把功劳归于电子游戏和关卡设计师，以及他们做得非常好的地方
 Traditional game designers are great at inventing rule sets and sort of iterating on levels via play testing.
+电子游戏设计师在创造规则集和通过测试来迭代关卡这方面非常出色
+（译者注：根据上下文，这一段中"traditional game designer"指的[电子游戏领域的“传统”设计师]，而"Traditional puzzle designer"指的[设计“传统的”非游戏领域谜题的设计师]，为避免歧义，下面按照容易理解的方式来翻译）
 They're great at sequencing things and sort of creating a build up to an exciting moment.
-They're great at watching people playtest the game and adjust the difficulty in order to sort
-of remove stuck points and allow lots of players to get through a challenge.
-They're good at creating fun through, you know, what game design people call flow that sort of experience of being in the zone where the level of challenge is just right, so that you feel like you're accomplishing something, but you're not bogged down by getting stuck.
-And I think traditional game designers are good at doing this.
+他们很擅长安排事情的顺序，并创造构建出令人兴奋的时刻
+They're great at watching people playtest the game and adjust the difficulty 
+他们善于观察人们对游戏的试玩，并据此调整难度
+in order to sort of remove stuck points and allow lots of players to get through a challenge.
+以便消除卡关点，让许多玩家通过挑战
+They're good at creating fun through, you know, what game design people call “flow”
+他们善于通过游戏设计师所说的“心流”，来创造乐趣
+that sort of experience of being in the zone where the level of challenge is just right, 
+即关卡的难度挑战程度处在刚刚好的区域的那种体验
+so that you feel like you're accomplishing something, but you're not bogged down by getting stuck.
+这样你既会觉得在顺利完成一些事情，也不会因为卡关而被困住。
+and I think traditional game designers are good at doing this.
+而我认为电子游戏设计师很擅长做到这一点
 There are problems with this approach, right?
+不过这种方法也些有问题，是吧？
 You might stand off all of the interesting difficulty of your game if you have a linear puzzle sequence that you don't want anybody to get stuck on, right?
+如果你设计一个不希望任何人被卡住的线性谜题序列，那你可能就得去掉游戏里一些有趣的困难挑战，是吧？
 There's all kinds of ways in which this approach will fall short.
-And the thing that I think traditional puzzle designers do best is almost completely orthogonal to that, which is they identify powerful eureka moments and they create impactful setups for those eureka moments.
-And this to me is sort of the unique skill of a puzzle designer is being good at just this one thing.
-And puzzle design is also a skill that's very transferable, like people who are good at designing logic puzzles are also often very good at designing crosswords and escape rooms and physical puzzles and chess puzzles and that sort of thing
-Like this is a transferable skill and it can also be transferred to that of video game puzzles which is something that we learned after hiring a lot of these traditional puzzles and just throwing a game stuff and realizing yeah that the content they make is great.
-You know i would encourage any game developer or game director who's trying to create puzzles for a game to consider hiring traditional puzzle designers, even if you know they're not experienced at your game engine or whatever it is you're using.
-You know, find other people that they can work with in order to make that happen but hire traditional puzzle designers and let them do their thing and you'll see that they'll be able to create interesting stuff no matter what the sort of constraints or the universe you're in is.
+这种方法有各种各样的不足之处。
+And the thing that I think traditional puzzle designers do best is almost completely orthogonal to that, 
+而我认为传统谜题设计者做得最好的事情是和上面的做法完全垂直的
+which is they identify powerful eureka moments and they create impactful setups for those eureka moments.
+那就是他们会识别出强有力的尤里卡时刻，并为这些尤里卡时刻制作有冲击力的设计。
+（译者注：讲座后面第1课会给出尤里卡时刻的定义）
+and this to me is sort of the unique skill of a puzzle designer is being good at just this one thing.
+对我来说，这就是传统谜题设计师的独特技能，就在这一点上他们非常擅长。
+and puzzle design is also a skill that's very transferable, 
+而谜题设计也是一种很容易迁移发散的技能
+like people who are good at designing logic puzzles are also often very good at designing crosswords and escape rooms and physical puzzles and chess puzzles and that sort of thing
+比如擅长设计逻辑谜题的人往往也非常擅长设计填字游戏、密室逃脱、物理谜题和象棋谜题等等。
+Like this is a transferable skill and it can also be transferred to that of video game puzzles
+既然这是一种可迁移的技能，那它也可以应用到电子游戏的谜题上
+which is something that we learned after hiring a lot of these traditional puzzles 
+我们是在聘请了许多传统谜题设计师之后认识到这一点的
+and just throwing a game stuff and realizing yeah that the content they make is great.
+我们把关于电子游戏的东西交给他们做，然后我们意识到他们做出来的东西非常棒
+You know I would encourage any game developer or game director who's trying to create puzzles for a game to consider hiring traditional puzzle designers, 
+我会鼓励任何在为游戏制作谜题的开发者或制作人，去考虑雇用传统谜题设计师
+even if you know they're not experienced at your game engine or whatever it is you're using.
+即便他们在使用游戏引擎或你开发用的工具方面没有经验
+You know, find other people that they can work with in order to make that happen but hire traditional puzzle designers and let them do their thing 
+你可以找些开发人员来负责具体实现，但聘请传统谜题设计师来让他们做他们自己的事情
+and you'll see that they'll be able to create interesting stuff no matter what the sort of constraints or the universe you're in is.
+你就会看到他们能创造出非常有趣的东西，不论你游戏有如何的限制或游戏的世界观如何
 
 Anyways, so on with the 30 lessons.
-Lesson number one is eureka moments are the atoms of puzzles.
-And really this lesson is just an excuse to define eureka moment, which to me is the most important definition in all of puzzle design.
+无论如何，现在开始讲这30堂课吧
+Lesson number one is “eureka moments are the atoms of puzzles”.
+第一课是“尤里卡时刻是谜题的基本组成部分（原子）”。
+and really this lesson is just an excuse to define eureka moment, which to me is the most important definition in all of puzzle design.
+实际上，这一节课只是用来定义一下 "尤里卡时刻 "是什么。对我来说，这是所有谜题设计中最重要的定义。
 A eureka moment requires four things to be true for to truly be a eureka moment.
+一个尤里卡时刻需要满足四点：
 It's a sudden, pleasureful, fluent, confident feeling of understanding.
-It's that thing where you know you learn something and you go "oh i get it".
+它是一种突然的、愉悦的、流畅的、自信的一种理解的感觉。
+It's that thing where you know you learn something and you go "Oh I get it!".
+就是那种你感觉到自己学到了什么，然后说 "噢，我明白了！"的感觉。
 Aka an "Aha!" moment, an insight, an epiphany.
-You know I prefer eureka moment. It sounds more exciting than "aha" moment and you know, the word epiphany is sometimes a little bit religious some people don't like it.
-So eureka moment it is uh... the common example is sort of in portal where you learn that momentum is conserved when you're entering a portal.
-Aka, speedy thing goes in, speedy think comes out.
-When you get that and understand it and then use it to solve a puzzle.
-That's a very powerful, very memorable feeling.
-And so what is a puzzle I defined a puzzle as anything that conceals a eureka moment.
-You know puzzles are basically mechanisms for causing amusement or pleasure via eureka moments.
-And they do so by taking that eureka moment, packaging it up and conceal it in what could ostensibly be a challenge but is really just a way to probe you in the direction of discovering that eureka moment for yourself.
-And so you know the portal example is one, but even just like determining the weak point of a boss like how can you defeat this enemy. That might be an eureka moment.
+也就是 "啊哈！"时刻，一种洞察力，一种顿悟（epiphany）
+You know I prefer eureka moment. It sounds more exciting than "Aha" moment 
+我还是更喜欢说“尤里卡时刻”，它听起来比 "啊哈"时刻更令人兴奋，
+and you know, the word epiphany is sometimes a little bit religious some people don't like it.
+而且，epiphany（顿悟）这个词有时有点宗教色彩，有些人不喜欢它。
+So, eureka moment it is uh... 
+所以尤里卡时刻是...
+The common example is sort of in portal where you learn that momentum is conserved when you're entering a portal.
+一个常见的例子是在《传送门》中，在其中你会学到「进出传送门时动量是守恒的」这一点。
+Aka, speedy thing goes in, speedy thing comes out.
+也就是说，「进传送门时速度很快，出来的时候速度也就很快」
+When you get that and understand it and then use it to solve a puzzle,
+当你认识到并理解只一点之后来用它解决一个谜题时
+that's a very powerful, very memorable feeling.
+那是一种非常强大、非常难忘的感觉。
+And so, what is a puzzle？
+那么什么是谜题呢？
+I defined a puzzle as anything that conceals a eureka moment.
+我把谜题定义为「任何隐藏着尤里卡时刻的东西」。
+You know，puzzles are basically mechanisms for causing amusement or pleasure via eureka moments.
+你知道，谜题基本上来说是一种通过尤里卡时刻引起愉悦或快乐的机制。
+and they do so by taking that eureka moment, packaging it up and conceal it in 
+而谜题要实现这一点是这样做的：将这个尤里卡时刻包装起来，
+what could ostensibly be a challenge but is really just a way to probe you in the direction of discovering that eureka moment for yourself.
+并将其隐藏在表面上看起来是一种挑战但实际上只是一种指导玩家自己发现尤里卡时刻的方式之中。
+And so, you know the portal example is one, 
+所以你知道《传送门》是一个例子
+but even just like determining the weak point of a boss like how can you defeat this enemy. 
+但即使只是比如去找一个boss的弱点，比如找到如何能打败这个敌人的方式
+That might be a eureka moment.
+这可能也是一个尤里卡时刻
 Even just navigating around a level.
-This is an example from super mario bros 3. It's level 6-5, which is it's one of the hardest levels in the game for young children.
+This is an example from Super Mario Bros. 3 
+这是《超级马里奥兄弟3》的一个例子
+It's level 6-5, which is it's one of the hardest levels in the game for young children.
+这是第6-5关，是游戏中对小孩子来说最难的一关
 Because the thing you have to do is the level actually loops on itself.
+因为这一关实际上是自循环的
 When you finish the level you go through a pipe and you just come back to the start.
-And what you actually have to do is get the leaf item which allows you to fly and fly up to this part at the top of the cave carrying a shell with you and throw that shell to sort of defeat these enemies and break the bricks to get out this pipe, which is the secret exit but you actually have to exit through this pipe in order to win the level, right? 
-So finding that secret, learning what you have to do uh and and also executing that you know,  flying while holding a shell which is sort of non-trivial if you're not that adept at the controls of the game.
+当你完成这一关时，你穿过一个管道，然后你又回到起点。
+And what you actually have to do is get the leaf item which allows you to fly and fly up to this part at the top of the cave carrying a shell with you 
+而你实际上要做的是得到叶子，它可以让你飞起来，然后带着龟壳飞到洞顶
+and throw that shell to sort of defeat these enemies and break the bricks to get out this pipe, 
+然后扔出龟壳，打败这些敌人，然后打碎砖块，走出这个管道
+which is the secret exit but you actually have to exit through this pipe in order to win the level, right? 
+这是一个秘密出口，但你实际上必须通过这个管道出去才能过这一关，是吧？
+So finding that secret, learning what you have to do and also executing that you know, flying while holding a shell 
+因此，发现到这个秘密解法并且要拿着龟壳飞行
+which is sort of non-trivial if you're not that adept at the controls of the game.
+如果你对游戏的操控不熟悉的话，这个操作还挺难的
 That whole sequence is sort of a eureka moment of discovering what it is that you need to do to win that level.
-And a lot of level design where the question is not what you have to do, but how right? 
+这整个过程就是一个找到你该怎么做才能过关的尤里卡时刻
+And a lot of level design where the question is not what you have to do, but how, right? 
+很多关卡设计中（给玩家的）问题不是你必须去做什么，而是如何能做到，是吧？
 That can often be a eureka moment.
+这往往就是一个尤里卡时刻
 
 Lesson number two is puzzles are isomorphic to humor
-And I attribute this quote to Marcel Danesi who is a professor of semiotics and linguistic anthropology at university of toronto, but he wrote this book called the puzzle instinct where he talks about how the human brain is sort of wired to solve puzzles.
+第二课「谜题与幽默是同构的」
+And I attribute this quote to Marcel Danesi who is a professor of semiotics and linguistic anthropology at university of Toronto, 
+我把这句话归功于Marcel Danesi，他是多伦多大学符号学和语言人类学教授，
+but he wrote this book called the Puzzle Instinct 
+但他写了一本叫做《The Puzzle Instinct》（谜题本能）的书，
+where he talks about how the human brain is sort of wired to solve puzzles.
+他在其中谈到了人类的大脑是如何内在地用来解决谜题的
 And eureka moments have an interesting psychology.
-They're obviously a source of positive affects. People enjoy this feeling.
-They're highly dopaminergic which means they Up-regulate memory formation and they sort of buffer your norepinephrine, which means they reduce your stress and increase your persistence.
-Like the time when a person is least likely to want to quit playing your game is right after they've had a huge eureka moment.
-So they're sort of impulse to continue pursuing whatever it was they were pursuing is greatly increased after a powerful eureka moment.
-And so these psychological factors are all identical to humor, right?
-So you can think of a good joke as also being a eureka moment. 
+而尤里卡时刻有一个很有意思的心理学特征
+They're obviously a source of positive effects. People enjoy this feeling.
+它们显然是积极影响的来源，人们享受这种感觉
+They're highly dopaminergic which means they upregulate memory formation 
+它们是高度多巴胺能的，这意味着它们可以正调节记忆的形成，
+and they sort of buffer your norepinephrine, which means they reduce your stress and increase your persistence.
+并且它们可以减少去甲肾上腺素的影响，这意味着它们可以减少压力并增强毅力。
+like the time when a person is least likely to want to quit playing your game is right after they've had a huge eureka moment.
+比如说玩家最不可能退出你游戏的时候，正是他们刚刚感受到一个巨大的尤里卡时刻之后
+So, they're sort of impulse to continue pursuing whatever it was they were pursuing is greatly increased after a powerful eureka moment.
+所以在强力的尤里卡时刻之后玩家追求目标的冲动会大大增强
+And so, these psychological factors are all identical to humor, right?
+因此，这些心理因素都与幽默是相同的，是吧？
+So, you can think of a good joke as also being a eureka moment. 
+你可以把一个好的笑话同样看成是一个尤里卡时刻。
 It's sort of a discovery where your brain lights up you've just figured it out.
-And so all of the things that the sort of the tricks that game designers use to extend playtime in their games like oh let's put in some exciting music, let's add a joke.
-You know all of these sort of little blasts of dopamine that cause players to keep pressing through.
+这也是一种发现，你get到了笑话的笑点，就像头上的灯泡点亮了
+And so, all of the things that the sort of the tricks that game designers use to extend playtime in their games 
+因此，所有这些游戏设计师用来延长玩家游戏时间的技巧
+like oh let's put in some exciting music, let's add a joke.
+比如说，让我们加入一些令人兴奋的音乐，让我们加入一个笑话。
+You know, all of these sort of little blasts of dopamine that cause players to keep pressing through.
+在所有这些产生让玩家坚持玩下去的多巴胺爆点的工具之中，
 Eureka moments are another ingredient in that tool set.
+尤里卡时刻也是这套工具中的一个成分。
 They can be seen as things that, once players have that discovery, will make them want to continue pressing forward.
+它们可以被看作是一旦玩家有了这种发现，就会使他们想继续玩下去的东西
 
-Lesson number three is maximize the amount of sparkle 
-And sparkle i think of as the amplitude of eureka.
-This is a term that's very popular in crossword communities and i think that's where it originated.
-But I am now using this term everywhere. Whenever i see a puzzle i talk about how much sparkle it has, which really just means like how good is the eureka moment, how deep or memorable or long-lasting or how dense is the puzzle in eureka moments overall.
-And so crosswords the eureka moment the sort of sparkle in them comes from a couple of things.
+Lesson number three is maximizing the amount of sparkle 
+第三课是「最大限度提高Sparkle（闪烁的光芒）」
+and sparkle I think of as the amplitude of eureka.
+Sparkle（闪烁的光芒）是指尤里卡的强度
+This is a term that's very popular in crossword communities and I think that's where it originated.
+这是一个在填字游戏圈子里非常流行的术语，我想应该就是从这里起源的
+But I am now using this term everywhere. 
+不过我现在每个领域都用这个术语
+Whenever I see a puzzle, I talk about how much sparkle it has, 
+每当我看到一道谜题，我就会谈论它有多少Sparkle
+which really just means like how good is the eureka moment, how deep or memorable or long-lasting 
+这实际上是指尤里卡时刻有多好、有多深、有多难忘、有多持久，
+or how dense is the puzzle in eureka moments overall.
+或者说这个谜题里的尤里卡时刻在总体上有多密集
+And so, crosswords, the eureka moment the sort of sparkle in them comes from a couple of things.
+所以，填字游戏中的尤里卡时刻的Sparkle来自于几个方面
 One is the answers themselves being lively and the other is the clues being clever or interesting.
-This is literally just a random crossword the the day i was putting these slides together i went on the new york times and i took the most recent crossword which was a saturday from june the 12th and i just pulled it in here.
+一个是谜底本身的生动性，另一个是谜面的巧妙性和趣味性
+This is literally just a random crossword the day I was putting these slides together. 
+图中这个填字游戏其实是我做幻灯片时随便挑的
+I went on the New York Times and I took the most recent crossword which was a Saturday from June the 12th and I just pulled it in here.
+我在《纽约时报》上找了下最近的填字游戏是6月12日星期六的，我就放到这里了
 And let's find all of sort of the interesting things in this run one crossword.
-So first of all the actual word choice you know these aren't just random words from the dictionary. 
-Some of them are actually phrases like "said i do" or "he's dead jim"  right from star trek.
+那就让我们在这个填字游戏中看看有哪些有趣的东西
+So first of all, the actual word choice, you know, these aren't just random words from the dictionary. 
+首先，实际这些选词，并不是就从字典里随便挑的
+Some of them are actually phrases like 
+其中一些实际上是短语
+"Said I Do" or 
+比如”SaidIDo”(说我愿意)或
+"He's Dead Jim” right from Star Trek.
+”HesDeadJim”(他已经死了，吉姆")就来自《星际迷航》。
+（译者注：”He’s Dead, Jim”是《星际迷航》里伦纳德·麦科伊的名台词）
 "play dirty", "easing out".
-You know they're not necessarily uncommon things but they're not just dictionary words like they're kind of cool exciting words, you know. "impress me",  "I'm amazed um"
-"Said i do" is in here right next to bride, right? 
-There's sort of this this little playfulness going on with the the choice of words in this crossword. 
+还有像"play dirty"，"easing out"这样的短语
+You know, they're not necessarily uncommon things 
+这些不一定是很罕见的词
+but they're not just dictionary words like they're kind of cool exciting words, you know. 
+不过它们不是字典里的词，而是那种很酷的令人兴奋的词，你懂的
+"Said I do" is in here right next to “Bride”, right? 
+"Said I do"(说我愿意)就放在”Bride”(新娘)旁边的，是吧？
+（译者注：分别是1号词和6号词，就在最顶上）
+There's sort of this little playfulness going on with the choice of words in this crossword. 
+在这个填字游戏里选词有一点打趣的意味
 There's also just kind of interesting nouns or interesting ideas.
-Some of these have cultural relevance like robyn fenty is rihanna's real name. 
-Boston pops, brave heart. You know like movies or things that people enjoy as part of pop culture they can often just make the crossword more lively.
-But also the clues, so here's a word "pressbox" and i'm going to show you in a second what the clue was that had this as the answer.
-The clue was "it covers the field" and you might have to think about that for a second, like it covers the field that sort of hints at like the grass or the turf.
-But no it's actually the press are covering the field as in they are reporting on the game.
-The press box is the place where the reporters are that are covering the game and therefore covering the field.
-So it's a pun or it's sort of a double entendre or it's a bit of misdirection where you think covering means one thing and it actually means something else.
-So when you finally get this answer and it might not be that you solve it. 
-It might be that you get all of the other words that are crossing over it and then realize the answer is "pressbox" and then you go "wait press box?"
-And then that light bulb goes off and you realize oh i get it cover means that.
-And advanced crossword solvers they know to look for these puns and clues, especially when they're solving a saturday puzzle which is sort of the more difficult clueing of of the week. 
-It's the difficulty goes up from monday to saturday so if you're on a saturday puzzle you know the author is kind of messing with you, right?
-I'll show you one other example which is this word and this word has been in the new york times crossword hundreds of times but this particular time it was clued as follows:
+里面还有一些有趣的名词或有趣的想法
+Some of these have cultural relevance like Robyn Fenty is Rihanna’s real name. 
+其中一些与文化有关，如Robyn Fenty是蕾哈娜的真名
+Boston pops, Brave Heart. 
+波士顿流行管弦乐团、《勇敢的心》
+You know like movies or things that people enjoy as part of pop culture they can often just make the crossword more lively.
+像电影或人们喜欢的流行文化的一部分的东西，它们往往可以使填字游戏更加活泼
+But also, the clues, 
+另一方面，谜面也是如此，
+so, here's a word "Pressbox" and I’m going to show you in a second what the clue was that had this as the answer.
+这里有一个词 "Pressbox"，我马上就会告诉你有这个作为谜底对应的谜面是什么
+The clue was "It covers the field" and you might have to think about that for a second, 
+谜面是"It covers the field"，你可能得想一会儿
+like it covers the field that sort of hints at like the grass or the turf.
+"It covers the field"，可能是说的草地或草皮
+But no, it's actually the press are covering the field as in they are reporting on the game.
+但不是的，实际上是媒体记者在”covers the field”，因为他们在报道比赛
+The Pressbox is the place where the reporters are that are covering the game and therefore covering the field.
+新闻工作室是记者们报道比赛的地方，因此也是报道球场的地方。
+So, it's a pun or it's sort of a double entendre or it's a bit of misdirection where you think covering means one thing and it actually means something else.
+因此，这是一个双关或者说是一种误导，你认为cover的意思跟实际不一样
+So, when you finally get this answer and it might not be that you solve it. 
+而当你最终得到这个答案时，有可能不是你真的想到了答案
+It might be that you get all of the other words that are crossing over it 
+可能是你解出了其他与之交叉的词，
+and then realize the answer is "pressbox" and then you go "wait press box?"
+然后意识到答案是 "Pressbox"，然后你会说 “等等，是Pressbox? ”
+and then that light bulb goes off and you realize “Oh I get it! ‘cover’ means that!”.
+然后你头上就亮起了灯泡，意识到“哦，我明白了！'cover'是这个意思！”
+And advanced crossword solvers they know to look for these puns and clues, 
+高级填字游戏玩家知道要去主动找这些双关和线索
+especially when they're solving a Saturday puzzle which is sort of the more difficult clueing of the week. 
+特别是当他们在解决星期六的谜题时，在一周中周六的谜面都比较难
+It's the difficulty goes up from Monday to Saturday, so if you're on a Saturday puzzle you know the author is kind of messing with you, right?
+难度从周一到周六逐渐上升，所以如果你在做周六的谜题，那你就会意识到作者有点在戏弄你
+（译者注：一般认为《纽约时报》的填字游戏难度从周一到周六逐渐递增，但其实也不一定，不过周六的一定是最大的）
+I'll show you one other example which is this word 
+我再给你看一个例子，就是这个词
+and this word has been in the New York times crossword hundreds of times but this particular time it was clued as follows:
+这个词在纽约的填字游戏中出现过数百次，但这次的谜面是这样的：
 "They might go for a few bucks."
-And that one might take a while, but once you you realize this is the word "does" not the word does. It's does as in female deer which might go for a few bucks as in male deer.
-When you read they might go for a few bucks you might just think some cheap item.
-But no it's it's completely unrelated to that and so this sort of word play or pun or double entendre or double meaning in this case of the word bucks creates playfulness and liveliness in the crossword which makes it more exciting.
+"They might go for a few bucks."
+And that one might take a while, but once you realize this is the word "does" not the word does. 
+这个可能要花点时间才想得到，但一旦你意识到此”does”非彼”does”
+It's does as in female deer which might go for a few bucks as in male deer.
+它是指雌鹿中的”doe s”，而雌鹿会追随雄鹿
+When you read, “they might go for a few bucks” you might just think some cheap item.
+当你读到 " they might go for a few bucks "时，你可能会认为指的是廉价的物品。
+But no, it's completely unrelated to that and so this sort of word play or pun or double entendre or double meaning 
+但不，它与此完全无关。因此这种文字游戏或双关，
+in this case of the word bucks creates playfulness and liveliness in the crossword which makes it more exciting.
+像雄鹿这个词的双重含义，在填字游戏中制造了游戏性和活力，使其更加令人兴奋。
 I will give you one more example that's quite a bit different.
-This is the word "ace" and again been in the been in the new york times crossword hundreds of times. But it was clued this time as "asexual, informally" which is sort of interesting.
-I will click this link and i'll show you there's this site called crossword info and you can go through and this is just the new york times crossword you can see every time the word ace was used and how it was clued.
+我再给你举一个有点不同的例子
+This is the word "Ace" and again been in the been in the New York times crossword hundreds of times. 
+这是 "Ace "这个词，它在《纽约时报》的填字游戏中也出现过数百次
+But it was clued this time as "Asexual, Informally" which is sort of interesting.
+但这次的谜面是 "（非正式说法）无性恋"，这有点意思
+I will click this link and I’ll show you there's this site called crossword info and you can go through 
+我点下这个链接，给你展示下Crossword Info这个网站
+and this is just the New York times crossword you can see every time the word ace was used and how it was clued.
+这里显示的只是《纽约时报》的填字游戏，你可以看到每次”ace”这个词对应的谜面是怎么样的
 And let me just zoom in a bit.
-You know so that was june 12th that was clued as "asexuality".
-But before you know a thing in poker a whiz, a king beater, aka ace beats a king. 
-Point of no return like in tennis so there's there's some puns in here. 
-But this is the first time ever that ace was clued with anything to do with asexuality in sort of 900 results.
-uh and so that's interesting but you might also think like... uh what's going on here...where did my uh okay... fortunately that worked when i gave the actual gdc talk i'm not sure why it's messing up here. Anyways um so
+让我再放大一点
+You know so that was June 12th that was clued as "asexuality".
+在是6月12日出的这个谜面是 "无性恋"
+But before you know “a thing in poker”, “a whiz”, “a king beater”, aka ace beats a king. 
+而在之前出过“扑克中的一张牌”、“一个奇才”、“国王打手”
+（译者注：ace也有奇才、顶尖人才的意思。扑克牌中Ace比K(king)大，所以打得过国王）
+“point of no return” like in tennis so there's some puns in here. 
+以及像网球中的 ”point of no return”，所以有这么一些双关
+（译者注：ACE在网球中本就指发球后对方没有触及球而直接得分；”point of no return”直接看上去意思是不能返回的临界点，但”point”也可理解为“得分”，“return”可指“接球”，所以也能理解为“没接球就得的分”）
+but this is the first time ever that ace was clued with anything to do with asexuality in sort of 900 results.
+但在900个记录中，这是有史以来ace第一次对应谜面为无性恋
+and so that's interesting but you might also think like... 
+这很有趣，但你可能也会想......
+uh what's going on here...where did my uh okay... fortunately that worked when I gave the actual GDC talk I'm not sure why it's messing up here. Anyways um so
+这怎么回事…我怎么打不…幸好当时GDC的时候没事，不管怎样…
 This is interesting for a number of reasons, right?
+有几个原因让这看起来这很有趣，是吧？
 One is the word ace is sort of slang to refer to asexuality is has existed for decades, but it sort of hasn't entered the vocabulary of sort of common folks until more recently, right? 
-So sometimes a word being in a crossword can kind of, it can show that slang has made its way into the popular vernacular and be a sign that okay now this is a word that you're expected to know or you're expected to use, right?
+实际上用Ace指代无性恋这个俚语已经存在几十年了，但直到最近才进入普通人的词汇
+（译者注：”Ace”跟”Asexuality”开头的发音相同）
+So sometimes a word being in a crossword can kind of, it can show that slang has made its way into the popular vernacular 
+因此，有时一个词出现在填字游戏中，可以表明俚语已经进入了流行的白话
+and be a sign that okay now this is a word that you're expected to know or you're expected to use, right?
+并且这是一个信号，告诉你现在这个词是你应该知道的和使用的，是吧？
 It can also give representation to an underrepresented population.
+它也可以代表一下那些没被充分代表的少数群体
 I think there's no coincidence that this was saved for pride month this particular clue.
+我认为这不是巧合，这个谜面专门留在骄傲月上
+（译者注：这个填字游戏发布在六月，正是LGBTQIA+ 群体的骄傲月，无性恋就是其中的A）
 And you know some people might think oh that's too political. 
-It doesn't pass the sunday morning breakfast test.
-I don't want to read about sexuality in my crossword but there's other people for whom this is like really important to them, right?
+你知道有些人可能觉得，这也太政治化了吧。
+It doesn't pass the Sunday morning breakfast test.
+这都没有通过“周日早餐测试”
+（译者注：“Sunday morning breakfast test”是《纽约时报》填字游戏的一个一贯原则，即任何词条都应该是家庭友好的，小孩子都能看的，所以要避开死亡、疾病、战争和税收相关话题）
+I don't want to read about sexuality in my crossword 
+我不想在我的填字游戏中读到关于性取向的东西
+but there's other people for whom this is like really important to them, right?
+不过这对有些人来说还是非常重要的，是吧？
 This could make their day and be a thing that makes this a very memorable crossword for them, right?
-So whenever you have the opportunity to do that, you should consider well is this going to be something even if it's only for a small portion of your solvers that will will delight them, right? 
+这可能会让他们的一天都高兴起来，成为一个让他们非常难忘的填字游戏
+So, whenever you have the opportunity to do that, you should consider well is this going to be something 
+所以，每当你有机会这样做的时候，你应该考虑一下
+even if it's only for a small portion of your solvers that will delight them, right? 
+即便这只是对你的一小部分解谜者来说，这也会是一件让他们高兴的事情
 And this is an opportunity to do that.
+而这就是这样的一个机会
+
 
 So lesson number four is sort of the opposite of have lots of sparkle. 
 It's avoid the chaff.
