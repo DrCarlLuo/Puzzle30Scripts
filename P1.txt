@@ -266,15 +266,15 @@ Before we do that, I do want to give credit where credit is due to game and leve
 在开始之前，我确实想把功劳归于电子游戏和关卡设计师，以及他们做得非常好的地方
 Traditional game designers are great at inventing rule sets and sort of iterating on levels via play testing.
 电子游戏设计师在创造规则集和通过测试来迭代关卡这方面非常出色
-（译者注：根据上下文，这一段中"traditional game designer"指的[电子游戏领域的“传统”设计师]，而"Traditional puzzle designer"指的[设计“传统的”非游戏领域谜题的设计师]，为避免歧义，下面按照容易理解的方式来翻译）
+（译者注：根据上下文，这一段中"traditional game designer"指的[电子游戏领域的"传统"设计师]，而"Traditional puzzle designer"指的[设计"传统的"非游戏领域谜题的设计师]，为避免歧义，下面按照容易理解的方式来翻译）
 They're great at sequencing things and sort of creating a build up to an exciting moment.
 他们很擅长安排事情的顺序，并创造构建出令人兴奋的时刻
 They're great at watching people playtest the game and adjust the difficulty 
 他们善于观察人们对游戏的试玩，并据此调整难度
 in order to sort of remove stuck points and allow lots of players to get through a challenge.
 以便消除卡关点，让许多玩家通过挑战
-They're good at creating fun through, you know, what game design people call “flow”
-他们善于通过游戏设计师所说的“心流”，来创造乐趣
+They're good at creating fun through, you know, what game design people call "flow"
+他们善于通过游戏设计师所说的"心流"，来创造乐趣
 that sort of experience of being in the zone where the level of challenge is just right, 
 即关卡的难度挑战程度处在刚刚好的区域的那种体验
 so that you feel like you're accomplishing something, but you're not bogged down by getting stuck.
@@ -315,8 +315,8 @@ and you'll see that they'll be able to create interesting stuff no matter what t
 
 Anyways, so on with the 30 lessons.
 无论如何，现在开始讲这30堂课吧
-Lesson number one is “eureka moments are the atoms of puzzles”.
-第一课是“尤里卡时刻是谜题的基本组成部分（原子）”。
+Lesson number one is "eureka moments are the atoms of puzzles".
+第一课是"尤里卡时刻是谜题的基本组成部分（原子）"。
 and really this lesson is just an excuse to define eureka moment, which to me is the most important definition in all of puzzle design.
 实际上，这一节课只是用来定义一下 "尤里卡时刻 "是什么。对我来说，这是所有谜题设计中最重要的定义。
 A eureka moment requires four things to be true for to truly be a eureka moment.
@@ -328,7 +328,7 @@ It's that thing where you know you learn something and you go "Oh I get it!".
 Aka an "Aha!" moment, an insight, an epiphany.
 也就是 "啊哈！"时刻，一种洞察力，一种顿悟（epiphany）
 You know I prefer eureka moment. It sounds more exciting than "Aha" moment 
-我还是更喜欢说“尤里卡时刻”，它听起来比 "啊哈"时刻更令人兴奋，
+我还是更喜欢说"尤里卡时刻"，它听起来比 "啊哈"时刻更令人兴奋，
 and you know, the word epiphany is sometimes a little bit religious some people don't like it.
 而且，epiphany（顿悟）这个词有时有点宗教色彩，有些人不喜欢它。
 So, eureka moment it is uh... 
@@ -449,18 +449,18 @@ So first of all, the actual word choice, you know, these aren't just random word
 Some of them are actually phrases like 
 其中一些实际上是短语
 "Said I Do" or 
-比如”SaidIDo”(说我愿意)或
-"He's Dead Jim” right from Star Trek.
-”HesDeadJim”(他已经死了，吉姆")就来自《星际迷航》。
-（译者注：”He’s Dead, Jim”是《星际迷航》里伦纳德·麦科伊的名台词）
+比如"SaidIDo"(说我愿意)或
+"He's Dead Jim" right from Star Trek.
+"HesDeadJim"(他已经死了，吉姆")就来自《星际迷航》。
+（译者注："He’s Dead, Jim"是《星际迷航》里伦纳德·麦科伊的名台词）
 "play dirty", "easing out".
 还有像"play dirty"，"easing out"这样的短语
 You know, they're not necessarily uncommon things 
 这些不一定是很罕见的词
 but they're not just dictionary words like they're kind of cool exciting words, you know. 
 不过它们不是字典里的词，而是那种很酷的令人兴奋的词，你懂的
-"Said I do" is in here right next to “Bride”, right? 
-"Said I do"(说我愿意)就放在”Bride”(新娘)旁边的，是吧？
+"Said I do" is in here right next to "Bride", right? 
+"Said I do"(说我愿意)就放在"Bride"(新娘)旁边的，是吧？
 （译者注：分别是1号词和6号词，就在最顶上）
 There's sort of this little playfulness going on with the choice of words in this crossword. 
 在这个填字游戏里选词有一点打趣的意味
@@ -481,7 +481,7 @@ The clue was "It covers the field" and you might have to think about that for a 
 like it covers the field that sort of hints at like the grass or the turf.
 "It covers the field"，可能是说的草地或草皮
 But no, it's actually the press are covering the field as in they are reporting on the game.
-但不是的，实际上是媒体记者在”covers the field”，因为他们在报道比赛
+但不是的，实际上是媒体记者在"covers the field"，因为他们在报道比赛
 The Pressbox is the place where the reporters are that are covering the game and therefore covering the field.
 新闻工作室是记者们报道比赛的地方，因此也是报道球场的地方。
 So, it's a pun or it's sort of a double entendre or it's a bit of misdirection where you think covering means one thing and it actually means something else.
@@ -491,9 +491,9 @@ So, when you finally get this answer and it might not be that you solve it.
 It might be that you get all of the other words that are crossing over it 
 可能是你解出了其他与之交叉的词，
 and then realize the answer is "pressbox" and then you go "wait press box?"
-然后意识到答案是 "Pressbox"，然后你会说 “等等，是Pressbox? ”
-and then that light bulb goes off and you realize “Oh I get it! ‘cover’ means that!”.
-然后你头上就亮起了灯泡，意识到“哦，我明白了！'cover'是这个意思！”
+然后意识到答案是 "Pressbox"，然后你会说 "等等，是Pressbox? "
+and then that light bulb goes off and you realize "Oh I get it! ‘cover’ means that!".
+然后你头上就亮起了灯泡，意识到"哦，我明白了！'cover'是这个意思！"
 And advanced crossword solvers they know to look for these puns and clues, 
 高级填字游戏玩家知道要去主动找这些双关和线索
 especially when they're solving a Saturday puzzle which is sort of the more difficult clueing of the week. 
@@ -508,10 +508,10 @@ and this word has been in the New York times crossword hundreds of times but thi
 "They might go for a few bucks."
 "They might go for a few bucks."
 And that one might take a while, but once you realize this is the word "does" not the word does. 
-这个可能要花点时间才想得到，但一旦你意识到此”does”非彼”does”
+这个可能要花点时间才想得到，但一旦你意识到此"does"非彼"does"
 It's does as in female deer which might go for a few bucks as in male deer.
-它是指雌鹿中的”doe s”，而雌鹿会追随雄鹿
-When you read, “they might go for a few bucks” you might just think some cheap item.
+它是指雌鹿中的"doe s"，而雌鹿会追随雄鹿
+When you read, "they might go for a few bucks" you might just think some cheap item.
 当你读到 " they might go for a few bucks "时，你可能会认为指的是廉价的物品。
 But no, it's completely unrelated to that and so this sort of word play or pun or double entendre or double meaning 
 但不，它与此完全无关。因此这种文字游戏或双关，
@@ -526,17 +526,17 @@ But it was clued this time as "Asexual, Informally" which is sort of interesting
 I will click this link and I’ll show you there's this site called crossword info and you can go through 
 我点下这个链接，给你展示下Crossword Info这个网站
 and this is just the New York times crossword you can see every time the word ace was used and how it was clued.
-这里显示的只是《纽约时报》的填字游戏，你可以看到每次”ace”这个词对应的谜面是怎么样的
+这里显示的只是《纽约时报》的填字游戏，你可以看到每次"ace"这个词对应的谜面是怎么样的
 And let me just zoom in a bit.
 让我再放大一点
 You know so that was June 12th that was clued as "asexuality".
 在是6月12日出的这个谜面是 "无性恋"
-But before you know “a thing in poker”, “a whiz”, “a king beater”, aka ace beats a king. 
-而在之前出过“扑克中的一张牌”、“一个奇才”、“国王打手”
+But before you know "a thing in poker", "a whiz", "a king beater", aka ace beats a king. 
+而在之前出过"扑克中的一张牌"、"一个奇才"、"国王打手"
 （译者注：ace也有奇才、顶尖人才的意思。扑克牌中Ace比K(king)大，所以打得过国王）
-“point of no return” like in tennis so there's some puns in here. 
-以及像网球中的 ”point of no return”，所以有这么一些双关
-（译者注：ACE在网球中本就指发球后对方没有触及球而直接得分；”point of no return”直接看上去意思是不能返回的临界点，但”point”也可理解为“得分”，“return”可指“接球”，所以也能理解为“没接球就得的分”）
+"point of no return" like in tennis so there's some puns in here. 
+以及像网球中的 "point of no return"，所以有这么一些双关
+（译者注：ACE在网球中本就指发球后对方没有触及球而直接得分；"point of no return"直接看上去意思是不能返回的临界点，但"point"也可理解为"得分"，"return"可指"接球"，所以也能理解为"没接球就得的分"）
 but this is the first time ever that ace was clued with anything to do with asexuality in sort of 900 results.
 但在900个记录中，这是有史以来ace第一次对应谜面为无性恋
 and so that's interesting but you might also think like... 
@@ -547,7 +547,7 @@ This is interesting for a number of reasons, right?
 有几个原因让这看起来这很有趣，是吧？
 One is the word ace is sort of slang to refer to asexuality is has existed for decades, but it sort of hasn't entered the vocabulary of sort of common folks until more recently, right? 
 实际上用Ace指代无性恋这个俚语已经存在几十年了，但直到最近才进入普通人的词汇
-（译者注：”Ace”跟”Asexuality”开头的发音相同）
+（译者注："Ace"跟"Asexuality"开头的发音相同）
 So sometimes a word being in a crossword can kind of, it can show that slang has made its way into the popular vernacular 
 因此，有时一个词出现在填字游戏中，可以表明俚语已经进入了流行的白话
 and be a sign that okay now this is a word that you're expected to know or you're expected to use, right?
@@ -560,8 +560,8 @@ I think there's no coincidence that this was saved for pride month this particul
 And you know some people might think oh that's too political. 
 你知道有些人可能觉得，这也太政治化了吧。
 It doesn't pass the Sunday morning breakfast test.
-这都没有通过“周日早餐测试”
-（译者注：“Sunday morning breakfast test”是《纽约时报》填字游戏的一个一贯原则，即任何词条都应该是家庭友好的，小孩子都能看的，所以要避开死亡、疾病、战争和税收相关话题）
+这都没有通过"周日早餐测试"
+（译者注："Sunday morning breakfast test"是《纽约时报》填字游戏的一个一贯原则，即任何词条都应该是家庭友好的，小孩子都能看的，所以要避开死亡、疾病、战争和税收相关话题）
 I don't want to read about sexuality in my crossword 
 我不想在我的填字游戏中读到关于性取向的东西
 but there's other people for whom this is like really important to them, right?
@@ -576,291 +576,721 @@ And this is an opportunity to do that.
 而这就是这样的一个机会
 
 
-So lesson number four is sort of the opposite of have lots of sparkle. 
-It's avoid the chaff.
-And in the case of crosswords the chaff you know is this filler stuff that nobody ever likes in their crosswords.
+So, lesson number four is sort of the opposite of have lots of sparkle. 
+那么，第四课可以说正好和增加Sparkle相反
+It's "avoid the chaff".
+是「避开无价值的谜题（Chaff）」
+And in the case of crosswords the chaff, you know, is this filler stuff that nobody ever likes in their crosswords.
+对于填字游戏来说，无价值的谜题（Chaff）就是那种没人喜欢出现在填字游戏里的"填充物"
 Like you see these words in the crosswords all the time, if you solve them all. You know it's the boring part.
-It's often called crosswordese.
+比如有些你经常能在填字游戏中看到的词，你把它解出来之后，就知道这是最无聊的部分
+It's often called Crosswordese.
+这种东西通常被叫做「Crosswordese」
+（译者注："Crosswordese"指那些经常在美国填字游戏中出现，但在日常生活中不怎么用得到的词，比如只有几个字母的以元音开头结尾的词、或者纯辅音组成的缩写。\N 事实上，每个填字游戏都或多或少用到几个Crosswordese，才能把填字游戏组合起来，但用多了就会拉低谜题的质量）
 There is no sparkle in seeing this you know.
-When you see some river in italy, you know it's that one four-letter word and you just put it in , right? 
+这看上去就没什么Sparkle
+When you see some river in Italy, you know it's that one four-letter word and you just put it in, right? 
+当你看到谜面是"意大利的河流"，然后又知道要填4个字母，你应该就直接把它填进去了，是吧？
+（译者注：答案有 阿尔诺河Arno、利里河Liri、内拉河Nera、雷诺河Reno、阿达河Adda、鲁瓦亚河Roya、艾尔莎河Elsa）
 You don't even think about it anymore.
-Incidentally this particular puzzle was an mit mystery hunt puzzle where they had an image instead of a clue for each one of these words.
-And you had to sort of diagramlessly fill the thing.
-And when you realized that these were all images of crosswordese style clues, it was that in it of itself was kind of a funny eureka moment.
-So this was actually a good mit mystery hunt puzzle but the the joke of it being you know just crossword ease words is kind of a funny in-joke among puzzle folks.
+（填完之后）你甚至都不会再去想它了
+Incidentally, this particular puzzle was an MIT mystery hunt puzzle 
+顺便说下，图中这个特别的填字游戏是一个MIT mystery hunt谜题
+where they had an image instead of a clue for each one of these words.
+这里面他们用图片而不是文字给每个词做谜面
+and you had to sort of diagramlessly fill the thing.
+而且你还得用无图表的方式来往里面填字
+（译者注："diagramless crossword"，无图表填字游戏，就是在普通的填字游戏基础上，连挖了坑的格子也不给出，玩家要直接在空的N x N的网格图中自己确定哪个词放在哪里，哪些词相交）
+and when you realized that these were all images of crosswordese style clues, it was that in it of itself was kind of a funny eureka moment.
+接着你会意识到这给的图片全都故意对应的是一些crosswordese，这本身反倒还是一个很有趣的尤里卡时刻
+So, this was actually a good MIT mystery hunt puzzle but the joke of it being you know just crosswordese words is kind of a funny in-joke among puzzle folks.
+实际上这个谜题还挺不错的，就全是用crosswordese组成的，算是解谜圈子内部的一个笑话吧
 Those aren't the only types of bad crossword clues.
+这些（crosswordese）并不是唯一一种不太好的填字游戏线索
 There's some other types.
-"Green paint" When somebody says that's a "green paint" clue, they mean it's a meaningless word combination like green paint.
-If you see the word "green paint" in a crossword then like why are those two words stuck together like you could stick any two words there and as a compound it's not really more meaningful than the sum of its parts.
-You'll also often see what are called "strained entries" meaning things that are barely words like "re-waters". 
-Is that really a word? 
-"not moody" I mean yeah okay, maybe somebody uses those terms but like are you just putting that in your crossword because you needed to sort of make the words fit.
+还有一些其他类型
+"Green paint" When somebody says that's a "green paint" clue, 
+「Green paint」，当有人说这是一个"Green paint"式的谜题
+they mean it's a meaningless word combination like green paint.
+他们指的这个谜题就像是green paint（绿色油漆）这样一个毫无意义的单词组合
+If you see the word "green paint" in a crossword then like why are those two words stuck together 
+如果你在填字游戏中看到"绿色油漆"这个词，你就会想为什么要把这两个词连在一起
+like you could stick any two words there and as a compound it's not really more meaningful than the sum of its parts.
+你可以把任何两个词粘在一起作为一个复合词，但它并没有真正地比单独这两个词有更多的意义
+You'll also often see what are called "strained entries" meaning things that are barely words 
+你还会经常看到所谓的strained entries（勉强的词条），这指的是几乎不能算是一个词的东西
+like "re-waters", is that really a word? 
+比如像"rewater"（重新加水），这真的是一个词吗？
+"not moody" I mean yeah okay, maybe somebody uses those terms 
+又比如"not moody"，好吧，也许有人会使用这些词
+but like are you just putting that in your crossword because you needed to sort of make the words fit.
+但你只是因为需要凑成一个整体，就把这些东西放到你的填字游戏里面
 They're not necessarily interesting clues.
-A "Natick" is when you have two un-guessable names crossing each other and this is uh well. There's a long story behind what a natick is and why it's called a natick.
-But it's from Rex Parker's crossword blog where one time he he literally finished the entire crossword except for one letter.
-And it was the first letter in natick was missing and the horizontal word there was like the name of some actress that he had never heard of.
-So he just like didn't know what that one letter was and so this there's this rule and crossword that you you should never have two unguessable names that are crossing one another and sharing a letter.
+它们不一定会是有趣的谜题
+A "Natick" is when you have two un-guessable names crossing each other 
+"Natick" 是指出现两个无法猜测的名字相互交叉的情况
+and this is uh well. There's a long story behind what a Natick is and why it's called a Natick.
+关于"Natick"是什么以及为什么它被称为"Natick"，这背后有一个很长的故事
+But it's from Rex Parker's crossword blog where one time he literally finished the entire crossword except for one letter.
+这来自Rex Parker的填字游戏博客，有一次他基本完成了整个填字游戏，就差一个字母
+And it was the first letter in Natick was missing and the horizontal word there was like the name of some actress that he had never heard of.
+就差Natick的第一个字母，但这个字母连着的一个横排单词又是一个他从没听说过的女演员的名字
+So, he just like didn't know what that one letter was 
+所以他没办法解出那个字母是什么
+and so, this there's this rule and crossword that you should never have two unguessable names that are crossing one another and sharing a letter.
+所以设计填字游戏中有这样一个规则，不应该有两个难以猜测的词相互交叉并共享一个字母
 Here's another one which is "ALDI".
-ALDI is a grocery store chain. It's a german style grocery store chain, very popular in the US.
-There's thousands of them.
+另一个词是"ALDI"
+ALDI is a grocery store chain. It's a German style grocery store chain, very popular in the US. There's thousands of them.
+ALDI（奥乐齐）是一家连锁超市。它是一个德国风格的连锁杂货店，在美国非常受欢迎
 The only thing wrong with this clue is that well it's a popular grocery store chain in the eastern half of the United States and around LA. 
-But if you are elsewhere, you may have never heard of aldi and so if somebody clues this in the crossword.
-And you know, the new york times crossword is supposed to be a crossword for all of the united states.
-So they may not put this word in because it wouldn't be fair to people who don't live in an area where this grocery store exists, right? 
-So making sure that the word vocabulary is accessible to everybody is important.
+把它作为谜题的唯一问题是，它主要是在美国东部和洛杉矶附近。
+But if you are elsewhere, you may have never heard of ALDI and so if somebody clues this in the crossword.
+但如果你住在其他地方，你可能从未听说过ALDI
+And you know, the New York times crossword is supposed to be a crossword for all of the United States.
+而《纽约时报》的填字游戏应该是为所有美国人准备的填字游戏
+So, they may not put this word in because it wouldn't be fair to people who don't live in an area where this grocery store exists, right? 
+所以他们可能不会把这个词放进去，因为这对那些不住在有这种杂货店的地区的人来说是不公平的，是吧？
+So, making sure that the word vocabulary is accessible to everybody is important.
+因此，要保证每个词对所有人来说都是可接触到的，这一点很重要
+
 
 Next, surprise is a key source of sparkle.
-And well, the sort of lesson here comes from Sam Lloyd who is one of the most famous puzzle creators ever.
-If you've ever seen this sort of square rearranging trick that is due to Sam Lloyd.
-Also, if you've ever seen these trick donkeys where you have to place the driver such that he's you know, both drivers are riding both donkeys and there's a clever arrangement of it that changes the way the donkeys look.
-That's also a sam lloyd puzzle but I want to give you another one of sam lloyd's puzzle which is a chess puzzle.
+下一课，惊喜是Sparkle的重要源泉
+And well, the sort of lesson here comes from Sam Loyd who is one of the most famous puzzle creators ever.
+这一点来自萨姆·劳埃德（Sam Loyd），他是史上最著名的谜题创作者之一。
+If you've ever seen this sort of square rearranging trick that is due to Sam Loyd.
+如果你之前见到过这种把方块重新组合（看起来面积却不同）的把戏，这就是Sam Loyd创造的
+（译者注：即Chessboard paradox谜题）
+Also, if you've ever seen these trick donkeys where you have to place the driver such that he's you know, both drivers are riding both donkeys
+另外，你可能也见过这个Trick Donkeys谜题，你得把骑手放到正确的位置使得两个骑手都骑着驴
+（译者注：具体要求是把这个图片沿中间的两根黑线剪开，将这三块图片摆放到正确位置，最后要求每个骑手都骑在驴上）
+and there's a clever arrangement of it that changes the way the donkeys look.
+有一个很巧妙的摆放方式（来达到要求），使得驴的样子发生改变
+That's also a Sam Loyd puzzle 
+这也是Sam Lloyd设计的谜题
+but I want to give you another one of Sam Loyd's puzzles which is a chess puzzle.
+但这里我想给你看Sam Lloyd的另一个谜题，这是一个国际象棋谜题
 This is a white to move and checkmate black in three moves puzzle.
+这是一个白棋要在三步内将死黑棋的谜题
 The sort of white to move in mate and three is what's called a stipulation in chess puzzles.
+"白棋在三步内将死黑棋" 这在国际象棋谜题中被称为规定（stipulation）
 It means sort of here's the constraint under which you have to solve this thing.
+意思是说这是你要解决这个问题的约束条件
 And let me pop this out.
-So you might try a couple of things like you know, you can capture this rook and put the king in check and in fact you can checkmate black doing that, but you cannot do it in three moves.
+让我把这个打开
+So, you might try a couple of things like you know, you can capture this rook and put the king in check 
+所以你可能会尝试一些走法，比如你可以吃掉这个车然后将军
+and in fact, you can checkmate black doing that, but you cannot do it in three moves.
+事实上你这样走最终能将死黑棋，但你没法在三步内做到
 It will take longer.
+这会花更长的时间
 The move that you end up having to do is just moving your king up the board.
-And if you're a chess player that might seem like kind of a strange move like you're allowing black to queen here with double check checking you with both the brook and the queen at the same time.
+正确的走法是把王往斜上走一格
+And if you're a chess player that might seem like kind of a strange move 
+如果你是个棋手，这可能看起来是很奇怪的一招
+like you're allowing black to queen here with double check checking you with both the brook and the queen at the same time.
+这样走会让黑方的兵升变为往后，然后和旁边的车一起把你双将了
 It seems like this would be the last possible move that would enable you to checkmate black.
-And in fact if you capture the queen, you cannot checkmate black in three moves.
-The thing you have to do is move away from the queen and now you only have one move left the next move white has to deliver checkmate and it seems like black should be able to stop this in so many ways.
+这看起来是最不可能可以让你将死黑棋的一步棋
+And in fact, if you capture the queen, you cannot checkmate black in three moves.
+而事实上，如果你接下来吃掉了后，你也不能在三步内将死黑棋
+The thing you have to do is move away from the queen 
+你必须做的是（让王）走出后的范围
+and now you only have one move left the next move white has to deliver checkmate 
+而现在你只剩一步棋了，下一步白棋就必须得将死黑棋
+and it seems like black should be able to stop this in so many ways.
+但看起来黑棋应该有以许多方式来阻止这一点
 Like you can check the king.
-But actually white can block the check and deliver checkmate at the same time.
+比如你可以将军
+But actually, white can block the check and deliver checkmate at the same time.
+但实际上白棋可以阻止将军，并同时反过来将死黑棋
 And that's true even if you check the king here.
+即使你在这里将军也是如此
 White can capture the queen and then checkmate black at the same time.
-And in this puzzle in this position right here, there are no less than 10 ways that black can put white in check and for every single one of them white has a response or a counter that simultaneously checkmates black, which is amazing.
-It's mind-blowing. It's one of the greatest chess puzzles that has ever been created.
-And when sam lloyd created this puzzle, he sort of remarked that this was the most implausible move imagined or imaginable.
+白方可以吃掉皇后，然后同时将黑方将死
+And in this puzzle in this position right here, there are no less than 10 ways that black can put white in check 
+在这个谜题的这个情形下，黑方有不下10种方法可以将军白方
+and for every single one of them white has a response or a counter that simultaneously checkmates black,
+而对每一种方法，白棋都有一个回应或反击，（解除将军的）同时反过来将死黑方
+which is amazing. It's mind-blowing. It's one of the greatest chess puzzles that has ever been created.
+这是令人震惊的。这是史上最伟大的国际象棋谜题之一
+And when Sam Loyd created this puzzle, he sort of remarked that this was the most implausible move imagined or imaginable.
+当Sam Loyd创作这个谜题时，他指出这是可以想象的最不可能的一步棋
 And why is my uh it's gonna be one of those days um okay well yeah 
+为什么我的…又出这个问题了…好吧…
 And this was actually entered in a tournament of chess puzzles and it won first place.
-And sam lloyd sort of remarked that his goal was to compose a puzzle where if you showed this to a thousand grand masters.
-The correct move would be different than to what 999 of them would propose.
-And in fact, more recently with chess end game databases where there's you know a giant table that contains every single position with eight or fewer pieces and you know whether white wins black wins or nobody wins and how many moves it takes to win.
+这个谜题实际上参加了一个国际象棋谜题的比赛，并且赢得了第一名
+And Sam Loyd sort of remarked that his goal was to compose a puzzle 
+Sam Loyd说他的目标是创作一道这样的谜题，
+where if you showed this to a thousand grandmasters, the correct move would be different than to what 999 of them would propose.
+如果你把它拿给一千位象棋大师看的话，正确的走法会与他们中999人所走的都不同
+And in fact, more recently with chess end game databases where there's you know a giant table 
+事实上，最近有了一个国际象棋残局的数据库，其中有一个巨大的表格，
+that contains every single position with eight or fewer pieces and you know whether white wins black wins or nobody wins and how many moves it takes to win.
+包含了那种只有八个或者更少棋子的残局，要求黑棋赢或者没人能赢以及需要多少步才能赢的各种情况
 People have been mining those databases for situations in which you have to do something crazy to win.
-Like you know promote two pawns to both a knight and a bishop and nothing else works， right？
+人们一直在挖掘那些数据库来找到那种必须做一些疯狂的事情才能获胜的情形
+Like you know promote two pawns to both a knight and a bishop and nothing else works，right？
+比如那种得把两个兵升变成一个马和一个象，而其他方法都走不通（的情形），是吧？
 Like people have been trying to find these situations in which the most absurd thing happens and why?
+人们一直在努力寻找这种有最荒唐的事情发生的情形，为什么呢？
 The answer is because this sort of surprise this sort of unique discovery is what creates the eureka moment and makes it very very sparkly.
-It's like this is totally implausible and it yet it happened.you know.
+答案是，因为这种惊喜、这种独特的发现创造了尤里卡时刻，并使其非常非常的有Sparkle
+It's like this is totally implausible and it yet it happened
+就像是说，这完全不可能，但它却发生了
 You're showing something interesting.
+你在展示一些有趣的东西
+
 
 The next lesson is sort of interesting truths are the root of surprise, right?
+下一课是「有趣的事实是惊喜的源泉」
 the thing that makes that chess puzzle interesting is that like that move is the winning move, right?
+让刚才那个象棋谜题变得有趣的正是那个致胜的一招，是吧？
 That being a truth that is shared to you through the puzzle is what makes the puzzle have that sparkle.
+这一事实通过谜题的形式分享给你，是使得谜题有如此的Sparkle的原因
 I will show you one other chess puzzle example.
+我再给你们看一个国际象棋谜题的例子
 And that is this one which is a smothered mate theme.
-The correct move here i mean it looks like white's in trouble.
+这个是以闷杀为主题的
+（译者注：闷杀指一方的王被己方棋子阻挡无法移动的情况下被将军，就被闷将给将死了）
+The correct move here I mean it looks like white's in trouble.
+正确的走法是……这里首先看起来是白方有麻烦了
 He's down the exchange but there's an easy way to win.
-And it's to move the queen up here and black cannot recapture it because there's a bishop guarding the queen.
-But black can recapture it with a rook, after which white can then move the knight here checkmating the king trapped by its own pieces.
+白方在兑子后处于劣势，但有一个简单的方法来赢得胜利
+And it's to move the queen up here 
+这就是把后移到这里
+and black cannot recapture it because there's a bishop guarding the queen.
+而黑棋无法（用王）吃掉它，因为有一个象在保护后
+But black can recapture it with a rook, 
+但黑方可以用车来吃
+after which white can then move the knight here checkmating the king trapped by its own pieces.
+而之后白棋可以把马移到这里，直接将被己方棋子堵住的王给将死
 And this theme is called the smothered mate and it actually occurs quite often in real chess games.
+这个主题叫做闷将，它实际上在真正的象棋对局中也经常出现
 And sort of the fact that this smothered mate is possible is itself an interesting truth.
-And the sort of value of this puzzle is its ability to convey that truth to the solver by setting it initially as a challenge but then sort of the solver realizing "oh okay" 
-There's this cool thing that happens when you win.
+而"闷将是可能的"这一点本身，就是一个很有趣的事实
+And the sort of value of this puzzle is its ability to convey that truth to the solver 
+而这个谜题的价值就在于它能够向玩家传达这个事实
+by setting it initially as a challenge but then sort of the solver realizing 
+一开始将这个事实设定为一个挑战，但之后玩家就会意识到
+"oh okay", there's this cool thing that happens when you win.
+“哦，好吧"，在赢的时候会发生这样很酷的事情
 You might ask why is the smothered mate interesting and we can come up with a list of reasons.
-One it's a it's a very tough position. Like normally you would be losing in this position as white and so the fact that there's a way to win is somehow a turnaround or a surprise.
+你可能会问为什么闷将会很有趣，那我可以列出一系列的理由
+One it's a it's a very tough position. 
+首先，这一个非常简单的局面
+like normally you would be losing in this position as white 
+通常情况下，你作为白方在这种情况下是会输掉的
+and so, the fact that there's a way to win is somehow a turnaround or a surprise.
+因此在这种情况下有办法取胜这一事实在某种程度上就是一个大逆转或者一个惊喜
 Black is in fact one move away from winning in this final position.
+在这最后的局面中，黑方实际上离胜利只有一步之遥
 Like black can take the queen here and capture down on F2 and then mate white in the corner.
+比如黑方可以在这里吃掉后，然后走到F2，在角落里将军
 Or black can back-rank mate white in two.
+或者黑棋可以直接两步之内底线闷杀
+（译者注：back-rank mate就是对方的王在没办法往下一行移动的情况下，直接一个车或后走到底线就把对方将死了）
 Like black has two mates in two here, but yet white was able to win.
+黑棋在两步之内有两种将死白棋的方法，但白棋却仍然能够获胜
 It also involves a queen sacrifice which is always exciting always interesting.
+这个解法里也涉及到弃后，这总是令人兴奋很有趣的
 There's this sort of dramatic irony of the pieces that are protecting the king somehow being the downfall.
+这里面也有一种戏剧性的讽刺，保护国王的棋子却以某种方式成为了败北的原因
 Like if only that pawn wasn't there, the king would just be able to escape this check and it would be nothing and black would be crushing here.
+就比如如果没有那个兵在前面，王就能逃脱这个将军，那就莫得了，黑棋就直接碾压了
 But the fact that black is lost is due to its own pieces which is somehow a dramatic irony.
+但事实上黑棋的失败是由于它自己的棋子造成的，某种程度上是一种戏剧性的讽刺
 And finally there's this lone knight delivering checkmate.
+最后则是有一出单马擒王
 Often in chess you're delivering checkmate with two or three powerful pieces, right?
+国际象棋中，你通常得用两三个强力的棋子来将死对面，是吧？
 But here it's just a knight.
+但在这里，只有一匹马
 You'll almost never see a knight giving checkmate on its own.
+你很难看到一匹马把对面将死的情况
 And somehow these are all things that make it surprising.
+这些都是让人感到惊喜的事情
 And fundamentally they're all unexpected things.
+而且从根本上说，它们都是意料之外的事情
 And the fact that these are unexpected is what makes the puzzle exciting or have this sparkle or this value.
+正是这些意料之外的事实使得谜题令人激动或是具有如此的Sparkle和价值
 There is a sort of neuroscience reason for this.
+这是有神经科学上的原因的
 And it's really that more unexpected things are actually genuinely more dopaminergic.
-And i'm sure you've all seen the classical rat in cage operant conditioning experiments, the skinner box from the 1950s.
+更加出人意料的事情实际上是更具有多巴胺能的
+And I’m sure you've all seen the classical rat in cage operant conditioning experiments, the skinner box from the 1950s.
+我相信你们都看过把老鼠放到笼子里的操作性条件反射实验，即20世纪50年代的斯金纳箱
 I want to tell you about one more recent variation from more like one decade ago.
+我想告诉你们一个更近的一个十年前的变体实验
 And in this variation you have a rat in a cage and there's two levers.
+在这个变体中，笼子里有一只老鼠，但有两个杠杆
 And one of them gives the rat food 70 of the time and the other gives the rat the food 30 of the time.
+其中一个在70％的时间里给老鼠提供食物，另一个在30％的时间里给老鼠提供食物。
 And through pressing these levers the rat learns "okay there's a good lever and a bad lever"
+通过按这些杠杆，老鼠知道了 "好吧，这里有个好杠杆和一个坏杠杆"
 It learns to press the good one.
+它学会了按好的那个
 But then behind the scenes the people running the experiment switch the probabilities.
+但之后幕后实验人员将概率进行了转换
 And the rat will at some point realize that his good lever has gone bad and will try the other one.
-And once the rat realizes that other lever the bad lever is now good, the rat will have this dopamine spike, right?
-And they're measuring this by putting sort of these probes inside certain parts of the brain and actually literally measuring the dopamine concentration.
+老鼠会在某个时候意识到它的好杠杆变坏了，并会尝试另一个
+And once the rat realizes that other lever the bad lever is now good, 
+而一旦老鼠意识到之前那个坏杠杆现在变好了
+the rat will have this dopamine spike, right? 
+老鼠就会有这种多巴胺峰值，是吧？
+And they're measuring this by putting sort of these probes inside certain parts of the brain 
+他们是通过把这些探测器放在大脑的某些部位来测量的
+and actually literally measuring the dopamine concentration.
+实际上是在测量多巴胺的浓度
 And they'll see that it's actually spiking.
-Not necessarily just when the rat gets food but when the rat learns or discovers that the probability has switched and that the the bad lever is now good.
+他们会看到的确产生了多巴胺的峰值
+Not necessarily just when the rat gets food 
+不一定只是当老鼠得到食物时（产生多巴胺峰值）
+but when the rat learns or discovers that the probability has switched and that the the bad lever is now good.
+而当老鼠知道或发现概率已经转变，坏的杠杆现在变好了的时候也是如此
 And so that's not the experiment.
-The experiment is what happens if instead of doing 30-70, you do 90-10 and then switch it to 10-90.
-Will you still get the same dopamine spike and the answer is you actually get a bigger spike.
+这还不是这次实验的内容
+The experiment is what happens if instead of doing 30%/70%, you do 90%/10% and then switch it to 10%/90%.
+实验是，如果不用30%/70%的概率，而是90%/10%，然后换成10%/90%，会发生什么？
+Will you still get the same dopamine spike 
+仍然会得到同样的多巴胺峰值吗？
+and the answer is you actually get a bigger spike.
+答案是实际上得到了一个更大的峰值
 And they sort of showed a correlation between the size of the spike and the amount of surprise.
+这显示了（多巴胺）峰值的大小与惊喜的程度之间的相关性
 And essentially the bigger the surprise, the bigger the spike.
+基本上来说，惊喜越大，峰值也越大
 The more unexpected something is, the larger this dopamine spike is.
+越是出乎意料的事情，这个多巴胺峰值就越大
 And remember that you know dopamine isn't just about reward or feeling good or pleasure.
+请记住，多巴胺不只是关于奖励或感觉良好或快乐
 It's about memory and habituation and incentive and persistence.
+它与记忆、习惯、激励和毅力有关
 You know to sort of seek more of the same and to remember the discovery you just had.
-And the human brain and in fact all mammalian brains, they sort of evolved to find novel and unexpected things interesting and to remember them strongly and to seek more knowledge upon discovering that knowledge, right?
-The the dopamine reward system evolved a billion years ago in sort of primitive worms and sea creatures to motivate like feeding and mating and that sort of thing.
-But in humans and other mammals it's been hijacked to give this additional purpose by evolution and that's to incentivize you to seek and remember novel and surprising things.
-Your ancestors out competed their distant cousins because they were more motivated to seek novel and unexpected discoveries and were better at forming strong memories around those experiences which were crucial to their survival.
-And so as puzzle designers, what we're really doing is we're exploiting this natural human puzzle instinct to find pleasure in interesting and novel discoveries, whether that's you know making fire for the first time or making a stone tool or speedy thing goes in speedy thing comes out.
-And often when sort of novice game designers are making puzzles, they have this approach which revolves around youknow, create a puzzle using some game elements, make it not too hard and then the player will eventually win and feel smart.
+（多巴胺让你）寻求更多相同的东西，并记住你之前的发现
+And the human brain and in fact all mammalian brains, they sort of evolved to find novel and unexpected things interesting 
+人类的大脑和事实上所有哺乳动物的大脑，已经进化到觉得新奇和意想不到的事物很有趣
+and to remember them strongly and to seek more knowledge upon discovering that knowledge, right?
+并强烈地记住它们，在发现这些知识后寻求更多的知识
+The dopamine reward system evolved a billion years ago in sort of primitive worms and sea creatures to motivate like feeding and mating and that sort of thing.
+多巴胺奖励系统在10亿年前就在原始的蠕虫和海洋生物中进化，以激励像进食和交配之类的事情
+But in humans and other mammals it's been hijacked to give this additional purpose by evolution 
+但在人类和其他哺乳动物中，它被劫持了，被进化赋予了这个额外的目的
+and that's to incentivize you to seek and remember novel and surprising things.
+那就是激励你去寻找和记住新奇和令人惊讶的事情
+Your ancestors out competed their distant cousins because they were more motivated to seek novel and unexpected discoveries 
+你的祖先比他们的远房表亲更有竞争力，正是因为他们更有动力去寻找新奇和意外的发现
+and were better at forming strong memories around those experiences which were crucial to their survival.
+并且更善于围绕这些经验形成强烈的记忆，这对他们的生存至关重要
+And so as puzzle designers, what we're really doing is we're exploiting this natural human puzzle instinct 
+因此，作为谜题设计者，我们真正要做的是利用人类这种天然的谜题本能
+to find pleasure in interesting and novel discoveries,
+来在有趣和新奇的发现中寻找乐趣，
+whether that's you know making fire for the first time or making a stone tool or speedy thing goes in speedy thing comes out.
+不管是第一次生火，还是制作石器，还是「进传送门时速度很快，出来的时候速度也就很快」
+And often when sort of novice game designers are making puzzles, they have this approach which revolves around you know, 
+当新手设计师在设计谜题的时候，他们通常是用这样的一种方法：
+create a puzzle using some game elements, make it not too hard and then the player will eventually win and feel smart.
+围绕一些游戏游戏元素创造一个谜题，让它不那么难，然后玩家最终会赢并且觉得自己很聪明
 Is there something wrong with this approach?
-And well it there's nothing wrong per se, but there's often a bit of confusion here which i will sum up in the next lesson,
+这种方法有什么问题吗？	
+And well it there's nothing wrong per se, but there's often a bit of confusion here which I will sum up in the next lesson,
+这方法本质上并没有错，但这里经常会出现一些混淆，我将在下一课中总结出来
 
-which is Eureka is not Fiero.
+
+which is “Eureka is not Fiero".
+那就是「尤里卡不是Fiero（自豪）」
+（译者注：fiero /'fjɛro/ feeling pleasure or satisfaction at one’s achievements, possessions, connections etc.）
 Fiero is this italian word that means the emotion of overcoming a tough challenge.
-And i've heard now a lot of game designers are using this word for sort of that feeling when you're playing an action game and you finally vanquished a really difficult boss you know.
+Fiero是意大利语，意思是克服艰难挑战的情绪
+And I’ve heard now a lot of game designers are using this word for sort of that feeling 
+我听说现在很多游戏设计师都用这个词来形容那种感觉
+when you're playing an action game and you finally vanquished a really difficult boss you know.
+就是那种比如你在玩动作游戏时，终于战胜了一个很难打的boss之后的感觉
 Or you're a speedrunner and you just got a world record.
-Or you've killed a really hard boss in dark souls or devil may cry or beaten a really tough fight in doom eternal on ultra nightmare mode.
-You know the the japanese have this word "yata" that they yell when they've done something really difficult.
-And if you're comparing eureka to fiero, I think of them as two sort of completely orthogonal ways of delivering pleasure.
+或者你是一个速通玩家，刚刚获得了一个世界纪录
+Or you've killed a really hard boss in dark souls or devil may cry 
+或者你在《黑魂》或《鬼泣》里杀死了一个非常难的boss
+or beaten a really tough fight in doom eternal on ultra nightmare mode.
+或者在《毁灭战士：永恒》的终极噩梦难度下打了一场非常艰难的战斗
+You know the the japanese have this word "yatta" that they yell when they've done something really difficult.
+你知道，日本人有一个词叫"やったー！"（太棒了），当他们做一件非常困难的事时他们会大叫
+And if you're comparing eureka to Fiero, I think of them as two sort of completely orthogonal ways of delivering pleasure.
+而如果你把尤里卡和Fiero放在一起说的话，我认为它们是两种完全垂直的快乐传递方式
 And here I can put them even on an axis, right?
-Like dark souls is a very fiero-dense game and there are some brutally difficult puzzle games that also sometimes the pleasure is mostly just the reward of having solved something really really hard.
+我甚至可以把它们放在一个坐标系下，是吧？
+Like dark souls is a very fiero-dense game 
+就比如《黑魂》是一个富含Fiero的游戏
+and there are some brutally difficult puzzle games that also sometimes the pleasure is mostly just the reward of having solved something really really hard.
+还有一些很难很凶残的解谜游戏，有时快乐也主要只是解决了非常困难的问题
 But then there are games like portal where the speedy thing goes in speedy thing comes out is not necessarily hard.
+但也有像《传送门》这样的游戏，比如「进传送门时速度很快，出来的时候速度也就很快」这一点不一定是很困难的
 Like you don't necessarily feel rewarded because you did a hard thing or you overcame a difficult challenge.
+你不一定是因为做了件困难的事情或克服了困难的挑战而感到有收获
 The pleasure is through the discovery for the most part.
+快乐在多数情况下是通过有了发现来得到的
 You know and so this method where you create a puzzle and make it challenging and hope the player feels good or feels satisfied when they've solved it.
+所以说「创造一个谜题，让它有挑战性，并希望玩家在解决它之后感觉不错或满意」这种方法
 I think of this as the fiero approach to puzzle design.
+我认为这就是谜题设计的Fiero方法
 It's an approach motivated by valuing overcoming the challenge rather than learning the deep interesting thing or making that interesting discovery that has the eureka moment and has the sparkle.
-Both of these elements are there in various places but one thing to understand is that you don't even have to be the person that solved the puzzle to get the eureka moment, right? 
+这种方法是以重视克服挑战为动机，而不是让玩家认知深层有趣的东西，让玩家做出包含尤里卡时刻和Sparkle的有趣的发现
+Both of these elements are there in various places but one thing to understand is that 
+这两个元素都存在于不同地方，但有一点需要理解的是，
+you don't even have to be the person that solved the puzzle to get the eureka moment, right? 
+你甚至不一定要成为解开谜题的人，才能获得尤利卡时刻，是吧？
 You could be sitting in a classroom and getting a eurika moment.
-You could have somebody show you a puzzle and show you how it works and you still get the full value of the eureka moment.
+你可以坐在教室里就得到一个尤里卡时刻
+You could have somebody show you a puzzle and show you how it works 
+你可以让别人给你展示一个谜题，告诉你它是怎么解出来的，
+and you still get the full value of the eureka moment.
+你仍然可以云到尤里卡时刻的全部价值
 Whereas the fiero is when you yourself are presented with a challenge and nobody spoils you on it and you solve it yourself.
+而Fiero则是你亲自面对一个挑战，在没人给告诉你剧透的情况下，自己解决了它
 And people who care a lot about spoilers, they're caring about preserving the fiero.
-They're caring about preserving the ability for a player to make the discovery on their own, which heightens the experience by in addition to giving you the eureka of "Oh this is so interesting!" giving you the fiero of and "I figured it out!", right?
-It's those two things together that are are combining.
-Synergistically i would say.
+那些非常讨厌剧透者的人，他们关心的就是保护Fiero
+They're caring about preserving the ability for a player to make the discovery on their own, which heightens the experience 
+他们关心的是保护玩家自己做出发现的能力，这就提高了体验
+by in addition to giving you the eureka of "Oh this is so interesting!" giving you the fiero of and "I figured it out!", right?
+除了带来"哦，这太有趣了！"的尤里卡之外，还带来了"我做到了！"的Fiero，是吧？
+It's those two things together that are are combining. Synergistically I would say.
+正是这两件事在协同作用
 So is the fiero approach bad?
+那么，Fiero的方法不好吗？
 Well, one thing I would say is that any challenge can confer Fiero like action games.
-Even just going through something really grindy or annoying, sometimes just being done with it can feel good.
-But puzzles have eureka has sort of their unique selling point, their unique feature.
-So the question is always ask people as well why are you making puzzles?
+我想说的是，任何挑战都能够带来Fiero，就像动作游戏
+Even just going through something really grindy or annoying, 
+即便是经历了非常折磨或者非常恼火的过程，
+sometimes just being done with it can feel good.
+有时只要完成了，就会感觉很好
+But puzzles have eureka as sort of their unique selling point, their unique feature.
+但是，谜题有尤里卡作为特点和独特的特征
+So, the question is always ask people as well why are you making puzzles?
+所以我一直问人们一个问题：“你为什么要制作谜题？"
 Because like many game designers use puzzles for what I call sort of the wrong reason or maybe an underwhelming reason,
+因为很多游戏设计师使用谜题的原因，是我称之为错误的原因，或者说不够深刻的原因
 which is just to sort of increase play time or to give you a break between the action moments.
+只是为了增加游戏市场，或者让你在战斗之间休息一下
 Sometimes literally just to insert an obstacle so that the reward afterwards feels better or so that you feel relief when it's over.
+有时仅仅是为了增加一个障碍，来让之后的收获感觉更好，或者当它结束时你感到轻松
 And you know, if you're just putting puzzles in your game to pat out the play time or to act as downtime or whatever like.
+如果你只是把谜题放在游戏中来增加市场或作为休息时间或其他类似的东西
 That's fine. It's your game you can do what you want.
+也行吧，毕竟这是你自己的游戏，随便咋搞都可以
 But eureka moments are sort of the soul of puzzles, the unique superpower of puzzles.
-So if your puzzles don't have interesting eureka moments, then as a creator of art or as a creator of some creation that you're hoping players will enjoy, you're failing to live up to the aesthetic potential of puzzles as a medium.
-If puzzles are really prominent part of your game, then I think you sort of owe it to your game to apply the same level of aesthetic scrutiny to the puzzle design in the eureka moments that you would to you know, your visual art, your story, your combat, your character movement...the things that game designers traditionally care a lot about.
+但尤里卡时刻是谜题的灵魂，是谜题特有的超能力
+So, if your puzzles don't have interesting eureka moments,
+所以，如果你的谜题没有有趣的尤里卡时刻，
+then as a creator of art or as a creator of some creation that you're hoping players will enjoy, 
+那么你作为一个艺术创作者，或者作为一个希望创造玩家喜欢的内容的创作者，
+you're failing to live up to the aesthetic potential of puzzles as a medium.
+你就辜负了谜题作为一种媒介的美学潜力
+If puzzles are really prominent part of your game, 
+如果谜题真的是你游戏中突出、重要的部分的话
+then I think you sort of owe it to your game to apply the same level of aesthetic scrutiny to the puzzle design in the eureka moments
+那么我觉得你应当给予在尤里卡时刻下的谜题设计的同样水平的美学审视
+that you would to you know, your visual art, your story, your combat, your character movement...the things that game designers traditionally care a lot about.
+就跟游戏设计师们传统上对视觉表现、叙事、战斗、角色移动等的重视一样
 But you should care about the eureka moments of your puzzles as much.
+你就应当用同样的程度关心你的谜题中的尤里卡时刻
 And if you're just inserting them there to sort of fill a gap, then you might not be doing that. 
+如果你只是插入谜题来填补空白，那么你可能没有做到这一点
 And I feel that a lot of games that have little puzzle mini games in there. 
-You know the ones that i'm talking about.
-They're doing this.
+我感觉很多游戏中有都插入了些小的解谜游戏在里面
+You know the ones that i'm talking about. They're doing this.
+你知道我所说的哪些游戏，他们就是在搞这种事情
 I'll give you a quote from Jonathan Blow.
+我引用一段乔纳森·布洛的话
 He says "it's not a good idea just to try to be trying to make the player feel smart. You want to communicate to them an actual substance of something."
+他说："仅仅试图让玩家觉得自己很聪明，这不是一个好主意。你得向他们传达一种真正实质的东西。"
 John is the guy who designed braid and the witness and he's spoken at length about his approach to puzzle design in various interviews.
-And i think he sort of shares this notion that the the aesthetic of making a good puzzle isn't just about making a challenge that makes the player feel satisfied.
-It's about having something deeper as a part of that puzzle that the player can uncover and then you know communicating that truth to them through the puzzle whether it's a truth about discrete math or something that may have nothing to do with the universe of the story of your game.
-It's more just the puzzle is a representation of a deep and interesting mathematical idea or logical idea that you can then learn through trying to solve that puzzle.
+吹哥就是《时空幻境》和《见证者》的设计者，他在各种采访中详细谈到了他的谜题设计方法
+And I think he sort of shares this notion that the aesthetic of making a good puzzle isn't just about making a challenge that makes the player feel satisfied.
+我想他也认同这样的想法，即制作好的谜题的美学不只是制作一个让玩家感到满足的挑战。
+It's about having something deeper as a part of that puzzle that the player can uncover and then you know communicating that truth to them through the puzzle
+而是让玩家在谜题中发现更深层次的东西，然后通过谜题的形式向他们传达一个事实
+whether it's a truth about discrete math or something that may have nothing to do with the universe of the story of your game.
+不管是关于离散数学的事实，还是与游戏世界观有无联系的东西
+It's more just the puzzle is a representation of a deep and interesting mathematical idea or logical idea 
+更多的是，谜题代表了一个深刻而有趣的数学或逻辑思想
+that you can then learn through trying to solve that puzzle.
+玩家可以通过尝试解决这个谜题来认知学习
 I will give one more example.
+我再举一个例子
 These are two puzzles.
+这是两个谜题
 The left one is a puzzle by John Conway called the Shipper's Dilemma.
+左边一个是约翰·康威（John Conway）制作谜题，叫做"发货人的困境"（Shipper’s Dilemma）
+（译者注：即约翰·何顿·康威，"生命游戏"的创造者，2020年因新冠去世）
 And in it you have to fit all of these blocks into a 5 by 5 by 5 zone.
+在这个谜题中，你必须把所有这些方块装进一个5x5x5的盒子中
 And they are, I think, you get 6 2-by-4-by-1s, 6 2-by-2-by-3s and then 5 1-by-1-by-1s to sort of fill the remaining voids.
+你有6个2x4x1的方块，6个2x2x3的方块，然后是5个1x1x1的方块来填补剩余的空隙
 And this puzzle is a ten out of ten fascinating deeply interesting puzzle that once you solve it.
+这个谜题百分百是一个又深刻又有趣的谜题
 The configuration of the solution... There's essentially only one solution up to trivial symmetries,
+这个解的结构…由于一些细节上的对称性，只有唯一解
 and that solution has a very unique way of covering the space inside of this cube.
+而这个解是一个非常独特的方式来填充这个立方体的内部空间
 And you can do all kinds of mathematical analysis to reason about why that must be the one solution,
+你可以做各种数学分析来推出为什么这一定是唯一的解
 and if you just try and plonk them in there randomly, you won't solve it.
+而如果你只是随便乱塞的话，你是无法解决这个问题的
 You need to think deeply about covering up the space inside that cube in order to solve it.
+你需要深入思考如何填充这个立方体内部的空间，以便解决这个问题
 But it's not necessarily that difficult. It's just you have to apply a bit of a mental strength to get there.
-But this puzzle contains so much interesting truth like you can learn about reasons why that solution is the only solution, that have sort of a deep combinatorial significance to them like things involving tiling the colors of the inside of the cube.
+不过这并不一定就有多难，只是你必须得动动脑筋才能做到
+But this puzzle contains so much interesting truth like you can learn about reasons why that solution is the only solution, 
+但是这个谜题包含了很多有趣的事实，比如你可以了解到为什么这个解是唯一的，
+that have sort of a deep combinatorial significance to them like things involving tiling the colors of the inside of the cube.
+它有深刻的组合数学意义，比如涉及到将立方体内部的填色问题
 You can sort of look at oh what about these exact 27 squares in the cube how do we cover just those and you can see sort of sub-problems of covering the whole cube that reveal insight about what the solution has to be.
+你可以尝试分析这27个方块本身如何置于立方体中，可以尝试研究下这个问题的子问题从而洞悉是如何解出来的
 Meanwhile, the thing on the right is you have this zed-pentomino and you have 25 of them.
+而右边的这个东西是，你有25个Z形的骨牌
 And you just have to fill the whole cube with them.
+你只需要用它们填满整个立方体
 And somebody wrote a computer program and discovered yeah there's four solutions.
+有人写了一个计算机程序，发现有四种解
 And there's not really any solving method or any insight.
-This is literally just sort of a time wasting toy where you're playing around with these blocks and trying to fit them in and you will just try random stuff and eventually you'll get it but you won't have any knowledge of why that worked or how you were able to set it up so that it did that.
+这里面其实没有任何解法或洞察可言
+This is literally just sort of a time-wasting toy where you're playing around with these blocks and trying to fit them in and you will just try random stuff and eventually you'll get it 
+这其实就是一个打发时间的玩具，你玩玩这些方块，随机地搞一搞就能最终把它们装进去
+but you won't have any knowledge of why that worked or how you were able to set it up so that it did that.
+但你不会有任何关于为什么能做到以及该如何装来做到的知识
 You know it's still a fun puzzle that will amuse people but it doesn't reveal any truth about the universe. 
-There's nothing interesting about the solution to this puzzle.
-It's just putting blocks in a box.
-And i think one of the things that john blow said in the same interview was that the beauty in puzzles, sort of the amount of beauty, is correlated to how much truth they reveal, right? Or how much information about the universe can be shared with the solver because of that puzzle.
+不过这仍然还是有乐趣的，会让人感到消遣，但它没有揭示任何关于宇宙自然的事实
+There's nothing interesting about the solution to this puzzle. It's just putting blocks in a box.
+这个谜题的解法是没有任何有趣之处的，它只是把方块放在一个盒子里
+And I think one of the things that john blow said in the same interview was that 
+我想乔纳森·布洛在同一采访中说过：
+the beauty in puzzles, sort of the amount of beauty, is correlated to how much truth they reveal, right? 
+谜题的美感、美感的多寡，与它们所揭示的事实的多少相关，对吧？
+Or how much information about the universe can be shared with the solver because of that puzzle.
+或者说，通过这个谜题，有多少关于宇宙自然的信息可以拿出来与解题者分享
 And this left puzzle is very dense in truth and beauty and this right one is to me it's just a time waster like.
+左边这个的谜题在真理和美感方面非常密集，而这个右边的谜题对我来说只是一个打发时间的东西
 And there are many many puzzles like this that there's not actually an interesting solution method or an interesting trick.
+有很多这样的谜题，实际上并没有一个有趣的解法或有趣的技巧
 It's literally just play around with the thing until it's done.
-And so to me if i'm looking at the aesthetic values of puzzles as a medium, this one on the left the conway shipper's dilemma is at the absolute peak and the one on the right is just bland.
-And it's sometimes hard to tell the difference.
-It's sometimes not easy to.. you know there's no place where puzzles are ranked necessarily according to how truthfulness, how much truth they have, right?
+玩家实际上只是在玩弄这个东西，直到完成
+And so to me if I’m looking at the aesthetic values of puzzles as a medium, 
+所以对我来说，如果我从谜题作为一种媒介的审美价值来看待的话，
+this one on the left the conway shipper's dilemma is at the absolute peak and the one on the right is just bland.
+左边康威的"发货人困境"是绝对的巅峰，而右边这个则索然无味
+And it's sometimes hard to tell the difference. It's sometimes not easy to..
+而且有时这一点很难去区分
+you know there's no place where puzzles are ranked necessarily according to how truthfulness, how much truth they have, right?
+没有哪个地方会根据传递了多少事实来给谜题排名的
 like um it's something that you know, real nerdy puzzle folks know and will give you recommendations about 
-But it's i think the sort of general vernacular about when people talk about puzzles they like they don't even have the words to describe this, right?
+这可能是硬核的解谜玩家会知道了解的，他们会根据这个来给你推荐谜题
+But it's I think the sort of general vernacular about when people talk about puzzles they like they don't even have the words to describe this, right?
+但我觉得一般人在谈论他们喜欢的谜题时，甚至都没有一个词来描述这一点，对吧？
 The fact that this puzzle is better than this one in a way that is deep and meaningful is hard for some people to understand or describe.
-But the way i explain it is just how much truth is there in this puzzle.
-And so you know this is basically a meme but if your goal is creating great puzzles, then focus on communicating those interesting truths to the solver rather than just making the solver feel smart or feel satisfied that they completed a challenge.
+某个谜题在深度和意义层面上比另一个谜题更好这一点，对一些人来说很难理解或描述
+But the way I explain it is just how much truth is there in this puzzle.
+而我解释的方式是，这个谜题中到底有多少真理和事实
+And so, you know this is basically a meme 
+所以，这是个表情包
+but if your goal is creating great puzzles, then focus on communicating those interesting truths to the solver 
+如果你的目标是创造优秀的谜题，那么就应该专注于向解谜者传达那些有趣的事实，
+rather than just making the solver feel smart or feel satisfied that they completed a challenge.
+而不是仅仅让解谜者完成了一个挑战之后觉得自己很聪明或感到满足
+
 
 That all said different solvers do seek vastly different solving experiences.
+尽管如此，不同解谜者所寻求的解谜体验是不尽相同的
 Like the most popular sudoku books are actually these just like giant book of a thousand puzzles.
+就比如这种最流行的数独合集，其实就是一本包含了上千个谜题的书
 Some people refer to this as computer generated crap.
+有些人把这种东西称为计算机生成的垃圾
 But honestly, there are people who've done this for hundreds of hours and they like it.
+但说实话，有的人就是会花几百个小时在上面，而且他们就喜欢这样
 It's because they're seeking a certain solver experiences.
+这是因为他们在寻求某种特定的解谜体验
 Some solvers just want that sort of low dose, low difficulty, repetition of the eureka moments they already know.
-They just want to be reminded of it and they want to flow through the puzzles gradually and feel the accomplishment of just making progress and solving and completing all the puzzles in the book rather than having this sort of, you know,  high-dose roller coaster of interesting eureka moments that might be more difficult or might present more challenge.
+有些解谜者就只是想要那种低剂量、低难度（的谜题），重复他们已经知道的尤里卡时刻
+They just want to be reminded of it 
+他们只想被唤起这种感觉
+and they want to flow through the puzzles gradually and feel the accomplishment of just making progress and solving and completing all the puzzles in the book 
+他们想渐渐地在题海中漫游，并感受到取得进展和解决并完成书中所有谜题的成就感
+rather than having this sort of, you know,  high-dose roller coaster of interesting eureka moments that might be more difficult or might present more challenge.
+而不是这种高剂量的、过山车式的，可能更难一点或更有挑战的有趣的尤里卡时刻
 There are other puzzles that have these different aesthetics like the chinese rings puzzle actually requires 341 steps to solve.
+而有些谜题又有相反的美感，比如九连环实际上需要341步来解决
 It's basically 1024 divided by three, is how many steps it is.
-And the process of going through and solving it is actually a very deep and meditative one where you you kind of have to remember where you are and you have to like it's sort of like counting in binary.
+341大概是1024除以3，就是这么多的步骤
+And the process of going through and solving it is actually a very deep and meditative one 
+而解决它的过程实际上是一个非常深刻的沉思的过程
+where you you kind of have to remember where you are and you have to like it's sort of like counting in binary.
+在这个过程中你必须记住走到哪一步了，并且有点像二进制计数的过程
 And it's less about the eureka moment.
+这个过程跟尤里卡时刻就不太相关了
 I mean there is a deep eureka moment when you're discovering that this is actually what you have to do.
+我的意思是，当你发现该这么解的那个时刻，确实有一个深刻的尤里卡时刻
 But the process of solving it is more a process, a meditative and slow process of methodically going through the motions.
+但解的过程更像一个沉思的、缓慢的、有条不紊进行的过程
 And there are puzzle designers that have taken this to the extreme.
+而有的谜题设计者就将此发挥到了极致
 This is a puzzle called the 205 minutes cube by Aleksandr Leontev.
+这是一个由Aleksandr Leontev设计的名为"205分钟立方体"的谜题
 And it's called the 205 minutes cube because if you're making one step per second, that's how long it takes you.
-And the way it works is it has all these little blocks inside with pegs and you kind of have to like push and pull them out and you end up counting up to 3×2^12 in binary in the process of solving this puzzle so it's quite a grind.
+它被称为"205分钟立方体"，是因为如果每秒走一步的话，那么这就是你总共需要的时间
+And the way it works is it has all these little blocks inside with pegs and you kind of have to like push and pull them out 
+它的玩法是，它本身是由这些小的带有楔子的方块组成的，你得不断把它们取出插入
+and you end up counting up to 3×2^12 in binary in the process of solving this puzzle so it's quite a grind.
+而你最终在二进制下数到3乘以2的12次方，所以其实有点折磨
 But some people really like this.
+但是有些人真的很喜欢这个
 This is an expensive puzzle that people will pay money for because they want the experience of just like solving this thing that takes them a few hours.
-There are also like logic puzzles that are the size of a newspaper and these aren't necessarily puzzles with sort of unique and interesting structure that all merges to one final climactic ending.
+这还挺贵的，人们愿意花钱购买就是因为他们想体验花几个小时解开这个东西的感觉
+（译者注：目前卖379美元）
+There are also like logic puzzles that are the size of a newspaper 
+也有像报纸那么大的逻辑谜题
+and these aren't necessarily puzzles with sort of unique and interesting structure that all merges to one final climactic ending.
+这些不一定是具有某种独特和有趣结构并引向一个激动人心结局的谜题
 No, it's you can start anywhere on the grid and just slowly go through it。
-But some people like this because they just want that slow meditative experience of solving a puzzle and they want the excitement at the end of having done this big project, right?
+不，你可以从网格上的任何地方开始，只需要慢慢地把它解出来
+But some people like this because they just want that slow meditative experience of solving a puzzle 
+但是有些人喜欢这样，因为他们只是想要那种缓慢沉思式的解谜体验
+and they want the excitement at the end of having done this big project, right?
+他们想要的是最后完成这个大项目的兴奋感，对吗？
 So people solve puzzles for different reasons. 
-We try not to judge them, but like understand the sort of aesthetic goal of what you're creating and who you're creating it for that's a part of creating any any creation in any medium, right?
+所以人们解谜的原因各不相同
+We try not to judge them, 
+我们尽量不去评判他们
+but like understand the sort of aesthetic goal of what you're creating and who you're creating it for 
+但得理解你所创作的东西的审美目标，以及为谁创作
+that's a part of creating any any creation in any medium, right?
+这是在任何媒介中进行创作的一部分，对吧？
+
 
 Next lesson is eureka is shareable.
-So this right here is chris ramsey.
-He runs the most popular puzzle youtube channel on youtube where he's often solving these very interesting sort of trick locks and contraptions and things you have to get inside things that have multiple steps.
+下一课是「尤里卡是可分享的」
+So this right here is Chris Ramsay.
+图中这位是克里斯·拉姆齐
+He runs the most popular puzzle YouTube channel on YouTube 
+他经营着YouTube上最受欢迎的解谜频道
+（译者注：频道名就是@ChrisRamsay）
+where he's often solving these very interesting sort of trick locks and contraptions and things you have to get inside things that have multiple steps.
+他经常解决这些非常有趣的谜题锁和装置，以及那种要花很多步才打得开的机关
 They're often called sequential discovery puzzles.
+这些通常被称为顺序发现谜题（Sequential Discovery Puzzles）
 And you know here's an example.
-This puzzle he literally has to use a phone that's been wrapped up in this sort of wooden thing to make it look all ancient and there's some AR thing going on where he has to play a melody with a little mallet in order to sort of satisfy the the constraint of the phone which will then open up the next part of this puzzle.
+这里就是一个例子
+This puzzle he literally has to use a phone that's been wrapped up in this sort of wooden thing to make it look all ancient 
+在这个谜题里面，他用一个木制的盒子包裹手机来让它看起来很古老
+and there's some AR thing going on where he has to play a melody with a little mallet
+而且还有些AR的东西，他必须用一个小木槌演奏一段旋律
+in order to sort of satisfy the the constraint of the phone which will then open up the next part of this puzzle.
+来满足手机上的一个条件，然后打开这个谜题的下一部分
 It's wondrous to watch this, but the sort of lesson that comes through these sequential discovery puzzles.
+这个过程观看起来是很奇妙的，我们从中能学到的是…
 And every one of these videos by the way has more than a million views on youtube, right?
+顺便说一下，这些视频中的每一个都在YouTube上有超百万的播放量
 Like they're quite popular,
-The lesson is that eureka can be fully experienced by an audience like all of the excitement of learning and discovering the things that you learn and discover solving these puzzles can be seen by the audience.
+它们都很受欢迎
+The lesson is that eureka can be fully experienced by an audience 
+我们可以从中认识到，尤里卡时刻可以被观众完全体验到
+like all of the excitement of learning and discovering the things that you learn and discover solving these puzzles can be seen by the audience.
+从解谜中学到和发现东西的兴奋是可以被观众看到的
 And these videos like some people would regard them as spoiler videos for everything, right?
-But the sort of aspect of learning the truth cannot be spoiled that moment is the same moment whether or not you know you discovered it for yourself or not.
+有些人可能会把这些视频看做是剧透
+But the sort of aspect of learning the truth cannot be spoiled 
+但是，从认知到事实这一方面来说是不会被剧透的
+that moment is the same moment whether or not you know you discovered it for yourself or not.
+不论你是否是亲自发现的，那个时刻都是同样的
 It's the fiero that you're spoiling.
+能够被剧透的是Fiero
 And these puzzles are often puzzles that the audience you know they may never buy and solve for themselves, right?
+而且这些谜题往往是观众知道他们自己可能永远不会亲自买来自己解的谜题，是吧？
 There's so many puzzles out there that you'll never actually do all of them.
-So the experience of watching somebody else do them can be a way of getting the eureka moments without necessarily enduring the hours of trying to solve them yourselves.
+世界上有那么多谜题，你永远不可能真正全都做完
+So, the experience of watching somebody else do them can be a way of getting the eureka moments without necessarily enduring the hours of trying to solve them yourselves.
+因此，看别人解谜可以是一种获取尤里卡时刻的方式，而不一定得忍受几个小时来亲自解题
 And some people prefer that experience, right? 
-Like if you can just spend 20 minutes and get all of the eureka out of a puzzle rather than spending three hours trying to solve it yourself and encountering a lot of roadblocks and getting stuck but then ultimately overcoming it.
-I mean those are two completely different experiences but in terms of the value they deliver for time, they offer different things, right?
+有些人更喜欢这种体验，对吧？
+Like if you can just spend 20 minutes and get all of the eureka out of a puzzle 
+就比如说，（通过云的方式）你可以花20分钟就能从一个谜题中获得所有尤里卡
+rather than spending three hours trying to solve it yourself and encountering a lot of roadblocks and getting stuck but then ultimately overcoming it.
+而不是花3个小时试图自己解决它，遇到很多障碍、被卡住、而最终克服它
+I mean those are two completely different experiences 
+我的意思是，这是两种完全不同的体验
+but in terms of the value they deliver for time, they offer different things, right?
+就它们在一定时间内提供的价值而言，它们提供了不同的东西
 So some people may just prefer to watch somebody solve these puzzles and learn about them.
+因此，有些人可能只是更喜欢看别人解决这些谜题，而从中了解它们
 
+
+ 
 The next lesson also relating to sequential discovery puzzles is to create many eureka moments.
-And this is a puzzle called the lotus box by Will Strijbos and it has so many tricks packed into this little puzzle.
+下一课也和这种顺序发现谜题有些联系，就是「创造很多尤里卡时刻」
+And this is a puzzle called the lotus box by Wil Strijbos and it has so many tricks packed into this little puzzle.
+这是由Wil Strijbos设计的the lotus box，这个小谜题中包含了很多技巧
 This thing has magnets. It has hidden compartments. It has a spin move.
-It has a thing that is secretly two pieces but looks like it's one piece and you have to like hold one bit to the side to kind of provide a little bit of friction so that you can then pull it apart.
+这个东西有磁铁，有隐藏的隔间，有个旋转装置
+It has a thing that is secretly two pieces but looks like it's one piece 
+它里面藏着有类似两块东西，但看起来却像一整块
+and you have to like hold one bit to the side to kind of provide a little bit of friction so that you can then pull it apart.
+你必须握住其中一块来提供一点摩擦力，这样你就可以把它拉开
 It has all kinds of stuff buried inside this one little box. 
-I counted eight separate eureka moments in the solution of this thing and it's wonderful and that's why people are willing to sort of like...
+这个小盒子里藏着各种各样的东西
+I counted eight separate eureka moments in the solution of this thing and it's wonderful 
+我数了一下，在解决问题的过程中，有八个独立的尤里卡时刻
+and that's why people are willing to sort of like...
+这很奇妙，这就是为什么人们愿意......
 These things are hard to find. You gotta buy them online and order them.
+这些东西很难找到，你得在网上才买得到
 Escape rooms are similar.
-If you've never done an escape room, I would highly encourage you to do them, you know, if you're in a post-pandemic world and they're open again.
+密室逃脱也是如此
+If you've never done an escape room, I would highly encourage you to do them, you know, 
+如果你从来没玩过密室逃脱的话，我强烈鼓励你去玩一玩
+if you're in a post-pandemic world and they're open again.
+当然如果你生活在疫情结束之后，而且它们又重新开放了的话
 You know, do five of them honestly like take your whole team to do them if you're working on a gamedev team in a puzzle-heavy game.
+如果你在一个比较偏解谜的游戏开发团队中工作的话，可以去玩个五次，比如带着整个团队去玩
 They tend to have about 10 to 15 puzzles in one hour.
+密室逃脱往往在一个小时内有10到15个谜题
 They're very intense. They're high dose experiences not just because of the time pressure but also just because of the sheer amount of content.
+密室逃脱都非常紧张，是高剂量的体验，不仅仅是因为时间上的压力，也是因为内容很丰富
 They're often extremely dopaminergic, highly memorable.
-So they can be kind of addictive.
-There are people that you know, "oh i've done 400 escape rooms", right?
-They literally have their tally and you know, their their credo amongst themselves is never think about the total amount you've spent on them.
-But escape rooms were a two billion dollar year industry in the US alone in 2019.
-And that was sort of the biggest.
+它们通常具有极强的多巴胺能，令人难忘
+So, they can be kind of addictive.
+所以它们会让人有点上瘾
+There are people that you know, "oh I’ve done 400 escape rooms", right?
+有些人甚至说"哦，我已经玩过400次迷失逃脱了"
+They literally have their tally 
+他们真的会把玩过的密室逃脱记录下来
+and you know, their their credo amongst themselves is never think about the total amount you've spent on them.
+他们的信条就是永远不要去想你在密室逃脱身上总共花了多少钱
+But escape rooms were a two billion dollar year industry in the US alone in 2019, and that was sort of the biggest.
+仅在美国，2019年密室逃脱就是一个20亿美元的产业，算是最大的了
 They were still growing in fact before the pandemic hit and who knows whether they will come back to that extent afterwards.
+事实上，在疫情之前，它们还在增长，谁知道之后它们是否会恢复到这种程度
 But I highly recommend them and I have had wonderful fascinating experiences.
+我强烈推荐去玩玩，我有过有趣的经历
 I have done escape rooms where i've had to crawl around on my hands and knees and sniff things in order to solve a puzzle related to sniffing.
+我曾经玩过一个密室逃脱，在里面我得趴在地上去闻东西，来解决与嗅觉有关的谜题
 And it was a a puzzle themed after being a cat.
-Escape rooms take you in wonderful places and I think as a game designer you can learn a lot from what they've done.
+那是一个以猫为主题的谜题
+Escape rooms take you in wonderful places
+迷失逃脱把你带到一个奇妙的地方
+and I think as a game designer you can learn a lot from what they've done.
+我认为作为一个游戏设计师，你可以从他们所做的事情中学到很多
 Now the interesting thing about escape rooms is that many of the people who are working on these. 
+关于密室逃脱有趣的事情是，许多从事这些工作的人
 They didn't start in puzzle design.
-They may have started in like theater set design or maybe they were designing haunted houses or they were working on the tech for you know making stuff pop out at a haunted house, right?
+他们并不是从做谜题设计开始的
+They may have started in like theater set design or maybe they were designing haunted houses 
+他们可能之前是做舞台布景设计，也可能是设计鬼屋的
+or they were working on the tech for you know making stuff pop out at a haunted house, right?
+或者是研究在鬼屋里面那种如何让一个东西突然蹦出来的技术
 And they've applied that to creating this escape room.
+而他们把这些应用到了设计密室逃脱之中
 But yeah escape rooms are great.
+密室逃脱很棒
 I'm going to pause the recording now. I will start part 2 in just a sec...
+我现在要暂停录制一下，过一小会就开始第二部分
+
 
