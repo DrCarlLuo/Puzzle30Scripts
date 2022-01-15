@@ -1,498 +1,200 @@
-hi welcome back to part two of this my
-
-extended director's cut
-
-of my gdc talk on 30 puzzle design
-
-lessons from
-
-classic uh puzzle communities and how
-
-those lessons can be applied to the
-
-creation of video game puzzles
-
-the 11th lesson is create a rewarding
-
-ending
-
-and the quintessential example of this
-
-is the puzzle picross aka nanograms
-
-which
-
-uh the the picross games have been
-
-published by nintendo since the 90s and
-
-i think the first nanograms
-
-published in the late 80s in various
-
-japanese puzzle magazines there's an
-
-interesting story about the
-
-the origin of them they were created by
-
-two different authors
-
-seemingly simultaneously um but alas one
-
-of the exciting things about nanograms
-
-is at the end you sort of get this
-
-picture
-
-and there's always this question like
-
-what is the picture gonna be
-
-anticipation for uh sort of that
-
-exciting moment where the the picture or
-
-the identity of the picture what is it
-
-oh it's a
-
-rubber duck it's a lion is finally
-
-revealed
-
-another example is this puzzle spiral
-
-galaxies
-
-which it doesn't have an ending surprise
-
-step at the end
-
-but a variant of it does and i will show
-
-you the classic first so this is the
-
-classic spiral galaxies the goal is to
-
-partition the grid
-
-into these regions each of which
-
-contains exactly one dot
-
-and the shape of the region is
-
-rotationally symmetric 180 degrees
-
-around that dot it's a very interesting
-
-puzzle there's a lot of
-
-uh fascinating logic that goes into
-
-solving them uh
-
-but another uh similar type of puzzle
-
-which is printed by nikoli under the
-
-name tentaisho which
-
-is a hilarious pun if you know japanese
-
-taisho means
-
-symmetry and 10 means symmetry about a
-
-point
-
-but tentai also means sort of a heavenly
-
-body like a galaxy so this is a
-
-show of heavenly bodies uh excellent pun
-
-anyways digression uh this was first
-
-published in nicolly magazine in 2001
-
-by an author who goes by gesaku and it's
-
-essentially a spiral galaxy's puzzle
-
-where some of the dots are dark colored
-
-and if you shade the dark colored dots
-
-you get a shape uh and here's a more
-
-sophisticated example quite a large
-
-instance when you solve it you get this
-
-and the shape is that
-
-of an astronaut uh quite an interesting
-
-uh composition that's been put together
-
-and you might ask well
-
-is the puzzle boring because of this
-
-does this sort of compromise the flow of
-
-the puzzle because you're having to make
-
-all of these
-
-regions fit together in exactly this way
-
-and the answer is mostly not like if you
-
-look over to the left side of this
-
-puzzle you can kind of see there's
-
-really elaborate snaking and winding
-
-regions going all over the place and
-
-those are quite
-
-interesting to solve and to sort of
-
-figure out the logic of how that must be
-
-shaped
-
-however putting those in sort of
-
-requires large amounts of
-
-just one color of region and that can
-
-sort of
-
-force the design if you wanted to make a
-
-qr code
-
-into this then probably most of the
-
-puzzle would be relatively uninteresting
-
-to solve
-
-it relies or depends heavily on uh
-
-the shape being a certain way here's an
-
-example that kind of illustrates that
-
-this is
-
-uh you know i'm just putting this
-
-together to show off it's gdc 2021
-
-but this is actually made using a uh a
-
-text generator by eric and martin domain
-
-and it shows you know you can do
-
-whatever you want with these ten thai
-
-show puzzles but like
-
-you know this is the two and it's just a
-
-diagonal set of one by one things it's
-
-it's not particularly interesting or
-
-solve or fun to solve
-
-um another example of putting a surprise
-
-at the end of the puzzle
-
-are the extraction steps that occur in
-
-puzzle hunts like the mit mystery hunt
-
-where every single puzzle has a solution
-
-that is a word or a phrase and often
-
-those are used in metapuzzles or other
-
-things
-
-here's a tintai show puzzle whose answer
-
-is actually a five letter word
-
-and if you solve it you get this and
-
-maybe you can guess what the five letter
-
-word answer is of course it is
-
-clubs uh this is by paul curtis from his
-
-blog
-
-etological enigma which uh has a lot of
-
-interesting puzzles that have a word or
-
-phrase
-
-as an answer the extraction steps uh
-
-have a couple of values they provide
-
-this additional final eureka moment
-
-which can be especially exciting if
-
-you're anticipating it or there's a
-
-little bit of a surprise at the end
-
-they also exploit the peak end rule
-
-which means uh well
-
-the the things that people tend to
-
-remember the most are are sort of the
-
-the peak or the most salient part of an
-
-experience as well as the ending or the
-
-last thing
-
-and so if the last part of an experience
-
-is somehow exciting or memorable then
-
-overall
-
-the experience will be viewed more
-
-positively
-
-and so that's true of puzzles like these
-
-it also can create setups for meta
-
-puzzles where
-
-words like clubs can be used as
-
-ingredients
-
-in another puzzle and many uh puzzle
-
-hunts like mit mystery hunter set up
-
-with these meta puzzles that are sort of
-
-like boss puzzles where
-
-there might be 12 other puzzles you need
-
-to solve and then you take those 12
-
-words and you use them to solve this
-
-final puzzle and maybe only eight to ten
-
-of those twelve are actually needed
-
-so uh it can create a sort of
-
-progression gate
-
-where you don't necessarily need to
-
-solve everything but you need to solve
-
-most of it
-
-um and that can be very useful for uh
-
-pacing and structuring a puzzle hunt
-
-uh lesson number 12 is to embed secrets
-
-and surprises
-
-and this is sort of another way of
-
-cramming more eureka moments into the
-
-same puzzle
-
-i'll show you one example from cryptic
-
-crosswords uh these things are called
-
-neenahs and they are sort of little
-
-easter eggs
-
-hidden in a puzzle in this puzzle if you
-
-read the words going around the outside
-
-or the letters it will say monty
-
-python's flying circus
-
-sort of going sequentially around the
-
-border of the puzzle
-
-and this is known as a nina uh the name
-
-nina comes from al hirschfeld who's a
-
-uh he was a comic author in the us
-
-and nino is the name of his daughter and
-
-here you can see the word nina is
-
-actually hidden in the hair of this
-
-character
-
-three separate times you can see the
-
-n-i-n-a
-
-and he signs his name with a little
-
-three next to it indicating that there
-
-are three nina's hidden in this one
-
-particular comic
-
-and he did this throughout his career
-
-after his daughter was born
-
-and so nina's are essentially the
-
-untracked secrets or easter eggs of uk
-
-crosswords and one feature of them
-
-that's very notable is that they are
-
-missable you could go through this
-
-entire crossword solve the whole thing
-
-think you were done and not even realize
-
-there was something there
-
+Hi welcome back to part two of my extended director's cut of my GDC talk on 30 puzzle design lessons from classic puzzle communities and how those lessons can be applied to the creation of video game puzzles
+大家好，欢迎回到我的GDC演讲"来自经典谜题社区的30节谜题设计课，以及如何将这些经验应用到视频游戏谜题的创作中"的第二部分
+The 11th lesson is "create a rewarding ending" 
+第11节课是「创造一个有收获的结局」
+and the quintessential example of this is the puzzle Picross aka Nanograms
+这方面最典型的例子是Picross，也就是"数织"
+（译者注：Nanogram数织游戏，在一个空白网格中，每行每列前面都标注有该行或该列中连续相邻黑格的长度，玩家据此来涂色）
+which the Picross games have been published by Nintendo since the 90s 
+任天堂从90年代开始发行Picross游戏
+and I think the first nanograms were published in the late 80s in various Japanese puzzle magazines.
+而我认为第一个数织游戏是在80年代末发表在各种日本解谜杂志上的
+There's an interesting story about the origin of them.
+关于它的起源有一个有趣的故事
+They were created by two different authors seemingly simultaneously, 
+数织是由两个不同作者独立创造的
+（译者注：即由 西尾徹也 和 いしだのん 二人独立创作的）
+but alas one of the exciting things about nanograms is at the end you sort of get this picture 
+数织游戏令人兴奋的一点是，在最后你会得到这样的图案
+and there's always this question like what is the picture gonna be,
+（在解的过程中）总会产生比如"这个图案会是什么呢？"的问题
+anticipation for uh sort of that exciting moment 
+对那个激动人心的时刻有一种期盼
+where the picture or the identity of the picture, What is it? Oh, it's a rubber duck! It's a lion! It’s finally revealed.
+这个图案或图案代表的是什么呢？哦，是一只橡皮鸭！是一只狮子！最终终于被揭开了
+Another example is this puzzle Spiral Galaxies which it doesn't have an ending surprise step at the end 
+另一个例子是"螺旋星系"谜题，它本身是没有一个惊喜的结尾的
+but a variant of it does and I will show you the classic first
+但它的一个变体却有，我先给你们看经典版本
+So, this is the classic spiral galaxies. 
+这就是经典版本的螺旋星系
+The goal is to partition the grid into these regions, 
+游戏目标是将网格划分为一些区域
+each of which contains exactly one dot and the shape of the region is rotationally symmetric 180 degrees around that dot.
+每个区域正好包含一个点，而且每个区域围绕那个点中心对称
+It's a very interesting puzzle.
+这是一个非常有趣的谜题
+There's a lot of fascinating logic that goes into solving them.
+深入研究的话就会有很多迷人的逻辑
+But another similar type of puzzle which is printed by Nikoli under the name "Tentai Show" 
+不过有一种类似的谜题，是Nikoli以"Tentaishou"的名字刊发的
+which is a hilarious pun if you know Japanese.
+如果你懂日语的话，（" Tentaishou"）这个名字还是个滑稽的双关
+"taishou" means symmetry and ten means symmetry about a point 
+「点」(ten)是点的意思，「対称」(taishou）是对称的意思，合起来就是点对称
+but "tentai" also means sort of a heavenly body like a galaxy, so, this is a show of heavenly bodies.
+但「天体」(tentai)又是天体的意思，所以，这又是"天体show"
+Excellent pun.
+很棒的双关
+Anyways digression 
+无论如何，有点跑题了
+this was first published in Nikoli magazine in 2001 by an author who goes by Gesaku 
+这个在2001年首次发表在Nikoli杂志上的作品，作者叫Gesaku
+and it's essentially a spiral galaxy's puzzle where some of the dots are dark colored 
+它本质上还是一个螺旋星系谜题，不过其中一些点是涂黑了的
+and if you shade the dark colored dots, you get a shape 
+如果你把黑点对应的区域上色的话，就会得到一个形状
+and here's a more sophisticated example quite a large instance 
+这里有一个更复杂的例子，相当大的一个例子
+when you solve it, you get this and the shape is that of an astronaut 
+当你解出来的时候，你会得到一个宇航员的图形
+uh quite an interesting uh composition that's been put together
+非常有趣的构图
+and you might ask well is the puzzle boring because of this 
+你可能会问，这样做了之后谜题会不会变得无聊？
+does this sort of compromise the flow of the puzzle because you're having to make all of these regions fit together in exactly this way
+这是否会牺牲解谜过程，因为必须得让这些区域按图形这种方式组合在一起
+and the answer is mostly not 
+答案是大部分不会
+like if you look over to the left side of this puzzle, you can kind of see there's really elaborate snaking and winding regions going all over the place 
+如果你看一下这个谜题的左边，你可以看到有一些精心设计的蜿蜒曲折的区域
+and those are quite interesting to solve and to sort of figure out the logic of how that must be shaped
+这些解起来都很有趣，而且弄清楚形状形成的逻辑也很有趣
+however, putting those in sort of requires large amounts of just one color of region 
+然而，把这些形状融入进去就会让很多区域是同一种颜色
+and that can sort of force the design 
+这可能会影响到设计
+if you wanted to make a qr code into this then probably most of the puzzle would be relatively uninteresting to solve
+如果你想弄成个二维码图案的谜题，那么谜题大部分解起来就会相对无趣了
+it relies or depends heavily on uh the shape being a certain way 
+这在很大程度上依赖于形状本身
+here's an example that kind of illustrates that 
+这里有一个例子可以说明这一点
+this is you know I’m just putting this together to show off its GDC 2021
+这个是我做的一个展现出GDC2021的图案
+but this is actually made using a text generator by Erik Demaine and Martin Demaine 
+我这个实际上是用Erik Demaine和Martin Demaine的文本生成器来生成的
+（译者注：用文本生成Tentai Show谜题的生成器在：https://erikdemaine.org/fonts/spiralgalaxies/）
+and it shows you know you can do whatever you want with these Tentai Show puzzles 
+这个就表面了你可以用任何图案来制作Tentai Show谜题
+but like you know this is the 2 and it's just a diagonal set of one by one things 
+但你看这是个2，它只是一个一个点斜着摆放而已
+it's not particularly interesting or solve or fun to solve
+这个解起来并不是特别有趣
+another example of putting a surprise at the end of the puzzle 
+另一个在谜题结尾加入惊喜的例子是
+are the extraction steps that occur in puzzle hunts like the MIT mystery hunt
+在解谜寻宝比赛中的"提炼步骤"，比如MIT解谜寻宝比赛
+where every single puzzle has a solution that is a word or a phrase and often those are used in metapuzzles or other things
+在那里面每道谜题的答案都是一个单词或短语，而这些答案又经常被用于"元谜题"(metapuzzle)或其他一些东西里面
+（译者注：元谜题 meta puzzle，几个谜题的答案本身又组成一个新的谜题）
+here's a Tentai show puzzle whose answer is actually a five letter word
+这里有一道Tentai Show谜题，它的答案是一个五个字母的单词
+and if you solve it, you get this and maybe you can guess what the five letter word answer is 
+如果你解开它，你会得到这样一个图案，那么你也许能猜出这个答案是什么
+of course, it is clubs 
+当然，答案是"梅花" ♣
+this is by Pavel Curtis from his blog Adalogical Ænigmas 
+这个谜题是来自Pavel Curtis的博客Adalogical Ænigmas
+（译者注：pavelspuzzles.com/aenigmas/）
+which has a lot of interesting puzzles that have a word or phrase as an answer
+他有很多用一个单词或短语作为答案的有趣的谜题
+the extraction steps have a couple of values
+"提炼步骤"有几个方面的价值
+they provide this additional final eureka moment which can be especially exciting if you're anticipating it or there's a little bit of a surprise at the end
+它们提供了最后这样一个额外的尤里卡时刻，如果你期待它出现的话，那么它会非常地令人兴奋
+they also exploit the peak end rule which means uh well the the things that people tend to remember the most are are sort of the the peak or the most salient part of an experience as well as the ending or the last thing
+它们还利用了「峰终定律(Peak-End Rule)」：人们倾向于记住一段体验中的高峰或最突出的部分，以及结尾部分
+and so, if the last part of an experience is somehow exciting or memorable
+因此，如果一个体验的结尾部分是令人激动或难忘的话， 
+then overall the experience will be viewed more positively
+那么总体来说，这个体验会被更加积极地看待
+and so that's true of puzzles like these 
+而谜题也是如此
+it also can create setups for metapuzzles where words like clubs can be used as ingredients in another puzzle 
+它还能为元谜题创造条件，像"梅花"这样的单词可以被用作另一个谜题的成分
+and many uh puzzle hunts like MIT mystery hunter set up with these meta puzzles that are sort of like boss puzzles 
+而许多解谜寻宝比赛，比如MIT解谜寻宝比赛，会设置这样的元谜题来作为类似说最后的Boss谜题
+where there might be 12 other puzzles you need to solve and then you take those 12 words and you use them to solve this final puzzle 
+你可能得先解决另外12个谜题，然后拿着这12个单词来解决这最后的谜题
+and maybe only eight to ten of those twelve are actually needed
+或者也许实际上只需要其中8到10个单词
+so, uh it can create a sort of progression gate where you don't necessarily need to solve everything but you need to solve most of it
+所以这样可以创造一种阶段性门槛，你不一定得解决全部谜题，可能解决其中大部分就行了
+um and that can be very useful for uh pacing and structuring a puzzle hunt
+这对于设置解谜寻宝比赛的节奏和步骤非常有用
+
+
+lesson number 12 is to embed secrets and surprises
+第12课是「藏入一些秘密和惊喜」
+and this is sort of another way of cramming more eureka moments into the same puzzle
+这算是向同一道谜题中塞入更多尤里卡时刻的另一种方式
+I’ll show you one example from cryptic crosswords 
+我给你看一个Cryptic Crossword的例子
+（译者注：Cryptic Crossword是一种在英国特别流行的填字游戏，其中每个词的线索都是一个字谜）
+these things are called Ninas and they are sort of little easter eggs hidden in a puzzle 
+这种东西被称作「Nina」，它们算是藏在谜题中的小彩蛋
+in this puzzle if you read the words going around the outside or the letters it will say 
+在这道谜题中，如果你把沿着外框周围的字母按顺序读出来就是：
+"Monty Python’s Flying Circus" , sort of going sequentially around the border of the puzzle
+"Monty Python’s Flying Circus"（《巨蟒剧团之飞翔的马戏团》）
+and this is known as a Nina 
+这就是所谓的 "Nina"
+the name Nina comes from Al Hirschfeld who's a uh he was a comic author in the US 
+"Nina"这个叫法来自Al Hirschfeld，他是美国的一位漫画家
+and Nina is the name of his daughter 
+Nina是他女儿的名字
+and here you can see the word Nina is actually hidden in the hair of this character three separate times 
+在这里你可以看到"Nina"这个词实际上是藏在这个人物的头发里的，有三个地方
+you can see the N-I-N-A
+你可以看到N-I-N-A的字母
+and he signs his name with a little 3 next to it indicating that there are three Ninas hidden in this one particular comic
+他在署名的时候在旁边加了个小的数字3，表面这个漫画中藏了3个"Nina"
+and he did this throughout his career after his daughter was born
+在他整个职业生涯中，自从他女儿出生之后他都是如此做的
+and so Ninas are essentially the untracked secrets or easter eggs of UK crosswords 
+所以"Nina"本质上是英国填字游戏中隐藏着的秘密或者说彩蛋
+and one feature of them that's very notable is that they are missable 
+它们的一个显著特点是，它们是"可错过的"
+you could go through this entire crossword solve the whole thing think you were done and not even realize there was something there
+你可能把整个填字游戏解出来了，觉得自己做完了，甚至都没有意识到那你还有什么东西
 uh is this a problem or is it a feature
+那这算是个缺点还是特性呢？
+uh well I mean one issue with it being missable is sort of that eureka moment is just not going to be experienced by the whole audience of this puzzle 
+这种"可错过的"东西所带来的一个问题是，它对应的尤里卡时刻是没法被所有玩家都体验到的
+but on the other hand, the fact that the secret is missable somehow makes it more valuable
+但另一方面，这个秘密是"可错过的"这一点，在某种程度上又使它本身更有价值
+it creates uh this feeling whenever you're solving one of these this author's puzzles let's say that there might just always be something lurking around the corner
+它创造了这样一种感觉，每当你在做这个作者的谜题的时候，总会觉得在角落里会藏着什么东西
+and when you do find it it's more of a surprise 
+而当你找到它的时候就会有更多的惊喜
+and as we learned earlier that the sort of more surprising or unexpected something is the more exciting it is the more dopaminergic it is the the more sparkle is there 
+而正如我们前面所学到的，越是令人惊讶或意外的东西，就越令人兴奋、有越高多巴胺能、有更多Sparkle
+so, the fact that the secrets are missable provides uh sort of additional excitement when you do find it
+所以，秘密是可错过的这一点会让你在解开它的时候有额外的兴奋
+um another thing that missable secrets can do especially in video games is they can provide a reason to sort of go back to an old game
+可错过的秘密能做到的另一件事是，特别是在电子游戏中，它能提供一个回去玩老游戏的原因
+uh like if I go back to a game like Chrono Trigger which is an RPG from the 90s
+比如我回去玩《超时空之轮》这样的90年代的RPG
+uh there are things you can discover in that game that you didn't discover when you played it the first time 
+你会发现一些你第一次玩的时候没发现的东西
+whether it's a line of dialogue or it's a sort of a hidden item that you just never knew was there
+不论是一段对话或者某个隐藏物品，你之前不知道它的存在
+there are so many things and so much depth in a good rpg that you can play it multiple times
+一个好的RPG里面有很多东西、很多深度，你可以反反复复玩
+and I think some puzzle games like the Witness are starting to incorporate more and more of this into their games as well which is great
+我觉得一些解谜游戏，如《见证者》，也开始在里面融入更多这样的东西，这一点很不错
 
-uh well i mean one issue with it being
-
-missable is sort of that eureka moment
-
-is just not going to be experienced by
-
-the whole audience of this puzzle but on
-
-the other hand the fact that the secret
-
-is missable somehow makes it more
-
-valuable it creates
-
-uh this feeling whenever you're solving
-
-one of
-
-these this author's puzzles let's say
-
-that there might just always be
-
-something lurking around the corner
-
-and when you do find it it's more of a
-
-surprise and as we learned earlier that
-
-the sort of more surprising or
-
-unexpected something is the more
-
-exciting it is the more dopaminergic it
-
-is the the more sparkle
-
-is there so the fact that the secrets
-
-are miscible
-
-provides uh sort of additional
-
-excitement when you do find it
-
-um another thing that missable secrets
-
-can do
-
-especially in video games is they can
-
-provide a reason to sort of go back to
-
-an old game
-
-uh like if i go back to a game like
-
-chrono trigger which is an rpg from the
-
-90s
-
-uh there are things you can discover in
-
-that game that you didn't discover when
-
-you played it the first time whether
-
-it's a line of dialogue or it's a sort
-
-of a hidden
-
-item that you just never knew was there
-
-there are so many things and so much
-
-depth in a good rpg that you can play it
-
-multiple times
-
-and i think some puzzle games like the
-
-witness are starting to incorporate more
-
-and more of this
-
-into their games as well which is great
 
 um lesson number 13 aporia is a promise
 
