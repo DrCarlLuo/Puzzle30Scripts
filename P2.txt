@@ -196,1777 +196,709 @@ and I think some puzzle games like the Witness are starting to incorporate more 
 我觉得一些解谜游戏，如《见证者》，也开始在里面融入更多这样的东西，这一点很不错
 
 
-um lesson number 13 aporia is a promise
-
-of surprise
-
-aporia is a statement when you're
-
-solving a puzzle
-
-where you as a solver believe that the
-
-puzzle is impossible you may even feel
-
-like you have a proof that it's
-
-impossible
-
-i need to do this but there's a catch i
-
-just can't
-
-what's the trick um this may also be
-
-called a known unknown where
-
-you as a solver know that there is
-
-something that you don't know
-
-you think that ah well i mean this this
-
-puzzle is in this game or this person
-
-has
-
-you know built and shipped this puzzle
-
-to me which i have in my hands it must
-
-have a solution and yet
-
-i convinced myself that i i believe it
-
-has no solution
-
-uh an example a simple example is with
-
-this puzzle here
-
-uh that i created uh i'll show you how
-
-it works
-
+um lesson number 13 aporia is a promise of surprise
+第13课「Aporia(困惑)是惊喜的前兆」
+aporia is a state when you're solving a puzzle where you as a solver believe that the puzzle is impossible 
+Aporia（困惑）是解谜时的一种状态，作为解谜者，你感觉这个谜题是不可能的
+you may even feel like you have a proof that it's impossible
+甚至感觉自己能找到证据证明它是不可能的
+I need to do this… but there's a catch! I just can't 
+“我需要这样做...但有个难点！我做不到”
+what's the trick? 
+“这里面有什么诀窍？”
+um this may also be called a “known unknown”
+这也可以被称作”已知的未知”
+where you as a solver know that there is something that you don't know
+作为一个解谜者，你知道有一些你不知道的东西
+you think that ah well I mean this this puzzle is in this game or this person has you know built and shipped this puzzle to me which I have in my hands it must have a solution 
+你会觉得既然这个谜题已经摆在我面前了，那总能解得出来吧
+and yet I convinced myself that I believe it has no solution
+但我总还是相信这东西解不出来
+uh an example a simple example is with this puzzle here uh that I created uh 
+举一个简单的例子，这是我制作的一个谜题。
+I’ll show you how it works
+我给你看看它怎么玩的
 uh let's switch to the full cam um
-
-this object right here we'll call the
-
-cage and there are two other parts which
-
-i will call a and b
-
-here's a it's sort of got the l-shaped
-
-tetris piece connected to the s-shape
-
-and this is b b sort of has this
-
-three-way junction up near the top
-
-and the goal is to sort of put a and b
-
-into the cage
-
-and well let's let's just slide a in you
-
-can kind of put it in like that
-
-and that's the only place it goes it's
-
-very easy to see that and then you try
-
-and put b
-
-in and it just like it won't fit there's
-
-not enough room to slide it in
-
-uh you could try putting it in from the
-
-bottom it there's no room to put it in
-
-there either
-
-okay well maybe you don't put a in first
-
-maybe you have to put b
-
-in first and uh you can try that you
-
-know here's
-
-here's b in i'll just slide it down
-
-there
-
-uh but then you have to put a and you
-
-can kind of see where it goes
-
-right like it's kind of kind of wrap
-
-around there and slide in there but you
-
-just
-
-you can't slide it in there's no way to
-
-make it work
-
-so it's not a before b and it's not b
-
-before a well then it must be impossible
-
-right
-
-but no actually the solution is you take
-
-b and you put it in kind of halfway
-
-and you stick it up there and then you
-
-can kind of just put a in half way and
-
-slide it in the back
-
-and then b comes down
-
-and
-
-there we go and then it's solved uh so
-
-you know the trick is you have to put a
-
-in halfway
-
+让我切下摄像头
+this object right here we'll call the cage 
+这个东西，我把它叫做”笼子”
+and there are two other parts which I will call A and B
+还有另外两个部分，我称之为A和B
+here's A it's sort of got the L-shaped Tetris piece connected to the S-shape
+这是A，它有点像L型的俄罗斯方块跟S型的连在一起
+and this is B. B sort of has this three-way junction up near the top
+这是B，B的顶部有个像三通一样形状
+and the goal is to sort of put A and B into the cage
+目标是把A和B插入”笼子”
+and well let's just slide A in you can kind of put it in like that
+让我们把A放进去，你可以像这样把它放进去
+and that's the only place it goes it's very easy to see that 
+这是它唯一能放的地方，很容易看出来
+and then you try and put b in 
+然后你试着把B放进去
+and it just like it won't fit. there's not enough room to slide it in
+然后它就放不进去了，没有足够的空间
+uh you could try putting it in from the bottom it 
+你可以试着从底部把它放进去
+there's no room to put it in there either
+那里也没有空间可以放进去
+okay well maybe you don't put A in first. Maybe you have to put B in first 
+好吧，可能不能先把A放进去，也许得先把B放进去
+and uh you can try that 
+你可以试着这样做
+you know here's b in I’ll just slide it down there
+这个是B，我把它放到这个位置
+uh but then you have to put A and you	 can kind of see where it goes
+但然后你放A进去，你可以看它的位置
+right like it's kind of kind of wrap around there and slide in there but you just you can't slide it in 
+它有点像把它包裹住了，放不进去
+there's no way to make it work
+这样也不行
+so, it's not A before B and it's not B before A 
+所以，既不是先放A再放B，也不是先放B再放A
+well then it must be impossible, right
+那么这一定是不可能的，对吗？
+but no actually the solution is you take B and you put it in kind of halfway and you stick it up there 
+但不是的，实际上解法是你把B放到一半，然后就先不动它
+and then you can kind of just put A in half way and slide it in the back 
+然后又把A放入到一半的位置，然后从后面把它塞进去
+and then b comes down 
+然后B就下来了
+and there we go and then it's solved uh 
+就这样就解决了
+so, you know the trick is you have to put A in halfway
+所以，诀窍是你必须把A放在一半的地方
 um back to the presentation
-
-uh so i mean and this isn't a difficult
-
-puzzle this might be a level one or a
-
-level two puzzle it's not particularly
-
-challenging but it illustrates the point
-
-of
-
-the obvious things lead to a
-
-non-solution to the puzzle and you might
-
-even be convinced like well then this
-
-puzzle's impossible you can't put a in
-
-first you can't put b in first so
-
-clearly it's a possible well okay but
-
-there was something
-
-that you didn't notice the state of
-
-aporia this state of feeling like the
-
-puzzle is impossible or simultaneously
-
-believing both
-
-that well i think it's impossible but
-
-yet the puzzle is in front of me and a
-
-solution has been promised
-
-um it creates this uh idea that an
-
-interesting
-
-trick exists it sort of promises you
-
-that a powerful eureka moment is coming
-
-and primes you for the discovery of
-
-something really cool
-
-and that mystery and anticipation is
-
-really motivating
-
-like there's a big reveal coming and you
-
-can now anticipate it and the sort of
-
-state of anticipating a reward or
-
-anticipating a eureka moment
-
-is it can be more motivating and more
-
-dopaminergic than actually getting the
-
-reward
-
-um and so this state of aporia is highly
-
-motivating and
-
-when a player is convinced that they're
-
-just on the cusp of a really cool
-
-discovery
-
-that could be a time where they're very
-
-unlikely to quit and very likely to
-
-remember and uh you know want to share
-
-that discovery once they found it
-
-and be very excited by it so aporia is a
-
-great trick
-
-i will show you an example this is from
-
-a game called pipe push paradise by
-
-corey martin a few years back
-
-this is a puzzle where you sort of have
-
-to push these pipes around and in this
-
-puzzle
-
-in particular on the left here you have
-
-this pipe with water flowing out and you
-
-have to connect it to the one on the
-
-right
-
-and you might realize well okay so you
-
-just have to make this u shape with
-
-these two pieces you can sort of flip
-
-and rotate the pieces around
-
-the problem is that when you get to this
-
-state you can't leave the puzzle
-
-and you have to both connect the pipes
-
-up and have a way of exiting in this
-
-case the exit is at the bottom but you
-
-just can't get down there
-
-and uh you know once you've played with
-
-this puzzle a bit you can realize that
-
-there's no way to be
-
-at the puzzle at the bottom of this
-
-puzzle while also having the pipes in
-
-this configuration there's just no last
-
-move that could have created this
-
-configuration and leave you at the
-
-bottom
-
-you could never have pushed those pipes
-
-up into that configuration because
-
-there wouldn't have been a place for you
-
-to stand um
-
-and one of the things that you'll
-
-observe if you're playing around with
-
-this puzzle enough is that you can
-
-actually rotate the pipes
-
-into a different configuration where
-
-they're out in three dimensions this is
-
-a three-dimensional puzzle solving game
-
-where
-
-the rotations sometimes take things up
-
-off of the floor
-
-and this prompts you to find the real
-
-solution which is actually to make the
-
-archway
-
-in the third dimension such that you can
-
-walk under it and leave the puzzle
-
-and this is a very memorable solution
-
-but the thing that sort of primes you
-
-for this surprise is
-
-going back to your first attempt at the
-
-solution and realizing this ain't gonna
-
-work
-
-and perhaps even being so puzzled by it
-
-that you might leave the puzzle go try
-
-something else and then come back once
-
-you've realized that
-
-well all the other puzzles had solutions
-
-this one must have one but what am i not
-
-thinking of and that final surprise is
-
-just so memorable
-
-both because it's an exciting surprise
-
-but also because
-
-of the fact that you couldn't solve it
-
-any other means
-
-now in order to make this work you have
-
-to do this which is uh
-
-our 14th lesson cultivate the trust of
-
-the solver
-
-and one example of where this comes up
-
-is say you're on the puzzle subreddit or
-
-the puzzling stack exchange and you just
-
-click on a random interesting puzzle
-
-and it looks cool but you play around
-
-with it a bit and it looks impossible
-
-and maybe you've even convinced yourself
-
-that it must be impossible you have a
-
-proof that it's impossible
-
-maybe there's a really cool eureka
-
-moment lurking beneath the service the
-
-surface that you just didn't discover
-
-yet
-
-but on the other hand maybe just there's
-
-a rule missing there's a piece
-
-missing maybe the person who made this
-
-puzzle screwed up or maybe the puzzle
-
-uh the poster of the puzzle screwed up
-
-and just forgot to include
-
-something maybe it's intended to be
-
-impossible maybe it's you know one of
-
-these famous
-
-koenigsberg bridge style puzzles that
-
-literally has no solution and
-
-discovering why
-
-is is sort of the interesting part of it
-
-and i've literally seen all of the above
-
-on these websites
-
-uh but if it's from a source that i
-
-trust or it has a lot of
-
-upvotes then maybe it's worth pursuing
-
-anyway you know but
-
-uh the ability for me to trust that this
-
-puzzle is actually something interesting
-
-is often limited if it's just you know a
-
-random post on a random website from
-
-somebody i don't know and i'm
-
-i might give up on it before i i
-
-actually push
-
-forward and find that interesting eureka
-
-moment
-
-this happens a lot in video games
-
-especially action adventure games in
-
-metroidvania
-
-let's say you you see an interesting
-
-puzzle you know there's this heart piece
-
-being teased over here in the corner in
-
-zelda
-
-uh can i get it right now maybe i'm
-
-missing an item maybe i have to come
-
-back once i find the hook shot or the
-
-glider or whatever maybe there's an
-
-ability i don't have
-
-maybe the world itself will change maybe
-
-you know in act three they'll be moving
-
-platforms and mushroom sprouting here
-
-that i could jump on
-
-maybe when i become adult link instead
-
-of child link i'll be able to jump that
-
-far maybe the game has a bug
-
-this has happened to me so many times
-
-where i play an indie puzzle game the
-
-first week it comes out and it just
-
-hasn't had a patch yet
-
-and there's some kind of issue with one
-
-of the puzzles
-
-where i you know i just can't solve it
-
-and the problem with that is
-
-once that happens to you once you no
-
-longer have
-
-any trust in the the rest of the game
-
-like every time you get stuck on a
-
-puzzle you might just think well what if
-
-the game's bugged again
-
-right uh it puts you in a state where
-
-you're no longer sort of following that
-
-drip feed of like oh i'm just on the
-
-cusp of something exciting i just need
-
-to push forward a little bit
-
-instead there's this sort of unhealthy
-
-skepticism that robs you of that
-
-motivating force to continue going in
-
-this case for this zelda puzzle it turns
-
-out you can get it at this stage of the
-
-game you just have to go grab a chicken
-
-and you have to carry the chicken up
-
-quite a ways but then you can sort of
-
-use it to sail over there because when
-
-you're holding the chicken you fall much
-
-less slowly and so it in fact does have
-
-a solution but that may not be obvious
-
-to you until much later in the game
-
-uh a way of dealing with this that
-
-superland used
-
-was to actually have npcs that tell you
-
-you have everything you need to solve
-
-this puzzle
-
-go for it uh and this happens at
-
-multiple times in the game in some cases
-
-you'll even
-
-reach an area where you can no longer go
-
-back like you have to fall
-
-off something and it locks you in a room
-
-with an npc says you
-
-says you could solve this puzzle right
-
-now and then you just have to do it
-
-and superland is a metroidvania where
-
-you're constantly getting new items that
-
-add new abilities or affordances to the
-
-player and so you might often come to a
-
-puzzle that you can't solve and say well
-
-maybe i just have to come back once i
-
-get an item
-
-and so if that were the case for every
-
-puzzle in the game then the
-
-for the puzzles that gate your
-
-progression you know the player might
-
-just turn around and go do something
-
-else
-
-and so something like this is in fact
-
-necessary to sort of tell the player no
-
-no you need to push forward on this one
-
-puzzle
-
+回到幻灯片
+uh so I mean and this isn't a difficult puzzle 
+所以我的意思是，这其实并不是一个很难的谜题
+this might be a level one or a level two puzzle it's not particularly challenging 
+这可能是第1级或第2级的谜题，没有特别的挑战性
+but it illustrates the point of the obvious things lead to a non-solution to the puzzle 
+但它说明了一点，解谜过程中会有一些明显的东西让这个谜题看起来无解
+and you might even be convinced like well then this puzzle's impossible 
+并且你甚至可能会说服自己这个谜题是不可能的
+you can't put a in first you can't put b in first so clearly it's impossible well okay 
+既不能先放A也不能先放B那显然就不可能了
+but there was something that you didn't notice 
+但其实有些事情你没有注意到
+the state of aporia this state of feeling like the puzzle is impossible 
+这种Aporia的感觉，这种觉得谜题不可能的感觉
+or simultaneously believing both that well I think it's impossible but yet the puzzle is in front of me and a solution has been promised
+或者说既感觉这个谜题是不可能，但又觉得这个谜题的解一定是能给出的
+um it creates this uh idea that an interesting trick exists 
+这产生了这样一个想法，一个有趣的诀窍是存在的
+it sort of promises you that a powerful eureka moment is coming and primes you for the discovery of something really cool
+它有点在向你预示一个强大的尤里卡时刻即将到来，并让你为发现很酷的东西做准备
+and that mystery and anticipation is really motivating like there's a big reveal coming and you can now anticipate it 
+那种神秘感和期待真的很有激励性，就像有个大的启示即将到来，已经可以预见它了
+and the sort of state of anticipating a reward or anticipating a eureka moment is it can be more motivating and more dopaminergic than actually getting the reward
+那种期待奖励或尤里卡时刻的状态，比实际得到奖励更有动力，有更高多巴胺能
+um and so this state of aporia is highly motivating 
+所以这种Aporia的状态时有高度激励性的
+and when a player is convinced that they're just on the cusp of a really cool discovery
+而当玩家相信自己正处在即将有一个非常酷的发现的边缘的时候
+that could be a time where they're very unlikely to quit and very likely to remember 
+这就是他们不太可能放弃的时刻，而且很可能会记住（这个时刻）
+and uh you know want to share that discovery once they found it and be very excited by it 
+而一旦他们解出来了，就会想与别分享，并为之兴奋
+so aporia is a great trick
+所以Aporia是一个很好的技巧
+I will show you an example this is from a game called Pipe Push Paradise by Corey Martin a few years back
+我给你看个例子，这是几年前由Corey Martin制作的叫《推管天堂》的游戏
+this is a puzzle where you sort of have to push these pipes around 
+谜题中你得把这些管道推来推去
+and in this puzzle in particular on the left here you have this pipe with water flowing out 
+在这个谜题的左边你能看到一个在流水的管道
+and you have to connect it to the one on the right
+你得把它跟右边那个连起来
+and you might realize well okay so you just have to make this u shape with these two pieces
+你可能会意识到，好吧，只需要用这两段管道做成这样一个U字形
+you can sort of flip and rotate the pieces around
+你可以翻转和旋转这些管道段
+the problem is that when you get to this state you can't leave the puzzle
+问题是，当你做成这个状态时，你就不能走出这个谜题了
+and you have to both connect the pipes up and have a way of exiting 
+你必须把管道连接起来并且还要有一个出口
+in this case the exit is at the bottom but you just can't get down there
+在这种情况下，出口在底部，但你走不过去
+and uh you know once you've played with this puzzle a bit you can realize that
+一旦你玩过这个谜题，你就会发现
+there's no way to be at the puzzle at the bottom of this puzzle while also having the pipes in this configuration 
+没有办法把管道弄成这种构造的同时人站在下面
+there's just no last move that could have created this configuration and leave you at the bottom
+没有任何移动能做出这样的构造，而让你站在底部
+you could never have pushed those pipes up into that configuration because there wouldn't have been a place for you to stand um
+你不可能把这些管道推到这个位置，因为你根本没有地方可以站立
+and one of the things that you'll observe if you're playing around with this puzzle enough is that 
+如果你多玩一玩，你就会发现
+you can actually rotate the pipes into a different configuration where they're out in three dimensions 
+你可以把管道旋转到另一种构造，让它们在三维空间中突出来
+this is a three-dimensional puzzle solving game where the rotations sometimes take things up off of the floor 
+这其实是个三维的解谜游戏，旋转是可以让东西离开地面的
+and this prompts you to find the real solution which is actually to make the archway in the third dimension 
+这就促使你找到真正的解法，就是把”拱门”变成三维的
+such that you can walk under it and leave the puzzle
+这样你就可以从下面走过去，离开这个谜题
+and this is a very memorable solution 
+这是一个非常令人难忘的解法
+but the thing that sort of primes you for this surprise is going back to your first attempt at the solution and realizing this ain't gonna work
+但在这个惊喜之前，回到你最初的尝试，你会发现做不到
+and perhaps even being so puzzled by it that you might leave the puzzle go try something else 
+也许你会感到非常困惑，以至于暂时离开这个谜题去试试别的
+and then come back once you've realized that well all the other puzzles had solutions
+然后当你意识到其他的谜题都有解决方法时又回来
+this one must have one but what am i not thinking of 
+那这个谜题也一定可解，但是我有什么地方是没想到的吗
+and that final surprise is just so memorable
+而最后的惊喜是如此令人难忘
+both because it's an exciting surprise but also because of the fact that you couldn't solve it any other means
+既是因为它是一个令人兴奋的惊喜，但也是因为你无法用其他任何方式来解决它的这一点事实
+
+
+now in order to make this work you have to do this which is our 14th lesson 
+那么，为了让它发挥作用，你必须要做的事正是我们接下来的第14课
+cultivate the trust of the solver
+「建立与解题者之间的信任」
+and one example of where this comes up is say you're on the puzzle subreddit or the puzzling stack exchange and you just click on a random interesting puzzle
+有一个例子可以说明这一点，比如你跑到贴吧上或其他网站上随便找了个看起很有趣的谜题
+and it looks cool but you play around with it a bit and it looks impossible
+它看起来很酷，但你尝试了一会儿，发现这个看起来解不出来
+and maybe you've even convinced yourself that it must be impossible you have a proof that it's impossible
+也许你甚至说服了自己这肯定不可能，你有证据说明它不可能
+maybe there's a really cool eureka moment lurking beneath the surface that you just didn't discover yet
+也许有一个非常酷的尤里卡时刻埋藏在表面之下，只是你还没有发现
+but on the other hand maybe just there's a rule missing, there's a piece missing
+但另一方面，也许可能只是缺了条规则，谜题少了一块
+maybe the person who made this puzzle screwed up or maybe the puzzle uh the poster of the puzzle screwed up
+也许制作这道谜题的人搞错了，或者是发帖的人搞错了
+and just forgot to include something
+而忘了把一些东西加进去
+maybe it's intended to be impossible, 
+也许这道谜题就是故意无解的
+maybe it's you know one of these famous Konigsberg bridge style puzzles that literally has no solution and discovering why is sort of the interesting part of it
+也许这就是类似柯尼斯堡七桥问题那种无解的谜题，而去发现为什么无解是它的有趣之处
+and I’ve literally seen all of the above on these websites
+在这些网站上，我见过上述所有情况
+but if it's from a source that I trust or it has a lot of upvotes then maybe it's worth pursuing anyway you know 
+但如果谜题是来自我信任的地方，或者有很多人点赞的话，也许就值得一试了
+but uh the ability for me to trust that this puzzle is actually something interesting is often limited 
+但如果只是一个我不认识的人随便在哪个网站随便发的个帖子的话，
+if it's just you know a random post on a random website from somebody I don't know 
+那么我去相信这个谜题是真正有趣的可能就很有限了
+and I might give up on it before I actually push forward and find that interesting eureka moment
+我可能会在我真正找到那个有趣的尤里卡时刻之前就放弃它了
+this happens a lot in video games, especially action adventure games in Metroidvania
+这种事情在电子游戏中经常发生，特别是在类银河恶魔城动作冒险游戏
+let's say you see an interesting puzzle you know there's this heart piece being teased over here in the corner in Zelda
+就比如说在塞尔达里面，你看到这样一个谜题，在角落里有一颗心可以去拿
+Can I get it right now? 
+我现在能拿得到吗？
+Maybe I’m missing an item. Maybe I have to come back once I find the hook shot or the glider or whatever 
+或许我缺一样物品。可能得等我有勾爪或滑翔伞之后再回来拿
+maybe there's an ability I don't have
+或许有一种技能是我没有的
+maybe the world itself will change. Maybe you know in act three they'll be moving platforms and mushroom sprouting here that I could jump on
+或许世界本身会改变，也许可能到第三幕中，这里会出现移动平台或者蘑菇，我可以跳上去
+maybe when I become adult link instead of child link I’ll be able to jump that far 
+或许等我成为成年林克时就能跳这么远了
+maybe the game has a bug
+或许游戏有bug
+This has happened to me so many times where I play an indie puzzle game the first week it comes out and it just hasn't had a patch yet
+我在玩那种刚发售一周还没修复的独立游戏时，遇到过太多这种情况了
+and there's some kind of issue with one of the puzzles where I you know I just can't solve it 
+里面的谜题会出现各种问题，怎么也解决不了
+and the problem with that is once that happens to you once, you no longer have any trust in the rest of the game
+问题是，一旦你遇到这种情况，只需要一次，你就会对游戏剩下部分失去信任了
+like every time you get stuck on a puzzle you might just think well what if the game's bugged again, right 
+比如每当你卡在一个谜题的时候，就会想，会不会是游戏又出bug了，是吧？
+uh it puts you in a state where you're no longer sort of following that drip feed of like oh i'm just on the cusp of something exciting I just need to push forward a little bit
+这让你处于一种状态，你不再像以前那样觉得我在跟随着游戏的进程，处在激动人心时刻的边缘，只要再往前推进一下就好了
+instead there's this sort of unhealthy skepticism that robs you of that motivating force to continue going in
+取而代之的是一种不健康的怀疑态度，使你失去了继续前进的动力
+this case for this Zelda puzzle it turns out you can get it at this stage of the game 
+就这个塞尔达谜题而言，在游戏的这个阶段，你是可以拿得到的
+you just have to go grab a chicken and you have to carry the chicken up quite a ways 
+你只需要去抓一只鸡，然后带着这只鸡走一段路
+but then you can sort of use it to sail over there because when you're holding the chicken you fall much less slowly 
+然后你就可以拿着鸡飘过去，因为拿着鸡的时候，下落速度会慢很多
+and so it in fact does have a solution but that may not be obvious to you until much later in the game
+所以它实际上是有解决方案的，但你可能要到游戏的很后期才会发现
+uh a way of dealing with this that Supraland used 
+《Supraland》里面用了一种方法来解决这个问题
+was to actually have NPCs that tell you have everything you need to solve this puzzle, go for it uh 
+是让NPC告诉你，“你已经有解决这个谜题所需的一切东西，去解吧”
+and this happens at multiple times in the game 
+而这种方式在游戏中多次出现
+in some cases you'll even reach an area where you can no longer go back 
+在某些情况下，你甚至会到达一个你回不去的地方
+like you have to fall off something and it locks you in a room 
+比如你得从某个地方跳下去，然后把你锁在一个房间中
+with an npc says you says you could solve this puzzle right now and then you just have to do it
+有个NPC告诉你现在就可以解决这个难题，然后你就必须去做
+and Supraland is a Metroidvania where you're constantly getting new items that add new abilities or affordances to the player 
+《Supraland》是一个类银河恶魔城游戏，你会不断得到新物品，为玩家增加新能力
+and so, you might often come to a puzzle that you can't solve and say well maybe I just have to come back once I get an item
+所以，你可能经常碰到无法解决的谜题，然后说，也许我得拿到一个物品后再回来
+and so, if that were the case for every puzzle in the game
+因此，如果游戏中每个谜题都出现这种情况的话
+then the for the puzzles that gate your progression you know the player might just turn around and go do something else
+那对于那些推进游戏进程的谜题来说，玩家可能就转身去做别的事去了
+and so, something like this is in fact necessary 
+所以，像这样的东西其实是有必要的
+to sort of tell the player no you need to push forward on this one puzzle
+它可以告诉玩家，不，你需要在这个谜题上继续努力
 even though it's hard you can do it um
-
-and superland was a very highly reviewed
-
-game it was 96
-
-positive on steam it was one of my
-
-favorite puzzle games of this whole year
-
-um but you know many people might think
-
-this is breaking the fourth wall it's a
-
-little bit distasteful there's some kind
-
-of dissonance going on here between the
-
-character and the player and what's
-
-what's happening and david munich is a
-
-very experienced puzzle creator he was
-
-the the creator of the original not
-
-prawn which was
-
-the most famous internet riddle of sort
-
-of the the flash internet era back in
-
-the early to
-
-mid 2000s and so
-
-he's been creating puzzles for a long
-
-time and understands very well the
-
-experience that a solver goes through
-
-when they're solving a puzzle and he
-
-felt it was necessary to do this because
-
-he wanted to preserve the sanctity of
-
-the player's trust that the puzzle
-
-itself is solvable
-
-while also making a metroidvania where
-
-you're getting new items all the time
-
-that do new things
-
-so an interesting solution to the
-
-problem
-
-a related idea is that of square dealing
-
-which uh
-
-it's a term that i've seen in in
-
-crossword communities and other puzzle
-
-communities but it basically refers to
-
-the
-
-conventions that the constructors of
-
-puzzles are abiding by
-
-to play fair um and you'll see many of
-
-these conventions for example in puzzle
-
-hunts
-
-they will never have anagrams without a
-
-clue and the reason is because when
-
-you're doing a puzzle hunt puzzle these
-
-are typically puzzles where the rules
-
-are not provided
-
-and you have to figure out what it is
-
-that you need to do you might literally
-
-try anagraming everything you could dump
-
-every word in this puzzle the title of
-
-every puzzle whatever into anagram
-
-generators and just come up with nothing
-
-or come up with something that's maybe
-
-tenuously there but turns out to be
-
-nothing
-
-and that experience as a solver is not a
-
-pleasant experience so to
-
-you know save the solver from having to
-
-do that the uh
-
-the authors of puzzle hunt puzzles will
-
-just tell you right up front there are
-
-no
-
-uncled anagrams in this puzzle hunt and
-
-that will be part of the rules that are
-
-communicated to the player
-
-um cryptic crosswords have a similar
-
-convention where they don't do indirect
-
-anagrams which is basically like
-
-uh you know if there's an anagram it has
-
-to be clued by a trigger word and it
-
-can't be
-
-mixed with another type of hint escape
-
-rooms have some conventions like one key
-
-one lock if you get a four-digit code
-
-you're never gonna have to put it in
-
-multiple different
-
-four-digit combination locks because
-
-again that would just be irritating are
-
-you do you want the player to have to
-
-retry everything over and over again no
-
-so one key one lock is sort of a
-
-convention that saves the sanity of some
-
-players
-
-now whether or not this is advertised or
-
-told to the players before they begin
-
-it's
-
-you know it's kind of 50 50 it depends
-
-on which escape room you're doing
-
-uh no outside knowledge is another
-
-common convention
-
-but it's it's sort of like if you're a
-
-solver of cryptics you probably realize
-
-this no indirect anagrams rule
-
-even if it's just subconsciously because
-
-you just never see it right you just
-
-realize that oh well they wouldn't print
-
-that
-
-i don't have to do that but beginners
-
-may not understand this and may never
-
-even really
-
-have learned it unless somebody taught
-
-them so beginners can spend a lot of
-
-time on
-
-cryptics just trying stuff that is never
-
-possibly necessary because they don't
-
-understand the conventions of the genre
-
-right so square dealing is important but
-
-in video games especially it's also
-
-important to communicate those rules to
-
-the player
-
-because every puzzle game you play will
-
-have different rules about how the
-
-puzzles are designed and what's allowed
-
-and what's not
-
-and sometimes it's not that explicit
-
-some games actually tell the player and
-
-this is a game called it'll do which is
-
-sort of a zelda-like
-
-and after you exit the first dungeon it
-
-literally tells you there's no
-
-missable items or chests in dungeons at
-
-all
-
-and not every zelda-like has these types
-
-of conventions and in classic zelda's
-
-usually the convention is there's no
-
-need to return to dungeons later
-
-meaning that every item that you could
-
-get in a dungeon is one that you could
-
-get with sort of the the key or
-
-progression items from that dungeon
-
-and earlier or and the prerequisites
-
-although that's not true in every zelda
-
-and it's not true
-
-in uh every dungeon of every zelda
-
-so um having that type of square dealing
-
-is useful and communicating it to the
-
-player can really help build that
-
-trusting relationship
-
-that allows the player to sort of press
-
-on when they're stuck on a puzzle
-
-the sort of contra positive to that is
-
-avoid cheap tricks
-
-i'm going to pick on the talos principle
-
-when it released
-
-it had a puzzle where well this isn't
-
-one of the main puzzles in the game it's
-
-actually one of the
-
-bonus puzzles that you have to get stars
-
-for but one of the stars and it's very
-
-early on in the game it's in the the
-
-first uh first major area of the fourth
-
-world of that
-
-uh there is a hidden reflector up in a
-
-tree that you have to aim a laser at
-
-and uh up until this point in the game
-
-all the reflectors are just items on the
-
-ground you can pick them up and move
-
-them this one is stationary and it's in
-
-a tree and in no other part of the game
-
-do you ever have to look up in the tree
-
-for anything
-
-and there are so many other things that
-
-you can try to solve this puzzle that
-
-almost barely work
-
-i literally wasted i don't know more
-
-than an hour trying to get this thing
-
-and then to learn that the answer was
-
-well it was in a tree
-
-uh that was kind of upsetting
-
-but also it made me distrust the
-
-developer because for every other puzzle
-
-in that game instead of pressing on when
-
-i was stuck i just had this thought well
-
-what if it's some more like
-
-that
-
-reflector in the tree um it turns out
-
-that
-
-after the game launched they actually
-
-patched it and they changed that
-
-reflector in the tree to a
-
-reflector on a very prominent salient
-
-pillar that you could see from all
-
-directions
-
-uh that made it clear that there was a
-
-reflector up there and then it became a
-
-mystery of
-
-what's that reflector on the pillar for
-
-turns out one of the secret bonus stars
-
-and this is sort of a much more honest
-
-way of of designing this puzzle and it
-
-prevents
-
-that player's mind from being poisoned
-
-by well am i going to have to look in a
-
-tree
-
-forever i'm going to
-
-uh quote my good friend weihua who said
-
-a good puzzle has an aha moment a bad
-
-puzzle has an
-
-oh really moment um hue has a four-time
-
-world puzzle champion and he's
-
-he's been published uh everywhere he's
-
-done crosswords for new york times he's
-
-done world puzzle championship stuff
-
-he's
-
-a game designer as well and done
-
-physical puzzles uh
-
-this guy is one of the most experienced
-
-puzzle creators i know
-
-and for him you know this oh really
-
-moment this discovery of like
-
-it was that all along is uh
-
-a very negative experience when you're
-
-expecting or hoping
-
+尽管谜题难，但你可以做到
+and Supraland was a very highly reviewed game it was 96 positive on steam 
+《Supraland》是一款评价很高的游戏，在steam上有96%的好评
+it was one of my favorite puzzle games of this whole year
+它也是我那一整年最喜欢的解谜游戏之一
+um but you know many people might think this is breaking the fourth wall
+但很多人可能认为这是在打破第四面墙
+it's a little bit distasteful there's some kind of dissonance going on here between the character and the player and what's happening and 
+这有点让人反感，在角色和玩家之间产生了不协调
+David Münnich is a very experienced puzzle creator 
+David Münnich（《Supraland》的作者）是一位非常有经验的谜题创作者
+he was the creator of the original Notpron which was the most famous internet riddle of sort of the flash internet era back in the early to mid-2000s 
+他是《Notpron》最初的制作者，这是00年代前中期Flash游戏时代最出名的解谜游戏
+and so, he's been creating puzzles for a long time and understands very well the experience that a solver goes through when they're solving a puzzle 
+所以，他已经创作了很长时间的谜题，并且非常了解解谜者在解谜时的体验
+and he felt it was necessary to do this because he wanted to preserve the sanctity of the player's trust that the puzzle itself is solvable
+他觉得有必要这样做，因为他想保持玩家对谜题本身可解的信任的同时
+while also making a Metroidvania where you're getting new items all the time that do new things
+制作出一个类银河恶魔城游戏，在其中玩家会不断得到新物品、做新的事情
+so, an interesting solution to the problem a related idea is that of “square dealing”
+这个问题有个有趣的相关解决方案，那就是“公平交易”(Square Dealing)
+which uh it's a term that I’ve seen in crossword communities and other puzzle communities 
+这是我在填字游戏社区和其他解谜社区看到的一个术语
+but it basically refers to the conventions that the constructors of puzzles are abiding by to play fair um 
+它本质上是指的是谜题创作者为了让玩家顺利玩下去而遵守的惯例
+and you'll see many of these conventions 
+你会看到有很多这样的惯例
+for example in puzzle hunts they will never have anagrams without a clue 
+你如在解谜寻宝中，他们不会出没给线索的同字母异构词
+and the reason is because when you're doing a puzzle hunt puzzle these are typically puzzles where the rules are not provided 
+原因是当你在做解谜寻宝时，这些谜题通常没有提供规则
+and you have to figure out what it is that you need to do 
+你需要做的就是找出这些（规则）是什么
+you might literally try anagraming everything 
+你可能会试着把所有词的异构词都尝试一遍
+you could dump every word in this puzzle the title of every puzzle whatever into anagram generators 
+你可能会把谜题中的每个词、每个谜题的标题都放到异构词生成器中
+and just come up with nothing or come up with something that's maybe tenuously there but turns out to be nothing 
+然后什么都没有得到
+and that experience as a solver is not a pleasant experience 
+作为一个解题者，这种体验并不愉快
+so, to you know save the solver from having to do that 
+所以，为了让解谜者不去做这种事情
+the uh the authors of puzzle hunt puzzles will just tell you right up front there are no unclued anagrams in this puzzle hunt 
+解谜寻宝的作者会直接告诉你，这里面没有没提供线索的同字母异构词
+and that will be part of the rules that are communicated to the player um 
+而这也是传达给玩家的规则的一部分
+Cryptic Crosswords have a similar convention where they don't do indirect anagrams 
+Cryptic Crossword也有类似的惯例，它们不会有不直接的异构词
+which is basically like uh you know if there's an anagram it has to be clued by a trigger word 
+基本上就是说，如果里面有一个异构词，那么它就必须由一个触发词来提示
+and it can't be mixed with another type of hint 
+而且不能和其他类型的线索混在一起
+escape rooms have some conventions like “one key one lock “
+密室逃脱也有一些惯例，比如“一个钥匙对应一把锁”
+if you get a four-digit code, you're never gonna have to put it in multiple different four-digit combination locks 
+如果你得到了一个四位的密码，那你永远也不需要在多个密码锁上输入它
+because again that would just be irritating 
+因为那也会让人很不爽
+are you do you want the player to have to retry everything over and over again no
+你想让玩家一次又一次地重试之前所有的东西吗？
+so, one key one lock is sort of a convention that saves the sanity of some players
+所以，“一个钥匙对应一把锁”是一种惯例，可以拯救玩家的San值
+now whether or not this is advertised or told to the players before they begin
+至于是否在宣传的死后或者在玩之间就告诉玩家
+it's you know it's kind of 50-50. it depends on which escape room you're doing
+可能五五开吧，这取决于你玩的哪家密室逃脱
+uh no outside knowledge is another common convention
+不依赖外界只是也是另一个常见的惯例
+but it's sort of like if you're a solver of Cryptics 
+然而，如果你是一个比如说Cryptic Crossword的老手，
+you probably realize this no indirect anagrams rule 
+你可能会意识到没有不直接的异构词这个规则
+even if it's just subconsciously because you just never see it right 
+即便这只是潜意识的，因为你从来没有见过这种情况
+you just realize that oh well they wouldn't print that I don't have to do that 
+你只是意识到，他们不会出这种谜题，我不需要这么做
+but beginners may not understand this and may never even really have learned it unless somebody taught them 
+但新手可能不明白这一点，除非有人教他们否则他们没办法知道
+so, beginners can spend a lot of time on cryptics just trying stuff that is never possibly necessary 
+所以新手可能会花很多时间在谜题上去尝试一些根本没必要的事情
+because they don't understand the conventions of the genre right 
+因为他们不了解这类谜题的惯例
+so square dealing is important 
+所以Square Dealing很重要
+But in video games especially it's also important to communicate those rules to the player
+但在电子游戏中，向玩家传达这些规则也很重要
+because every puzzle game you play will have different rules about how the puzzles are designed and what's allowed and what's not
+因为每个解谜游戏关于怎么设计的、什么能做什么不能做的规则都是不同的
+and sometimes it's not that explicit 
+而且有时并不那么明确
+some games actually tell the player 
+而有些游戏实际上会直接告诉玩家
+and this is a game called Ittle Dew which is sort of a Zelda-like
+这是一个叫《Ittle Dew》的游戏，是一个类塞尔达的游戏
+and after you exit the first dungeon it literally tells you there's no missable items or chests in dungeons at all
+在你离开第一个地牢后，它会直接告诉你，已经没有可错过的物品或箱子了
+and not every Zelda-like has these types of conventions 
+而并非每个类塞尔达游戏都有这种惯例
+and in classic Zelda’s usually the convention is there's no need to return to dungeons later 
+而在经典塞尔达中，通常的惯例是之后就不用回到之前的地牢了
+meaning that every item that you could get in a dungeon is one that you could get with sort of the key or progression items from that dungeon and earlier or and the prerequisites
+意味着在地牢里得到的每件物品都是可以通过钥匙或者进展物品而得到的
+although that's not true in every Zelda and it's not true in uh every dungeon of every Zelda
+虽然不是每一部塞尔达都是如此，而不是每个地牢都是如此
+so, um having that type of square dealing is useful 
+所以，有这种类似“Square Dealing”的原则是有用的
+and communicating it to the player can really help build that trusting relationship that allows the player to sort of press on when they're stuck on a puzzle
+将其传达给玩家可以帮助建立信任关系，让玩家在被卡住的时候可以继续前进
+the sort of contrapositive to that is avoid cheap tricks
+而与之对应的则是“避免使用拙劣的把戏”
+I’m going to pick on the Talos principle 
+我要批评一下《塔罗斯法则》
+when it released it had a puzzle where 
+当它刚发布的时候，有这样一个谜题
+well this isn't one of the main puzzles in the game, it's actually one of the bonus puzzles that you have to get stars for 
+这不是游戏里的主线谜题，是要拿星星的支线谜题
+but one of the stars and it's very early on in the game 
+但其中有一颗星星很早就在游戏里出现了
+it's in the first uh first major area of the fourth world of that
+就在第四个世界的第一个主要区域里
+uh there is a hidden reflector up in a tree that you have to aim a laser at
+有一个隐藏在树上的反射器，你必须用激光瞄准它
+and uh up until this point in the game all the reflectors are just items on the ground you can pick them up and move them 
+而在游戏的这个阶段，所有反射器都是在地上的，你可拿起并移动它们
+this one is stationary and it's in a tree 
+而这一个是固定的，而且在树上
+and in no other part of the game do you ever have to look up in the tree for anything
+在游戏的其他部分，你都不需要在树上找东西
+and there are so many other things that you can try to solve this puzzle that almost barely work
+还有很多其他东西可以尝试来解决这个谜题，但都没用
+I literally wasted I don't know more than an hour trying to get this thing and then to learn that the answer was well it was in a tree
+我真的浪费了可能一个多小时来解这个，然后得知答案是它在一棵树上
+uh that was kind of upsetting 
+这让人很不爽
+but also, it made me distrust the developer 
+但同时，这也让我不再相信开发者了
+because for every other puzzle in that game instead of pressing on when I was stuck, 
+因为对那个游戏中其他谜题，当我卡住了我不会再不停尝试
+I just had this thought well what if it's some more *** like that reflector in the tree 
+取而代之的是这样的想法：“这个会不会又是像树上的反光镜那样的***呢？”
+um it turns out that after the game launched they actually patched it 
+不过游戏发售之后，他们把这个改了
+and they changed that reflector in the tree to a reflector on a very prominent salient pillar that you could see from all directions
+他们把史上的反射器改成了放在一个非常显眼的柱子上，从各个方向都看得到
+uh that made it clear that there was a reflector up there 
+这样一来就很清楚上面有一个反射器
+and then it became a mystery of what's that reflector on the pillar for, turns out one of the secret bonus stars 
+然后就成了一个谜题：那根柱子上的反射器是干什么的？原来是为了一颗星星
+and this is sort of a much more honest way of designing this puzzle 
+这种设计谜题的方式就更加诚实得多
+and it prevents that player's mind from being poisoned by well am I going to have to look in a tree forever 
+这样可以避免玩家的思维被“我需不需要接下来都在树上找东西”的想法所毒害
+I’m going to uh quote my good friend weihuawho said
+我想引用我的好朋友黄炜华的一句话
+“a good puzzle has an ‘aha’ moment a bad puzzle has an ‘oh really’ moment” 
+“一个好谜题有‘啊哈’(Aha)时刻，一个坏谜题有‘啊？真的吗？’(Oh really?)时刻”
+um wei-hua has a four-time world puzzle champion and he's been published uh everywhere 
+黄炜华是世界谜题锦标赛的四届冠军，到处都有他发表的作品	
+he's done crosswords for new york times he's done world puzzle championship stuff
+他为《纽约时报》做过填字游戏，为世界谜题锦标赛做过东西
+he's a game designer as well and done physical puzzles uh
+他也是一个游戏设计师，也做过实物解谜
+this guy is one of the most experienced puzzle creators I know
+他是我认识的最有经验的谜题创作者之一
+and for him you know this oh really moment this discovery of like it was that all along is uh a very negative experience when you're expecting or hoping 
+对他来说，这种“啊？真的吗？”时刻就是那种你一直期待或坚持之后却得到了一个消极的体验
 instead for an exciting eureka um
+而不是一个令人激动的尤里卡时刻
+Bob Bates refers to that as poisoning of the well 
+Bob Bates将此称为 "向井里投毒"
+bob bates designed a lot of uh adventure games point-and-click games for Infocom and legend entertainment in the late 80s and 90s 
+Bob Bates在80、90年代末为Infocom何Legend entertainment设计了大量冒险游戏和点击游戏
+and bob actually gave a gdc talk where he sort of emphasized that a good understanding of puzzle design theory was necessary to 
+实际上Bob在GDC的演讲中强调了对谜题设计理论的良好理解是必要的
+avoid this pitfall of creating a state in players where there's sort of this unhealthy skepticism that the designers aren't playing fair
+以避免落入这样的陷阱，让玩家产生认为设计者不公正的一种不健康的怀疑态度
+uh and here you know here's just a general list of things to avoid
+这里是一个你要避免的一个清单
+um anything that requires you to do lots of searching without a clue
+任何让玩家在没有提示的情况下去做大量搜索行为的东西
+darkness is a big one if there are dark corners of your game and literally the player has to walk into every one of them 
+黑暗会是个大问题，如果游戏有黑暗的角落而玩家得一一尝试走进去的话
+or even walk into every one of them and jump in order to find that hidden nook where you might have hidden something 
+或者甚至为了找到可能藏有东西的隐蔽角落而在每个黑暗角落都跳一下
+that's that can be irritating 
+这就会让人很不爽
+wall pressing if the player has to touch every wall, shoot every wall, press the action box on every wall um 
+“Wall Pressing”指如果玩家必须摸下每一面墙，射击每一面墙，对每面墙都按下操作键...
+if there are invisible platforms the player can't see them and they just have to jump randomly to see where there might be an invisible platform
+如果有玩家看不见的隐藏平台，玩家就只能随机地跳来找哪里有隐藏平台
+those types of experiences can be very draining for players 
+如果玩家想完成你的谜题的话，这种体验是非常耗费精力的
+because uh instead of feeling like they're on the right track
+因为玩家并不觉得自己走在正确的道路上
+they're feeling like they're just sort of laboriously searching the entire possible game for the thing you might have hidden if they want to sort of complete the puzzles
+而只是觉得在费力地在整个游戏中寻找你可能藏起来的东西
+so, you never want to do this 
+所以，你永远不会想这样做
+and the other thing that can happen is like say you had a clue which illustrated oh well you're going to have to jump in the dark
+还有一种情况是，比如说你给了个提示，告诉玩家得在黑暗中跳跃
+maybe the player didn't see that clue and they just happened to wander that way and find it 
+或许玩家并没有看到那个提示，只是碰巧走到这个找到了这个谜题
+the problem is if the player comes out and realized well there was no clue I guess I have to check every dark zone anywhere um 
+问题是，如果没有发现这个提示，那我想我又得去每个黑暗区域一个一个看了
+that is sort of an equal well poisoning right 
+这就跟之前说的“向井里投毒”没区别了
+so, you not just have to make sure you put the clue 
+所以，你不仅要确保你给了提示
+you have to make sure that the player can't get there without the clue 
+你还得确保玩家在不知道提示的情况下就无法到达那里
+you have to make sure the clue is somehow sort of obvious 
+你必须确保提示在某种程度上是明显的
+or at least the you know maybe when the players coming back out they will then see the clue 
+或者至少，当玩家往回走，他们能看到这个提示
+you know a way to avoid that
+你知道有方法是可以避免这种情况的
+you don't want to have puzzles that suddenly increase tenuousness 
+不要让谜题突然变得不确定起来
+like force the player to do something they never had to do 
+比如让玩家做一些他们之前从来不需要做的事情
+force the player to look outside the game when they never had to look outside the game
+比如突然让玩家在游戏外去寻找，而他们从未这么做过
+uh you know some kind of new trick or method that is suddenly used or required 
+突然要求玩家使用一种新的技巧或方法
+especially if it's a one-off if you only have to use it once 
+尤其是如果这种方法是一次性的、只需要用一次的话
+well will the player now be paranoid that they have to use it again 
+那么，玩家现在会不会就偏执地认为他们之后必须再次使用它呢？
+will they try it on every other puzzle in the rest of the game
+他们会不会在接下来的每个谜题中都尝试这个方法呢？
+you want to make sure that you don't have that situation 
+你要确保不会出现这种情况
+inconsistency in general if the rules are changing
+如果规则一直变化的话，一般会产生不一致
+then players will never know whether they can expect their understanding of the game, their conceptual model for how the game systems work to be correct if they're questioning the conceptual model
+如果玩家不断地质疑游戏的概念模型的话，玩家将永远无法确定他们能否理解这个游戏，无法确定他们理解的游戏系统的概念模型是否正确
+then they're not in a good space to do problem solving right 
+那么他们就没有处在解决问题的良好的状态，对吧？
+you want players to feel that they rock solid understand the game's rules the game's logic and are then solving things
+你想让玩家对游戏的规则逻辑有坚实的理解，然后再解决谜题
+rather than questioning that 
+而不是去质疑它
+at least if you're making a game that's about logic or about understanding rules 
+至少对于如果你制作的游戏是关于逻辑或关于理解规则的话
+there are some games that are just not about that and that's okay
+有些游戏不是关于这个的，那这也没什么
+there are some games that are just about rule discovery
+有一些游戏只是关于规则的发现
+
+
+
+but that brings us to point number 15 which is “be careful with intransparencies”
+这就让我们来到了第15课，即「当心不透明性」
+and intransparencies of a puzzle is any aspect that is not explained to the solver 
+一道谜题的不透明性是指任何没有向解谜者解释的任何方面
+a hidden rule a hidden goal 
+比如一个隐藏的规则，一个隐藏的目标
+maybe a hidden affordance meaning a hidden thing that the player can do
+也许是一个隐藏的能力，比如是玩家可以做的一个隐藏的事情
+or a hidden interaction or hidden consequence of a certain interaction
+或者是一个隐藏的互动或某一互动的隐藏后果
+intransparencies can also come in the form of the inability to perceive or interpret the state of the puzzle 
+不透明性也能够以无法感知或领会谜题状态的形式出现
+essentially if you're familiar with the quote unquote “seven stages of action”, 
+基本上来说，如果你熟悉“行动七阶段理论”的话
+（译者注：出自唐纳德·诺曼《设计心理学》，七阶段即：目标、计划、制定、执行、感知、解释、比较）
+which uh I think Donald Norman was the one who initially uh made that a popular idea
+我想应该是唐纳德·诺曼（Donald Norman）最初让这一观点流行起来的
+any one of those seven stages of action can have a failure 
+这七个行动阶段中的任何一个都可能出现失败
+where due to intransparencies the person trying to perform an action just doesn't understand something right? 
+由于不透明性，试图执行行动的人会对一些事情不理解
+I will show you an example. This is a puzzle I have it right here 
+我给你们看一个例子，这个谜题我这里有实物
+It's called the Ramube Octahedron and this puzzle is a puzzle that you your goal is to try and disassemble it uh 
+这个谜题被称为“Ramube八面体”，你的目标是拆开它
+and sort of get into it and you can kind of like move one of the parts around but you know most of them don't really move 
+仔细看看，你可以移动其中的一个组件，但大多数你是没法移动的
+and if you listen carefully you can hear that there's something going on in the inside of it but you can't see what it is right 
+而如果你仔细听，你可以听到里面有什么东西在动，但你看不到是什么东西，是吧？
+so, this is an example of an intransparencies in a puzzle
+所以，这就是一个谜题中的不透明性的例子
+um another example would be instructionless puzzles
+另一个例子是无指令谜题
+um this puzzle on the left is uh from a round of the German national puzzle championship 
+左边这个谜题是德国全国谜题锦标赛的一个赛题
+which is how they select their team for world puzzle championships
+他们通过全国锦标赛来选拔参加世界锦标赛的队伍
+and they had an instructionless round 
+他们有一个无指令的比赛轮次
+and how it works is you're given an empty sort of input puzzle and then you're given its solution
+操作方式是，你有一个空的输入谜题，然后你有它对应的答案
+and your goal is to work out what is the rule where this input could lead to this solution 
+你的目标是找出这个输入对应这个答案的规则是什么
+and it's unique there is no other solution to this puzzle
+而且规则是唯一的，没有其他规则能满足这个谜题
+and sometimes that uniqueness is an important part of discovering what the rules are
+而有时这种唯一性是发现规则的重要部分
+and then of course they'll give you an actual contest puzzle that you have to solve 
+然后当然他们会给你一个实际的比赛谜题，你必须（用发现的规则）解决它
+and all of this including both discovering the instructions and solving the puzzle you're doing under time pressure 
+全部这些包括发现规则和解决谜题都是在有时间压力下完成的
+in this case the rule is that the number tells you of its four cardinal neighbors in the north south east west direction how many of them are different or how many different numbers are represented there
+而这个谜题解出来的规则是，这个数字代表其上下左右相邻格子中有多少种不同的数字
+so, a one uh you know this one has two threes next to it. it only has one unique neighbor 
+因此，这里这个1，它旁边有两个3，所以只有一种
+whereas this four has all four of one two three four as its neighbors
+而这个4，它旁边有1,2,3,4作为它的邻居
+another example is this game understand which is a steam game 	
+另一个例子是这个steam游戏《顿悟》
+（译者注：《顿悟》为中国开发者制作的游戏，作者B站账号@ ArtlessGames）
+where they give you a bunch of symbols on the grid and you have to figure out the rules 
+在这个游戏中网格上会有一堆符号，你必须自己弄清楚规则
+the witness also has this instructionlessness as a part of sort of the early phase of the game when you're learning what the rules are rather than the later phase of the game where you're solving puzzles using those known rules
+《见证者》在早期学习规则的阶段中也有这种无指令谜题，而在后期则用已知的规则来解谜
+uh mystery hunt puzzles are basically all instructionless. they tend to give you some input and then find something to solve.
+解谜寻宝比赛基本上都是无指令的，他们会给你些输入，然后想办法解出来
+this is one from this year's mystery hunt where the input was a picture of a bunch of diagrams of what look like sound devices or digital synthesizers 
+这是今年解谜寻宝的一道题，输入的内容看起像一堆声音设备或数字合成器的连线图
+and you get a bunch of these and then you also get these like random strings of letters some of which are red colored
+然后你有一堆这样的图，以及这些随机的字母串，其中一些是红色的
+and it turns out that you have to download this software that sort of allows you to put together eurorack style modular synths and put them together this way 
+最后结果是，你得下载一个软件能让你把Eurorack风格的模块化合成器摆成这样
+and they would all make synth noises from popular songs uh you know like a synth from lady gaga or from Eurythmics or from whatever
+然后它们会生成一些流行歌曲的合成声音，比如Lady Gaga、Eurythmics的合成音
+and then these things on the right corresponded to the melodies that you had to play and then you had to put the melodies together and get a secret message from that 
+然后右边这些字符串对应着一些旋律，你得把这些旋律放在一起播放，从中得到一个秘密信息
+and then there was a whole second part to it
+然后接着还有一个完整的第二步
+um but the point is that the rules are not given at all
+关键点是规则根本就没有给出
+and figuring out the rules figuring out what you have to do and getting that aha moment of oh these are songs I have to play them 
+弄清规则、弄清要做的是，然后会得到一个“啊哈”时刻，哦，这些是我得播放出来的歌曲
+that is part of the magic of MIT mystery hunt, is discovering what it is that you have to do 
+这就是MIT解谜寻宝的魅力所在，就是去发现你要做的事情是什么
+and intransparencies can be a huge amount of fun but there are many caveats 
+不透明性可以带来很多乐趣，但也有许多注意事项
+they can cause solvers to become stuck and I’ve heard this called enigma syndrome or a few other things
+他们会让解谜者卡住，而且我听说过一种叫“谜题综合征”或类似的东西
+where you literally just don't know what to do because you failed to put two and two together
+你真的不知道做什么，因为你没能把两部分对应起来
+and that tends to be an unfun kind of stuck for many puzzles 
+对于许多谜题来说，这往往是一种不愉快的卡壳
+because you don't necessarily have different approaches or different things to try 
+因为你不一定有其他不同的方法或东西可以去尝试
+there isn't really a recourse for you if you just can't figure out what you need to do 
+如果你连做什么都不知道的话，那也没什么办法能依靠了
+if you're making a linear story based game where the puzzles have to come in sequence
+而如果你在制作一个谜题按顺序出现的基于故事的线性游戏
+then getting stuck means blocking progression in the game which literally means the player cannot play anymore
+那么被卡住就意味着游戏进行不下去了，也就意味着玩家玩不下去了
+unless they either look up the solution or cheat 
+除非他们去找攻略或者作弊
+or they just have to quit and come back tomorrow
+否则他们就得退出游戏，明天再来了
+and some players you know they really don't want to look up the solution right
+而对于有些玩家，他们真的不想去看攻略，对吧？
+but if they're gonna be uh you know very devout about that then they just can't play the game anymore right 
+但如果他们（对不看攻略）非常虔诚，那他们就再也玩不了这个游戏了
+they literally may just stop there and never play beyond that
+他们可能就会在那里停下来，再也玩不了后面部分了
+um you can see with the completion statistics of many puzzle games on steam
+你可以从steam上很多解谜游戏的完成度统计中看到
+especially if they have achievements you can see well 
+尤其是那些有成就的游戏，你可以看到
+oh everybody quit after this achievement because there was a really hard puzzle there that got stuck
+噢，所有人在这个成就之后都玩不下去了，因为那里有个非常难的谜题而卡住了
+on the other hand, if you're making a linear game and you want to avoid that 
+而另一方面，如果你在制作一个线性游戏，而你想避免这种情况
+you may end up taking every puzzle that is remotely difficult and kind of standing off the difficulty or adding hints 
+你最后可能会把每一个难度过高的谜题都拿出来，降低难度或者加上提示
+and those may make it a less pleasurable experience for some other players that really want the challenge right 
+而这又会让其他一些真正想要挑战的玩家的体验下降了
+so, you're having to balance all of these goals together if you make a linear game
+因此，如果你制作一个线性游戏，你必须去平衡所有这些目标
+another common complaint is that these intransparencies can feel like an IQ test 
+另一种常见的抱怨是，这些不透明性会让人感觉在做智商测试
+it feels like oh I just have to figure out what the pattern is 
+这感觉就像，哦，我得弄清楚这模式是什么
+and some players don't want that to be their puzzle solving experience
+而有些玩家不希望他们的解谜体验是这样的
+the resolution of the intransparency is also a one-time reveal 
+同样，不透明性的解总是一次性的
+you can't make a hundred puzzles that are based on one intransparency 
+你不可能基于一点规则的不透明性，就做出上百个谜题
+you have to have a hundred different intransparencies and so it could be hard to come up with that
+你得有100个不同的不透明性，所以要想出这样的谜题可能会很难
+they're also easily spoiled especially if somebody is playing on live streaming service 
+不透明性也很容易被剧透，特别是在直播的时候
+like twitch one person in the chat can just tell them the answer and then it's all over
+比如在Twitch上，一个人在聊天框中直接把答案说了，那一切都结束了
+so, intransparencies are often not that great 
+所以，不透明性往往不是那么的好
+and the reverse can also be bad 
+而反过来的情况也不太好
+if the streamer knows what's going on or knows the answer but the audience doesn't 
+如果主播知道他在做什么或者知道答案，但观众不知道
+then they'll just have to constantly explain the rules to them 
+那么他就必须不断地向他们解释规则
+which can make the streaming experience a bit worse
+这可能会使直播体验变得糟糕
+a very common example is the hidden affordance 
+一个常见的例子是隐藏的能力
+which is where you have some kind of affordance or thing you can do that is not tutorial to you or not told to you 
+即你有某种能力或能做的事情，但教程没说或者没告诉你
+and this is an example from the Wind Waker 
+这是在《塞尔达传说：风之杖》的一个例子
+you get this grappling hook and it sort of tells you how to use it and you can swing on things
+你得到了这个钩爪，游戏告诉你如何使用，可以挂在东西上摇摆
+um but there is another thing you can do with that and that is when you are swinging you can also stop swinging and climb the rope
+但你还可以用它做另一件事，那就是当你摆动时，你也可以停止摆动并爬上绳子
+and when I was playing this game, I never even knew you could do this
+当我玩的时候，我甚至不知道可以这样做
+and the method to do it is actually a little bit counter-intuitive 
+而做到这一点的方法实际上是有点反直觉的
+you have to hold the button that in the top right the ZR button here which basically stops you from swinging
+你必须按着这个按钮，就是右上方这个，ZR键，它能让你停止摇摆
+and then while holding that you have to press up to climb the rope 
+然后在按住这个按钮的同时，你要按上键来爬上绳子
+um and normally when you press up you press like up and down to swing back and forward and time your swings to move forward 
+一般情况下，按上下键的操作是会让绳子前后摆动，然后找到时机荡过去
+so, there's a second movement assigned to the same button
+所以，这里是把另一个动作分配给了同一个按钮
+uh and you have to climb up to the top of this rope 
+你必须爬上绳子顶端
+and now it's only required in a couple areas of the game to get a couple of secrets 
+而现在只有在游戏的几个区域需要这样做来获得一些隐藏秘密
+but you know I want 100% the dungeon I want to find all the secrets 
+但我想要达成100%，想找到所有秘密
+so uh it was really annoying to me that this was never explained 
+所以，这真的有点恼火，因为游戏从来没有解释过这个这一点
+and then I just had to figure it out uh and it's counterintuitive
+然后我得自己找到解决方法，而这时不符合直觉的
+and they also this was a port of the game uh an HD port of the game from the original GameCube to the Wii U
+不过这是从原来的NGC移植到Wii U的高清重制版
+and so, they had to change the controls. so, they may have not tested it enough
+所以，他们不得不改变控制方式，因而可能没有进行足够的测试
+they may have not done their focus testing to discover that this was a stuck point 
+他们可能没有做重点测试来发现这是个会卡住的点
+or they might have just left it in because it was only for a couple of puzzles anyway
+或者他们可能直接把它留了下来，毕竟这只有几个谜题用到了而已
+um but for some players this is very frustrating and it could really make you distrust the developers 
+但是对于一些玩家来说，这非常令人沮丧，它可能让你就不相信开发者了
+and normally you don't see stuff like this in Zelda because it's quite well tested
+通常你不会在塞尔达中遇到这样的情况，因为塞尔达的测试做得很好
+But in this one case it was really you know there are people online who raged about this quite a bit
+但在这个案例中就…网上有很多人对这个问题非常生气
 
-bob bates refers to that as poisoning of
 
-the well bob bates designed a lot of uh
-
-adventure games point-and-click games
-
-for infocom and legend entertainment
-
-in the late 80s and 90s and bob actually
-
-gave a gdc talk where he sort of
-
-emphasized that a good understanding of
-
-puzzle design theory was necessary to
-
-avoid
-
-this pitfall of creating a state in
-
-players where
-
-there's sort of this unhealthy
-
-skepticism that the designers aren't
-
-playing fair
-
-uh and here you know here's just a
-
-general list of things to avoid
-
-um anything that requires you to do lots
-
-of searching without a clue
-
-darkness is a big one if there are dark
-
-corners of your game and literally the
-
-player has to walk into every one of
-
-them or even
-
-walk into every one of them and jump in
-
-order to find that hidden nook where you
-
-might have hidden something
-
-that's that can be irritating wall
-
-pressing if if the player has to touch
-
-every wall shoot every wall
-
-press the action box on every wall um if
-
-there are invisible platforms the player
-
-can't see them and they just have to
-
-jump randomly to see where there might
-
-be an invisible platform
-
-those types of experiences can be very
-
-draining for players because
-
-uh instead of feeling like they're on
-
-the right track they're feeling like
-
-they're just sort of laboriously
-
-searching the entire possible game for
-
-the thing you might have hidden if they
-
-want to sort of complete the puzzles
-
-so you never want to do this and the
-
-other thing that can happen is like
-
-say you had a clue which illustrated oh
-
-well you're going to have to jump in the
-
-dark
-
-maybe the player didn't see that clue
-
-and they just happened to wander that
-
-way and find it
-
-the problem is if the player comes out
-
-and realized well there was no clue i
-
-guess i have to check every dark zone
-
-anywhere
-
-um that is sort of an equal well
-
-poisoning
-
-right so you not just have to make sure
-
-you put the clue you have to make sure
-
-that the player can't get there without
-
-the clue you have to make sure the clue
-
-is somehow
-
-sort of obvious or at least the you know
-
-maybe when the players coming back out
-
-they will then see the clue you know a
-
-way to avoid that
-
-you don't want to have puzzles that
-
-suddenly increase tenuousness
-
-like force the player to do something
-
-they never had to do force the player to
-
-look outside the game when they never
-
-had to look outside the game
-
-uh you know some kind of new trick or
-
-method that is suddenly used or required
-
-especially if it's a one-off if you only
-
-have to use it once well will the player
-
-now be paranoid that they have to use it
-
-again will they try it on every other
-
-puzzle in the rest of the game
-
-you want to make sure that you don't
-
-have that situation
-
-inconsistency in general if the rules
-
-are changing
-
-then players will never know whether
-
-they can expect
-
-their understanding of the game their
-
-conceptual model for how the game
-
-systems work to be correct if they're
-
-questioning the conceptual model
-
-then they're not in a good space to do
-
-problem solving right you want players
-
-to feel that they rock solid
-
-understand the game's rules the game's
-
-logic and are then solving things
-
-rather than questioning that at least if
-
-you're making a game that's about
-
-logic or about understanding rules there
-
-are some games that are just not about
-
-that and that's okay
-
-there are some games that are just about
-
-rule discovery but that brings us to
-
-point number 15 which is be careful with
-
-in
-
-transparencies and in transparency of a
-
-puzzle is any aspect that is not
-
-explained to the solver a hidden rule a
-
-hidden goal
-
-maybe a hidden affordance meaning a
-
-hidden thing that the player can do
-
-or a hidden interaction or hidden
-
-consequence of a certain interaction
-
-in transparencies can also come in the
-
-form of the inability to perceive or
-
-interpret
-
-the state of the puzzle essentially if
-
-you're familiar with the the quote
-
-unquote seven stages of action
-
-uh which uh i think uh don norman was
-
-the one who who initially uh made that a
-
-popular idea
-
-any one of those seven stages of action
-
-can have a failure
-
-where where due to in transparency the
-
-person trying to perform an action just
-
-doesn't understand something
-
-right um i will show you an example this
-
-is a puzzle
-
-i have it right here it's called the
-
-remove octahedron
-
-and this puzzle is a puzzle that you
-
-your goal is to try and disassemble
-
-it uh and sort of get into it and you
-
-can kind of like move
-
-one of the parts around but you know
-
-most of them
-
-don't really move and if you listen
-
-carefully
-
-you can hear that there's something
-
-going on in the inside of it but you
-
-can't see what it is
-
-right so this is an example of an in
-
-transparency in a puzzle
-
-um another example would be
-
-instructionless puzzles
-
-um this puzzle on the left is uh from a
-
-round of the german
-
-national puzzle championship which is
-
-how they select their team for world
-
-puzzle championships
-
-and they had an instructionless round
-
-and how it works is
-
-you're given an empty sort of input
-
-puzzle and then you're given its
-
-solution
-
-and your goal is to work out what is the
-
-rule where this input could lead to this
-
-solution and
-
-it's unique there is no other solution
-
-to this puzzle
-
-and sometimes that uniqueness is an
-
-important part of discovering what the
-
-rules are
-
-and then of course they'll give you an
-
-actual contest puzzle that you have to
-
-solve and
-
-all of this including both discovering
-
-the instructions and solving the puzzle
-
-you're doing under time pressure in this
-
-case the rule is that
-
-the number tells you of its four
-
-cardinal neighbors in the north south
-
-east west direction
-
-how many of them are different or how
-
-many different numbers are represented
-
-there
-
-so a one uh you know this one has two
-
-threes next to it it only has one
-
-unique neighbor whereas this four has
-
-all four of one two three four as its
-
-neighbors
-
-another example is this game understand
-
-which is a steam game where they give
-
-you a bunch of symbols on the grid and
-
-you have to
-
-figure out the rules the witness also
-
-has
-
-this instructionlessness as a part of
-
-sort of the early phase of the game when
-
-you're learning what the rules are
-
-rather than the later phase of the game
-
-where you're solving puzzles using those
-
-known rules
-
-uh mystery hunt puzzles are basically
-
-all
-
-instruction lists they tend to give you
-
-some input and then find something to
-
-solve this is one from this year's
-
-mystery hunt where the
-
-input was a picture of a bunch of
-
-diagrams
-
-of what look like sound devices or
-
-digital synthesizers and you get a bunch
-
-of these and then you also get these
-
-like
-
-random strings of letters some of which
-
-are red colored
-
-and it turns out that you have to
-
-download this software that sort of
-
-allows you to put together eurorack
-
-style modular synths
-
-and put them together this way and they
-
-would all make
-
-synth noises from popular songs uh you
-
-know like
-
-a synth from lady gaga or from
-
-eurythmics or from whatever
-
-and then these things on the right
-
-corresponded to the melodies that you
-
-had to play and then you had to put the
-
-melodies together and
-
-get a secret message from that and then
-
-there was a whole second part to it
-
-um but the point is that the rules are
-
-not given at all
-
-and figuring out the rules figuring out
-
-what you have to do and getting that aha
-
-moment of oh these are songs i have to
-
-play them that is part of the magic of
-
-mit mystery hunt
-
-is discovering what it is that you have
-
-to do and in transparencies can be a
-
-huge amount of fun
-
-but there are many caveats they can
-
-cause solvers to become stuck and
-
-i've heard this called enigma syndrome
-
-or a few other things where you
-
-literally just don't know what to do
-
-because you failed to put two and two
-
-together
-
-and that tends to be an unfun kind of
-
-stuck for many puzzles because you don't
-
-necessarily have different approaches or
-
-different things to try there isn't
-
-really a recourse for you if you just
-
-can't
-
-figure out what you need to do if you're
-
-making a linear story based game where
-
-the puzzles have to come in sequence
-
-then getting stuck means blocking
-
-progression in the game which literally
-
-means the player cannot play anymore
-
-unless they either look up the solution
-
-or
-
-or cheat or they just have to quit and
-
-come back tomorrow
-
-and some players you know they really
-
-don't want to look up the solution right
-
-but if they're gonna be uh you know very
-
-devout about that
-
-then they just can't play the game
-
-anymore right they literally may just
-
-stop there and never play beyond that
-
-um you can see with the completion
-
-statistics of many puzzle games on steam
-
-especially
-
-if they have achievements you can see
-
-well oh everybody quit after this
-
-achievement because there was a really
-
-hard puzzle there that got stuck
-
-on the other hand if you're making a
-
-linear game and you want to avoid that
-
-you may end up
-
-taking every puzzle that is remotely
-
-difficult and kind of standing off the
-
-difficulty or adding hints and those may
-
-make it a less
-
-pleasurable experience for some other
-
-players that really want the challenge
-
-right so you're
-
-you're having to balance all of these
-
-goals together if you make a linear game
-
-another common complaint is that these
-
-in transparencies can feel like an iq
-
-test it feels like oh i just have to
-
-figure out what the pattern is and some
-
-players don't want that to be their
-
-puzzle solving experience
-
-the resolution of the in transparency is
-
-also a one-time reveal you can't make a
-
-hundred puzzles that are based on one in
-
-transparency you have to have a hundred
-
-different in transparencies and so it
-
-could be hard to come up with that
-
-they're also easily spoiled especially
-
-if somebody is playing on live streaming
-
-service like twitch
-
-one person in the chat can just tell
-
-them the answer and then it's all over
-
-so in transparencies are often not that
-
-great and and the reverse can also be
-
-bad if the streamer
-
-knows what's going on or knows the
-
-answer but the audience doesn't then
-
-they'll just have to constantly explain
-
-the rules to them which can make the
-
-streaming experience a bit worse
-
-a very common example is the hidden
-
-affordance which is where you have some
-
-kind of affordance or thing you can do
-
-that is not tutorial to you or not told
-
-to you and this is an example from the
-
-wind waker you get this grappling hook
-
-and it sort of tells you how to use it
-
-and you can swing on things
-
-um but there is another thing you can do
-
-with that and that is when you are
-
-swinging you can also stop swinging and
-
-climb the rope
-
-and when i was playing this game i never
-
-even knew you could do this
-
-and the method to do it is actually a
-
-little bit counter-intuitive you have to
-
-hold the button
-
-that in the top right the the z-r button
-
-here which basically stops you from
-
-swinging
-
-and then while holding that you have to
-
-press up to climb the rope
-
-um and normally when you press up you
-
-press like up and down to swing back and
-
-forward and time your swings to move
-
-forward so there's
-
-there's a second movement assigned to
-
-the same button
-
-uh and you have to climb up to the top
-
-of this rope and now it's only required
-
-in a couple areas of the game to get a
-
-couple of secrets but you know i want
-
-100 the dungeon i want to find all the
-
-secrets so
-
-uh it was really annoying to me that
-
-this was never explained and then i just
-
-had to figure it out uh and it's
-
-counterintuitive
-
-and they also this this was a port of
-
-the game uh an hd port of the game
-
-from the original gamecube to the wii u
-
-and so they had to change the controls
-
-so they may have not tested it enough
-
-they may have not done their focus
-
-testing to discover that this was a
-
-stuck point or they might have just left
-
-it in because it was only for a couple
-
-of puzzles anyway
-
-um but for some players this is very
-
-frustrating and it could really make you
-
-distrust the developers and normally you
-
-don't see stuff like this in zelda
-
-because it's quite well tested
-
-but in this one case it was really you
-
-know there are people online who raged
-
-about this quite a bit
 
 one of the ways you can avoid that is
 
