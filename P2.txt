@@ -899,1000 +899,401 @@ But in this one case it was really you know there are people online who raged ab
 但在这个案例中就…网上有很多人对这个问题非常生气
 
 
-
-one of the ways you can avoid that is
-
-tip number 16 which is to facilitate
-
-experimentation um and i will show the
-
-remove octahedron again as a way of
-
-illustrating this basically like
-
-it's clear that there's something
-
-rattling around on the inside of it and
-
-it's clear that if you kind of try to
-
-push it this way
-
-you can push it a little but it gets
-
-stuck and
-
-you can listen and you can discover that
-
-okay there's some balls on the inside or
-
-something moving around
-
-and if you move it very slowly and
-
-listen you can even try and hear what is
-
-the shape of the cavity inside
-
-this puzzle how many balls are there are
-
-they in the same cavity or are they not
-
-and you can learn all of these things
-
-just by experimenting and slowly moving
-
-the thing around in information
-
-so the in transparency of what's in the
-
-middle can be made transparent by your
-
-own
-
-interaction with the puzzle um you know
-
-and and you will in fact discover in
-
-this puzzle that there are two balls
-
-inside
-
-they are in the same chamber and that
-
-chamber has the shape of an s
-
-tetris piece and you have to get the
-
-balls at the two opposite sides of it
-
-because
-
-the thing you're pushing down goes in
-
-the middle so you kind of have to do a
-
-spin move to get the two balls to the
-
-opposite side to push it down which is
-
-an interesting
-
-eureka moment but one that you can
-
-actually kind of deductively logic
-
-yourself toward
-
-if you experiment with it enough to
-
-discover how it works
-
-a rule of thumb that goes along with
-
-this is avoid
-
-making experimentation frustrating
-
-i remember as a kid playing link to the
-
-past and getting to this boss the
-
-helmesor king
-
-and this boss is really tough he comes
-
-at the end of a long
-
-gauntlet of difficult enemies that you
-
-have to get through and if you die you
-
-have to restart the whole dungeon and do
-
-it all over again
-
-and he is the first boss that you cannot
-
-defeat using the sword alone
-
-every other boss up until that point you
-
-could just use the sword on them but
-
-this guy you have to use the hammer on
-
-him first and
-
-you know it's the usual zelda trope use
-
-the item from that dungeon to
-
-defeat the boss of that dungeon but this
-
-was the first time that that idea was
-
-used in this game
-
-and i remember being so frustrated that
-
-i would get to this boss fight him my
-
-sword would do nothing and i didn't know
-
-what to do and i would just die
-
-because this guy just hit so hard and
-
-you know i would try that a few times
-
-die get frustrated and then
-
-not know what to do because i wasn't
-
-able to easily experiment and figure out
-
-what the boss's weak point was the
-
-experimentation required all of this
-
-effort beforehand
-
-and i remember going to my cousin and
-
-begging him to tell me how to beat this
-
-boss
-
-and he told me hit his mask with the
-
-magic hammer
-
-and i i still as an assault as an adult
-
-remember those exact words that he used
-
-because as a child this was so
-
-pertinent and so salient to me when i'm
-
-like fighting this boss and was
-
-literally blocked by progressing in the
-
-game
-
-because i i didn't know that secret and
-
-certainly that was a huge eureka moment
-
-for me just being told the answer
-
-because it was so important to being
-
-able to progress in this game
-
-but the thing that caused that
-
-frustration was the fact that i couldn't
-
-experiment or at least that
-
-experimentation required so much effort
-
-that i was never able to get there on my
-
-own
-
-another example uh and i love this by
-
-the way is the hearthstone puzzle labs
-
-which was an expansion to the
-
-hearthstone
-
-uh game made i think a year or two ago
-
-um and there are a bunch of these
-
-puzzles that you have to solve using
-
-hearthstone cards and they're very
-
-interesting very exciting i highly
-
-highly recommend this even if you've
-
-never played hearthstone
-
-um but this particular puzzle uh
-
-is a doozy it's called the test and
-
-there is this
-
-unit on the board called the test
-
-subject and it has the property that
-
-whenever it dies
-
-it gives you a copy of every spell
-
-you've ever played on it
-
-and there is also a spell that you have
-
-in this called vivid nightmare that
-
-copies
-
-a minion and when you copy a minion it
-
-kind of also copies the triggers that
-
-are attached to that minion so there's
-
-this very sophisticated interaction of
-
-creating copies of spells via minions
-
-that you've copied
-
-and there are also a bunch of spells
-
-that you have that change the health of
-
-minions and kill them and
-
-and do various things um so the solution
-
-to this puzzle you know you only have 10
-
-cards in your hand but you actually may
-
-end up playing 20 or 30 of them
-
-to actually go through with it and for
-
-each one of the cards you play you have
-
-to sort of watch through its animation
-
-sometimes there's voice lines uh and
-
-the order of operations is very
-
-important and even
-
-learning what the priority of things are
-
-like when a death happens in what order
-
-do the triggers happen that order of
-
-trigger interaction is relevant in this
-
-puzzle
-
-and the first time i solved this puzzle
-
-or actually the first time i put
-
-together a solution that i thought would
-
-solve this puzzle
-
-it turned out that it didn't work due to
-
-some subtlety of the interactions that i
-
-didn't know
-
-and this was immensely frustrating but
-
-was even more frustrating is that
-
-that thing on the right over there is
-
-not an undo button it is a reset button
-
-there is no undo in this puzzle
-
-and when you reset it clears the whole
-
-board it plays an unskippable eight
-
-second
-
-animation there's a voice line that
-
-comes from the the boss on the other
-
-side who makes fun of you
-
-and uh it's just the experience of
-
-experimenting to learn what happens is
-
-made very tedious by the interface
-
-and you know hearthstone isn't a puzzle
-
-game it is it is a game
-
-uh that's very much about sort of the
-
-charming whimsy of the interaction of
-
-these cards in a magical universe and
-
-those voice lines are part of what makes
-
-hearthstone hearthstone
-
-uh but in the context of a puzzle game
-
-it it sort of became
-
-very irritating for me to like actually
-
-interface with the puzzle itself
-
-um so it's something to keep in mind
-
-that if you make experimentation
-
-frustrating and if you make sort of
-
-learning the underlying system of the
-
-puzzle
-
-difficult or frustrating or place
-
-obstacles in front of the player of
-
-doing that
-
-then uh the player may never get to the
-
-heart of the puzzle and may just give up
-
-right they won't be uh you know driven
-
-to continue playing by the exciting
-
-thing around the corner they'll just be
-
-like ugh
-
-i can't be bothered one solution
-
-to avoid making experimentation
-
-necessary at all
-
-is to show the player things that they
-
-would otherwise have to find out don't
-
-put a button on the ground
-
-and make the player stand on it to see
-
-what it does put a line next to the
-
-button and a little indicator on the
-
-wall
-
-that can show the player what the puzzle
-
-is going to do when they step on it this
-
-is something that portal did
-
-you know a decade and a half ago
-
-it'll do does something even more
-
-interesting where when you whenever you
-
-hit a locked door or a locked gate
-
-it will show these little particles that
-
-travel from the locked gate to either
-
-the buttons on the floor or the switches
-
-that you have to hit
-
-in order to activate it uh and this
-
-removes the need for you to
-
-figure out what combination of switches
-
-you need to hit to open this door
-
-and games like draw at deadly rooms of
-
-death also do the same thing
-
-so a related idea is always try to get
-
-the solver on the right path
-
-realizing that you're on the right track
-
-is one of the most dopaminergic things
-
-just in the same way that anticipating
-
-you know a eureka moment being right
-
-around the corner
-
-is is really interesting sort of being
-
-on the right track and being told that
-
-you're on the right track
-
-is is similarly very motivating uh in
-
-american crosswords every letter is
-
-checked meaning that every letter exists
-
-in both the horizontal and vertical word
-
-and when you get that confirmation and
-
-ah yes this is the same letter when i've
-
-solved both of these clues it gives you
-
-this sort of satisfaction that you're
-
-moving forward that you're making
-
-correct progress
-
-many crossword clues they may have
-
-multiple possible answers right
-
-there may be multiple possible words
-
-that are four letters long and satisfy
-
-this clue
-
-but as we've sort of seen in some of the
-
-earlier examples only one of them is
-
-correct and you may not
-
-know which one it is until you get this
-
-confirmer
-
-but the confirmer is sort of a push to
-
-keep going and motivation
-
-to understand that you're on the right
-
-track
-
-um cryptics actually do this within
-
-individual clues
-
-so uh in encrypted crosswords if you
-
-don't know every clue actually contains
-
-both a literal definition
-
-and a sort of pun or cryptic
-
-definition so you might see a seven
-
-letter word for terrain scrambled coach
-
-and you split it down the middle a coach
-
-is a trainer
-
-but the word terrain scrambled i.e
-
-anagrams
-
-is also the word trainer so within every
-
-individual clue
-
-you have a confirmer because you have
-
-two sides of it
-
-that make the answer and sometimes when
-
-you're solving a cryptic you won't
-
-necessarily solve both of them like you
-
-might solve the literal clue and not
-
-solve the other one and sort of check it
-
-by the letter crossings
-
-cryptics have fewer letter crossings
-
-than american crosswords
-
-um but sometimes the
-
-answer kind of reveals what the pun was
-
-and can create this exciting moment of
-
-oh i get it it's terrain scrambled
-
-um you know so it provides additional
-
-sparkle
-
+one of the ways you can avoid 
+有一种可以避免这种情况的方法
+that is tip number 16 which is to facilitate experimentation um
+那便是第16课，「让玩家方便尝试」
+and I will show the Ramube Octahedron again as a way of illustrating this 
+我再次展示一下“Ramube八面体”，来说明一下这一点
+basically, like it's clear that there's something rattling around on the inside of it 
+基本上来说，很明显它内部有东西在发出声音
+and it's clear that if you kind of try to push it this way
+而且很明显，如果你试图这样推动（外面的部分）
+you can push it a little but it gets stuck 
+你可以推一下，但会被卡住
+and you can listen and you can discover that okay there's some balls on the inside or something moving around
+然后你听一听就能发现，好吧，里面有球或者什么东西在移动
+and if you move it very slowly and listen 
+而如果你边缓慢转动它边听
+you can even try and hear what is the shape of the cavity inside this puzzle how many balls are there 
+你甚至可以尝试听出里面内部空腔是什么形状、里面有多少个球
+are they in the same cavity or are they not
+以及它们是否在同一个空腔里
+and you can learn all of these things just by experimenting and slowly moving the thing around in information
+你可以通过实验和慢慢转动来了解所有这些东西的信息
+so, the intransparency of what's in the middle can be made transparent by your own interaction with the puzzle 
+所以，通过你与谜题的互动，不透明的东西就能变得透明
+um you know and you will in fact discover in this puzzle that there are two balls inside they are in the same chamber 
+接着你就能发现，这两个球是在同一个空腔中
+and that chamber has the shape of an S Tetris piece 
+而这空腔的形状就像一个S型的俄罗斯方块
+and you have to get the balls at the two opposite sides of it because the thing you're pushing down goes in the middle 
+然后你必须想办法让两个球跑到空腔的两端，因为这样才能把中间的部分推下去
+so, you kind of have to do a spin move to get the two balls to the opposite side to push it down 
+所以你做一个旋转动作，让两个球跑到两端去，然后把它推下去
+which is an interesting eureka moment 
+这是一个有趣的尤里卡时刻
+but one that you can actually kind of deductively logic yourself toward, if you experiment with it enough to discover how it works
+只要你做了充足的试验就能用逻辑推理的方式得到这一点
+a rule of thumb that goes along with this is avoid making experimentation frustrating
+与之相关的一个经验法则是，不要让试验过程挫败感太强
+I remember as a kid playing link to the past and getting to this boss the helmasaur king
+我记得小时候玩《塞尔达传说：众神的三角力量》的时候，遇到一个Boss，Helmasaur King
+and this boss is really tough he comes at the end of a long gauntlet of difficult enemies that you have to get through 
+这个Boss真的难打，你要先打一长串困难的敌人，之后他才出现
+and if you die you have to restart the whole dungeon and do it all over again
+如果你死了，你就得重打整个地牢
+and he is the first boss that you cannot defeat using the sword alone
+而他是第一个你无法只用剑就打败的Boss
+every other boss up until that point you could just use the sword on them but this guy you have to use the hammer on him first 
+在这之前所有其他Boss都可以用剑来打，而这个家伙必须先用锤子打
+and you know it's the usual zelda trope use the item from that dungeon to defeat the boss of that dungeon 
+你知道这是塞尔达的惯例，用那个地牢的物品来打败那个地牢的Boss
+but this was the first time that that idea was used in this game
+但这是在这个游戏中第一次应用这一点
+and I remember being so frustrated that I would get to this boss fight him my sword would do nothing
+我记得我很沮丧，因为我来到这个Boss面前跟他战斗，我的剑没有任何作用
+and I didn't know what to do and I would just die
+而我不知道该怎么做，我就这样死了
+because this guy just hit so hard 
+因为这家伙攻击力太高了
+and you know I would try that a few times die get frustrated and then not know what to do 
+我试了几次，死了，感到很沮丧，然后不知道该怎么办
+because I wasn't able to easily experiment and figure out what the boss's weak point was 
+因为我不能很轻易地进行试验来找出Boss的弱点
+the experimentation required all of this effort beforehand
+要进行试验还是先做前面这些努力
+and I remember going to my cousin and begging him to tell me how to beat this boss
+然后我记得我去找我表哥，求他告诉我如何过这个Boss
+and he told me hit his mask with the magic hammer
+他告诉我用魔锤打他的面具
+and I still as an assault as an adult remember those exact words that he used
+而我现在作为一个成年人，我仍然记得当时他说的每一个字
+because as a child this was so pertinent and so salient to me 
+因为作为一个孩子，这对我来说太重要了
+when i'm like fighting this boss and was literally blocked by progressing in the game
+当我跟Boss战斗的时候，我基本上游戏完全进行不下去了
+because I didn't know that secret and certainly that was a huge eureka moment for me just being told the answer
+因为我不知道这个秘密，当然这对我来说是一个巨大的尤里卡时刻，因为我知道了答案
+because it was so important to being able to progress in this game
+因为这对在游戏中取得进展非常重要
+but the thing that caused that frustration was the fact that I couldn't experiment 
+但造成这种挫败感的原因是我无法进行试验
+or at least that experimentation required so much effort that I was never able to get there on my own
+或者至少说试验需要付出如此之大的努力，以至于我永远无法靠自己的力量达到目的
+another example uh and I love this by the way is the hearthstone puzzle labs
+另一个例子，我很喜欢这个，就是《炉石传说》谜题实验室
+which was an expansion to the hearthstone uh game made i think a year or two ago
+这是《炉石传说》的一个资料片，我想应该是一两年前制作的
+um and there are a bunch of these puzzles that you have to solve using hearthstone cards 
+里面有很多谜题，你必须用《炉石传说》的卡片来解决它们
+and they're very interesting very exciting I highly recommend this 
+这些谜题非常有趣刺激，我非常非常推荐它
+even if you've never played hearthstone
+即使你从未玩过《炉石传说》
+um but this particular puzzle uh is a doozy it's called the test 
+但这个特别的谜题，叫做“疯狂实验”
+（译者注：砰砰博士清场-谜题3/4-疯狂实验）
+and there is this unit on the board called the test subject 
+场上有随从叫“实验体”
+and it has the property that whenever it dies it gives you a copy of every spell you've ever played on it
+它的特性是每当它死了，就会给你在它身上施放过的所有法术的副本到你的手牌中
+and there is also a spell that you have in this called vivid nightmare that copies a minion 
+还有一个叫做“鲜活梦魇”的法术，它可以复制一个随从
+and when you copy a minion it kind of also copies the triggers that are attached to that minion 
+当你复制一个随从，它也会复制附属于随从的触发效果
+so there's this very sophisticated interaction of creating copies of spells via minions that you've copied
+所以通过复制随从来复制法术是一种非常复杂的互动
+and there are also a bunch of spells that you have that change the health of minions and kill them and do various things 
+有一堆法术可以改变随从的生命、杀死他们以及做各种事情
+um so the solution to this puzzle you know you only have 10 cards in your hand 
+所以这个谜题的答案是，你知道，你手中只有10张牌
+but you actually may end up playing 20 or 30 of them to actually go through with it 
+但实际上你最终可能要打出20或30张牌来完成它
+and for each one of the cards you play you have to sort of watch through its animation sometimes there's voice lines uh 
+对于每张牌，你都要看它的动画，有时还会有语音台词
+and the order of operations is very important and even learning what the priority of things are
+而操作的顺序是非常重要的，甚至要去掌握各种优先顺序是什么
+like when a death happens in what order do the triggers happen that order of trigger interaction is relevant in this puzzle
+比如当死亡发生时，触发效果按什么顺序发生，而这个顺序是与这个谜题相关的
+and the first time I solved this puzzle or actually the first time I put together a solution that I thought would solve this puzzle
+当我第一次解这个谜题的时候，或者说我第一次打出我认为可以的解
+it turned out that it didn't work due to some subtlety of the interactions that I didn't know
+结果发现，由于一些我不了解的微妙的相互作用，并没有成功
+and this was immensely frustrating but was even more frustrating is that
+这让我非常沮丧，但更让我沮丧的是
+that thing on the right over there is not an undo button it is a reset button
+右边的那个东西不是撤销按钮，而是一个重置按钮
+there is no undo in this puzzle and when you reset it clears the whole board 
+谜题中没有撤消键，当你重置时，整个场上都被清除了
+it plays an unskippable eight second animation 
+它会播放一个不可跳过的八秒动画
+there's a voice line that comes from the the boss on the other side who makes fun of you
+对面Boss又有段语音来嘲讽你
+and uh it's just the experience of experimenting to learn what happens is made very tedious by the interface
+只是为了了解发生了什么而进行的试验，被这个界面交互搞得有些厌烦了
+and you know hearthstone isn't a puzzle game 
+你知道《炉石传说》并不是一个解谜游戏
+it is it is a game uh that's very much about sort of the charming whimsy of the interaction of these cards in a magical universe 
+它是一个注重卡牌在一个奇幻宇宙中的互动所带来迷人的奇思妙想的游戏
+and those voice lines are part of what makes hearthstone hearthstone
+而这些台词也是《炉石传说》之所以成为《炉石传说》的原因之一
+uh but in the context of a puzzle game it sort of became very irritating for me to like actually interface with the puzzle itself
+但在解谜游戏的背景下，它对我来说变得非常烦躁	
+um so it's something to keep in mind that if you make experimentation frustrating 
+所以我们要记住，如果你让试验过程变得充满挫败感
+and if you make sort of learning the underlying system of the puzzle difficult or frustrating or place obstacles in front of the player of doing that
+如果你让学习谜题的基本机制变得困难或令人沮丧，或者在玩家面前为此设置障碍
+then uh the player may never get to the heart of the puzzle and may just give up right 
+那么，玩家可能永远无法领悟到谜题的核心，可能就会放弃了，对吧？
+they won't be uh you know driven to continue playing by the exciting thing around the corner 
+他们就不会由即将到来的兴奋事物所驱动而继续玩下去
+they'll just be like ugh I can't be bothered 
+他们就会说，唉，我不玩了！
+one solution to avoid making experimentation necessary at all is to show the player things that they would otherwise have to find out 
+一种避免这种试验成为必要的解决方法是，直接向玩家展示他们必须自己发现的东西
+don't put a button on the ground and make the player stand on it to see what it does 
+不要在地方放一个按钮，让玩家得站到上面去看它的作用是什么
+put a line next to the button and a little indicator on the wall
+而在按钮旁画条线，在墙上放个小指示灯
+that can show the player what the puzzle is going to do when they step on it 
+这能向玩家展示他们踩在上面的时候，谜题会发生什么
+this is something that portal did you know a decade and a half ago
+十五年前的《传送门》就是这么做的
+Ittle Dew does something even more interesting 
+《Ittle Dew》做了一件更有趣的事
+where when you whenever you hit a locked door or a locked gate 
+当你碰到一个锁着的门时
+it will show these little particles that travel from the locked gate to either the buttons on the floor or the switches that you have to hit in order to activate it uh 
+它就会显示出这些小粒子，从上锁的门到地板上那些用来激活门的按钮或开关
+and this removes the need for you to figure out what combination of switches you need to hit to open this door
+这样你就不需要再去琢磨该用什么开关组合来打开这扇门了
+and games like DROD (Deadly Rooms of Death) also do the same thing
+像《DROD》（《死亡密室Deadly Rooms of Death》）这样的游戏也做了同样的事情
+
+
+so, a related idea is always “try to get the solver on the right path”
+因此，相关的一点是「尝试让解谜者走在正确的道路上」
+realizing that you're on the right track is one of the most dopaminergic things just in the same way that anticipating you know a eureka moment being right around the corner
+意识到你走对路了是最能激发多巴胺的事情之一，就像你期待即将到来的尤里卡时刻一样
+is really interesting sort of being on the right track 
+走在正确道路上的那种感觉真的很有趣 
+and being told that you're on the right track is similarly very motivating 
+而被告知你在正确的道路上能给你很大的动力
+uh in American crosswords every letter is checked 
+比如在美国填字游戏中，每个字母都可被检查
+meaning that every letter exists in both the horizontal and vertical word
+也就是说，每个字母都同时存在于横排和竖排的单词中
+and when you get that confirmation and ah yes this is the same letter when I’ve solved both of these clues 
+当你得到确认，“对了，我把两个都解出来了，这个字母是一样的”
+it gives you this sort of satisfaction that you're moving forward that you're making correct progress
+你就会有一种满足感，你在前进、在取得正确的进展
+many crossword clues they may have multiple possible answers right
+而许多填字游戏的谜面都可能对应答案，对吗？
+there may be multiple possible words that are four letters long and satisfy this clue
+可能有多个长为4个字母的词可以满足这个谜面的要求
+but as we've sort of seen in some of the earlier examples only one of them is correct 
+但正如我们在前面的一些例子中看到的那样，只有一个是正确的 
+and you may not know which one it is until you get this confirmer
+你可能不知道是哪一个，直到你得到这个确认物
+but the confirmer is sort of a push to keep going and motivation to understand that you're on the right track
+而这个确认物是一种推动力，让你继续前进，让你明白方向是正确的
+um Cryptics actually do this within individual clues
+Cryptic填字游戏在每一个谜面中都是这样做的
+so, uh in crypted crosswords if you don't know every clue actually contains both a literal definition and a sort of pun or cryptic definition 
+在Cryptic填字游戏中每条谜面都包含了一个字面解释和一个类似双关或字谜的解释
+so, you might see a seven letter word for terrain scrambled coach
+所以你会看到这样一个对应7个字母单词的谜题“Terrain Scrambled Coach”
+and you split it down the middle a coach is a trainer
+你把它从中间分开，Coach就是Trainer（教练）
+but the word terrain scrambled i.e. anagrams is also the word trainer
+而“Terrain Scrambled”（把Terrain打乱），也就是说Terrain的同字母异构词，也是Trainer
+so, within every individual clue, you have a confirmer because you have two sides of it that make the answer 
+所以在每个谜面中都有一个确认物，因为你可以从两方面佐证答案
+and sometimes when you're solving a cryptic you won't necessarily solve both of them 
+有时你解出一个谜题，你不一定是同时从两面都解开的
+like you might solve the literal clue and not solve the other one and sort of check it by the letter crossings
+比如你可能只解出了字面意义，然后通过字母交叉来检查
+Cryptics have fewer letter crossings than American crosswords
+Cryptic填字游戏比美国填字游戏的字母交叉要少一些
+um but sometimes the answer kind of reveals what the pun was and can create this exciting moment of 
+答案还是会显示出这对应的双关是什么，并能够创造出这种令人兴奋的时刻
+oh, is get it it's terrain scrambled
+“哦，我明白了，这是把Terrain打乱”
+um you know so it provides additional sparkle
+所以它提供了额外的Sparkle
 uh whoops okay we're back
+噢，黑屏了，好的，我们又回来了
+uh let's see um puzzle hunts often also have confirmers
+解谜寻宝通常也有确认物
+where sometimes you know you're halfway through a puzzle and you got somewhere
+有时你知道你做到一半了，感觉到了某个阶段了
+and you know you think maybe is this the answer and then you type it into the answer box 
+你觉得可能这就是答案吧，然后把它输入到答案框中
+and instead of saying good job you solve the puzzle it says keep going 
+它不会说“做的不错，你解开了谜题”，而是说“继续吧”
+and what keep going means in that context is that that's not the answer 
+在这种情况下，意思就是这还不是答案 
+it's another clue it's something that you can move forward on in a different direction something new you have to try
+而是另一条线索，你可以据此朝不同方向前进、尝试些新东西
+uh but that can also be very motivating 
+但这也是非常有动力的
+because it means everything you've done up until now was something that was intended for you to do
+因为这意味着你到现在为止所做的一切，都是你应当做的
+a related question that I often get is “are red herrings bad? should you avoid them?”
+我经常被问及的一个相关问题是“红鲱鱼（Red Herring）好不好？你应该避免它们吗？”
+（译者注：红鲱鱼Red Herring：转移注意力的事物）
+and I mean this is a very complicated subject 
+这是一个非常复杂的问题
+there are a lot of different types of red herrings and whether or not they're bad is very situational
+有很多不同类型的红鲱鱼，它们是否有害得看情况
+a dressing is the name for sort of a needless non-pertinent decoration that's salient enough that the solver might accidentally interpret it as pertinent
+Dressing（装饰）是指，一种本身不必要的、与谜题无关的装饰物，但又足够突出明显以至于会让解谜者意外地将其理解为与谜题相关
+in chess puzzles for example if you just add extra pieces that are not relevant to the solution and don't prevent any wrong solutions from being relevant
+比如，在棋谜中，你添加了几个与解谜无关的额外棋子进去，也没有阻止任何与之相关的错误解法
+then those are considered dressings 
+那这些就被看做是Dressing
+and they're often frowned upon 
+通常它们（dressing）是不可取的
+because they may distract the solver from what they actually need to do
+因为它们可能会分散解谜者的注意力，使他们无法完成真正的任务
+same thing in escape rooms like people often want to decorate the escape room and make it look nice
+密室逃脱也是如此，人们经常像装饰一下密室，让它看起来漂亮点
+but uh you know players may see bars in a jail and try 
+但玩家可能会比如说，他看到了类似监狱的铁栏杆
+and you know count them and put that as a number in some combination lock right 
+就会去数一数有多少个栏杆，然后把它作为数字输入密码锁，对吧？
+like you gotta really make sure that uh your dressings are not interpreted as pertinent 
+你真的得保证你做的这些装饰不会被理解为相关的东西
+distractors are affordances that you never need
+干扰项是你永远不需要的能力或事物
+um you know there's there's an example like make 35 cents with 10 coins and the quarter is not needed 
+比如说，用10个硬币凑成35美分，那么面值25分的硬币肯定是不需要的
+therefore it is a distractor it's an affordance that you didn't need 
+因此，它是一个干扰项，是一个你不需要的事物
+but it sort of feels like it should be there right? 
+但总感觉它也应该被放在那里，对吗？
+it's not it's not a red herring that's going to confuse you
+它不是那种会让你感到困惑的红鲱鱼
+you know fake puzzles and ghost puzzles are things that come up in escape rooms 
+至于假谜题和幽灵谜题，则是在密室逃脱中
+where you see something that looks like a puzzle but it turns out not to be
+那些看起来像谜题却不是的东西
+a ghost puzzle is a puzzle that used to be in the room and then was removed 
+幽灵谜题是曾经设置在密室中的谜题，而后来被移走了
+but somehow there's some little bit of it that's left that wasn't cleaned up
+但还有一些没有被清理感觉的东西留在房间里
+you might just see a shadow on the wall of where something was 
+你可能会在墙上看到曾经某个东西的影子
+or you might see some parts of what used to be a puzzle
+或者看到曾经是谜题的一部分的东西
+but they've been disconnected and are no longer part of the solution
+但它们实际上是没关联的，不再是解的一部分了
+every escape room fan will tell you that they've seen these 
+每个密室逃脱爱好者都会告诉你，他们见到过这种东西
+and they get so mad when that wasn't taken out of the room 
+当他们知道了这是没被拿干净的东西，会非常生气
+because they'll spend their time which in escape room is precious you only have an hour to get out
+因为他们为此浪费了时间，而在密室逃脱中，时间非常宝贵，你只有一个小时逃离
+they'll spend their time trying to figure out what to do with that thing and if it turns out oh you didn't have to do anything it wasn't part of the puzzle
+他们会花时间去想怎么处理那个东西，结果根本不需要做什么，它就不是谜题的一部分
+then that really irritates people it feels like they've been robbed of their time
+那就真的很让人生气了，感觉间被剥夺了
+obfuscation and misdirection come in many forms and can be sometimes interpreted as red herrings 
+混淆和误导有很多形式，有时可以被理解为红鲱鱼
+but sometimes it's more like uh showing the solver what is a non-solution so that they can appreciate the solution more, right?
+但有时它又更像是在想解谜者展示什么东西不是解法，而这样他们会更欣赏真正的解法，对吗？
+there's various ways that misdirection can actually be good, so you don't want to rule that out as bad 
+有很多种误导的方式可以是好事情，所以你不要把它都当作不好的东西移除掉
+dead end approaches are any approach that you might try to solve a puzzle that immediately leads to a negative confirmer 
+“死胡同方法”是那种，你一尝试就马上会给你一格负面确认的解谜方法
+meaning meaning you try something and then you learn 
+意识就是说，你尝试了些东西
+oh this cannot be the approach this cannot possibly work there is a clear dead end to here 
+然后你就了解到，噢，肯定不是这个方法，肯定不行，明显是走不通的
+the opposite is a rabbit trail which is an incorrect approach to solving a puzzle that cannot be proven not to work
+与之相反的则是Rabbit Trail（兔子足迹），指的是错误的解谜方法，但缺没法被证明是不可行
+um you know you might be in some block-pushing game 
+比如可能在一些推箱子游戏中
+and it turns out you have to do this one thing but you're trying this other thing
+结果你本来应该要做这样的事，但你却一直在尝试别的事情
+and it seems like you're maybe making progress and you're trying a few more things 
+而你又似乎在取得进展，然后你又继续尝试
+and you know it's just branching and getting deeper and maybe you're making progress maybe you're not
+然后你越来越深入，你感觉你可能有进展也可能没有
+but an hour later you're still trying that one thing and you haven't quite got to the exit 
+但一小时之后，你还在尝试那件事情，还没有走到出口
+and maybe it's impossible right but but you don't know you don't have an obvious proof that's impossible
+或许这确实是不可能的，但你没有一个明显的证据证明它不可能
+so you waste an hour trying something that isn't the intended or correct solution
+所以你浪费了一个小时的时间去尝试了一些不是预期的或正确的解法
+rabbit trails are the most demotivating especially for novices 
+Rabbit Trails是最令人沮丧的，特别是对新手来说
+because novices are not particularly good at guessing what will work or guessing what the intended solution method to a puzzle will be
+因为新手并不擅长猜测什么是可行的，或者猜测谜题的预期解法是什么
+they may spend a long time and only change their approach when they've really just given up and been beaten down into thinking 
+他们可能花很长的时间，然后只有在他们真正放弃了或者被打败了才会改变自己的方法
+well you know I don't want to try this anymore
+你知道“我不想再尝试这个了”
+to address this like really sealing off rabbit trails is a good idea 
+要对付这种问题，把Rabbit Trails完全封锁住是一个不错的想法
+if you're playtesting something and you notice that players are spending a long time trying an approach that doesn't work
+如果你在测试的时候，注意到玩家花费了很长时间去尝试一个行不通的方法
+you should probably either prevent them from trying it 
+那也许你应该阻止他们去尝试这种方法
+or add a negative confirmer of some kind you know go back this isn't the solution not like this try something else 
+或者加入写负面确认物，比如说“回去吧，不是这么做的，试试别的”
+and to discover those you really need to playtest it
+而要发现这些问题，你真的得去做测试才行
+the sort of lesson expressed in four words is “match pertinence with salience “
+用四个字来总结这个经验就是“让相关性与显著性相匹配”
+pertinence meaning things that are relative to the actual solution of the puzzle 
+相关的事物指与实际的解法有关的东西
+things that are either clueful or are affordances that you need or are interactions that you need to do
+这些东西要么提供线索，要么是你需要或需要交互的能力与物品
+and salience meaning how much something sticks out how clear is it to the player that this is important how important looking is something
+显著性则是指某一事物有多么突出，玩家看起来它有多么重要
+things that are important should stick out 
+重要的东西应该是突出的 
+things that stick out should be important 
+突出的东西应该是重要的 
+you do not want to have negatives in either direction 
+你不希望出现与之相反的情况
+you don't necessarily well you don't want to have important things that are subtle 
+你不会希望重要的东西看起来不明显
+or at least are more subtle than everything else in the environment
+或者至少比环境中的其他所有东西都更不明显
+and you don't want to have things that stick out and look like they might be clueful or might be puzzly that turn out not to be
+你也不希望会有很突出的东西，看起来像线索、与谜题相关，结果却不是
+and keep in mind that video game players especially who are not necessarily experts at puzzles 
+请记住，尤其是电子游戏玩家，他们不一定是解谜的专家
+they may not have the conventions in place that allow them to determine what is clueful
+他们可能没有约定俗成的惯例，来让他们判断什么是线索
+like when you're solving an escape room and you've done 50 of them
+就假设你是个玩过50多次密室逃脱的老手
+you probably can guess whether or not something is clueful
+你可能会猜到某个东西是不是线索
+if you're doing a mystery hunt puzzle and you've done hundreds of them 
+假设你玩过上百次解谜寻宝
+and you see something you can probably guess whether or not that's supposed to be a clue 
+你看到一个东西，你能大概猜到这应不应该是个线索
+or whether it's supposed to be just you know flavor text flavor art not relevant
+或者它是不是只是无关的文字或图片
+but newer players are not able to make that distinction uh especially in video games 
+但新玩家是无法做出区分的，特别是在电子游戏中 
+because video games have conventions that change so much from genre to genre
+因为不同类型的电子游戏之间的惯例差别变化很大
+that it's it's very hard to play for players to know what they know 
+所以玩家很难知道自己知道什么
+or know what they're expected to know 
+或者很难知道他们应该知道什么
+or know what the game designer is expecting them to interpret 
+或者很难知道游戏设计者希望他们解释什么
+so always try to match pertinence with salience as much as you can
+所以要尽可能地使相关性和显著性相匹配
 
-uh let's see um puzzle hunts often also
 
-have confirmers where sometimes
 
-you know you're halfway through a puzzle
-
-and you got somewhere and you you know
-
-you think
-
-maybe is this the answer and then you
-
-type it into the answer box and instead
-
-of saying good job you solve the puzzle
-
-it says keep going and what keep going
-
-means in that context is that that's not
-
-the answer it's another clue
-
-it's something that you can move forward
-
-on in a different direction something
-
-new you have to try
-
-uh but that can also be very motivating
-
-because it means everything you've done
-
-up until now was something that was
-
-intended for you to do
-
-a related question that i often get is
-
-are red herrings bad should you avoid
-
-them
-
-and i mean this is a very complicated
-
-subject there are a lot of different
-
-types of red herrings and whether or not
-
-they're bad is very situational
-
-a dressing is the name for sort of a
-
-needless non-pertinent decoration that's
-
-salient enough that the solver might
-
-accidentally interpret it as pertinent
-
-in chest puzzles for example if you just
-
-add extra pieces that are not relevant
-
-to the solution and don't prevent
-
-any wrong solutions from being relevant
-
-then
-
-those are considered dressings and
-
-they're often frowned upon because they
-
-may distract the solver from what they
-
-actually need to do
-
-same thing in escape rooms like people
-
-often want to decorate the escape room
-
-and make it look nice
-
-but uh you know players may see bars in
-
-a jail and try and you know count them
-
-and put that as a number in some
-
-combination lock right like you gotta
-
-really make sure
-
-that uh your dressings are not
-
-interpreted as
-
-pertinent distractors are affordances
-
-that you never need
-
-um you know there's there's an example
-
-like make 35 cents with 10 coins
-
-and the quarter is not needed therefore
-
-it is a distractor it's an affordance
-
-that you didn't need but it sort of
-
-feels like it should be there right it's
-
-not
-
-it's not a red herring that's going to
-
-confuse you um
-
-you know fake puzzles and ghost puzzles
-
-are things that come up in
-
-escape rooms where you see something
-
-that looks like a puzzle but it turns
-
-out not to be
-
-a ghost puzzle is a puzzle that used to
-
-be in the room and then was removed but
-
-somehow there's some little bit of it
-
-that's left that wasn't cleaned up
-
-you might just see a shadow on the wall
-
-of where something was or you might see
-
-some parts of what used to be a puzzle
-
-but they've been disconnected and are no
-
-longer part of the solution
-
-every escape room fan will tell you that
-
-they've seen these
-
-and they get so mad when that wasn't
-
-taken out of the room because they'll
-
-spend their time which in escape room is
-
-precious you only have an hour to get
-
-out
-
-they'll spend their time trying to
-
-figure out what to do with that thing
-
-and if it turns out oh you didn't have
-
-to do anything it wasn't part of the
-
-puzzle
-
-then that really irritates people it
-
-feels like they've been robbed of their
-
-time
-
-obfuscation and misdirection come in
-
-many forms and can be sometimes
-
-interpreted as red herrings but
-
-sometimes it's more like
-
-uh showing the solver what is a
-
-non-solution so that they can appreciate
-
-the solution more
-
-right there's various ways that
-
-misdirection can actually be good
-
-so you don't want to rule that out as
-
-bad dead end approaches
-
-are any approach that you might try to
-
-solve a puzzle that immediately leads to
-
-a negative confirmer meaning
-
-meaning you try something and then you
-
-learn oh this cannot be the approach
-
-this cannot possibly work
-
-there is a clear dead end to here the
-
-opposite is a rabbit trail
-
-which is an incorrect approach to
-
-solving a puzzle that cannot be proven
-
-not to work
-
-um you know you might be in some block
-
-pushing game and it turns out you have
-
-to do this one thing but you're trying
-
-this other thing
-
-and it seems like you're maybe making
-
-progress and you're trying a few more
-
-things and you know it's just branching
-
-and getting deeper and maybe you're
-
-making progress maybe you're not
-
-but an hour later you're still trying
-
-that one thing and you haven't quite got
-
-to the exit and maybe it's impossible
-
-right but but you don't know you don't
-
-have an obvious proof that's impossible
-
-so you waste an hour trying something
-
-that isn't the intended or correct
-
-solution
-
-rabbit trails are the most demotivating
-
-especially for novices because novices
-
-are not particularly good at guessing
-
-what will work or guessing what the
-
-intended solution method to a puzzle
-
-will be
-
-they may spend a long time and only
-
-change their approach when they've
-
-really just given up and been beaten
-
-down into
-
-thinking well you know i don't want to
-
-try this anymore
-
-to address this like really sealing off
-
-rabbit trails is a good idea if you're
-
-playtesting something and you notice
-
-that players are spending a long time
-
-trying an approach that doesn't work
-
-you should probably either prevent them
-
-from trying it or add a negative
-
-confirmer of some kind you know
-
-go back this isn't the solution not like
-
-this
-
-try something else and to discover those
-
-you
-
-really need to playtest it the the sort
-
-of lesson
-
-expressed in four words is match
-
-pertinence with
-
-salience pertinence meaning things that
-
-are relative to the actual solution of
-
-the puzzle things that are either
-
-clueful
-
-or are affordances that you need or are
-
-interactions that you need to do
-
-and salience meaning how much something
-
-sticks out how
-
-clear is it to the player that this is
-
-important how important looking is
-
-something
-
-things that are important should stick
-
-out things that
-
-stick out should be important you do not
-
-want to have negatives in either
-
-direction you don't necessarily
-
-well you don't want to have important
-
-things that are subtle or at least are
-
-more subtle than everything else in the
-
-environment
-
-and you don't want to have things that
-
-stick out and look like they might be
-
-clueful or might be puzzly that turn out
-
-not to be
-
-and keep in mind that video game players
-
-especially
-
-who are not necessarily experts at
-
-puzzles they may not have the
-
-conventions in
-
-place that allow them to determine what
-
-is clueful
-
-like when you're solving an escape room
-
-and you've done 50 of them
-
-you probably can guess whether or not
-
-something is clueful
-
-if you're doing a mystery hunt puzzle
-
-and you've done hundreds of them and you
-
-see something you can probably guess
-
-whether or not that's supposed to be a
-
-clue or whether it's supposed to be just
-
-you know flavor text flavor art not
-
-relevant
-
-but newer players are not able to make
-
-that distinction
-
-uh especially in video games because
-
-video games have
-
-conventions that change so much from
-
-genre to genre
-
-that it's it's very hard to play for
-
-players to know what they know or know
-
-what they're expected to know or know
-
-what the game designer is expecting them
-
-to
-
-interpret so always try to match
-
-pertinence with salience as much as you
-
-can
 
 next lesson is to seek depth in systems
 
