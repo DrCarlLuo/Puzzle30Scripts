@@ -1293,1343 +1293,533 @@ so always try to match pertinence with salience as much as you can
 所以要尽可能地使相关性和显著性相匹配
 
 
-
-
-next lesson is to seek depth in systems
-
-and rule sets
-
-this is a lesson that comes from
-
-physical puzzle games
-
-uh particularly those published by um
-
-publishers like think fun and smart
-
-games they have this interesting method
-
-of putting together
-
-physical puzzles rather than getting
-
-just you know one puzzle like one of
-
-these that you buy
-
-they have a kit that comes with
-
-different items that you can put
-
-together
-
-and then they'll have a booklet or a set
-
-of cards that contain challenges and
-
-each puzzle will come with say 50 to 100
-
-different challenges of increasing
-
-difficulty
-
-almost in the same kind of progression
-
-that you would see in a traditional
-
-video
-
-game um and so rush hour you're sort of
-
-moving these cars around you have to get
-
-the red car
-
-out of the grid and there's just 50
-
-different configurations of obstacles
-
-for it
-
-um each of which you have to solve and
-
-so
-
-it's a nice experience for somebody
-
-buying these because they're sort of
-
-more content it's not just one puzzle
-
-it also can make manufacturing much
-
-cheaper because you sort of have to
-
-just make the set of parts once and then
-
-make the 50 puzzles
-
-uh the cards are really cheap to make 50
-
-of and you don't have to make 50 copies
-
-of the game board
-
-it also allows the player to have a
-
-conceptual model meaning develop a
-
-sophisticated understanding
-
-of what the pieces are how the work how
-
-they move how they work how they move
-
-around
-
-once you have a eureka moment or a
-
-discovery of an emergent consequence of
-
-that system
-
-you can reuse that knowledge in future
-
-puzzles and puzzles can therefore
-
-build upon one another with increasingly
-
-complicated
-
-sort of lemmas and templates and
-
-theorems that the player can learn as
-
-they're solving this puzzle
-
-and as they develop a more and more
-
-detailed model of what are the
-
-consequences of this system so you get
-
-depth and you also get consistency in
-
-the design
-
-and the emergent surprises can be much
-
-much deeper than just some sort of
-
-one-off on the surface trick
-
-you know something something like the
-
-remove octahedra and that's sort of one
-
-trick that you can use one time
-
-but in systems-based puzzles you can
-
-have many different tricks that arise
-
-from the same situation
-
-this can make the eureka moment sort of
-
-more exciting because they're more
-
-surprising
-
+next lesson is to “seek depth in systems and rule sets”
+下一课是「追求系统与规则的深度」
+this is a lesson that comes from physical puzzle games
+这是一个来自实体解谜游戏的经验
+uh particularly those published by um publishers like think fun and smart games 
+特别是那些由像Think Fun和Smart Games这样的发行商发行的游戏
+they have this interesting method of putting together physical puzzles rather than getting just you know one puzzle like one of these that you buy
+他们有一种有趣的方法来构建实物解谜游戏，而是像你买的那种只有一个谜题的游戏
+they have a kit that comes with different items that you can put together
+他们有一套工具包，里面有不同的物品，你可以把它们组合起来
+and then they'll have a booklet or a set of cards that contain challenges 
+然后他们会有一本小册子或一套包含挑战的卡片
+and each puzzle will come with say 50 to 100 different challenges of increasing difficulty
+每套谜题都会有50到100个不同的挑战，难度不断增加
+almost in the same kind of progression that you would see in a traditional video game um 
+几乎就与你在电子游戏中看到的那种难度逐渐增加相同
+and so, rush hour you're sort of moving these cars around you have to get the red car out of the grid 
+所以比如《Rush Hour》里面，你要移动这些红车，来让它们从格子中走出来
+and there's just 50 different configurations of obstacles for it um each of which you have to solve 
+有50种不同的障碍物的布局配置可供你来解决
+and so, it's a nice experience for somebody buying these
+所以对于购买这些游戏的人来说，这是一种很好的体验
+because they're sort of more content it's not just one puzzle 
+因为他们有更多的内容，不仅仅是一个谜题 
+it also can make manufacturing much cheaper because you sort of have to just make the set of parts once and then make the 50 puzzles
+这也可以使生产成本大大降低，因为你只需要制作一次部件，然后设计50个谜题
+uh the cards are really cheap to make 50 of and you don't have to make 50 copies of the game board
+制作50张卡片是很便宜的，不需要把游戏的实物制作50份
+it also allows the player to have a conceptual model 
+它还让玩家有一个概念模型
+meaning develop a sophisticated understanding of what the pieces are how the work how they move how they work how they move around
+意味着玩家对各个组件如何工作、如何移动构建起一套复杂巧妙的理解
+once you have a eureka moment or a discovery of an emergent consequence of that system
+一旦你有了一个尤里卡时刻，或者发现了这个系统的一个涌现结果
+you can reuse that knowledge in future puzzles 
+你就可以在未来的谜题中复用这些知识
+and puzzles can therefore build upon one another with increasingly complicated sort of lemmas and templates and theorems 
+因此谜题可以在先前谜题的基础上，使用越来越复杂的理论和模型来建立
+that the player can learn as they're solving this puzzle 
+玩家可以在解决这些谜题的过程中学到这些知识
+and as they develop a more and more detailed model of what are the consequences of this system 
+并对这个系统的结果形成越来越详细的模型
+so, you get depth and you also get consistency in the design 
+所以，你会得到深度，也会得到设计的一致性
+and the emergent surprises can be much much deeper than just some sort of one-off on the surface trick
+并且涌现的惊喜也比那种一次性的、比较浅薄的谜题深得多
+you know something something like the Ramube Octahedron and that's sort of one trick that you can use one time
+比如说像《Ramube八面体》这样的东西就是一次性的技巧
+but in systems-based puzzles you can have many different tricks that arise from the same situation
+但在基于系统的谜题中，你可以在同一情景下由许多不同的技巧
+this can make the eureka moment sort of more exciting because they're more surprising
+这可以让尤里卡时刻更加激动人心，因为它们更加令人惊喜
 because there's more depth behind them
-
-they can also reduce the cost of content
-
-creation
-
-because you know you only have to make
-
-one of these cards and designing a new
-
-instance of a puzzle is
-
-often a lot less difficult than
-
-designing a new rule set or a new
-
-gimmick for a new puzzle completely
-
-i'll give you another example which is
-
-from thomas snyder he's a three-time
-
-world sudoku champion world puzzle
-
-champion
-
-he's the founder of grand master puzzles
-
-which is a company that publishes a
-
-puzzle blog as well as many puzzle
-
-books and puzzle magazines he's also a
-
-mentor to many people on topics relating
-
-to puzzle design he's an advisor on my
-
-latest
-
-project uh he has this idea
-
-which he's described to me as sort of
-
-the capacity of a puzzle or the the
-
-um the sort of space available to
-
-in within a certain puzzle type to
-
-express ideas of that puzzle
-
-and the way he describes it is in two
-
-different ways which are equivalent
-
-how many can you create of this puzzle
-
-type before you start repeating the same
-
-tricks over and over again like say
-
-you're doing sudoku
-
-how many sudoku's can you make before
-
-the solution to the
-
-sudoku's is just going to have no new
-
-ideas and the answer is it's probably
-
-somewhere between 50 and 100 it might be
-
-like 80 sudokus
-
-he also describes it as how many of this
-
-puzzle type he would actually want to do
-
-in his life like say somebody made the
-
-perfect puzzle book
-
-of sudoku puzzles let's say and you know
-
-tried to include
-
-all of the interesting sudoku tricks in
-
-there but not really repeat them much
-
-you know how many puzzles would that
-
-book have in it it's not a thousand
-
-sudoku puzzles it's much less
-
-and different puzzle types have
-
-different capacities
-
-you know a simple two-dimensional maze
-
-you know you can do one of them and then
-
-you sort of learn well okay follow the
-
-right-hand side or whatever
-
-there's not that much to do something
-
-like a portal gun may only really
-
-support
-
-10 different unique eureka moments
-
-sudoku might be more like a hundred
-
-and a game like the witness could be 10
-
-times that just because it has so many
-
-different
-
-uh components that can go into those
-
-puzzle systems different rules different
-
-uh
-
-symbols and constraints within each
-
-puzzle
-
+因为它们背后有更多的深度
+they can also reduce the cost of content creation
+它们还可以降低内容创作的成本
+because you know you only have to make one of these cards 
+因为你知道你只需要做一张这样的卡片
+and designing a new instance of a puzzle is often a lot less difficult than designing a new rule set or a new gimmick for a new puzzle completely
+设计一个谜题的新实例往往比为一个全新的谜题设计一套规则集容易得多
+I’ll give you another example which is from Thomas Snyder 
+我再给你举个例子，这来自Thomas Snyder
+he's a three-time world sudoku champion world puzzle champion
+他是三届世界数独冠军、世界谜题锦标赛冠军
+he's the founder of grand master puzzles 
+他是Grand Master Puzzle的创始人
+which is a company that publishes a puzzle blog as well as many puzzle books and puzzle magazines
+这是一个出版谜题博客、谜题书籍和谜题杂志的公司
+he's also a mentor to many people on topics relating to puzzle design
+他也是许多人在谜题设计方面的导师
+he's an advisor on my latest project uh 
+他是我最新项目的顾问
+he has this idea which he's described to me as sort of the capacity of a puzzle 
+它有这样一个观点，他向我描述了一个类似谜题的“容量”之类的东西
+or the the um the sort of space available to in within a certain puzzle type to express ideas of that puzzle
+或者说是在特定谜题类型下，可用来表达该谜题想法的空间
+and the way he describes it is in two different ways which are equivalent
+它用了两种等价的方式来描述的：
+how many can you create of this puzzle type before you start repeating the same tricks over and over again 
+“在你开始重复同样的技巧之前，你能创造出多少个这种类型的谜题？”
+like say you're doing sudoku, how many sudoku's can you make before the solution to the sudoku's is just going to have no new ideas 
+假设说你在创作数独，在数独的解法没有了新的概念之前，你能设计出多少个数独
+and the answer is it's probably somewhere between 50 and 100 it might be like 80 sudokus
+答案是可能在50到100之间，可能是80个左右
+he also describes it as how many of this puzzle type he would actually want to do in his life 
+他的另一种描述是，他这一生中对这种谜题类型他真正想做多少个？
+like say somebody made the perfect puzzle book of sudoku puzzles 
+假设说有人创作了一本完美的数独谜题书 
+let's say and you know tried to include all of the interesting sudoku tricks in there but not really repeat them much
+假设他试图把所有有趣的数独技巧都包含在里面，但又不重复它们
+you know how many puzzles would that book have in it 
+你知道那本书里会有多少道谜题吗
+it's not a thousand sudoku puzzles it's much less 
+肯定是没有一千道的，会少很多
+and different puzzle types have different capacities
+而且不同的谜题类型有不同的容量
+you know a simple two-dimensional maze you know you can do one of them and then you sort of learn well okay follow the right-hand side or whatever
+一个简单的二维迷宫，你可能做一次就知道要按照右手原则之类的
+there's not that much to do 
+没有那么多事情可做
+something like a portal gun may only really support 10 different unique eureka moments
+像传送门枪这样的东西可能只支持10个不同的尤里卡时刻
+sudoku might be more like a hundred 
+数独可能更像有100个
+and a game like the witness could be 10 times that 
+而像《见证者》这样的游戏可以是这个数字的10倍
+just because it has so many different uh components that can go into those puzzle systems 
+只是因为它里面能够加入到谜题系统的组件有非常多
+different rules different uh symbols and constraints within each puzzle
+每个谜题里面还有不同的规则、不同的符号、不同的约束
 go problems might be the deepest of them
-
-all i i think there are people who've
-
-solved ten thousand go puzzles or more
-
-and are still finding unique and
-
-interesting ideas
-
-in new puzzles that they haven't seen
-
-before and that's something
-
-a bit unique and remarkable about the
-
-game of go whose rules are very simple
-
-but
-
-somehow there's this unexpected depth
-
-there where you can express
-
-tens of thousands of different ideas
-
-using the sort of basic
-
-uh go rules um
-
-you know you might think are there
-
-really only 10 portal gun puzzles like
-
-portal had more levels than that right
-
-like aren't there more ideas than that
-
-well
-
-i mean i'm talking about just the basic
-
-sort of portal gun and walls there's not
-
-that many things you can do with it like
-
-there's traversal there's some line of
-
-sight shooting tricks you can put a
-
-portal on the ceiling there's the
-
-momentum conservation trick
-
-there's a lot of tricks where you sort
-
-of move one portal but leave another in
-
-order to be able to get back to a place
-
-where you were before
-
-but very quickly you start running out
-
-of ideas to make truly unique
-
-puzzles and then you start to add you
-
-know you need to add new components the
-
+围棋谜题可能是这些里面最深的
+all I think there are people who've solved ten thousand go puzzles or more 
+我认为有些已经做了一万多个围棋谜题
+and are still finding unique and interesting ideas in new puzzles that they haven't seen before 
+但仍然能在新的谜题中发现他们以前没有见过的独特而有趣的想法
+and that's something a bit unique and remarkable about the game of go 
+这就是围棋的独特之处，也是围棋的非凡之处 
+whose rules are very simple but somehow there's this unexpected depth there 
+围棋的规则非常简单，但却有意想不到的深度
+where you can express tens of thousands of different ideas using the sort of basic uh go rules um
+你可以用基本的围棋规则表达数以万计的不同想法
+you know you might think are there really only 10 portal gun puzzles 
+你可能会想，传送门枪真的只能对应10个不同的谜题吗？
+like portal had more levels than that right? like aren't there more ideas than that 
+《传送门》里的关卡可比这多得多，是吧？不是应该会有更多的想法吗？
+well I mean I’m talking about just the basic sort of portal gun and walls 
+其实我的意思是，我说的只是类似于传送门枪与墙之间的基本（的技巧）
+there's not that many things you can do with it 
+你能做的其实并没有那么多
+like there's traversal there's some line of sight shooting tricks 
+比如说直接传送、沿直线打出传送门
+you can put a portal on the ceiling 
+比如往天花板上打传送门
+there's the momentum conservation trick
+还有（进出传送门）动量守恒的技巧
+there's a lot of tricks where you sort of move one portal but leave another 
+还有些技巧比如说你固定一个传送门，但改变另一个传送门
+in order to be able to get back to a place where you were before
+以便你就能回到之前的地方
+but very quickly you start running out of ideas to make truly unique puzzles
+但是很快你就开始耗尽能制作独特谜题的想法了
+and then you start to add you know you need to add new components 
+然后你就会开始添加新的组件
 the death pits and the missile turrets
-
-and the companion cubes and the buttons
-
-you can push them on
-
-and then in portal 2 they add the light
-
-bridges and the anti-gravity spirals and
-
-the
-
-the the paint that you can paint on the
-
-walls to make them portable and the
-
-bouncy colored goop that you can speed
-
-off of and bounce on
-
-you know these new components are what's
-
-adding additional capacity to the
-
-puzzles to be able to express
-
-more unique eureka moments but just the
-
-raw ingredients
-
-uh are not really that uh
-
-they can't speak to that many eureka
-
-moments there's just not that much there
-
-and what logic puzzle folks do is they
-
-often create hybrids and variants
-
-these are all sort of variations on
-
-sudoku you can see here there's one
-
-where the regions are not square there's
-
-a hex grid
-
-there's a ish grid or sort of on the
-
-surface of this isometric cube
-
-um and then increasingly complex
-
-variations uh or hybrids as they are
-
-often called where you're blending one
-
-type of puzzle like sudoku with another
-
-type like a domino puzzle
-
-and through hybrids and variations you
-
-can sort of have limitless variety and
-
-endless eureka moments
-
-uh because each of these puzzles sort of
-
-has has its own rules and its own
-
-consequences
-
-and its own emergent complexity or
-
-lemmas that arise from that set of rules
-
-there are some sort of common tropes in
-
-these changing geometry or topology
-
-moving from
-
-you know flat geometry to a cylinder or
-
-a torus moving from a square grid to
-
-triangle or hex or
-
-whatever other grid type you want adding
-
-new constraints and clue types
-
-combining two puzzle types together liar
-
-clues you know exactly one of these
-
-clues is wrong there's a wolf in sheep's
-
-clothing somewhere
-
-cipher clues where you replace numbers
-
-in a grid with a set of letters and each
-
-letter
-
-corresponds to a unique number off by
-
-one or or cannot deny bin as it's often
-
-called
-
-uh where every number in the grid is off
-
-by one you know a three could be either
-
-a two or a four you know these are
-
-common ideas you'll see over and over
-
-again in logic puzzles
-
-and they add a lot of depth and
-
-complexity
-
-sort of new eureka moments um
-
-there's this question like where does
-
-depth come from
-
-in certain types of puzzle systems
-
-somehow go is inherently deep
-
-and it's very difficult to understand
-
-why it is so
-
-deep there is this computational
-
-complexity answer which is like oh you
-
-know a go
-
-go is np-complete or piece-based
-
-complete if you're familiar with
-
-complexity theory
-
-and that sort of represents that go can
-
-sort of encode
-
-other types of puzzles which are
-
-increasingly complex and that may be
-
-true but often
-
-uh the way you represent something very
-
-complex is like
-
-you know building a circuit out of ghost
-
-stones and then like this circuit is
-
-only satisfiable if
-
-you know player white wins in this go
-
-situation
-
-and those can be very contrived what's
-
-unique about go
-
-is that it's complex even with
-
-relatively simple constructions of you
-
-know a little puzzle that takes up one
-
-quarter of a go board or less
-
-um without necessarily a lot of
-
-contrivance right
-
-games like hearthstone have huge amount
-
-of contrivance to their puzzles because
-
-there's thousands of cards in the game
-
-you'll never run out of puzzles to
-
-create because there's just so many
-
-cards there
-
-and some games like the witness or baba
-
-is you they get away with the
-
-interaction between the different rules
-
-and constraints
-
-giving you this emergent complexity you
-
-know you may have uh
-
-n different rules but there are sort of
-
-two to the n different ways that those
-
-can be combined together and so you sort
-
-of
-
-you know there are n squared ways for
-
-example that you can take a pair of
-
-rules and combine them but sometimes
-
-even three or more
-
-will give you unique emergent eurekas
-
-that don't exist with two or less
-
-of the rules combined especially in a
-
-game like baba is you
-
-where sometimes you need five rules put
-
-together and then something magical can
-
-happen
-
-level geometry is another thing that can
-
-give you
-
-really interesting deep emergent
-
-interactions a few examples of this
-
-one is steven's sausage roll which is a
-
-game where you're running around
-
-as this little character with a fork
-
-skewering sausages pushing them around
-
-picking them up and later you know
-
-dragging them up ladders and doing
-
-interesting contortions with with your
-
-body and various other things
-
-which uh um you know i almost don't want
-
-to spoil them because they're magical i
-
-know i've been spoiling a lot of stuff
-
-in this talk
-
-when you're talking about puzzle design
-
-you invariably have to spoil things
-
-um but this is a game that is worth
-
-playing
-
-uh to the end or you know at least
-
-learning all of the things that it does
-
-uh because it's so remarkable like like
-
-there's no
-
-new items you pick up when you're
-
-playing steven saucer
-
-you don't open a chest and get the hook
-
-shot or the power glove you know it's
-
-all
-
-just the base movement of the game two
-
-other games that are similar are pipe
-
-push paradise and a monsters expedition
-
-where you really just have
-
-a sort of a simple move and push type of
-
-mechanic
-
-but a lot of emergent complexity via the
-
-interactions that happen with the
-
-objects you know in pipe push paradise
-
-you can sort of push
-
-pipes down into holes and roll them over
-
-while a piece of them
-
-goes into a hole and then comes back out
-
-uh in a monster's exposition you're
-
-rolling a log
-
-over another log and then pushing them
-
-into the water and then
-
-while in the water there's different
-
-things you can do with them it's uh
-
-quite an interesting experience and both
-
-of these games are massive rabbit holes
-
-to go down a monster's expedition has
-
-i like 500 600 i don't know how many
-
-levels it has a lot of levels
-
-hundreds of them um containing dozens
-
-and dozens of unique ideas
-
-that are all consequences of basically
-
-just moving cylinders around
-
-and if you have a sufficiently complex
-
-system
-
-then just through changing the shape of
-
-levels you can allow the player to
-
-experience
-
-all of these different things you can do
-
-without adding too much in the way
-
-of new mechanics or new things i mean
-
-all of these games do have new mechanics
-
-and new things right steven's sausage
-
-roll at some point adds in ladders
-
-pipe push paradise at some point adds in
-
-the ability to rotate a pipe
-
-monster's expedition at some point adds
-
-in uh rocks of different heights
-
-uh but it doesn't add too much of them
-
-there's a very low amount of new things
-
-whereas some puzzle games every five
-
-puzzles they give you you know a new toy
-
-to play with or a new
-
-uh ability to use these games are very
-
-minimal on that and instead try to
-
-explore the space of available ideas or
-
-or consequences of those ideas
-
-as much as possible most of the sort of
-
-common puzzle tropes that you see
-
-over and over again in puzzle games are
-
-there because they combine two things
-
-one is they're actually hard they
-
-they're sort of np-hard or p-space hard
-
-or have some kind of actual complexity
-
-theoretic
-
-hardness to them meaning they can encode
-
-many hard problems
-
-but they also they aren't too chaotic
-
-and random they're things that
-
-humans can reason about and facilitate
-
-uh deeper understanding of you know
-
-connectivity and paths human brains are
-
-just great at seeing when things are
-
-touching when they're adjacent
-
-you know when this blob is one thing
-
-instead of two things
-
-packing or covering like shapes mental
-
-rotation to fit things together
-
-perspective or line of sight sort of 3d
-
-geometry of when something can be seen
-
-from something else
-
-these are all things that human brains
-
-are just naturally good at reasoning
-
-about
-
-logic gates and state manipulation these
-
-are just you know
-
-good examples of ways to get complexity
-
-in puzzle games but also allow the
-
-puzzles to be things that have exciting
-
-eureka moments that humans can discover
-
-um next lesson is to understand your
-
-puzzles
-
-state space and this lesson comes to us
-
-via a puzzle designer this is um his
-
-name is oscar von devunter
-
-and uh he makes a lot of different types
-
-of physical puzzles
-
-twisty puzzles uh he prototypes
-
-themselves with a 3d printer he's got a
-
-youtube channel which is
-
-quite interesting to check out he's very
-
-prolific
-
-this is a puzzle that he worked on which
-
-is published by a company called
-
-hanayama puzzles
-
-it's the cast h and they're these two
-
-h-shaped pieces which can kind of
-
-be stuck together and roll around one
-
-another in these interesting 3d way
-
-ways the goal is to separate the two
-
-pieces but to do this requires a huge
-
-number of moves
-
-and oscar actually published the state
-
-diagram of this puzzle these are sort of
-
-all the different configurations that
-
-these two pieces can be
-
-in and the lines represent possible
-
-transitions from those states
-
-so wherever there is a line it means you
-
-can get the two puzzle
-
-pieces from that one state to the other
-
-one and when there isn't a line it means
-
-that somehow that transition has been
-
-blocked either by a little nubby of the
-
-puzzle a little piece of metal that kind
-
-of just prevents you
-
-from uh making that transition and
-
-therefore
-
-finding a solution to this puzzle is
-
-equivalent to finding a path
-
-through this graph from in to out along
-
-these edges and creating this puzzle was
-
-basically
-
-a task of like snipping certain edges
-
-until
-
-the graph that remained was an
-
-interesting maze to navigate that
-
-didn't have too many dead ends but also
-
-had some trails for you to wander down
-
-which may or may not
-
-lead you to the correct thing uh
-
-i'll show you another example from
-
-sokoban this is a paper by peter
-
-yaroshek and
-
-radek pelanek and in this puzzle they
-
-take a bunch of instances of sokoban
-
-and they diagram their state space using
-
-a sort of node and edge graph
-
-representation where each node
-
-is an individual state of the puzzle and
-
-each edge is sort of a connection
-
-between those two states
-
-and a state in this case con consists of
-
-a location of where the boxes are
-
-and a connected region where the player
-
-is so individual moves are not
-
-considered state changes unless they
-
-push a box
-
-um but as you can see with this puzzle
-
-there's this really tight bottleneck
-
-around down here and that's sort of
-
-is what makes this puzzle difficult
-
-there is one unique
-
-sort of key move or trick that you have
-
-to do in order to get to the goal
-
-and the coloring here is based on
-
-players trying to attempt to solve this
-
-puzzle and how much time they spent in
-
-each state of the puzzle
-
-the size of the dot corresponds to how
-
-long players spent and you could see
-
-that they spend a lot of time
-
-not getting through the bottleneck and
-
-once they get through there's hardly any
-
-time spent at all because they're
-
-immediately able to get to the goal and
-
-so understanding that state diagram
-
-allows you to sort of control
-
-aspects of your puzzle by manipulating
-
-it the larger the state space is
-
-obviously the more difficult the more
-
-possible states but the bottlenecks are
-
-what create difficulty and if you have
-
-multiple bottlenecks
-
-that can make things even more difficult
-
-this
-
-in particular this sokoban puzzle is one
-
-that takes an average of 30 to 40
-
-minutes for players to solve this is a
-
-really nasty one uh and that bottleneck
-
-is the reason could you imagine if this
-
-puzzle had a second one
-
-afterwards uh players could be here for
-
-a long time um so a related idea
-
-is to understand your puzzle's solution
-
-path and when i say solution path i
-
-don't necessarily mean
-
-just the path through that state diagram
-
-but also the sort of
-
-the state of the player as they're
-
-solving the puzzle and
-
-what are all of the understandings or
-
-eureka moments that the player will go
-
-through how are they going to make
-
-progress through your puzzle noah
-
-falstein gave a talk
-
-in 2013 at gdc where he talked about
-
-these dependency diagrams that they used
-
-uh for adventure games of the puzzles
-
-and this is sort of like the
-
-pre-requisite chain of all the different
-
-things you had to do in order to get
-
-through this
-
-this isn't even a whole game this is
-
-like the intro sequence to this game
-
-and one of the the pieces of advice sort
-
-of the main piece of advice
-
-he gave was to make these diagrams bushy
-
-meaning not a long linear prerequisite
-
-chain
-
-but sort of a lot of different things
-
-that you could make process
-
-on concurrently without them sort of
-
-blocking each other as prerequisites
-
-and the reason to do this was to allow
-
-the player to sort of explore and be
-
-able to make progress in multiple areas
-
-of the game without restricting them too
-
-much without having that one single
-
-bottleneck which would force the player
-
-to do this one thing and everywhere else
-
-in the game is just kind of useless to
-
-them
-
-um cameron brown has this interesting
-
-illustration
-
-where he shows slitherlink puzzles and
-
-the rules of this puzzle are essentially
-
-you're given as input
-
-a grid made of dots and some numbers in
-
-there and you have to draw a single
-
-closed loop
-
-uh around this grid and the numbers
-
-indicate
-
-sort of the uh adjacency uh how many
-
-edges of that loop are adjacent to the
-
-number so for example this three right
-
-here
-
-has three walls next to it this one
-
-right here has one this this two right
-
-here has two
-
-um and slitherlink exists in some video
-
-games as well the witness has a version
-
-of slytherlink there are some other
-
-games that have
-
-similar ideas um but here on the top
-
-he's showing a computer-generated puzzle
-
-that was sort of randomly constructed
-
-and on the bottom there's a
-
-human-constructed puzzle
-
-and the way in which the solver goes
-
-from the initial puzzle to the solution
-
-is very different for these two puzzles
-
-on the bottom one there's kind of two
-
-places you can make progress and you
-
-sort of linearly do the bottom half the
-
-loop and the top half of the loop and
-
-they meet together
-
-whereas this top one you can start just
-
-about anywhere on any corner of the grid
-
-and then you kind of get about this much
-
-before you then have to
-
-uh solve some more here's a bigger
-
-example of a human-constructed
-
-slitherlink puzzle where there's sort of
-
-like three different
-
-places where you can make progress
-
-linearly and then in the middle uh they
-
-all come together and and make the final
-
-solution to the puzzle
-
-and so as a solver you can start in a
-
-couple of these different corners and
-
-make progress
-
-but when you're going along each section
-
-there's this sort of smooth
-
-flow of oh i did this oh now i get this
-
-oh now i get this oh now i get this
-
-and it feels very um exciting as a
-
-solver
-
-to feel that you're on the right track
-
-and for every bit of progress to then
-
-unlock further progress it sort of makes
-
-that progress feel even better because
-
-in addition to solving part of the grid
-
-you're also
-
-allowing yourself to solve another part
-
-of the grid
-
-so it's it's very exciting the linear
-
-solution path
-
-can be much harder especially for a
-
-large puzzle because you may not know
-
-where to start if you have a big grid
-
-and there's literally only one place
-
-where you can make progress then that
-
-can
-
-take a lot of time to find um whereas if
-
-you have a bushy solution path then the
-
-solver is less likely to be stuck
-
-and can sort of proceed from more areas
-
-and feel like they're making progress
-
-sooner
-
-but yeah the linear solution pass can
-
-lead to sort of these interesting
-
-solution flows that can be more of a
-
-work of art and can be more exciting um
-
-let's see so uh yeah this this is an
-
-idea that
-
-um we use internally working on our new
-
-game
-
-which is how big is the puzzle grid
-
-versus how difficult it is
-
-uh you know if it has few steps and it's
-
-trivially difficult then it's
-
-you know it's whatever it's boring it's
-
-a tutorial puzzle it's nothing
-
-but the two types that are interesting
-
-are if you have many steps of low
-
-difficulty we call this a flow puzzle
-
-versus you have few steps but high
-
-difficulty maybe only one difficult step
-
-and sort of the whole puzzle is about
-
-figuring out that one difficult
-
-interesting thing we call that a gem
-
-puzzle
-
-and of course if you have many steps in
-
-high difficulty then it's just a slog
-
-it's going to be
-
-you know it's going to take a long time
-
-it's something you really got to get
-
-invested into
-
-but the flowy puzzles and the gems are
-
-usually the most
-
-suitable for video games and for us
-
-they've been the most interesting
-
-um i'm going to take a break and then we
-
-will come back for the final part
-
+比如掉进去就会死的水潭、发射导弹的塔
+and the companion cubes and the buttons you can push them on
+还有同伴方块、你可以按的按钮
+and then in portal 2 they add the light bridges and the anti-gravity spirals 
+然后在传送门2中他们增加了光桥和反重力光柱 
+and the the the paint that you can paint on the walls to make them portable
+还有那种能涂到墙上的涂料，能让传送门打上去
+and the bouncy colored goop that you can speed off of and bounce on
+还有加速和增强弹跳的凝胶
+you know these new components are what's adding additional capacity to the puzzles to be able to express more unique eureka moments 
+这些新组件为谜题增加了额外的容量，能够表达更多独特的尤里卡时刻
+but just the raw ingredients uh are not really that uh
+但原始成分并没有那么（多）
+they can't speak to that many eureka moments there's just not that much there
+它们无法表达那么多的尤里卡时刻，没有那么多东西
+and what logic puzzle folks do is they often create hybrids and variants
+搞逻辑解谜的人所做的是，他们会创作一些混合体和变体
+these are all sort of variations on sudoku 
+这些都是数独的变体 
+you can see here there's one where the regions are not square there's a hex grid
+你可以看到这个网格不是正方形的，是六边形的网格
+there's a 3D-ish grid or sort of on the surface of this isometric cube
+有个看起来像3D网格的，或者说类似于正交视角下立方体表面上的网格
+um and then increasingly complex variations uh or hybrids as they are often called 
+然后就是越来越复杂的变体，或者他们把它叫做混合体
+where you're blending one type of puzzle like sudoku with another type like a domino puzzle
+就是你把一种类型的谜题比如数独和另一种类型的谜题如骨牌谜题融合在一起
+and through hybrids and variations you can sort of have limitless variety and endless eureka moments
+通过混合体和变体，你可以有无限的多样性和无尽的尤里卡时刻
+uh because each of these puzzles sort of has its own rules and its own consequences and its own emergent complexity or lemmas that arise from that set of rules
+因为这些谜题都有各自的规则、各自的结果、各自的涌现复杂性或者说从规则中产生的规律
+there are some sort of common tropes in these 
+这些（增加容量的谜题）都有些共同点
+changing geometry or topology 
+一是改变几何结构或拓扑结构
+moving from you know flat geometry to a cylinder or a torus 
+比如说从平面几何图形到圆柱体或环面
+moving from a square grid to triangle or hex or whatever other grid type you want 
+从正方形网格到三角形或六角形或其他网格类型
+adding new constraints and clue types 
+增加新的约束条件和线索类型 
+combining two puzzle types together 
+将两种类型的谜题结合在一起 
+liar clues you know exactly one of these clues is wrong, there's a wolf in sheep's clothing somewhere
+“撒谎线索”，比如那种“这些线索中恰好有一条是错的”，有个披着羊皮的狼
+cipher clues where you replace numbers in a grid with a set of letters and each letter corresponds to a unique number 
+密码线索，你用一组字母替换网格中的数字，每个字母对应一个唯一的数字 
+off-by-one or ??? as it's often called uh where every number in the grid is off by one you know a three could be either a two or a four
+“偏置1”或者更常见的名字叫（？），网格中每个数字都加减1，比如3可能就是2或4
+（译者注：这个名字没听出来，望指正）
+you know these are common ideas you'll see over and over again in logic puzzles
+这些都是你会在逻辑解谜中反复见到的常见想法
+and they add a lot of depth and complexity sort of new eureka moments um
+而它们增加了很多深度和复杂性、增加了新的尤里卡时刻
+there's this question like where does depth come from in certain types of puzzle systems
+有这样一个问题：在特定类型的谜题系统中，深度从何而来？
+somehow go is inherently deep 
+不知何故，围棋天然就有很深的深入
+and it's very difficult to understand why it is so deep 
+而且很难理解为什么它如此有深度
+there is this computational complexity answer which is like oh you know a go is np-complete or PSPACE-complete if you're familiar with complexity theory
+如果你熟悉复杂度理论的话，有这么个计算复杂度的答案，即围棋是NP完全的以及PSPACE完全的
+and that sort of represents that go can sort of encode other types of puzzles which are increasingly complex 
+这类似于说围棋可以编码其他类型的谜题，而这些谜题越来越复杂
+and that may be true but often uh the way you represent something very complex 
+这也许是对的，但通常情况下你表示非常复杂的东西的方式是
+is like you know building a circuit out of go stones and then like this circuit is only satisfiable if you know player white wins in this go situation
+可能是你构造一个谜题说用围棋棋子围个什么圈，然后在这种情况下只有白棋赢才能满足
+and those can be very contrived 
+而这些人为构造的痕迹就太强了
+what's unique about go is that it's complex even with relatively simple constructions 
+围棋的独特之处就在于，即使是相对简单的构造，也能体现它很复杂
+of you know a little puzzle that takes up one quarter of a go board or less um without necessarily a lot of contrivance right
+比如一个只占棋盘四分之一或更少的谜题也能体现，不需要太多的人为构造，对吧？
+games like hearthstone have huge amount of contrivance to their puzzles 
+像《炉石传说》这样的游戏，其中的谜题就有大量的人为构造
+because there's thousands of cards in the game you'll never run out of puzzles to create because there's just so many cards there
+因为游戏中有数千张牌，你永远不会没有谜题可做，因为里面有很多牌
+and some games like the witness or baba is you 
+还有一些游戏，比如《见证者》或《Baba Is You》 
+they get away with the interaction between the different rules and constraints giving you this emergent complexity 
+它们则是通过不同规则和约束之间的互动，来带这种涌现的复杂度
+you know you may have uh n different rules but there are sort of two to the n different ways that those can be combined together 
+比如你共有n个不同规则，但你有2的n次方种不同方式把它们结合起来
+and so you sort of you know there are n squared ways for example that you can take a pair of rules and combine them 
+又比如说即使你只取一对规则出来结合，也有n平方种方式
+but sometimes even three or more will give you unique emergent eurekas that don't exist with two or less of the rules combined 
+但有时三个或更多规则结合会来带独特的涌现的尤里卡，这在两种规则结合或更少的情况下是不存在的
+especially in a game like baba is you where sometimes you need five rules put together and then something magical can happen
+特别是像《Baba Is You》这样的游戏，有时你需要五条规则组合在一起，然后会有神奇的事情发生
+level geometry is another thing that can give you really interesting deep emergent interactions 
+关卡几何结构是另一种可以给你带来很有趣的深层涌现交互的东西
+a few examples of this one is steven's sausage roll 
+一个例子是《史蒂芬香肠卷》
+which is a game where you're running around as this little character with a fork skewering sausages pushing them around picking them up 
+游戏里面你作为一个小角色拿车叉子到处怼香肠，把它们推来推去、叉起来
+and later you know dragging them up ladders and doing interesting contortions with with your body and various other things
+带上梯子、用你的身体和其他各种东西做有趣的扭曲动作
+which uh um you know I almost don't want to spoil them because they're magical 
+我真的不太想剧透，因为它们很神奇
+I know i've been spoiling a lot of stuff in this talk
+你知道我在这个讲座中已经剧透了太多东西了
+when you're talking about puzzle design you inevitably have to spoil things
+当你在谈论谜题设计时，你不可避免地会剧透一些东西
+um but this is a game that is worth playing uh to the end 
+不过这确实是一个值得玩到最后的游戏
+or you know at least learning all of the things that it does
+或者你至少得了解它里面所做的所有事情
+uh because it's so remarkable 
+因为它真的太棒了
+like like there's no new items you pick up when you're playing steven sausage roll 
+就像说你玩《史蒂芬香肠卷》的时候，并不会去捡到新的物品
+you don't open a chest and get the hook shot or the power glove
+你不会打开个箱子，然后得到钩爪或者动力手套
+you know it's all just the base movement of the game 
+游戏里面都只是些基本的移动操作
+two other games that are similar are pipe push paradise and a monsters expedition
+另外两个类似的游戏是《推管天堂》和《怪兽远征》
+where you really just have a sort of a simple move and push type of mechanic
+在里面你真的只有类似简单移动和推动的机制
+but a lot of emergent complexity via the interactions that happen with the objects 
+但通过物体之间的互动带来了很多涌现复杂度
+you know in pipe push paradise you can sort of push pipes down into holes and roll them over while a piece of them goes into a hole and then comes back out
+比如《推管天堂》中，你可以把管子推到洞里，然后翻过来，让一部分进入洞里再弄出来
+uh in a monster's exposition you're rolling a log over another log and then pushing them into the water and then while in the water there's different things you can do with them 
+在《怪兽远征》中，你可以把一个木头滚到另一个上，然后推到水里，然后做各种各样的事
+it's uh quite an interesting experience and both of these games are massive rabbit holes to go down 
+这些都是很有趣的体验，而这两个游戏都有很深的深度
+and monster's expedition has i like 500 600 i don't know how many levels 
+《怪兽远征》大概有五六百个关卡吧，我不记得有多少了
+it has a lot of levels, hundreds of them um containing dozens and dozens of unique ideas
+上百个吧，里面含有数十种独特的想法
+that are all consequences of basically just moving cylinders around
+基本上都是移动圆柱体所带来的不同结果
+and if you have a sufficiently complex system then just through changing the shape of levels 
+如果你有一个足够复杂的系统，那么仅仅通过改变关卡的形状
+you can allow the player to experience all of these different things you can do without adding too much in the way of new mechanics or new things 
+你就可以让玩家体验到所有这些不同的事情，而不需要增加太多的新机制或新东西。
+I mean all of these games do have new mechanics and new things right 
+当然，我是说所有这些游戏都会有新的机制和东西，对吧？
+steven's sausage roll at some point adds in ladders
+《史蒂芬香肠卷》游玩到一定进度会加入梯子
+pipe push paradise at some point adds in the ability to rotate a pipe
+《推管天堂》加入了旋转管道的能力
+monster's expedition at some point adds in uh rocks of different heights
+《怪兽远征》加入了不同高度的石头
+uh but it doesn't add too much of them, there's a very low amount of new things
+但并没增加太多，新东西的数量非常少
+whereas some puzzle games every five puzzles they give you you know a new toy to play with or a new uh ability to use 
+而有些解谜游戏没过五个谜题就会给你个新玩具或新能力来使用
+these games are very minimal on that and instead try to explore the space of available ideas or or consequences of those ideas as much as possible 
+前面那些游戏在这方面做得尽量少，而是尽可能去探索可用的想法或这些想法的结果空间
+most of the sort of common puzzle tropes that you see over and over again in puzzle games are there because they combine two things
+大多数这种解谜游戏的惯用手法，它们会反复出现，是因为它们结合了两件事
+one is they're actually hard they they're sort of np-hard or pspace hard or have some kind of actual complexity theoretic hardness to them 
+一是它们实际上是很难的，它们是那种NP完全或PSPACE完全的，在复杂度理论上很难的
+meaning they can encode many hard problems
+意味着它们可以编码许多困难的问题
+but they also they aren't too chaotic and random
+但它们也不是太混乱和随机的
+they're things that humans can reason about and facilitate uh deeper understanding of 
+它们是人类可以推理的东西，并促进更深入的理解 
+you know connectivity and paths human brains are just great at seeing when things are touching when they're adjacent
+像比如说连通性和路径问题，当事物邻接或相邻的时候人类大脑是很善于看到这一点的
+you know when this blob is one thing instead of two things 
+比如当你看到这一片东西是一个东西而不是两个的时候
+packing or covering like shapes mental rotation to fit things together
+装箱问题和覆盖问题，比如说在脑海中想象形状的旋转以互相匹配
+perspective or line of sight sort of 3d geometry of when something can’t be seen from something else
+透视或视线这样的三维几何学问题，比如某些东西被其他东西挡住而看不见
+these are all things that human brains are just naturally good at reasoning about
+这些都是人类大脑天生擅长推理的东西
+logic gates and state manipulation 
+还有逻辑门和状态处理
+these are just you know good examples of ways to get complexity in puzzle games 
+这些都是在解谜游戏中获得复杂性的好例子
+but also allow the puzzles to be things that have exciting eureka moments that humans can discover
+同时也能够让谜题成为人类能够发现的激动人心的尤里卡时刻
+
+
+um next lesson is to “understand your puzzle’s state space” 
+下一课是「了解你的谜题的状态空间」
+and this lesson comes to us via a puzzle designer this is um his name is Oskar van Deventer
+而这一课是来自一位谜题设计师，他叫Oskar van Deventer
+and uh he makes a lot of different types of physical puzzles twisty puzzles uh 
+他做了很多不同类型的实体谜题，那种转动的智力玩具
+he prototypes themselves with a 3d printer 
+他用3D打印机来制作原型
+he's got a YouTube channel which is quite interesting to check out 
+他有一个YouTube频道，很有意思
+（译者注：油管频道@OskarPuzzle）
+he's very prolific
+他相当高产
+this is a puzzle that he worked on which is published by a company called Hanayama puzzles
+这是他做的一个谜题，由一家叫Hanayama Puzzles的公司出版
+it's the “cast H&H” they're these two h-shaped pieces which can kind of be stuck together and roll around one another in these interesting 3d way ways 
+这个谜题叫《Cast H&H》，这两块H型的部分可以拼在一起，绕着对方以有趣的三维方式转动
+the goal is to separate the two pieces but to do this requires a huge number of moves
+目标是把这两部分分开，但要做到这一点需要大量的操作
+and Oskar actually published the state diagram of this puzzle 
+而Oskar把这个谜题的状态图发布了出来
+these are sort of all the different configurations that these two pieces can be in 
+这些是这两部分能够出现的所有不同结构
+and the lines represent possible transitions from those states
+而连线代表状态之间可能的转移
+so, wherever there is a line it means you can get the two puzzle pieces from that one state to the other one 
+所以，只要有一条线，就意味着你可以把这两部分从一个状态移到另一个状态上 
+and when there isn't a line it means that somehow that transition has been blocked either by a little nubby of the puzzle a little piece of metal that kind of just prevents you from uh making that transition 
+而没有连线的话，就意味着这个转移被阻挡了，可能是被玩具上一个小疙瘩或一小块金属挡住了
+and therefore finding a solution to this puzzle is equivalent to finding a path through this graph from in to out along these edges 
+因此，找到这个谜题的答案就相当于找到一条在图中从IN到OUT的一条路径
+and creating this puzzle was basically a task of like snipping certain edges 
+而创作这个谜题的任务基本上就是去裁剪掉一些边
+until the graph that remained was an interesting maze to navigate 
+直到剩下的图成为一个有趣的迷宫
+that didn't have too many dead ends but also had some trails for you to wander down which may or may not lead you to the correct thing uh
+里面既没有太多死胡同，但也有些支路给你走，这些支路可能不会把你带到正确的地方
+I’ll show you another example from Sokoban 
+我再给你看个推箱子的例子
+This is a paper by Petr Jarušek and Radek Pelánek
+这是Petr Jarušek和Radek Pelánek的一篇论文
+and in this puzzle they take a bunch of instances of Sokoban and they diagram their state space using a sort of node and edge graph representation 
+在这篇论文中，他们考察了一些推箱子的实例，并用图来表示它们的状态空间
+where each node is an individual state of the puzzle and each edge is sort of a connection between those two states
+其中每个结点是谜题的一个单独的状态，每条边是这两个状态之间的转移
+and a state in this case consists of a location of where the boxes are and a connected region where the player is
+这种情况下，一个状态是由箱子的位置以及玩家能走的连通区域组成
+so individual moves are not considered state changes unless they push a box
+因此，玩家单独的移动不会被看做状态变换，触发推动了箱子
+um but as you can see with this puzzle there's this really tight bottleneck around down here 
+但正如你在图中看到的，这下面这里有个非常细的瓶颈
+and that's sort of is what makes this puzzle difficult 
+而这个瓶颈正是使得这个谜题很难的原因 
+there is one unique sort of key move or trick that you have to do in order to get to the goal
+需要有一个独特的关键操作或技巧才能达到目标
+and the coloring here is based on players trying to attempt to solve this puzzle and how much time they spent in each state of the puzzle
+这里的颜色是根据玩家尝试解决这个谜题的情况，以及他们在每个状态下花费的时间
+（译者注：翻阅原论文可知，点的颜色没有特别意义，点的大小才对应思考时间，在原论文中这个涂成绿色点的图代表人脑思考的状态图，而论文中有另一个涂成黄色点的图对应计算机随机行走下的状态图）
+the size of the dot corresponds to how long players spent 
+点的大小与玩家花费的时间相对应 
+and you could see that they spend a lot of time not getting through the bottleneck 
+你可以看到，在通过瓶颈之前他们花了很多时间
+and once they get through there's hardly any time spent at all 
+而一旦他们通过了，就几乎不怎么花时间了
+because they're immediately able to get to the goal 
+因为他们马上就能到达目标了 
+and so, understanding that state diagram allows you to sort of control aspects of your puzzle by manipulating it 
+所以，理解并操作状态图可以让你控制谜题的各个方面
+the larger the state space is obviously the more difficult the more possible states 
+显然，状态空间越大，谜题就越困难，可能的状态越多
+but the bottlenecks are what create difficulty 
+但瓶颈是造成困难的原因 
+and if you have multiple bottlenecks that can make things even more difficult
+如果你有多个瓶颈，会使之变得更加困难
+this in particular this sokoban puzzle is one that takes an average of 30 to 40 minutes for players to solve 
+在图中这个推箱子谜题中，玩家平均要花30到40分钟才能解开 
+this is a really nasty one uh and that bottleneck is the reason 
+这是个非常棘手的谜题，而瓶颈正是原因
+could you imagine if this puzzle had a second one afterwards uh players could be here for a long time um
+你能想象，如果这个谜题之后还有第二个瓶颈的话，玩家可能会在这里呆很久
+
+
+so, a related idea is to “understand your puzzle's solution path” 
+因此，一个相关的一点是「理解你的谜题的解法路径」
+and when I say solution path I don't necessarily mean just the path through that state diagram
+当我说“解法路径”的时候，我指的不一定是通过状态图的路径
+but also the sort of the state of the player as they're solving the puzzle 
+而是指玩家在解谜过程中的那种状态
+and what are all of the understandings or eureka moments that the player will go through 
+玩家将经历哪些理解或尤里卡时刻 
+how are they going to make progress through your puzzle 
+他们将如何在你的谜题中取得进展
+Noah Falstein gave a talk in 2013 at GDC 
+Noah Falstein在2013年的GDC上有一个讲座
+（译者注：该讲座的标题为《The Arcane Art of Puzzle Dependency Diagrams》）
+where he talked about these dependency diagrams that they used uh for adventure games of the puzzles
+他在讲座中谈到了这种他们在冒险解谜游戏中使用的依赖关系图， 
+and this is sort of like the pre-requisite chain of all the different things you had to do in order to get through this
+这就像你为了达到目标所必须做的各种事情的一个先决条件链
+this isn't even a whole game this is like the intro sequence to this game
+这还不是一个完整游戏的（依赖关系图），这只是一个游戏的序章
+and one of the pieces of advice sort of the main piece of advice he gave was to “make these diagrams bushy”
+他在讲座中给的主要建议是，让这些图变得“枝繁叶茂”
+meaning not a long linear prerequisite chain 
+意思是说，不用一个长长的先决条件链
+but sort of a lot of different things that you could make process on concurrently without them sort of blocking each other as prerequisites
+而是应该有很多你可以并行取得进展的不同东西，不要把它们作为先决条件来互相阻隔
+and the reason to do this was to 
+这样做的原因是
+allow the player to sort of explore and be able to make progress in multiple areas of the game without restricting them too much 
+这能使得玩家可以探索以及在多个领域取得进展，而不会对他们造成太多限制
+without having that one single bottleneck which would force the player to do this one thing and everywhere else in the game is just kind of useless to them
+不会有一个单一的瓶颈，迫使玩家去做这一件事，而游戏中的其他地方对他们来说都是毫无用处的
+um Cameron Browne has this interesting illustration where he shows slitherlink puzzles 
+Cameron Browne有张有趣的图片，他展示了这样一个《数回》（Slitherlink）谜题 
+and the rules of this puzzle are essentially you're given as input a grid made of dots and some numbers in there 
+数回的规则是这样的：给你一个由点和数字组成的网格作为输入 
+and you have to draw a single closed loop uh around this grid 
+你必须在这个网格上画一个单一的闭环 
+and the numbers indicate sort of the uh adjacency uh how many edges of that loop are adjacent to the number
+而这些数字代表了它相邻着多少条边 
+so for example this three right here has three walls next to it 
+比如，这里这个3，旁边有3条边
+this one right here has one this this two right here has two
+这个1这里有1条边，这个2在这里有两条边
+um and slitherlink exists in some video games as well the witness has a version of slitherlink
+数回也存在于一些电子游戏中，《见证者》中就有一个数回的版本
+there are some other games that have similar ideas 
+还有其他一些游戏也有类似的想法
+um but here on the top he's showing a computer-generated puzzle that was sort of randomly constructed
+但在这张图里，上面这个他展示的是一个电脑随机生成的谜题
+and on the bottom there's a human-constructed puzzle
+下面是一个人工构建的谜题
+and the way in which the solver goes from the initial puzzle to the solution is very different for these two puzzles
+对于这两个谜题，解谜者从最初的起点到最终解的方式是非常不同的
+on the bottom one there's kind of two places you can make progress 
+在下面这个谜题中，有两个地方你可以作为起点来取得进展 
+and you sort of linearly do the bottom half the loop and the top half of the loop and they meet together
+你可以类似线性地完成下半部分和上半部分的环，然后它们会汇合在一起
+whereas this top one you can start just about anywhere on any corner of the grid
+而上面这个你可以从网格的任何地方开始
+and then you kind of get about this much before you then have to uh solve some more 
+然后你就只能解出来一点，然后就得（从其他地方开始）进一步解决
+here's a bigger example of a human-constructed slitherlink puzzle 
+这里这个是一个更大的人工构建的数回的例子
+where there's sort of like three different places where you can make progress linearly 
+里面有三个不同的地方，你可以作为起点来线性地取得进展
+and then in the middle uh they all come together and make the final solution to the puzzle
+然后再中间它们都交汇到一起，称为谜题的最终解
+and so, as a solver you can start in a couple of these different corners and make progress
+所以作为一个解谜者，你可以从这些不同的角落开始并取得进展
+but when you're going along each section there's this sort of smooth flow of 
+而你在每个部分进行下去的时候，会有一种丝滑的思维流
+oh i did this oh now i get this oh now i get this oh now i get this
+“噢，我把这个解出来了！我又得到了这个！我又解出了这个！这个也解出来了！”
+and it feels very um exciting as a solver to feel that you're on the right track
+作为一个解谜者，你会对感觉自己在正确的轨道上感到非常兴奋
+and for every bit of progress to then unlock further progress it sort of makes that progress feel even better
+而每取得一点进展就能解锁更多进展，这让取得进展的感觉更好
+because in addition to solving part of the grid you're also allowing yourself to solve another part of the grid, so it's it's very exciting 
+因为在解决这部分网格之外，你相当于当自己解决另一部分，因此这是很令人兴奋的
+the linear solution path can be much harder especially for a large puzzle 
+线性的解谜路径可能会难得多，尤其是对于很大的谜题来说
+because you may not know where to start if you have a big grid 
+因为如果你有一个很大的网格的话，你可能不知道从哪里开始
+and there's literally only one place where you can make progress then that can take a lot of time to find um 
+而实际上你又只有一个地方可以开始取得进展，那么就需要花费大量的时间去寻找
+whereas if you have a bushy solution path then the solver is less likely to be stuck
+而对应的，如果你的解题路径很“枝繁叶茂”、很丰富，那么解谜者就不太可能被卡住
+and can sort of proceed from more areas and feel like they're making progress sooner
+而且可以从更多的地方取得进展，感觉他们更快地取得了进展
+but yeah the linear solution pass can lead to sort of these interesting solution flows 
+但是，线性的解谜路径产生这种有趣的解谜思维流
+that can be more of a work of art and can be more exciting um
+这会更有艺术性、更令人兴奋
+let's see so uh yeah this this is an idea that um we use internally working on our new game
+下面这个是我们在开发新游戏时我们团队内部的一个想法
+which is how big is the puzzle grid versus how difficult it is
+那就是 谜题规模大小 vs 谜题难度
+uh you know if it has few steps and it's trivially difficult 
+如果一个谜题只需要几个步骤，而难度又不大
+then it's you know it's whatever it's boring it's a tutorial puzzle it's nothing
+那么它就会很无聊，可能是个教程谜题，或者啥也不是
+but the two types that are interesting are 
+但有两种类型会有趣，其中一个是
+if you have many steps of low difficulty we call this a flow puzzle
+如果谜题有很多步骤，但难度不大，我们称之为“流”型谜题
+versus you have few steps but high difficulty maybe only one difficult step 
+而如果你的步骤不多，但难度很高，也许只有一个困难的步骤
+and sort of the whole puzzle is about figuring out that one difficult interesting thing 
+而整个谜题就是要找出那一个困难的有趣的东西
+we call that a gem puzzle
+我们称之为“精华”型谜题
+and of course if you have many steps in high difficulty then it's just a slog
+当然，如果步骤又多难度又大，那它就单纯是艰苦而漫长的谜题
+it's going to be you know it's going to take a long time
+这将花费很长的时间
+it's something you really got to get invested into
+需要投入很多时间进去
+but the flowy puzzles and the gems are usually the most suitable for video games 
+但“流”型谜题和“精华”型谜题通常是最适合电子游戏的
+and for us they've been the most interesting
+对我们来说它们也是最有趣的
+um i'm going to take a break and then we will come back for the final part
+我要休息一下，稍后我们回来讲最后一部分
