@@ -131,7 +131,7 @@ Dialogue: 1,0:04:29.32,0:04:35.77,Chi,,0,0,0,,{\fad(120,120)}除此之外，我�
 Dialogue: 2,0:04:35.77,0:04:39.47,Eng,,0,0,0,,{\fad(120,120)}No two adjacent pentominoes can be the same shape.
 Dialogue: 1,0:04:35.77,0:04:39.47,Chi,,0,0,0,,{\fad(120,120)}并且相邻的两个五格骨牌得是不同的形状
 Dialogue: 2,0:04:39.47,0:04:43.90,Eng,,0,0,0,,{\fad(120,120)}This is a puzzle. It's just a wooden assembly puzzle that I've made.
-Dialogue: 1,0:04:39.47,0:04:43.90,Chi,,0,0,0,,{\fad(120,120)}这是一个拼图。这我做的一个木制的组装拼图
+Dialogue: 1,0:04:39.47,0:04:43.90,Chi,,0,0,0,,{\fad(120,120)}这是一个实体谜题，这我做的一个木制拼装谜题
 Dialogue: 2,0:04:43.90,0:04:51.77,Eng,,0,0,0,,{\fad(120,120)}I've had a lot of puzzle work published in online collections of puzzles as well as on different puzzle blogs and sites over the internet
 Dialogue: 1,0:04:43.90,0:04:51.77,Chi,,0,0,0,,{\fad(120,120)}我有许多谜题作品发布在网上的谜题集、解谜博客还有一些网站上
 Dialogue: 3,0:04:51.77,0:04:55.74,Annote,,0,0,0,,{\fad(120,120)}（译者注：Grandmaster Puzzles [gmpuzzles.com]，Adalogical Ænigmas [pavelspuzzles.com/aenigmas/]）
@@ -207,11 +207,11 @@ Dialogue: 2,0:07:40.80,0:07:43.80,Eng,,0,0,0,,{\fad(120,120)}or they've had stuf
 Dialogue: 1,0:07:40.80,0:07:43.80,Chi,,0,0,0,,{\fad(120,120)}或者是在《纽约时报》填字游戏上发表过的
 Dialogue: 2,0:07:43.80,0:07:46.68,Eng,,0,0,0,,{\fad(120,120)}they've done chess compositions which are like chess puzzles.
 Dialogue: 1,0:07:43.80,0:07:46.68,Chi,,0,0,0,,{\fad(120,120)}他们有的是研究国际象棋棋谜的，比如象棋谜题
-Dialogue: 3,0:07:46.68,0:07:52.57,Annote,,0,0,0,,{\fad(120,120)}（译者注：MIT Mystery Hunt是全世界最大的、历史最悠久的puzzlehunt，每年1月举行一次，官网：mit.edu/~puzzle/）
+Dialogue: 3,0:07:46.68,0:07:52.57,Annote,,0,0,0,,{\fad(120,120)}（译者注：MIT解谜寻宝比赛是全世界最大的、历史最悠久的解谜寻宝比赛，每年1月举行一次，官网：mit.edu/~puzzle/）
 Dialogue: 2,0:07:46.68,0:07:52.57,Eng,,0,0,0,,{\fad(120,120)}Some of them have designed content for escape rooms or puzzles for things like MIT Mystery Hunt.
-Dialogue: 1,0:07:46.68,0:07:52.57,Chi,,0,0,0,,{\fad(120,120)}他们中的一些人曾为密室逃脱设计过内容的，或是为MIT Mystery Hunt设计过谜题
+Dialogue: 1,0:07:46.68,0:07:52.57,Chi,,0,0,0,,{\fad(120,120)}他们中的一些人曾为密室逃脱设计过内容的，或是为MIT解谜寻宝比赛设计过谜题
 Dialogue: 2,0:07:52.57,0:07:55.07,Eng,,0,0,0,,{\fad(120,120)}Many of them have designed physical puzzles.
-Dialogue: 1,0:07:52.57,0:07:55.07,Chi,,0,0,0,,{\fad(120,120)}他们中的许多人都设计过物理谜题
+Dialogue: 1,0:07:52.57,0:07:55.07,Chi,,0,0,0,,{\fad(120,120)}他们中的许多人都设计过实体谜题
 Dialogue: 2,0:07:55.07,0:07:58.84,Eng,,0,0,0,,{\fad(120,120)}I'm also working with a number of game designers who worked on indie puzzle games
 Dialogue: 1,0:07:55.07,0:07:58.84,Chi,,0,0,0,,{\fad(120,120)}我也在和一些制作独立解谜游戏的设计师合作
 Dialogue: 2,0:07:58.84,0:08:04.28,Eng,,0,0,0,,{\fad(120,120)}sort of like their own solo indie puzzle projects or have done level design for small indie puzzle games.
@@ -252,7 +252,7 @@ Dialogue: 1,0:09:26.01,0:09:32.35,Chi,,0,0,0,,{\fad(120,120)}如九连环，就�
 Dialogue: 2,0:09:32.35,0:09:33.69,Eng,,0,0,0,,{\fad(120,120)}So do magic squares.
 Dialogue: 1,0:09:32.35,0:09:33.69,Chi,,0,0,0,,{\fad(120,120)}幻方也是如此
 Dialogue: 2,0:09:33.69,0:09:38.75,Eng,,0,0,0,,{\fad(120,120)}The problem is that puzzle design knowledge is very siloed.
-Dialogue: 1,0:09:33.69,0:09:38.75,Chi,,0,0,0,,{\fad(120,120)}问题是，谜题设计知识是非常孤立的
+Dialogue: 1,0:09:33.69,0:09:38.75,Chi,,0,0,0,,{\fad(120,120)}问题是，谜题设计知识是非常孤立的（就像装在筒仓里）
 Dialogue: 2,0:09:38.75,0:09:43.10,Eng,,0,0,0,,{\fad(120,120)}and there's sort of these different sub areas, you know the crossword people, the escape room people.
 Dialogue: 1,0:09:38.75,0:09:43.10,Chi,,0,0,0,,{\fad(120,120)}（谜题设计）有一些不同的小领域，比如做填字游戏的人和做密室逃脱的人
 Dialogue: 2,0:09:43.10,0:09:51.48,Eng,,0,0,0,,{\fad(120,120)}and they all have their own vocabulary, their own puzzle construction techniques and their own best practices and aesthetic inclinations
@@ -286,7 +286,7 @@ Dialogue: 1,0:10:50.30,0:10:58.04,Chi,,0,0,0,,{\fad(120,120)}讲座围绕30节�
 Dialogue: 2,0:10:58.04,0:11:06.04,Eng,,0,0,0,,{\fad(120,120)}as well as to expose a few of the sort of secret design techniques that puzzle designers use and show applications to video game puzzles.
 Dialogue: 1,0:10:58.04,0:11:06.04,Chi,,0,0,0,,{\fad(120,120)}以及揭露一些谜题设计师使用的秘密设计技术，并展示如何在电子游戏中来应用
 Dialogue: 2,0:11:06.04,0:11:11.48,Eng,,0,0,0,,{\fad(120,120)}So in other words we're going to bust open the silos and try to reveal a little bit of that knowledge inside there.
-Dialogue: 1,0:11:06.04,0:11:11.48,Chi,,0,0,0,,{\fad(120,120)}因此，换句话说，我们将打破领域之间的孤立，试图揭示一点里面的知识
+Dialogue: 1,0:11:06.04,0:11:11.48,Chi,,0,0,0,,{\fad(120,120)}因此，换句话说，我们将打破领域之间的孤立（打开筒仓），试图揭示一点里面的知识
 Dialogue: 2,0:11:11.48,0:11:19.04,Eng,,0,0,0,,{\fad(120,120)}Before we do that, I do want to give credit where credit is due to game and level designers and what they do really well.
 Dialogue: 1,0:11:11.48,0:11:19.04,Chi,,0,0,0,,{\fad(120,120)}在开始之前，我的确想表扬一下电子游戏设计师和关卡设计师，以及他们做得非常好的地方
 Dialogue: 3,0:11:19.04,0:11:25.95,Annote,,0,0,0,,{\fad(120,120)}（译者注：根据上下文，这一段中"traditional game designer"指的[电子游戏领域的"传统"设计师]，\N 而"Traditional puzzle designer"指的[设计"传统"非电子游戏领域谜题的设计师]，为避免歧义，下面就按照容易理解的方式来翻译）
@@ -324,7 +324,7 @@ Dialogue: 1,0:12:26.30,0:12:32.83,Chi,,0,0,0,,{\fad(120,120)}对我来说，这�
 Dialogue: 2,0:12:32.83,0:12:36.22,Eng,,0,0,0,,{\fad(120,120)}and puzzle design is also a skill that's very transferable,
 Dialogue: 1,0:12:32.83,0:12:36.22,Chi,,0,0,0,,{\fad(120,120)}而谜题设计也是一种很容易迁移发散的技能
 Dialogue: 2,0:12:36.22,0:12:45.56,Eng,,0,0,0,,{\fad(120,120)}like people who are good at designing logic puzzles are also often very good at designing crosswords and escape rooms and physical puzzles and chess puzzles and that sort of thing
-Dialogue: 1,0:12:36.22,0:12:45.56,Chi,,0,0,0,,{\fad(120,120)}比如擅长设计逻辑谜题的人往往也非常擅长设计填字游戏、密室逃脱、物理谜题和象棋谜题等
+Dialogue: 1,0:12:36.22,0:12:45.56,Chi,,0,0,0,,{\fad(120,120)}比如擅长设计逻辑谜题的人往往也非常擅长设计填字游戏、密室逃脱、实体谜题和象棋谜题等
 Dialogue: 2,0:12:45.56,0:12:50.88,Eng,,0,0,0,,{\fad(120,120)}Like this is a transferable skill and it can also be transferred to that of video game puzzles
 Dialogue: 1,0:12:45.56,0:12:50.88,Chi,,0,0,0,,{\fad(120,120)}既然这是一种可迁移的技能，那它也可以应用到电子游戏的谜题上
 Dialogue: 2,0:12:50.88,0:12:55.07,Eng,,0,0,0,,{\fad(120,120)}which is something that we learned after hiring a lot of these traditional puzzles
@@ -356,7 +356,7 @@ Dialogue: 1,0:13:53.53,0:13:58.20,Chi,,0,0,0,,{\fad(120,120)}就是那种你感�
 Dialogue: 2,0:13:58.20,0:14:02.49,Eng,,0,0,0,,{\fad(120,120)}Aka an "Aha!" moment, an insight, an epiphany.
 Dialogue: 1,0:13:58.20,0:14:02.49,Chi,,0,0,0,,{\fad(120,120)}也就是 "啊哈！"时刻，一种洞察力，一种顿悟（epiphany）
 Dialogue: 2,0:14:02.49,0:14:06.20,Eng,,0,0,0,,{\fad(120,120)}You know I prefer eureka moment. It sounds more exciting than "Aha" moment
-Dialogue: 1,0:14:02.49,0:14:06.20,Chi,,0,0,0,,{\fad(120,120)}我还是更喜欢说"尤里卡时刻”，它听起来比"啊哈"时刻更令人兴奋，
+Dialogue: 1,0:14:02.49,0:14:06.20,Chi,,0,0,0,,{\fad(120,120)}我还是更喜欢说"尤里卡时刻"，它听起来比"啊哈"时刻更令人兴奋，
 Dialogue: 2,0:14:06.20,0:14:09.66,Eng,,0,0,0,,{\fad(120,120)}and you know, the word epiphany is sometimes a little bit religious some people don't like it.
 Dialogue: 1,0:14:06.20,0:14:09.66,Chi,,0,0,0,,{\fad(120,120)}而且，epiphany（顿悟）这个词有时有点宗教色彩，有些人不喜欢它
 Dialogue: 2,0:14:09.66,0:14:12.54,Eng,,0,0,0,,{\fad(120,120)}So, eureka moment it is uh...
@@ -373,12 +373,12 @@ Dialogue: 2,0:14:28.92,0:14:30.27,Eng,,0,0,0,,{\fad(120,120)}And so, what is a p
 Dialogue: 1,0:14:28.92,0:14:30.27,Chi,,0,0,0,,{\fad(120,120)}那么什么是谜题呢？
 Dialogue: 2,0:14:30.27,0:14:33.85,Eng,,0,0,0,,{\fad(120,120)}I defined a puzzle as anything that conceals a eureka moment.
 Dialogue: 1,0:14:30.27,0:14:33.85,Chi,,0,0,0,,{\fad(120,120)}我把谜题定义为「任何隐藏着尤里卡时刻的东西」
-Dialogue: 2,0:14:33.85,0:14:39.23,Eng,,0,0,0,,{\fad(120,120)}You know，puzzles are basically mechanisms for causing amusement or pleasure via eureka moments.
-Dialogue: 1,0:14:33.85,0:14:39.23,Chi,,0,0,0,,{\fad(120,120)}你知道，谜题基本上来说是一种通过尤里卡时刻引起愉悦或快乐的机制
-Dialogue: 2,0:14:39.23,0:14:43.37,Eng,,0,0,0,,{\fad(120,120)}and they do so by taking that eureka moment, packaging it up and conceal it in
-Dialogue: 1,0:14:39.23,0:14:43.37,Chi,,0,0,0,,{\fad(120,120)}而谜题要实现这一点是这样做的：将这个尤里卡时刻包装起来，
-Dialogue: 2,0:14:43.37,0:14:52.41,Eng,,0,0,0,,{\fad(120,120)}what could ostensibly be a challenge but is really just a way to probe you in the direction of discovering that eureka moment for yourself.
-Dialogue: 1,0:14:43.37,0:14:52.41,Chi,,0,0,0,,{\fad(120,120)}并将其隐藏在表面上看起来是一种挑战 \N 但实际上只是一种指导玩家自己发现尤里卡时刻的方式之中
+Dialogue: 2,0:14:33.85,0:14:38.95,Eng,,0,0,0,,{\fad(120,120)}You know，puzzles are basically mechanisms for causing amusement or pleasure via eureka moments.
+Dialogue: 1,0:14:33.85,0:14:38.95,Chi,,0,0,0,,{\fad(120,120)}你知道，谜题基本上来说是一种通过尤里卡时刻引起愉悦或快乐的机制
+Dialogue: 2,0:14:38.95,0:14:41.20,Eng,,0,0,0,,{\fad(120,120)}and they do so by taking that eureka moment,
+Dialogue: 1,0:14:38.95,0:14:41.20,Chi,,0,0,0,,{\fad(120,120)}而谜题要实现这一点是这样做的：
+Dialogue: 2,0:14:41.20,0:14:52.41,Eng,,0,0,0,,{\fad(120,120)} packaging it up and conceal it in what could ostensibly be a challenge but is really just a way to probe you in the direction of discovering that eureka moment for yourself.
+Dialogue: 1,0:14:41.20,0:14:52.41,Chi,,0,0,0,,{\fad(120,120)}将这个尤里卡时刻包装起来，并将其隐藏在表面上看起来是一种挑战 \N 但实际上只是一种指导玩家自己发现尤里卡时刻的方式之中
 Dialogue: 2,0:14:52.41,0:14:55.16,Eng,,0,0,0,,{\fad(120,120)}And so, you know the portal example is one,
 Dialogue: 1,0:14:52.41,0:14:55.16,Chi,,0,0,0,,{\fad(120,120)}所以你知道《传送门》是一个例子
 Dialogue: 2,0:14:55.16,0:15:00.28,Eng,,0,0,0,,{\fad(120,120)}but even just like determining the weak point of a boss like how can you defeat this enemy.
@@ -617,7 +617,7 @@ Dialogue: 3,0:24:07.30,0:24:09.92,Annote,,0,0,0,,{\fad(120,120)}（译者注：�
 Dialogue: 2,0:24:09.92,0:24:13.63,Eng,,0,0,0,,{\fad(120,120)}and you just put it in, right? You don't even think about it anymore. 
 Dialogue: 1,0:24:09.92,0:24:13.63,Chi,,0,0,0,,{\fad(120,120)}你应该就直接把它填进去了，是吧？ （填完之后）你甚至都不会再去想它了 
 Dialogue: 2,0:24:13.63,0:24:16.96,Eng,,0,0,0,,{\fad(120,120)}Incidentally, this particular puzzle was an MIT mystery hunt puzzle
-Dialogue: 1,0:24:13.63,0:24:16.96,Chi,,0,0,0,,{\fad(120,120)}顺便说下，图中这个特别的填字游戏是一个MIT mystery hunt谜题
+Dialogue: 1,0:24:13.63,0:24:16.96,Chi,,0,0,0,,{\fad(120,120)}顺便说下，图中这个特别的填字游戏是一个MIT解谜寻宝谜题
 Dialogue: 2,0:24:16.96,0:24:20.41,Eng,,0,0,0,,{\fad(120,120)}where they had an image instead of a clue for each one of these words.
 Dialogue: 1,0:24:16.96,0:24:20.41,Chi,,0,0,0,,{\fad(120,120)}这里面他们用图片而不是文字给每个词做谜面
 Dialogue: 3,0:24:20.41,0:24:22.97,Annote,,0,0,0,,{\fad(120,120)}（译者注："diagramless crossword"，无图表填字游戏，\N 就是在普通的填字游戏基础上，连挖了坑的格子也不给出，玩家要直接在空的N x N的网格图中自己确定哪个词放在哪里，哪些词相交）
@@ -683,7 +683,7 @@ Dialogue: 1,0:26:24.81,0:26:30.52,Chi,,0,0,0,,{\fad(120,120)}因为这对那些�
 Dialogue: 2,0:26:30.52,0:26:36.73,Eng,,0,0,0,,{\fad(120,120)}So, making sure that the word vocabulary is accessible to everybody is important.
 Dialogue: 1,0:26:30.52,0:26:36.73,Chi,,0,0,0,,{\fad(120,120)}因此，要保证每个词对所有人来说都是可接触到的，这一点很重要
 Dialogue: 2,0:26:36.73,0:26:40.96,Eng,,0,0,0,,{\fad(120,120)}Next, surprise is a key source of sparkle.
-Dialogue: 1,0:26:36.73,0:26:40.96,Chi,,0,0,0,,{\fad(120,120)}下一课，惊喜是Sparkle的重要源泉
+Dialogue: 1,0:26:36.73,0:26:40.96,Chi,,0,0,0,,{\fad(120,120)}下一课，「惊喜是Sparkle的重要源泉」
 Dialogue: 2,0:26:40.96,0:26:49.47,Eng,,0,0,0,,{\fad(120,120)}And well, the sort of lesson here comes from Sam Loyd who is one of the most famous puzzle creators ever.
 Dialogue: 1,0:26:40.96,0:26:49.47,Chi,,0,0,0,,{\fad(120,120)}这一点来自萨姆·劳埃德（Sam Loyd），他是史上最著名的谜题创作者之一
 Dialogue: 3,0:26:49.47,0:26:55.36,Annote,,0,0,0,,{\fad(120,120)}（译者注：叫做Chessboard paradox）
@@ -744,7 +744,7 @@ Dialogue: 2,0:28:31.80,0:28:38.27,Eng,,0,0,0,,{\fad(120,120)}and for every singl
 Dialogue: 1,0:28:31.80,0:28:38.27,Chi,,0,0,0,,{\fad(120,120)}而对每一种方法，白棋都有一个回应或反击，（解除将军的）同时反过来将死黑方
 Dialogue: 2,0:28:38.27,0:28:44.67,Eng,,0,0,0,,{\fad(120,120)}which is amazing. It's mind-blowing. It's one of the greatest chess puzzles that has ever been created.
 Dialogue: 1,0:28:38.27,0:28:44.67,Chi,,0,0,0,,{\fad(120,120)}这是令人震惊的。这是史上最伟大的国际象棋谜题之一
-Dialogue: 2,0:28:44.67,0:28:55.74,Eng,,0,0,0,,{\fad(120,120)}And when Sam Loyd created this puzzle, he sort of remarked that this was the most implausible move imagined or imaginable.
+Dialogue: 2,0:28:44.67,0:28:55.74,Eng,,0,0,0,,{\fad(120,120)}And when Sam Lloyd created this puzzle, he sort of remarked that this was the most implausible move imagined or imaginable.
 Dialogue: 1,0:28:44.67,0:28:55.74,Chi,,0,0,0,,{\fad(120,120)}当Sam Loyd创作这个谜题时，他指出这是可以想象的最不可能的一步棋
 Dialogue: 2,0:28:55.74,0:29:08.67,Eng,,0,0,0,,{\fad(120,120)}And why is my uh it's gonna be one of those days um okay well yeah
 Dialogue: 1,0:28:55.74,0:29:08.67,Chi,,0,0,0,,{\fad(120,120)}为什么我的…又出这个问题了…好吧…
@@ -941,7 +941,7 @@ Dialogue: 1,0:36:31.48,0:36:35.26,Chi,,0,0,0,,{\fad(120,120)}或者你在《黑�
 Dialogue: 2,0:36:35.26,0:36:39.55,Eng,,0,0,0,,{\fad(120,120)}or beaten a really tough fight in doom eternal on ultra nightmare mode.
 Dialogue: 1,0:36:35.26,0:36:39.55,Chi,,0,0,0,,{\fad(120,120)}或者在《毁灭战士：永恒》的终极噩梦难度下打了一场非常艰难的战斗
 Dialogue: 2,0:36:39.55,0:36:46.97,Eng,,0,0,0,,{\fad(120,120)}You know the the japanese have this word "yatta" that they yell when they've done something really difficult.
-Dialogue: 1,0:36:39.55,0:36:46.97,Chi,,0,0,0,,{\fad(120,120)}你知道，日本人有一个词叫"やったー！"(太棒了)，当他们做一件非常困难的事时他们会大叫
+Dialogue: 1,0:36:39.55,0:36:46.97,Chi,,0,0,0,,{\fad(120,120)}你知道，日本人有个词叫"やったー！"(太棒了)，当他们做成一件非常困难的事时他们会大叫
 Dialogue: 2,0:36:46.97,0:36:55.04,Eng,,0,0,0,,{\fad(120,120)}And if you're comparing eureka to Fiero, I think of them as two sort of completely orthogonal ways of delivering pleasure.
 Dialogue: 1,0:36:46.97,0:36:55.04,Chi,,0,0,0,,{\fad(120,120)}而如果你把尤里卡和Fiero放在一起说的话，我认为它们是两种完全垂直的快乐传递方式
 Dialogue: 2,0:36:55.04,0:36:58.68,Eng,,0,0,0,,{\fad(120,120)}And here I can put them even on an axis, right?
@@ -969,7 +969,7 @@ Dialogue: 1,0:37:42.40,0:37:51.55,Chi,,0,0,0,,{\fad(120,120)}而不是让玩家�
 Dialogue: 2,0:37:51.55,0:37:56.67,Eng,,0,0,0,,{\fad(120,120)}Both of these elements are there in various places but one thing to understand is that
 Dialogue: 1,0:37:51.55,0:37:56.67,Chi,,0,0,0,,{\fad(120,120)}这两个元素都存在于不同地方，但有一点需要理解的是，
 Dialogue: 2,0:37:56.67,0:38:00.32,Eng,,0,0,0,,{\fad(120,120)}you don't even have to be the person that solved the puzzle to get the eureka moment, right?
-Dialogue: 1,0:37:56.67,0:38:00.32,Chi,,0,0,0,,{\fad(120,120)}你甚至不一定要成为解开谜题的人，才能获得尤利卡时刻，是吧？
+Dialogue: 1,0:37:56.67,0:38:00.32,Chi,,0,0,0,,{\fad(120,120)}你甚至不一定要成为解开谜题的人，才能获得尤里卡时刻，是吧？
 Dialogue: 2,0:38:00.32,0:38:02.68,Eng,,0,0,0,,{\fad(120,120)}You could be sitting in a classroom and getting a eurika moment.
 Dialogue: 1,0:38:00.32,0:38:02.68,Chi,,0,0,0,,{\fad(120,120)}你可以坐在教室里就得到一个尤里卡时刻
 Dialogue: 2,0:38:02.68,0:38:06.27,Eng,,0,0,0,,{\fad(120,120)}You could have somebody show you a puzzle and show you how it works
@@ -1286,7 +1286,7 @@ Dialogue: 1,0:51:04.19,0:51:07.84,Chi,,0,0,0,,{\fad(120,120)}它们通常具有�
 Dialogue: 2,0:51:07.84,0:51:09.31,Eng,,0,0,0,,{\fad(120,120)}So, they can be kind of addictive.
 Dialogue: 1,0:51:07.84,0:51:09.31,Chi,,0,0,0,,{\fad(120,120)}所以它们会让人有点上瘾
 Dialogue: 2,0:51:09.31,0:51:12.51,Eng,,0,0,0,,{\fad(120,120)}There are people that you know, "oh I’ve done 400 escape rooms", right?
-Dialogue: 1,0:51:09.31,0:51:12.51,Chi,,0,0,0,,{\fad(120,120)}有些人甚至说"哦，我已经玩过400次迷失逃脱了"
+Dialogue: 1,0:51:09.31,0:51:12.51,Chi,,0,0,0,,{\fad(120,120)}有些人甚至说"哦，我已经玩过400次密室逃脱了"
 Dialogue: 2,0:51:12.51,0:51:14.75,Eng,,0,0,0,,{\fad(120,120)}They literally have their tally
 Dialogue: 1,0:51:12.51,0:51:14.75,Chi,,0,0,0,,{\fad(120,120)}他们真的会把玩过的密室逃脱记录下来
 Dialogue: 2,0:51:14.75,0:51:20.58,Eng,,0,0,0,,{\fad(120,120)}and you know, their their credo amongst themselves is never think about the total amount you've spent on them.
@@ -1302,7 +1302,7 @@ Dialogue: 1,0:51:39.20,0:51:46.50,Chi,,0,0,0,,{\fad(120,120)}我曾经玩过一�
 Dialogue: 2,0:51:46.50,0:51:50.78,Eng,,0,0,0,,{\fad(120,120)}And it was a a puzzle themed after being a cat.
 Dialogue: 1,0:51:46.50,0:51:50.78,Chi,,0,0,0,,{\fad(120,120)}那是一个以变成猫为主题的谜题
 Dialogue: 2,0:51:50.78,0:51:54.24,Eng,,0,0,0,,{\fad(120,120)}Escape rooms take you in wonderful places
-Dialogue: 1,0:51:50.78,0:51:54.24,Chi,,0,0,0,,{\fad(120,120)}迷失逃脱把你带到一个奇妙的地方
+Dialogue: 1,0:51:50.78,0:51:54.24,Chi,,0,0,0,,{\fad(120,120)}密室逃脱把你带到一个奇妙的地方
 Dialogue: 2,0:51:54.24,0:51:56.54,Eng,,0,0,0,,{\fad(120,120)}and I think as a game designer you can learn a lot from what they've done.
 Dialogue: 1,0:51:54.24,0:51:56.54,Chi,,0,0,0,,{\fad(120,120)}我认为作为一个游戏设计师，你可以从他们所做的事情中学到很多
 Dialogue: 2,0:51:56.54,0:52:01.54,Eng,,0,0,0,,{\fad(120,120)}Now the interesting thing about escape rooms is that many of the people who are working on these.

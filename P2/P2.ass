@@ -367,7 +367,7 @@ Dialogue: 0,0:12:25.20,0:12:31.54,Chi,,0,0,0,,{\fad(120,120)}你可以把管道�
 Dialogue: 1,0:12:31.54,0:12:37.36,Eng,,0,0,0,,{\fad(120,120)}this is a three-dimensional puzzle solving game where the rotations sometimes take things up off of the floor
 Dialogue: 0,0:12:31.54,0:12:37.36,Chi,,0,0,0,,{\fad(120,120)}这其实是个三维的解谜游戏，旋转是可以让东西离开地面的
 Dialogue: 1,0:12:37.36,0:12:44.21,Eng,,0,0,0,,{\fad(120,120)}and this prompts you to find the real solution which is actually to make the archway in the third dimension
-Dialogue: 0,0:12:37.36,0:12:44.21,Chi,,0,0,0,,{\fad(120,120)}这就促使你找到真正的解法，就是把”拱门”变成三维的
+Dialogue: 0,0:12:37.36,0:12:44.21,Chi,,0,0,0,,{\fad(120,120)}这就促使你找到真正的解法，就是把“拱门”变成三维的
 Dialogue: 1,0:12:44.21,0:12:46.64,Eng,,0,0,0,,{\fad(120,120)}such that you can walk under it and leave the puzzle
 Dialogue: 0,0:12:44.21,0:12:46.64,Chi,,0,0,0,,{\fad(120,120)}这样你就可以从下面走过去，离开这个谜题
 Dialogue: 1,0:12:46.64,0:12:49.40,Eng,,0,0,0,,{\fad(120,120)}and this is a very memorable solution
@@ -387,7 +387,7 @@ Dialogue: 0,0:13:10.00,0:13:17.56,Chi,,0,0,0,,{\fad(120,120)}既是因为它是�
 Dialogue: 1,0:13:17.56,0:13:22.61,Eng,,0,0,0,,{\fad(120,120)}now in order to make this work you have to do this which is our 14th lesson
 Dialogue: 0,0:13:17.56,0:13:22.61,Chi,,0,0,0,,{\fad(120,120)}那么，为了让它发挥作用，你必须要做的事正是我们接下来的第14课
 Dialogue: 1,0:13:22.61,0:13:26.20,Eng,,0,0,0,,{\fad(120,120)}cultivate the trust of the solver
-Dialogue: 0,0:13:22.61,0:13:26.20,Chi,,0,0,0,,{\fad(120,120)}「建立与解题者之间的信任」
+Dialogue: 0,0:13:22.61,0:13:26.20,Chi,,0,0,0,,{\fad(120,120)}「建立与解谜者之间的信任」
 Dialogue: 1,0:13:26.20,0:13:34.39,Eng,,0,0,0,,{\fad(120,120)}and one example of where this comes up is say you're on the puzzle subreddit or the puzzling stack exchange and you just click on a random interesting puzzle
 Dialogue: 0,0:13:26.20,0:13:34.39,Chi,,0,0,0,,{\fad(120,120)}有一个例子可以说明这一点，比如你跑到贴吧上或其他网站上随便找了个看起很有趣的谜题
 Dialogue: 1,0:13:34.39,0:13:38.29,Eng,,0,0,0,,{\fad(120,120)}and it looks cool but you play around with it a bit and it looks impossible
@@ -417,7 +417,7 @@ Dialogue: 0,0:14:26.36,0:14:30.13,Chi,,0,0,0,,{\fad(120,120)}那么我去相信�
 Dialogue: 1,0:14:30.13,0:14:36.34,Eng,,0,0,0,,{\fad(120,120)}and I might give up on it before I actually push forward and find that interesting eureka moment
 Dialogue: 0,0:14:30.13,0:14:36.34,Chi,,0,0,0,,{\fad(120,120)}我可能会在我真正找到那个有趣的尤里卡时刻之前就放弃它了
 Dialogue: 1,0:14:36.34,0:14:40.82,Eng,,0,0,0,,{\fad(120,120)}this happens a lot in video games, especially action adventure games in Metroidvania
-Dialogue: 0,0:14:36.34,0:14:40.82,Chi,,0,0,0,,{\fad(120,120)}这种事情在电子游戏中经常发生，特别是在类银河恶魔城动作冒险游戏
+Dialogue: 0,0:14:36.34,0:14:40.82,Chi,,0,0,0,,{\fad(120,120)}这种事情在电子游戏中经常发生，特别是在类银河恶魔城和动作冒险游戏中
 Dialogue: 1,0:14:40.82,0:14:46.90,Eng,,0,0,0,,{\fad(120,120)}let's say you see an interesting puzzle you know there's this heart piece being teased over here in the corner in Zelda
 Dialogue: 0,0:14:40.82,0:14:46.90,Chi,,0,0,0,,{\fad(120,120)}就比如说在塞尔达里面，你看到这样一个谜题，在角落里有一颗心可以去拿
 Dialogue: 1,0:14:46.90,0:14:48.50,Eng,,0,0,0,,{\fad(120,120)}Can I get it right now?
@@ -549,7 +549,7 @@ Dialogue: 0,0:19:26.90,0:19:30.42,Chi,,0,0,0,,{\fad(120,120)}至于是否在宣�
 Dialogue: 1,0:19:30.42,0:19:34.77,Eng,,0,0,0,,{\fad(120,120)}it's you know it's kind of 50-50. it depends on which escape room you're doing
 Dialogue: 0,0:19:30.42,0:19:34.77,Chi,,0,0,0,,{\fad(120,120)}可能五五开吧，这取决于你玩的哪家密室逃脱
 Dialogue: 1,0:19:34.77,0:19:37.71,Eng,,0,0,0,,{\fad(120,120)}uh no outside knowledge is another common convention
-Dialogue: 0,0:19:34.77,0:19:37.71,Chi,,0,0,0,,{\fad(120,120)}不依赖外界只是也是另一个常见的惯例
+Dialogue: 0,0:19:34.77,0:19:37.71,Chi,,0,0,0,,{\fad(120,120)}不依赖外界信息也是另一个常见的惯例
 Dialogue: 1,0:19:37.71,0:19:42.00,Eng,,0,0,0,,{\fad(120,120)}but it's sort of like if you're a solver of Cryptics
 Dialogue: 0,0:19:37.71,0:19:42.00,Chi,,0,0,0,,{\fad(120,120)}然而，如果你是一个比如说Cryptic Crossword的老手，
 Dialogue: 1,0:19:42.00,0:19:44.82,Eng,,0,0,0,,{\fad(120,120)}you probably realize this no indirect anagrams rule
@@ -653,7 +653,7 @@ Dialogue: 0,0:23:26.51,0:23:29.65,Chi,,0,0,0,,{\fad(120,120)}而不是一个令�
 Dialogue: 1,0:23:29.65,0:23:33.04,Eng,,0,0,0,,{\fad(120,120)}Bob Bates refers to that as poisoning of the well
 Dialogue: 0,0:23:29.65,0:23:33.04,Chi,,0,0,0,,{\fad(120,120)}Bob Bates将此称为 "向井里投毒"
 Dialogue: 1,0:23:33.04,0:23:40.21,Eng,,0,0,0,,{\fad(120,120)}bob bates designed a lot of uh adventure games point-and-click games for Infocom and legend entertainment in the late 80s and 90s
-Dialogue: 0,0:23:33.04,0:23:40.21,Chi,,0,0,0,,{\fad(120,120)}Bob Bates在80、90年代末为Infocom和Legend entertainment
+Dialogue: 0,0:23:33.04,0:23:36.82,Chi,,0,0,0,,{\fad(120,120)}Bob Bates在80、90年代末为Infocom和Legend entertainment
 Dialogue: 0,0:23:36.82,0:23:40.21,Chi,,0,0,0,,{\fad(120,120)}设计了大量冒险游戏和点击游戏
 Dialogue: 1,0:23:40.21,0:23:47.18,Eng,,0,0,0,,{\fad(120,120)}and bob actually gave a gdc talk where he sort of emphasized that a good understanding of puzzle design theory was necessary to
 Dialogue: 0,0:23:40.21,0:23:47.18,Chi,,0,0,0,,{\fad(120,120)}实际上Bob在GDC的演讲中强调了对谜题设计理论的良好理解是必要的
@@ -912,7 +912,7 @@ Dialogue: 0,0:33:09.42,0:33:12.18,Chi,,0,0,0,,{\fad(120,120)}但我想要达成1
 Dialogue: 1,0:33:12.18,0:33:18.00,Eng,,0,0,0,,{\fad(120,120)}so uh it was really annoying to me that this was never explained
 Dialogue: 0,0:33:12.18,0:33:18.00,Chi,,0,0,0,,{\fad(120,120)}所以，这真的有点恼火，因为游戏从来没有解释过这个这一点
 Dialogue: 1,0:33:18.00,0:33:21.33,Eng,,0,0,0,,{\fad(120,120)}and then I just had to figure it out uh and it's counterintuitive
-Dialogue: 0,0:33:18.00,0:33:21.33,Chi,,0,0,0,,{\fad(120,120)}然后我得自己找到解决方法，而这时不符合直觉的
+Dialogue: 0,0:33:18.00,0:33:21.33,Chi,,0,0,0,,{\fad(120,120)}然后我得自己找到解决方法，而这是不符合直觉的
 Dialogue: 1,0:33:21.33,0:33:29.01,Eng,,0,0,0,,{\fad(120,120)}and they also this was a port of the game uh an HD port of the game from the original GameCube to the Wii U
 Dialogue: 0,0:33:21.33,0:33:29.01,Chi,,0,0,0,,{\fad(120,120)}不过这是从原来的NGC移植到Wii U的高清重制版
 Dialogue: 1,0:33:29.01,0:33:32.14,Eng,,0,0,0,,{\fad(120,120)}and so, they had to change the controls. so, they may have not tested it enough
@@ -1224,7 +1224,7 @@ Dialogue: 0,0:45:02.06,0:45:06.29,Chi,,0,0,0,,{\fad(120,120)}因为他们为此�
 Dialogue: 1,0:45:06.29,0:45:11.79,Eng,,0,0,0,,{\fad(120,120)}they'll spend their time trying to figure out what to do with that thing and if it turns out oh you didn't have to do anything it wasn't part of the puzzle
 Dialogue: 0,0:45:06.29,0:45:11.79,Chi,,0,0,0,,{\fad(120,120)}他们会花时间去想怎么处理那个东西，结果根本不需要做什么，它就不是谜题的一部分
 Dialogue: 1,0:45:11.79,0:45:16.34,Eng,,0,0,0,,{\fad(120,120)}then that really irritates people it feels like they've been robbed of their time
-Dialogue: 0,0:45:11.79,0:45:16.34,Chi,,0,0,0,,{\fad(120,120)}那就真的很让人生气了，感觉间被剥夺了
+Dialogue: 0,0:45:11.79,0:45:16.34,Chi,,0,0,0,,{\fad(120,120)}那就真的很让人生气了，感觉时间被剥夺了
 Dialogue: 1,0:45:16.34,0:45:22.42,Eng,,0,0,0,,{\fad(120,120)}obfuscation and misdirection come in many forms and can be sometimes interpreted as red herrings
 Dialogue: 0,0:45:16.34,0:45:22.42,Chi,,0,0,0,,{\fad(120,120)}混淆和误导有很多形式，有时可以被理解为红鲱鱼
 Dialogue: 1,0:45:22.42,0:45:29.58,Eng,,0,0,0,,{\fad(120,120)}but sometimes it's more like uh showing the solver what is a non-solution so that they can appreciate the solution more, right?
@@ -1314,17 +1314,17 @@ Dialogue: 0,0:48:40.11,0:48:43.06,Chi,,0,0,0,,{\fad(120,120)}所以玩家很难�
 Dialogue: 1,0:48:43.06,0:48:44.72,Eng,,0,0,0,,{\fad(120,120)}or know what they're expected to know
 Dialogue: 0,0:48:43.06,0:48:44.72,Chi,,0,0,0,,{\fad(120,120)}或者很难知道他们应该知道什么
 Dialogue: 1,0:48:44.72,0:48:49.39,Eng,,0,0,0,,{\fad(120,120)}or know what the game designer is expecting them to interpret
-Dialogue: 0,0:48:44.72,0:48:49.39,Chi,,0,0,0,,{\fad(120,120)}或者很难知道游戏设计者希望他们解释什么
+Dialogue: 0,0:48:44.72,0:48:49.39,Chi,,0,0,0,,{\fad(120,120)}或者很难知道游戏设计者希望他们如何去理解
 Dialogue: 1,0:48:49.39,0:48:53.49,Eng,,0,0,0,,{\fad(120,120)}so always try to match pertinence with salience as much as you can
 Dialogue: 0,0:48:49.39,0:48:53.49,Chi,,0,0,0,,{\fad(120,120)}所以要尽可能地使相关性和显著性相匹配
 Dialogue: 1,0:48:53.49,0:48:58.61,Eng,,0,0,0,,{\fad(120,120)}next lesson is to “seek depth in systems and rule sets”
-Dialogue: 0,0:48:53.49,0:48:58.61,Chi,,0,0,0,,{\fad(120,120)}下一课是「追求系统与规则的深度」
+Dialogue: 0,0:48:53.49,0:48:58.61,Chi,,0,0,0,,{\fad(120,120)}下一课是「追求系统与规则集的深度」
 Dialogue: 1,0:48:58.61,0:49:02.64,Eng,,0,0,0,,{\fad(120,120)}this is a lesson that comes from physical puzzle games
 Dialogue: 0,0:48:58.61,0:49:02.64,Chi,,0,0,0,,{\fad(120,120)}这是一个来自实体解谜游戏的经验
 Dialogue: 1,0:49:02.64,0:49:07.89,Eng,,0,0,0,,{\fad(120,120)}uh particularly those published by um publishers like think fun and smart games
 Dialogue: 0,0:49:02.64,0:49:07.89,Chi,,0,0,0,,{\fad(120,120)}特别是那些由像Think Fun和Smart Games这样的发行商发行的游戏
 Dialogue: 1,0:49:07.89,0:49:14.74,Eng,,0,0,0,,{\fad(120,120)}they have this interesting method of putting together physical puzzles rather than getting just you know one puzzle like one of these that you buy
-Dialogue: 0,0:49:07.89,0:49:14.74,Chi,,0,0,0,,{\fad(120,120)}他们有一种有趣的方法来构建实物解谜游戏，而是像你买的那种只有一个谜题的游戏
+Dialogue: 0,0:49:07.89,0:49:14.74,Chi,,0,0,0,,{\fad(120,120)}他们有一种有趣的方法来构建实物解谜游戏，而不是像你买的那种只有一个谜题的游戏
 Dialogue: 1,0:49:14.74,0:49:18.58,Eng,,0,0,0,,{\fad(120,120)}they have a kit that comes with different items that you can put together
 Dialogue: 0,0:49:14.74,0:49:18.58,Chi,,0,0,0,,{\fad(120,120)}他们有一套工具包，里面有不同的物品，你可以把它们组合起来
 Dialogue: 1,0:49:18.58,0:49:21.65,Eng,,0,0,0,,{\fad(120,120)}and then they'll have a booklet or a set of cards that contain challenges
@@ -1645,7 +1645,7 @@ Dialogue: 0,1:01:16.80,1:01:22.43,Chi,,0,0,0,,{\fad(120,120)}这些都是在解�
 Dialogue: 1,1:01:22.43,1:01:26.72,Eng,,0,0,0,,{\fad(120,120)}but also allow the puzzles to be things that have exciting eureka moments that humans can discover
 Dialogue: 0,1:01:22.43,1:01:26.72,Chi,,0,0,0,,{\fad(120,120)}同时也能够让谜题成为人类能够发现的激动人心的尤里卡时刻
 Dialogue: 1,1:01:26.72,1:01:31.45,Eng,,0,0,0,,{\fad(120,120)}um next lesson is to “understand your puzzle’s state space”
-Dialogue: 0,1:01:26.72,1:01:31.45,Chi,,0,0,0,,{\fad(120,120)}下一课是「了解你的谜题的状态空间」
+Dialogue: 0,1:01:26.72,1:01:31.45,Chi,,0,0,0,,{\fad(120,120)}下一课是「理解你的谜题的状态空间」
 Dialogue: 1,1:01:31.45,1:01:40.41,Eng,,0,0,0,,{\fad(120,120)}and this lesson comes to us via a puzzle designer this is um his name is Oskar van Deventer
 Dialogue: 0,1:01:31.45,1:01:40.41,Chi,,0,0,0,,{\fad(120,120)}而这一课是来自一位谜题设计师，他叫Oskar van Deventer
 Dialogue: 1,1:01:40.41,1:01:48.35,Eng,,0,0,0,,{\fad(120,120)}and uh he makes a lot of different types of physical puzzles twisty puzzles uh
