@@ -1,1628 +1,668 @@
-okay welcome back this is part three the
-
-last part
-
-um here we're gonna get into some real
-
-nitty-gritty puzzle construction and
-
-design
-
-stuff um so you know
-
-this is the meat of the talk really um
-
-lesson number 21 is
-
-speak playfully to the solver and uh
-
-to illustrate this i i want to show you
-
-an akari puzzle akari
-
-is a puzzle type where you're given a
-
-grid it's a logic puzzle
-
-and there's some cells that have
-
-different numbers in them
-
-and the goal is to place light bulbs in
-
-the grid in some of the empty cells
-
-and there are three rules one is that
-
-the lights shine horizontally and
-
-vertically and your goal
-
-is to cover the whole grid to illuminate
-
-the whole grid using lights
-
-however there are two constraints one is
-
-two lights are not allowed to illuminate
-
-each other
-
-and the second is the numbers on the
-
-grid tell you the the number of lights
-
-adjacent to that number in the sort of
-
-north south
-
-east west directions so a two for
-
-example
-
-like this one has two lights next to it
-
-here and here
-
-and this one has one light next to it
-
-there and so on that's it
-
-um so i want to show you the solution to
-
-this puzzle
-
-uh and we will observe some remarkable
-
-things
-
-um so this is a site called puzzlink
-
-where you can play a lot of these types
-
-of
-
-logic puzzles um and we'll take you
-
-through the solution at first actually
-
-this is this is a somewhat difficult
-
-puzzle this is not necessarily a
-
-completely beginner level puzzle
-
-at first you may not find any immediate
-
-location to make progress but one thing
-
-to look at is this one in the corner
-
-and so we know that there's either a
-
-light bulb here
-
-or here but we don't know which of those
-
-two it is yet
-
-however one thing we can deduce is that
-
-there cannot be a light bulb here
-
-because if there was a light bulb here
-
-then both this cell and that cell will
-
-be
-
-ruled out from having a light bulb
-
-because two light bulbs cannot
-
-illuminate each other um therefore there
-
-can't be a light bulb here
-
-and so using a dot we can mark this cell
-
-as a cell that doesn't have a light bulb
-
-another way of seeing this is that if
-
-there was a light bulb there
-
-or a light bulb there in both cases this
-
-cell is ruled out from containing a
-
-light bulb
-
-therefore in both cases there's no light
-
-bulb here
-
-we can make similar progress by looking
-
-at this two here
-
-there's sort of three candidate
-
-locations where a light bulb could be
-
-but only two of them will contain light
-
-bulbs however
-
-we can deduce that this cell right here
-
-cannot contain a light bulb
-
-otherwise there would only be one other
-
-space left adjacent to this too because
-
-these two cells would both be
-
-ruled out therefore there cannot be a
-
-light bulb
-
-here and so knowing that these two cells
-
-cannot be light bulbs allows us to make
-
-additional progress if we look at this
-
-two right down here we may
-
-also deduce that this cell can't be a
-
-light bulb because again it would rule
-
-out two
-
-possible locations of the three that
-
-could be light bulbs
-
+okay welcome back this is part three the last part
+好的，欢迎回来，这是第三部分，也是最后一部分
+um here we're gonna get into some real nitty-gritty puzzle construction and design stuff 
+在这一部分，我们将探讨一些关于谜题构造与设计的一些真正重要的细节
+um so you know this is the meat of the talk really um
+你懂的，这部分才真正是这次讲座的重点
+lesson number 21 is “speak playfully to the solver”
+第21课是 「与解题者愉快地交谈」
+and uh to illustrate this I want to show you an akari puzzle 
+为了说明这一点，我想给你们看一个《点灯游戏》（Akari Puzzle）
+（译者注：Akari Puzzle，中文叫《点灯游戏》、《点亮游戏》、《数灯》，由Nikoli于2001年首次发布）
+akari is a puzzle type where you're given a grid it's a logic puzzle
+点灯游戏是一种逻辑解谜，里面会给你一个网格
+and there's some cells that have different numbers in them
+有些格子里会有不同的数字
+and the goal is to place light bulbs in the grid in some of the empty cells
+目标是在一些空格子里放上灯泡
+and there are three rules 
+有三条规则 
+one is that the lights shine horizontally and vertically and your goal is to cover the whole grid to illuminate the whole grid using lights
+第一条，灯泡会水平和垂直地照亮一行和一列，而你的目标是用灯光照亮整个网格
+however there are two constraints 
+但是有两个限制 
+one is two lights are not allowed to illuminate each other
+一是两盏灯不允许互相照亮到对方
+and the second is the numbers on the grid tell you the the number of lights adjacent to that number in the sort of north south east west directions 
+二是，网格上的数字告诉你该格子上下左右相邻的灯泡数量
+so, a two for example like this one has two lights next to it here and here
+比如说，这个数字2，旁边有两盏灯，这里和这里
+and this one has one light next to it there and so on that's it
+这个1旁边就有一盏灯，就是这样
+um so I want to show you the solution to this puzzle
+我想给你们展示下这个谜题的解答过程
+uh and we will observe some remarkable things
+我们将观察到一些了不起的事情
+um so this is a site called puzzlink where you can play a lot of these types of logic puzzles 
+这谁一个叫做puzz.link的网站，里面你可以玩到很多这种类型的逻辑谜题
+um and we'll take you through the solution 
+我将带你过一遍解答过程
+at first actually this is this is a somewhat difficult puzzle 
+首先，这是个有点难度的谜题 
+this is not necessarily a completely beginner level puzzle
+这并不是一个初级的谜题
+at first you may not find any immediate location to make progress 
+一开始你可能找不到任何一个直接看得出来的位置来取得进展
+but one thing to look at is this one in the corner
+但值得注意的是这个角落里的1
+and so, we know that there's either a light bulb here or here 
+我们知道这里得有个灯泡，要么在这里，要么在这里
+but we don't know which of those two it is yet
+但我们还不能确定是其中哪一个
+however, one thing we can deduce is that there cannot be a light bulb here
+然而，我们可以推出的是，这里是不可能有灯泡的
+because if there was a light bulb here then both this cell and that cell will be ruled out from having a light bulb
+因为如果这里有一个灯泡，那么这个还有那个格子都不能有灯泡
+because two light bulbs cannot illuminate each other 
+因为两个灯泡不能互相照亮对方 
+um therefore there can't be a light bulb here
+因此这里不可能有一个灯泡
+and so, using a dot we can mark this cell as a cell that doesn't have a light bulb
+所以我们用一个小点来代表这里不能有灯泡
+another way of seeing this is that if there was a light bulb there or a light bulb there 
+从另一个角度来看这个问题，如果这里有个灯泡，或那里有个灯泡
+in both cases this cell is ruled out from containing a light bulb
+在这两种情况下，这个格子都被排除在外
+therefore in both cases there's no light bulb here
+因此，在这两种情况下，这里都不能有灯泡
+we can make similar progress by looking at this two here
+我们可以用类似的方法来看这个2
+there's sort of three candidate locations where a light bulb could be
+这里有三个候选位置来放灯泡
+but only two of them will contain light bulbs 
+但其中只有两个会放灯泡 
+however we can deduce that this cell right here cannot contain a light bulb
+然而，我们可以推断出，这一格不可能包含灯泡
+otherwise there would only be one other space left adjacent to this too because these two cells would both be ruled out 
+否则这个2旁边就只剩一个能放灯泡的格子了，因为这两格都被覆盖了
+therefore there cannot be a light bulb here 
+因此这里不可能有灯泡 
+and so, knowing that these two cells cannot be light bulbs allows us to make additional progress 
+所以，知道这两格不能放灯泡让我们有了更多的进展
+if we look at this two right down here we may also deduce that this cell can't be a light bulb
+如果我们看一下下面这个2，我们也能推断出这一格不能有灯泡
+because again it would rule out two possible locations of the three that could be light bulbs
+因为它也把三个格子中的两个位置给覆盖掉了
 therefore there's no light bulb there
-
-similarly there's no light bulb here
-
-because it would rule out those two
-
-cells leaving only one place remaining
-
-for another light bulb adjacent to this
-
-two
-
-so there's no light bulb there and now
-
-we can look at this one and do similar
-
-logic there can't be a light bulb here
-
-because it would rule out both of these
-
-therefore that's not a light bulb
-
-and that chains into the next two and
-
-now we can't have a light bulb here or
-
-here because they would both rule out
-
-too many locations
-
-and using the same type of chaining
-
-logic we could see on this two there
-
-can't be light bulbs here and there
-
-and then this dot implies that for this
-
-one there can't be a light bulb there
-
-and then this too is then implied that
-
-there are no light bulbs here
-
-or here and now on this one we can learn
-
-that there's no light bulb here
-
-and on this one we can learn that
-
-there's no light bulb here because again
-
-it would rule out all the possible
-
-locations where a light bulb could be
-
-and then these two dots together imply
-
-that we can't have a light bulb
-
-here because it would rule out the only
-
-remaining locations next to this one
-
-and the chaining keeps going this two
-
-rules out that this two rules out these
-
-two that one is now ruled out from here
-
-this dot that we did earlier also rules
-
-out this side
-
-and now finally after all that setup
-
-after all that work we finally have this
-
-one over here
-
-where both sides of it have been ruled
-
-out and we can finally place our first
-
-light bulb in the puzzle and after that
-
-placing
-
-placing that light bulb in the puzzle we
-
-can place the light bulb next to this
-
-one
-
-we could place the two light bulbs next
-
-to this two
-
-which then allow us to place the two
-
-light bulbs next to this two which allow
-
-us to place the light bulb next to this
-
-one
-
-and then these two and then this one and
-
-then these two
-
-and these two and this one and these two
-
-and it just keeps going until we place
-
-the last two next to these
-
-and to finish the puzzle there is one
-
-square remaining that hasn't been
-
-illuminated and of course we have to put
-
-the final light bulb there
-
-and that is the solution to this akari
-
-puzzle
-
-and there are so many things about this
-
-puzzle that are remarkable
-
-um you know there's this whole sense of
-
-playfulness
-
-as you're going through the puzzle and
-
-taking these steps one leading to the
-
-next leading to the next
-
-there's this repeated pattern or motif
-
-where
-
-you're using the same lemma or the same
-
-uh pattern
-
-or technique over and over again to
-
-create this chain
-
-repetition of logic um and then there's
-
-a variant or a twist
-
-on that lemma where you know you're
-
-using it once and then a second time on
-
-the same thing
-
-um and there's the whole setup and
-
-payoff like you do one lap around the
-
-grid
-
-to rule out one set of spaces and then
-
-you do a second lap which rules out a
-
-second set of spaces
-
-and then results in the final placement
-
-of the the light bulbs
-
-the whole surprise ending where there's
-
-only one space left is sort of
-
-um a cherry on top but you know you look
-
-at a puzzle like this and there can be
-
-no doubt that it was created by a human
-
-this puzzle is
-
-is just like it's it's beautiful
-
-um there's some steps of how it's
-
-created that feel a little bit similar
-
-to sort of the nintendo
-
-4 step level design where you have
-
-something new and then you sort of
-
-introduce it and then create a twist on
-
-it and then
-
-um you know put it together to into a
-
-finale
-
-uh and and then you know you might throw
-
-away this idea for your next puzzle um
-
-but there's something special going on
-
-here and it makes the experience of
-
-solving this puzzle more than just one
-
-of
-
-um you know finding the answer or
-
-something it's it's it's like
-
-communicating with the author of this
-
-puzzle
-
-and i'll share with you a quote from
-
-nobuhiko kanamoto who
-
-was the editor of nicole and this is way
-
-back this is two decades ago before
-
-sudoku took over in the west this is
-
-when
-
-sudoku that was computer generated was
-
-just starting to come out
-
-and um kanemoto-san remarks that
-
-computer-generated sudoku puzzles are
-
-sort of lacking that vital
-
-ingredient that makes puzzles enjoyable
-
-this sense of communication
-
-and you know what ended up happening was
-
-these sort of
-
-massive uh numbers of computer-generated
-
-sudoku puzzles flooded the newspapers in
-
-the west and the puzzle books in the
-
-west and
-
-and as a result um you know subscribers
-
-of nicole and other japanese puzzle
-
-magazines
-
-they had this sort of taste for
-
-handcrafted puzzles
-
-uh but folks in the west never developed
-
-that taste they were just bombarded with
-
-computer-generated puzzles which
-
-uh is is sort of a tragedy in some ways
-
-because the the
-
-subtlety and excitement of really good
-
-sudoku puzzles or other
-
-paper-based logic puzzles um has been
-
-lost and a lot of people think of sudoku
-
-as as sort of
-
-a tired boring not that interesting not
-
-that novel puzzle
-
-um but there are good sudokus this is a
-
-book uh by thomas snyder
-
-called the art of sudoku and uh
-
-it's just one of many examples but the
-
-puzzles in this book
-
-they're not only artfully designed and
-
-laid out but they also have this sort of
-
-flow between the puzzle maker and solver
-
-where you're taking on a journey from
-
-starting the puzzle to the end where
-
-more and more things are
-
-revealed to you and if you've never done
-
-a good sudoku puzzle
-
-i would highly recommend you actually
-
-try them um
-
-better yet go on cracking the cryptics
-
-youtube channel and look at some of the
-
-more interesting sudokus that they've
-
-done and give
-
-give them a try yourself um but
-
-you know the question is how do you
-
-design puzzles like that and there is a
-
-trick there is a technique that allows
-
-us to do that
-
-and it's um well the technique is called
-
-designing from the front
-
-aka forward design and i will show you a
-
-demo of this
-
-um and we're going to open up
-
-the creator for these types of puzzles
-
-um
-
-and i'm literally yoloing it like when i
-
-did the recording of the gdc
-
-talk i sort of had a plan of what i'm
-
-going to do but here i'm literally just
-
-going to make it up as i go
-
-and so we're creating an akari puzzle
-
-let's let's make a low difficulty one
-
-and insert lots of easy steps
-
-something we might do is let's let's put
-
-in a zero a zero is sort of an obvious
-
-place to get started it's a so-called
-
-hook
-
-it's a thing that the player will
-
-immediately take their pencil and put in
-
-something
-
-um and let me just zoom out a tick the
-
-the method that we're using here is
-
-we're gonna place clues
-
-and solve the puzzle at the same time
-
-and we're going to place clues in the
-
-order that the player would sort of
-
-notice them as they were solving the
-
-puzzle
-
-so we flip an answer mode and then in
-
-answer mode we'll mark these two cells
-
-as cells that uh the solver will know
-
-are not light bulbs and then we'll go
-
-back into edit mode and let's just add
-
-some more stuff
-
-um you know let's let's try putting a
-
-two here
-
-right and then we'll go into answer mode
-
-and the solver will realize okay well
-
-after the zero goes there then we have
-
-to put two
-
-light bulbs there let's go back into
-
-edit mode let's try putting some walls
-
-here and here
-
-this will create a situation where that
-
-cell needs to be lit by a light bulb
-
-but the only possible location of a
-
-light bulb to light it up will be here
-
-because anywhere else um you know we
-
-can't put a light bulb there so then we
-
-go back to answer mode and we stick a
-
-light bulb there
-
-uh let's see what else let's let's try
-
-putting a wall here and maybe these two
-
-light bulbs
-
-we want them to infer together the next
-
-step and let's try
-
-uh let's try putting a two here
-
-uh and then our solver upon sort of
-
-seeing the top and bottom of this two
-
-have been ruled out can put two more
-
-light bulbs
-
-there and there uh okay pretty good now
-
-now we're gonna have to make sure like
-
-we can't put a block there otherwise it
-
-will have invalidated
-
-that part of the solution so we kind of
-
-have to keep in mind
-
-uh what are the bits that are required
-
-to sort of make the puzzle that we've
-
-done so far
-
-work um but you know if we feel that uh
-
-the lights are shining too far and we
-
-need to add more obstacles we could add
-
-some obstacles on this side let's say
-
-um you know i'm not sure what we're
-
-going to do there maybe
-
-uh well let's see we could try
-
-uh we could try putting a 1 here and
-
-that will allow us to
-
-rule out these two cells now that we've
-
-put one there
-
-can that do something interesting uh
-
-well we could maybe put a block there
-
-and then we know a light bulb has to go
-
-in the corner
-
-uh sure let's do that because that you
-
-know these two cells both have to be lit
-
-up but we can't put one there
-
-maybe this could also reveal something
-
-to us uh let's try
-
-let's try something a little more
-
-sophisticated here let's let's copy the
-
-trick
-
-from that previous akari puzzle whereby
-
-because
-
-one side of this two has been blocked we
-
-know that this can't be a light bulb
-
-and this can't be a light bulb because
-
-either of these would rule out
-
-too many spots and the two would only
-
-have one location left so let's try that
-
-then we learned that these are not light
-
-bulbs
-
-let's try well we could try putting a
-
-two there
-
-and then we'll place those two there
-
-which then feed back into the two that
-
-we were just in
-
-and give us two light bulbs there and
-
-there lovely
-
-uh what now and you can see how this
-
-just flows like i'm
-
-literally just making this up as i go i
-
-do not have a plan
-
-um maybe i could have a plan and i could
-
-try to make a puzzle that has a certain
-
-pattern or goes around the grid in a
-
-certain way like maybe i want the flow
-
-to kind of go in a circle and come into
-
-the middle that can be a nice motif
-
-let's try doing that so let's make it so
-
-this one kind of goes
-
-up and gives us some logic in the upward
-
-direction like maybe this one and this
-
-one can combine and we can have
-
-uh let's try and think let's put a
-
-number there maybe
-
-maybe a one and maybe all three of these
-
-combine to
-
-force a light bulb uh in the upward
-
-direction
-
-there whoops answer mode boom
-
-um and now this will sort of push logic
-
-horizontally
-
-let's see we could we could put one here
-
-maybe we could put a
-
-a one here and then we have that one
-
-maybe these two then are going to
-
-combine together i mean we can
-
-we can reuse tricks in a new setting or
-
-we could have new tricks or we could
-
-have the same tricks and all of these
-
-will take the solver on a different
-
-journey depending on what we want to do
-
-you know if we want to be artful and we
-
-want to have a certain
-
-sort of a plan to create something
-
-spectacular we can do that but we can
-
-also just make something flowy and
-
-simple and fast that
-
-is easy to solve and players can get
-
-through quickly it all depends on
-
-what we're feeling like or or what we
-
-want to do
-
-let's see so that was the most recent
-
-one that i put in i want that to force
-
-something i haven't really decided what
-
-we could we could try
-
-something that can be interesting is is
-
-to create uh
-
-let's see here uh
-
-well let's just try putting a two here
-
-and and blocking off
-
-a few things maybe that so that will
-
-well do we want to have this so open i
-
-guess that's okay
-
-uh we'll force a few of these like that
-
-and then maybe we can put one like that
-
-we could even put a zero here which will
-
-then mean we cannot put one there
-
-something that's interesting sometimes
-
-is to have a long row
-
-where you can't put light bulbs anywhere
-
-on them for example say i put a zero
-
-here
-
-and then let's see we can block this off
-
-we don't need that
-
-but then the zero will rule out all of
-
-these and then if you look at this the
-
-only place this can be illuminated is by
-
-placing a light bulb here
-
-uh boom and the only place where this
-
-cell can be illuminated
-
-by placing a light bulb in that cell
-
-itself boom
-
+因此那里不能放灯泡
+similarly there's no light bulb here because it would rule out those two cells leaving only one place remaining for another light bulb adjacent to this two
+同样地，这里也不能有灯泡，因为它将覆盖掉这两格，只剩下一个与这个2相邻的位置了
+so there's no light bulb there 
+所以这里不能有灯泡 
+and now we can look at this one and do similar logic 
+现在我们可以看这个1，做类似的逻辑
+there can't be a light bulb here because it would rule out both of these, therefore that's not a light bulb
+这里不能有灯泡，因为它将覆盖这两格，所以不能有灯泡
+and that chains into the next two and now we can't have a light bulb here or here because they would both rule out too many locations
+然后逻辑链走到下个2，这里或这里都不能有灯泡，因为它们覆盖掉了太多位置
+and using the same type of chaining logic we could see on this two there can't be light bulbs here and there
+用同样的逻辑链，我们可以看到，对于这个2，这里和这里不能有灯泡
+and then this dot implies that for this one there can't be a light bulb there
+然后这个点表明，对于这个1，那里不能有灯泡
+and then this two is then implied that there are no light bulbs here or here 
+然后这个2，这里和这里也不能有灯泡
+and now on this one we can learn that there's no light bulb here
+然后对这个1，我们知道这里不能有灯泡
+and on this one we can learn that there's no light bulb here because again it would rule out all the possible locations where a light bulb could be
+然后对于这个1，我们知道这里不能有灯泡，因为一样的，它会覆盖掉太多位置
+and then these two dots together imply that we can't have a light bulb here because it would rule out the only remaining locations next to this one
+然后这两个点一起表面了，在这里不能放灯泡，因为它将覆盖掉这个1旁边唯一可能的位置
+and the chaining keeps going this two rules out that 
+逻辑链还可以进行下去，这2排除掉这个
+this two rules out these two 
+这2排除了这两个 
+that one is now ruled out from here
+那个1排除掉这个
+this dot that we did earlier also rules out this side
+我们之前这个点也排除了这边这个
+and now finally after all that setup after all that work we finally have this one over here
+现在，终于在所有这些准备工作之后，我们终于有了这边这个1
+where both sides of it have been ruled out 
+它的两边都已经被排除了 
+and we can finally place our first light bulb in the puzzle 
+而我们终于可以把第一个灯泡放进去了
+and after that placing that light bulb in the puzzle we can place the light bulb next to this one
+放了这个灯泡之后，我们就可以放这个1旁边的灯泡
+we could place the two light bulbs next to this two
+我们能放这两个灯泡在这个2旁边
+which then allow us to place the two light bulbs next to this two 
+然后这就让我们可以在这个2旁边放这两个灯泡
+which allow us to place the light bulb next to this one
+然后又可以在这个1旁边放这个灯泡
+and then these two 
+然后这两个
+and then this one 
+然后这一个 
+and then these two
+然后是这两个
+and these two 
+和这两个 
+and this one 
+和这一个 
+and these two
+和这两个
+and it just keeps going until we place the last two next to these
+一直到我们把最后这个两个放进去
+and to finish the puzzle there is one square remaining that hasn't been illuminated 
+要完成这个谜题，还剩一个格子没被照亮
+and of course we have to put the final light bulb there
+当然了，我们得把最后一个灯泡放在这里
+and that is the solution to this Akari puzzle
+而这就是这个点灯游戏的解法
+and there are so many things about this puzzle that are remarkable
+这个谜题里有很多了不起的地方
+um you know there's this whole sense of playfulness 
+你知道，整个过程有一种很有乐趣的感觉
+as you're going through the puzzle and taking these steps one leading to the next leading to the next
+你在解决这个谜题的过程中，做了这样一些步骤，一个接一个的，前一个解释了下一个
+there's this repeated pattern or motif where you're using the same lemma or the same uh pattern or technique over and over again to create this chain repetition of logic 
+有这样一个重复的模式，你一遍又一遍用同样的规律或技巧来创造这样一个逻辑链
+um and then there's a variant or a twist on that lemma where you know you're using it once and then a second time on the same thing 
+然后这样的规律又有一个变体或转变，你在同一事物上使用了一次然后又用第二次
+um and there's the whole setup and payoff like you do one lap around the grid to rule out one set of spaces and then you do a second lap which rules out a second set of spaces
+还有这整个的布置，就像你绕着格子过一趟，排除了些地方，然后又过一遍，又排除了一组格子
+and then results in the final placement of the light bulbs
+然后得到了灯泡的最终位置
+the whole surprise ending where there's only one space left is sort of um a cherry on top 
+而最后只剩下一个空格这样一个惊喜的结局，又有点锦上添花的感觉
+but you know you look at a puzzle like this and there can be no doubt that it was created by a human
+但你看到这样的谜题时，毫无疑问它是由人类创作的
+this puzzle is just like it's beautiful
+这个谜题的设计就很美丽
+um there's some steps of how it's created that feel a little bit similar to sort of the Nintendo 4 step level design 
+它的制作步骤有点类似于任天堂的四步关卡设计法
+（译者注：《超级马里奥：3D》的设计师 林田宏一 所提出的四步关卡设计法，即「起承転結」（起承转合），引入、发展、转折和总结）
+where you have something new and then you sort of introduce it and then create a twist on it and then um you know put it together to into a finale
+也就是你有些新的东西，然后引入它，再创造一个转折点，再合到一起成为结局
+uh and then you know you might throw away this idea for your next puzzle 
+然后再下个谜题中你可能会抛弃这个想法
+um but there's something special going on here 
+但这里面也发生着一些很特别的事情
+and it makes the experience of solving this puzzle more than just one of um you know finding the answer or something 
+而这使得解谜的体验不仅仅是去找到答案
+it's like communicating with the author of this puzzle
+它就像是在和这个谜题的作者交流一样
+and I’ll share with you a quote from Nobuhiko Kanamoto who was the editor of Nikoli
+我和你们分享Nikoli的编辑Nobuhiko Kanamoto的一段话
+and this is way back this is two decades ago before sudoku took over in the west 
+这是二十年前的一段话了，那时候数独还没在西方流行开来
+this is when sudoku that was computer generated was just starting to come out
+正是计算机生成的数独刚刚开始出现的时候
+and um Kanamoto-san remarks that computer-generated sudoku puzzles are sort of lacking that vital ingredient that makes puzzles enjoyable this sense of communication 
+Kanamoto先生指出：“计算机生成的数独谜题缺少一种使谜题玩起来很愉悦的重要因素，即缺少解题者和创作者之间的交流感”
+and you know what ended up happening was these sort of massive uh numbers of computer-generated sudoku puzzles flooded the newspapers in the west and the puzzle books in the west
+你知道，后来的结果是，大量计算机生成的数独谜题充斥着西方的报纸和谜题书籍
+and as a result um you know subscribers of Nikoli and other Japanese puzzle magazines
+而结果，你知道，Nikoli还有其他日本谜题杂志的订阅者们
+they had this sort of taste for handcrafted puzzles 
+他们对手工制作的谜题有了一定的品味
+uh but folks in the west never developed that taste they were just bombarded with computer-generated puzzles 
+但西方人从来没有发展出这种品味，只会被电脑生成的谜题“轰炸”
+which uh is sort of a tragedy in some ways
+这在某种程度上是个悲剧
+because the subtlety and excitement of really good sudoku puzzles or other paper-based logic puzzles um has been lost 
+因为真正好的数独或其他纸质逻辑谜题的精巧性和刺激性已经丧失了
+and a lot of people think of sudoku as sort of a tired boring not that interesting not that novel puzzle
+很多人都认为数独是一种乏味的、无趣的、没有新意的谜题
+um but there are good sudokus this is a book uh by Thomas Snyder called the art of sudoku 
+但也有好的数独，这本书是Thomas Snyder写的，叫做《数独的艺术》（The Art of Sudoku）
+and uh it's just one of many examples 
+这只是其中一个例子
+but the puzzles in this book they're not only artfully designed and laid out 
+这本书中的谜题不仅有艺术性的设计和布局 
+but they also have this sort of flow between the puzzle maker and solver 
+而且其中有种解谜者和设计者之间流畅的交流
+where you're taking on a journey from starting the puzzle to the end where more and more things are revealed to you 
+你就像开启了一段旅程，从起点到终点，里面的东西逐渐揭示给你
+and if you've never done a good sudoku puzzle I would highly recommend you actually try them um
+如果你从来没有做过一个好的数独谜题，我强烈建议你去试试
+better yet go on “cracking the cryptic” YouTube channel and look at some of the more interesting sudokus that they've done 
+可以去“Cracking The Cryptic”这个油管频道看看，他们做了些非常有趣的数独谜题
+and give them a try yourself um 
+然后再自己试试
+but you know the question is how do you design puzzles like that 
+但你知道，我们的问题是，我们如何才能设计这样的谜题？
+and there is a trick there is a technique that allows us to do that
+有一个诀窍和技巧可以让我们做到这一点
+
+
+and it's um well the technique is called “designing from the front” aka “forward design” 
+这个技巧叫做「从正面设计」，也即“前向设计”
+and I will show you a demo of this
+我给你们演示一下
+um and we're going to open up the creator for these types of puzzles
+我把这个谜题的编辑器模式打开一下
+um and I’m literally yoloing it 
+这里我就冒个险了
+like when I did the recording of the GDC talk I sort of had a plan of what I’m going to do 
+当我在录正式的GDC演讲的时候我提前规划好了要怎么做的
+but here I’m literally just going to make it up as I go
+但这里，我就直接即兴创作了
+and so, we're creating an Akari puzzle
+那么，我们是要创作一个点灯游戏
+let's make a low difficulty one and insert lots of easy steps
+让我们做一个低难度的，插入些简单的步骤
+something we might do is let's put in a zero 
+我们能做的是，我们先放个0进去
+a zero is sort of an obvious place to get started 
+0是一个很明显的可以作为起点的地方 
+it's a so-called “hook” it's a thing that the player will immediately take their pencil and put in something
+这就是一个所谓的引子，是一个能让玩家立即拿起笔填上的东西
+um and let me just zoom out a tick 
+让我缩小一点
+the method that we're using here is we're gonna place clues and solve the puzzle at the same time
+我们这里要使用的方法是，我们放置线索的同时进行解谜的过程
+and we're going to place clues in the order that the player would sort of notice them as they were solving the puzzle
+我们要按照玩家在解谜时注意到的顺序来放置线索
+so, we flip into answer mode 
+所以，我们切换到解题模式
+and then in answer mode we'll mark these two cells as cells that uh the solver will know are not light bulbs 
+然后在解题模式中，我们将这两个格子标记为不能放置灯泡的地方
+and then we'll go back into edit mode and let's just add some more stuff
+然后我们回到编辑模式，再增加一些内容
+um you know let's try putting a two here right 
+我们试着在这里放个2
+and then we'll go into answer mode 
+然后切到解题模式
+and the solver will realize okay well after the zero goes there then we have to put two light bulbs there 
+然后解谜者会意识到，好吧，既然这有0，那么就必须在那里放两个灯泡
+let's go back into edit mode let's try putting some walls here and here
+让我们回到编辑模式，让我们试着放些墙壁，在这里和这里
+this will create a situation where that cell needs to be lit by a light bulb but the only possible location of a light bulb to light it up will be here
+这就创造出一种情况，这个格子需要被照亮，但唯一可能的位置是在这里
+because anywhere else um you know we can't put a light bulb there 
+因为其他地方，你知道我们不能把灯泡放在那里 
+so, then we go back to answer mode and we stick a light bulb there
+所以我们回到解题模式，在那里放一个灯泡
+uh let's see what else let's try putting a wall here 
+呃，我们看看还有什么，我们试试在这里放一面墙 
+and maybe these two light bulbs we want them to infer together the next step 
+也许，对于这两个灯泡，我们想要让它们一起推出下一步
+and let's try uh let's try putting a two here uh 
+让我们试试，呃，让我们试试在这里放一个2
+and then our solver upon sort of seeing the top and bottom of this two have been ruled out 
+然后解谜者看到这个2的上面和下面都被排除了
+can put two more light bulbs there and there 
+就能在这里和这里放两个灯泡
+uh okay pretty good 
+呃，好的，不错
+now we're gonna have to make sure like we can't put a block there otherwise it will have invalidated that part of the solution 
+现在我们要确保我们不会在这里放一个墙，否则就会使之前那块解失效了
+so, we kind of have to keep in mind uh what are the bits that are required to sort of make the puzzle that we've done so far work 
+所以我们必须记得让我们目前的谜题生效的那些部分
+um but you know if we feel that uh the lights are shining too far and we need to add more obstacles 
+如果感觉灯光覆盖得太远了，我们需要加一些障碍
+we could add some obstacles on this side let's say
+我们可以在这一边增加一些障碍物，比如说
+um you know I’m not sure what we're going to do there 
+我还不知道要在这里做什么
+maybe uh well let's see we could try uh we could try putting a 1 here 
+也许...让我看看，我们可以试试...我们可以试试在这里放一个1 
+and that will allow us to rule out these two cells 
+这样我们就可以排除掉这两个格子了 
+now that we've put one there can that do something interesting uh
+既然我们已经放了个1，这能带来什么有趣的事情呢
+well we could maybe put a block there and then we know a light bulb has to go in the corner
+也许我们可以在这里放一个墙，然后我们知道必须放一个灯泡在角落里
+uh sure let's do that because that you know these two cells both have to be lit up but we can't put one there
+我们这么做吧，因为这两个格子都得被点亮，但我们不能放在这里
+maybe this could also reveal something to us uh 
+或许这能揭示些东西
+let's try let's try something a little more sophisticated here 
+让我们试试些更复杂的东西吧 
+let's copy the trick from that previous Akari puzzle whereby 
+让我们借鉴一下之前那个点灯谜题的技巧
+because one side of this two has been blocked 
+由于这个2的一边已经被覆盖了
+we know that this can't be a light bulb and this can't be a light bulb 
+我们知道这里不能放灯泡，这里也不行
+because either of these would rule out too many spots and the two would only have one location left 
+因为这两种情况都会排除掉太多位置，使得这个2旁边只剩一个位置了
+so, let's try that 
+所以，我们试试这么做
+then we learned that these are not light bulbs
+然后我们知道，这些地方不能放灯泡
+let's try well we could try putting a two there and then we'll place those two there
+让我们试试，我们可以试着在那里放个2，然后这两个灯泡就在这里
+which then feed back into the two that we were just in and give us two light bulbs there and there 
+然后这就能反馈到我们之前那个2，这样就确定了在这里和这里的两个灯泡
+lovely
+很不错
+uh what now and you can see how this just flows like I’m literally just making this up as I go I do not have a plan
+现在你可以看到这一切是如何流畅进行的，我其实就是即兴发挥的，没有一个计划
+um maybe I could have a plan and I could try to make a puzzle that has a certain pattern or goes around the grid in a certain way 
+也许我可以有个计划，我可以试着做一个有某种模式的谜题，或者以某种方式绕着网格走
+like maybe I want the flow to kind of go in a circle and come into the middle that can be a nice motif
+比如我想让这个解谜的过程绕成一个圈，然后最后到中间来，这是一个不错的模式
+let's try doing that so let's make it so this one kind of goes up and gives us some logic in the upward direction 
+让我们把它做成这样，这个1能给我们一下关于上面的逻辑
+like maybe this one and this one can combine and we can have uh let's try and think let's put a number there maybe
+也许这两个可以一起，我们能…让我想想，我们也许在这里放个数字
+maybe a one and maybe all three of these combine to force a light bulb uh in the upward direction there 
+也许是个1，也许这三个一起就使得在上面必须有个灯泡
+whoops answer mode boom
+噢，点错了
+um and now this will sort of push logic horizontally
+现在我们得让逻辑链往水平方向发展
+let's see we could we could put one here maybe we could put a one here 
+让我看看，我们可以在这里放个1，在这个也放个1
+and then we have that one
+然后放那个1
+maybe these two then are going to combine together 
+也许这里放个2，然后结合到一起
+i mean we can we can reuse tricks in a new setting or we could have new tricks or we could have the same tricks 
+我们可以在新的环境下复用之前的技巧，或者也可以用新的技巧
+and all of these will take the solver on a different journey depending on what we want to do 
+而所有这些都会把解谜者带入一个不同的旅程，这取决于我们想做什么
+you know if we want to be artful and we want to have a certain sort of a plan to create something spectacular we can do that 
+如果我们想要艺术性，想要按某种计划来创造一种看起来令人惊叹的东西，我们可以这样做
+but we can also just make something flowy and simple and fast that is easy to solve and players can get through quickly 
+但我们也可以就做一些流畅的、简单的、快速的、容易解决的、玩家可以快速完成的东西 
+it all depends on what we're feeling like or what we want to do
+这一切都取决于我们的感觉或我们想做什么
+let's see so that was the most recent one that I put in 
+让我们看看，这是我刚放进去的那一个
+I want that to force something 
+我希望这个能迫使一些地方
+I haven't really decided what we could we could try something that can be interesting is is to create uh let's see here uh
+我还没决定怎么做，我们可以尝试一些有趣的东西，就是创造...让我看看...
+well let's just try putting a two here and blocking off a few things maybe that 
+好吧，让我试着在这个放个2，然后加点墙来挡住一些东西
+so that will well do we want to have this so open I guess that's okay
+这样就可以了，我们想要让这部分敞开吗？我想应该可以
+uh we'll force a few of these like that and then maybe we can put one like that
+我们可以就像这样迫使一些地方…然后也许我们可以像这样放个1
+we could even put a zero here which will then mean we cannot put one there
+我们甚至可以在这里放一个0，这样就意味着我们不能在放灯泡了
+something that's interesting sometimes is to have a long row where you can't put light bulbs anywhere on them 
+有时候这种很长一整排都不能放灯泡的情况是很有趣的
+for example say I put a zero here 
+比如说我在这里放一个0
+and then let's see we can block this off we don't need that
+然后让我看看，我们可以把这个挡住，我们不需要这个
+but then the zero will rule out all of these 
+但这个0会排除所有的这些地方 
+and then if you look at this the only place this can be illuminated is by placing a light bulb here
+然后你可以看到，唯一能照亮这个地方的就是在这里放一个灯泡
+uh boom and the only place where this cell can be illuminated by placing a light bulb in that cell itself boom
+然后要把这个格子照亮就得在它本身放个灯泡
 maybe we can do this one more time
-
-if we put a zero here then that will
-
-rule out this and then the only way that
-
-cell can be illuminated
-
-is by putting a light bulb here uh
-
-whoops
-
-uh boom okay um
-
-how's that working pretty good i didn't
-
-need this for anything
-
-maybe i want this light bulb to infer
-
-something in the middle
-
-trying to think of a good way to do that
-
-um
-
-did we need that maybe we could just
-
-have
-
-a two here
-
-and then we will have to put two light
-
-bulbs there and then maybe
-
-this is where the final light bulb goes
-
-to eliminate that one
-
-and we can check our answer now uh you
-
-know we we
-
-erased and and re-added a bunch of
-
-things so we really should check our
-
-whole solution
-
-in order to confirm that the the logic
-
-flow is intact
-
-and the way to do that is erase our
-
-answer and do a complete test solve
-
-so let's just pretend we're solving the
-
-puzzle
-
-you know i would do all this is there
-
-anything i can deduce right now there
-
-actually is i can put a light bulb here
-
-because i know that this cell has to be
-
-illuminated and nothing else can light
-
-it up
-
-you know does that spoil the aesthetic
-
-of my puzzle going all the way around
-
-well maybe i might decide to fix this or
-
-i might decide i just don't care
-
-that's fine but the intended first step
-
-was here
-
+也许我们可以再做一次
+if we put a zero here then that will rule out this 
+如果我们在这里放个0，那么就可以排除这个 
+and then the only way that cell can be illuminated is by putting a light bulb here 
+然后唯一可以照亮这个格子的方法就是在这里放一个灯泡
+uh whoops uh boom okay um
+噢，又点错了
+how's that working pretty good I didn't need this for anything
+效果如何？很好。我不需要这个东西了
+maybe I want this light bulb to infer something in the middle
+也许我想让这个灯泡推断出中间的一些东西来
+trying to think of a good way to do that um
+我在想一个好办法来做到这个事情
+did we need that? maybe we could just have a two here
+我们需要这个吗？也许我们可以在这里放一个2
+and then we will have to put two light bulbs there 
+然后我们要在这里放两个灯泡
+and then maybe this is where the final light bulb goes to eliminate that one
+然后也许这就是最后那一个灯泡的位置，来照亮那个格子
+and we can check our answer 
+接着我们可以检查一下我们的答案
+now uh you know we we erased and and re-added a bunch of things so we really should check our whole solution in order to confirm that the the logic flow is intact
+现在我们应该检查一下整个解，以确认逻辑流程是完整的
+and the way to do that is erase our answer and do a complete test solve
+做的方法是，我们擦掉我们的答案然后做一个完整的测试过程
+so, let's just pretend we're solving the puzzle
+那么，假装我们在解这个谜题
+you know I would do all this 
+你知道，我会做这样一些
+is there anything I can deduce right now there actually is I can put a light bulb here
+有什么我现在就能推断出的吗？事实上，我可以在这里放个灯泡
+because I know that this cell has to be illuminated and nothing else can light it up
+因为我知道这个格子必须被照亮，而其他地方都不行
+you know does that spoil the aesthetic of my puzzle going all the way around
+这会破坏我之前设计的绕整个网格一圈的逻辑流的美感吗？
+well maybe i might decide to fix this or I might decide I just don't care that's fine 
+好吧，我可能会决定去修复这个问题，或者我也可能决定不管它，问题不大
+but the intended first step was here
+但我们设计的第一步是在这里
 and then we can get this light bulb uh
-
-sometimes it's interesting to think like
-
-what if the player doesn't see this move
-
-like what if the solver just has to go
-
-somewhere else can they make progress
-
-elsewhere um like you might notice that
-
-you can't put two here because that
-
-would violate the one and we need
-
-sort of two of these three to be lit up
-
-and therefore this one
-
-if it wasn't lit up would force this
-
-which would be a contradiction and so
-
-this one has to be lit up
-
-does that help me move forward i'm not
-
-sure i think i still need to know which
-
-one of these two it is
-
-and so that would allow me to make that
-
-discovery
-
-and then so we get that we get that we
-
-said that would give us this which would
-
-give us this
-
+然后我们可以得到这个灯泡
+sometimes it's interesting to think like what if the player doesn't see this move 
+有时候想一下如果玩家没有看到应该这样走该怎么办？这还挺有意思的
+like what if the solver just has to go somewhere else can they make progress elsewhere 
+比如说，如果解题者得从别的位置继续，那他们能在别的位置取得进展吗？
+um like you might notice that you can't put two here because that would violate the one 
+你可能会注意到，你不能在里放两个灯泡，因为那会违反这个1
+and we need sort of two of these three to be lit up 
+我们需要在三个中的两个位置放灯泡 
+and therefore, this one if it wasn't lit up would force this which would be a contradiction 
+因此，如果这个位置没有灯泡，那么就会迫使这里形成矛盾
+and so, this one has to be lit up
+所以，这里必须放灯泡
+does that help me move forward I’m not sure I think I still need to know which one of these two it is
+这能帮助我们取得进展吗？还不确定，我想我还是需要知道这两个里面选哪一个
+and so that would allow me to make that discovery 
+那就会让我取得这样一个发现
+and then so we get that we get that 
+然后我们得到了这个，又得到了这个 
+we said that would give us this 
+这会让我们得到这个
+which would give us this
+又让我们得到这个
 um and then this 2 gives us that
+然后这个2又让我们确定了这个
+that one gives us those two 
+那个1又确定了这两个
+which gives us that
+这又让我们确定了那个
+which then gives us this to sort of force that 
+然后确定了这个，固定了那个
+which then gives us this to force that and that's sort of just an add-on
+这就让我们确定了这个
+then those two which finally reveal where that final light bulb in this row has to go 
+然后是这两个，这就最终揭示了这排我们需要放置的最后那个灯泡
+which is there
+就是那里
+so, most of our solution path is intact
+所以，我们的解法的大部分路径都是完整的
+there's maybe a few places where we could skip ahead a little bit
+也许有几个地方我们可以跳过去一点儿
+do we want to go back back and fix it 
+我们需要回去修复它吗？
+we could if we were really trying to go for a specific uh look or a specific theme 
+我们可以这么做，如果我们真的是想追求一个特定的形式或主题的话
+but the point is you have a lot of freedom as a puzzle designer to create that 
+但关键点还是，作为一个谜题设计师，你有很大的自由来创造这些东西
+and this method of designing from the front or forward design allows you to really have quite tight control over the solution experience of the person solving the puzzle
+这种从正面设计的方法，或者说前向设计，可以让你对解谜者的解谜体验有严格的控制
+uh if you do it correctly and if you're good at it which is is hard right 
+前提是你做得对或者你很擅长这一点的话。但这很难，对嘛？
+like i've been doing this for many years so I have some experience with this 
+比如说，我已经做了很多年了，所以我会有些经验
+and you know i have a sense of like where it could go wrong or what types of assumptions i should and shouldn't make when i'm making these sort of you know when i'm adding a new square to the grid 
+当我在网格中添加东西时，我会对哪里可能出错、我应该或不应该做出什么样的假设有一定的感觉
+how is this going to affect the solution path based on what i've created so far 
+以及基于我目前所创造的东西，这将如何影响解谜路径？
+and you have to have a good sense of how these puzzles solve in order to be able to do that 
+你得对这些谜题的解法有一个很好的感觉，才能做到这一点
+so, some of the best composers of these puzzles are also the best solvers of them
+所以，一些最好的谜题创作者也是最好的解谜者
+because they themselves are able to once they place one thing in the grid they can deduce exactly all that can be deduced from it
+因为一旦他们自己在网格中添加什么东西，他们就能准确推导出所有能被推导出的东西
+and therefore, have a really good understanding of what the solver experience is going to be
+因此他们也就对解题者的体验有很好的了解
+um with logic puzzles that's true 
+对逻辑解谜来说是这样的
+although it's less true with other types of puzzles like crosswords um 
+尽管对于其他类型的谜题，比如填字游戏，可能就不完全是这样了
+I think there's a famous mike sellinger quote 
+我像Mike Sellinger曾经说过一句著名的话
+where he says um you know making a good crossword versus solving a crossword is is like arson versus firefighting 
+他说：“创作一个好的填字游戏之于解填字游戏，就如同纵火之于救火”
+and it's not necessary that the same person is going to be it's not necessarily true that the same person is going to be good at both arson and firefighting
+同一个人不一定就得同时擅长纵火和救火
+but with logic puzzles I think it often is
+但对于逻辑谜题来说，我认为大部分情况是这样的
+anyways I’m going to close this don't need to save it 
+无论如何，我要把这个给关了，不需要保存
+so, designing from the front has a number of benefits 
+所以，从正面设计有很多好处 
+uh you know you can control the flow 
+你知道你可以控制解谜流程 
+you can create these playful setups 
+你可以创造这些有趣的设置 
+and you can hide eureka moments in really interesting ways
+你可以用非常有趣的方式来隐藏尤里卡时刻
+another thing that designing from the front enables is this sort of deductive solution where as a solver you're making logical deductions you're never guessing right 
+从正面设计带来的另一个好处是，作为解谜者，你在进行逻辑推理而不是在猜测，是吧？
+like when you solve a sudoku you generally aren't guessing you're putting in a number once you're confident that that's true
+就当你在解数独时，你一般不是在猜测，而是一旦你确信这是对的，就填入一个数字
+and that means that once you get to the end and you found a unique solution you're sort of aware that it is unique
+这意味着，一旦你走到了最后，你找到了个独特的解法，你会意识到它既是独特的
+because in solving the puzzle deductively you have established that uniqueness
+因为在通过推理解谜的过程中，你已经建立起了这种唯一性
+and this can be a source of pleasure as a solver 
+而作为解谜者，这可能就是一个快乐的来源 
+because it's it's sort of like the soundness and completeness meeting together implying that both the existence and uniqueness of the puzzle have been established
+因为这类似于说，可靠性和完备性同时满足，就意味着谜题的存在性和独特性都被确立了
+and that's different than a puzzle where you guess and you find the answer and you don't even know is this the unique answer is this the only answer
+这与那种猜答案的谜题不同，那种谜题里面你找到了答案而你甚至不能确定是不是唯一的答案
+you know this definitively is the unique answer and you had to find it by sort of going through the motions that were uh intended for you to go through 
+（而这种谜题）是肯定有唯一答案的，因为你得通过一套规定动作来找到它
+um and that is what enables this communication because you know that this is what the puzzle designer intended you to do when you're solving it 
+而这就是促成这种交流的原因，因为你知道这就是谜题设计者希望你在解题时做的事情
+and you're consciously aware of that 
+而你也清楚地意识到这一点
+and the the puzzle designer is surprising you with what the next step is and how it's been laid out and not just with the you know what the actual solution is 
+谜题设计者通过下一步是什么和怎么布置的，而不只是用实际的解法是什么来带给你惊喜
+the the surprising thing at the end of the puzzle isn't what the final grid looks like when it's done
+在谜题的最后，令人惊喜的事情并不是最后的网格看起来是什么样子的
+it's what was the logic that enabled you to deduce that that was the only way it could be 
+而是让你能推断出这是唯一方法的逻辑是什么
+and that is is the thing that elevates these types of logic puzzles to a greater aesthetic than a computer generated sudoku
+而这正是将这类逻辑谜题提升到比计算机生成的数独有更高的审美境界的原因所在
+
+
+one of the important things to do is make the key move or sort of the key step that you have to do provably unique 
+而你需要做的很重要的一点是，「让谜题的关键步骤可被证明是独一无二的」
+if we go back to that um chess puzzle by Sam Lloyd, 
+让我们回到Sam Lloyd那个国际象棋谜题
+king e2 is the only way to achieve that mate in three
+其中王e2是实现三步内将杀的唯一途径（即王往左上方走一格）
+and the fact that that's true kind of forces the puzzle uh the puzzle forces the solver to uncover the planned eureka moment that has been set up um 
+而这一事实，意味着这个谜题迫使解谜者去发现这一设定好的尤里卡时刻
+and in chess you know sometimes there's different responses
+在实际下棋中，你知道对手可能会有不同的反应
+like if the player goes king e2 uh the opponent playing black does not have to respond by queening the pawn 
+比如说，如果白方王e2，那黑方不一定就会把兵升变为后
+the player the opponent can respond by just moving a bishop or doing something else right 
+对方可以通过移动象或其他事情来回击，是吧？
+and in all of those cases the player does have mate in three
+在所有这种情况下，肯定都可以三步内将杀对面
+but the most interesting part of the puzzle is sort of what do you do against the most challenging response
+但谜题最有趣的部分应该是你如何去应对最有挑战性的回击
+and so, the fact that there's one key move on the first move is essential in all chess puzzles 
+因此，第一步棋是关键步对所有国际象棋谜题来说都是必不可少的
+it's sort of a requirement of the genre there needs to be a single unique key move on turn one
+第一步棋有一个独特的关键走法，算是这种类型谜题的要求
+but then often in subsequent turns it can sort of fork and branch a little bit more depending on what the opponent does
+但在随后的汇合中，就会根据对方的行动而出现分支
+and it's not you know you need to kind of find a response to everything right 
+对每一种对手的行动你都需要找到一种回应方式
+so, the fact that the later part of the puzzle may not be unique because of what the opponent can do 
+所以，尽管谜题后半部分可能因为对手的下法，并不是独一无二的
+doesn't spoil the aesthetics of the puzzle having a unique key move
+但这并不影响谜题拥有独一无二的关键一步的美感
+puzzles that lack a unique key move are often called “cooked puzzles” meaning you know as in “his goose is cooked” 
+缺乏独一无二的关键步骤的谜题通常被称为”cooked puzzle”，来自”his goose is cooked”中的”cooked”
+（译者注：”one’s goose is cooked”这个俚语大概的意思是说 某人因为做了什么事情，一定会失败，没有一点希望。所以”cooked puzzle”大意是这个谜题肯定成功不了，肯定不好玩）
+it's just like not a good puzzle or it's not worthy of being printed
+这就意味着它不是一道好谜题，或者说它不值得印刷出来
+a second solution is often called a “dual” 
+（谜题的）第二种解法通常被称为“Dual”
+or in video games I’ve heard it called an “exploit” 
+或者在电子游戏中我听说这被叫做“exploit”（秘技/卡bug）
+where the player can get around the intended thing that the developer was trying to force them to do but the player is somehow able to find an exploit to avoid doing this 
+也就是玩家通过找到了某种方式或漏洞，绕过了开发者试图强迫他们做的事情
+and if the purpose of your puzzle is to conceal a unique eureka moment, 
+如果你的谜题的目的是为了隐藏一个独特的尤里卡时刻
+then intentionally having multiple solutions is not a good idea
+那么故意提供多种解法就不是一个好主意
+and accidentally having multiple solutions may be a problem that you know you want your QA to catch 
+而意外地拥有多种解法，可能就是你希望你的测试人员能够发现的问题
+if you're doing puzzle design you want to make sure that your test solvers are really good at finding those multiple solutions 
+如果你在做谜题设计，你要确保你的测试人员擅长找到那些多重解法
+and the way you want them to do that is by being deductive solvers that can really try and establish the uniqueness of every solution by proving it
+你想让他们做到，成为推理型的解题者，能够真正通过证明的方式来确定每个解的唯一性
+um and that's hard for some types of puzzles especially uh very stateful puzzles like block pushing puzzles 
+而这对于某些类型的谜题来说是很难的，尤其是像推箱子这种状态很多的谜题 
+where there's a million different states that the puzzle can be in and it's often very hard to determine that an alternative way of solving the puzzle is impossible
+那里面有无数种不同的状态，通常很难确定出现另一种解法是不是不可能的
+you really want to as a puzzle designer make sure you're slicing off those Rabbit Trails 
+作为一个谜题设计者，你得确保你把那些Rabbit Trails给去除掉
+and just making it so that you don't have to check too deep in order to make sure that something doesn't happen
+这样你就不必为了确保某些事情不发生而检查得太深
+I can give you a million examples of these which I didn't include in the talk 
+我可以给你举出无数个例子，我之前没把这个包含在演讲里
+I think the one that sticks with me the most is in steven's sausage roll they have this level called the tower 
+我想最让我印象深刻的例子是在《史蒂芬香肠卷》中，有个叫“The Tower”的关卡
+where there's eight sausages stacked up and you have to sort of set them up in this unique way
+那里面有八个香肠堆在一起，而你得以一种特别的方式把它们摆好
+um but the way I solved that puzzle was not the intended way
+但我解决这个谜题的方式并不是开发者设计的方式
+and the way a number of people solved it I’ve checked on YouTube and twitch videos was really not the intended way
+我看油管和Twitch上很多人也不是用的开发者设计的方式
+um I mean they ultimately got to the same final state but the sort of setup or the way they went about going about the setup to get there uh can vary in a lot of ways 
+他们最终是到达了相同的最终状态，但他们达成的方式却是不尽相同的
+and some of the setups are really convoluted like the thing that I did was kind of really complex and annoying and difficult to set up and painful
+有些方法真的很复杂，就像我的方法，真的很复杂凡人，而且很难做到、很痛苦
+whereas there was a nice intended solution to the puzzle but I never even saw it during my first playthrough 
+而它本身开发者设计的是一个很好的解法，但在我玩的一周目中我甚至没见到过这种解法
+I basically had to cheat and look up the answer before I learned what the intended solution was
+我恐怕得通过作弊或者查找答案才能知道预定的解法是什么
+and I think my experience playing that game would have been a lot better if I had been coerced toward the intended solution more strongly 
+我想，如果我被更有力地迫使去寻找预定解法的话，我玩这个游戏的体验会好很多
+anyways like deductive puzzles kind of need to have unique solutions 
+总之，逻辑推理型的谜题还是需要有独一无二的解法的
+because the flow demands that you sort of prove every step you're not guessing right 
+因为解谜的流程就要求你去证明每一步，毕竟你不是在猜测，是吧？
+so you need to be able to prove every step that you move forward on and therefore you have to just end up with one solution at the end
+所以你每前进一步都需要做出证明，因此必须在最后只得到一个解法
+you wouldn't be able to have deductive flow if the solution wasn't unique
+如果解法不唯一的话，你就不可能有一个演绎推理的思维流
+um so many types of puzzles chess puzzles logic puzzles etc. demand solutions
+所以，许多类型的谜题，如象棋棋谜，逻辑谜题等，都需要（独一无二的）解法
+but many other types of puzzles ought to have unique solutions 
+但是许多其他类型的谜题也应该有唯一的解法
+because of the aesthetics and because of the need to have a unique eureka moment and to force that on the player 
+因为需要一个独特的尤里卡时刻并将其带给玩家
+unique solutions are just a way to facilitate that
+唯一的解法正是促进这一目标的一种方式
+so, I advocate uniqueness whenever somebody asks me
+所以，每当有人问我，我都主张解法要有唯一性
+you know and for those point-and-click adventure games that have multiple solutions to some puzzles
+你知道，对于那些其中谜题有多种解法的点击冒险游戏来说
+that can be okay like 
+（有多种解法）可能问题不大
+there are there are many downsides right like you're doing extra work that the player might not even see
+但也有很多坏处，比如你是在做一些玩家可能根本看不到的无用功
+um sometimes you'll end up with an extra item and not even know what it was for
+有时你在游戏中会得到一个额外的物品，但你甚至不知道它是用来做什么的
+um you know like oh that was for the second possible solution to that puzzle and you never used it 
+你知道，那是给那个谜题的第二种解法用的，但你从来没有用过它
+like you want to have this feeling of every item in the game having had a purpose right 
+你会想有这样的感觉，游戏中的每件物品都应该有一个用途，对吗？
+like I got that thing what was it for um 
+就比如我得到了那个东西，那它有什么用呢？
+if you leave the game without feeling that you understood that purpose 
+如果你在离开游戏时，没有感觉到你理解了那个物品的用途
+then sometimes it can feel a little incomplete or it feels like you know the communication was lost at some point um
+那有时就会感觉到有点不完整，或者就像感觉从某一刻起你失去了与开发者之间的交流
+you know so there's a lot to think about with regards to uniqueness
+所以关于唯一性的问题还是有很多东西需要思考的
 
-that one gives us those two which gives
 
-us that
-
-which then gives us this to sort of
-
-force that which then gives us this to
-
-force that and that's sort of just an
-
-add-on
-
-then those two which finally reveal
-
-where that final light bulb in this row
-
-has to go which is there
-
-so most of our solution path is intact
-
-there's maybe a few places where we
-
-could skip ahead a little bit
-
-do we want to go back back and fix it we
-
-could if we were really trying to go for
-
-a specific
-
-uh look or a specific theme but
-
-the point is you have a lot of freedom
-
-as a puzzle designer to create that and
-
-this method of designing from the front
-
-or forward design allows you to really
-
-have quite tight control
-
-over the solution experience of the
-
-person solving the puzzle
-
-uh if you do it correctly and if you're
-
-good at it which is is hard right like
-
-i've been doing this for many years so i
-
-have some experience with this and
-
-you know i have a sense of like where it
-
-could go wrong or what types of
-
-assumptions i should and shouldn't make
-
-when i'm making these
-
-sort of you know when i'm adding a new
-
-square to the grid how is this going to
-
-affect the solution path based on what
-
-i've created so far and you have to have
-
-a good sense
-
-of how these puzzles solve in order to
-
-be able to do that so some of the best
-
-composers of these puzzles are also the
-
-best solvers of them
-
-because they themselves are able to once
-
-they place one thing in the grid they
-
-can deduce
-
-exactly all that can be deduced from it
-
-and therefore have a really good
-
-understanding of what the solver
-
-experience is going to be
-
-um with logic puzzles that's true
-
-although it's less true with other types
-
-of puzzles like crosswords um i think
-
-there's a famous mike sellinger quote
-
-where he says um you know making a good
-
-crossword versus solving a crossword is
-
-is like
-
-arson versus firefighting and it's not
-
-necessary that
-
-the same person is going to be it's not
-
-necessarily true that the same person is
-
-going to be
-
-good at both arson and firefighting
-
-but with logic puzzles i think it often
-
-is
-
-anyways i'm going to close this
-
-don't need to save it so designing from
-
-the front has a number of benefits
-
-uh you know you can control the flow you
-
-can create these
-
-playful setups and you can hide eureka
-
-moments in really interesting ways
-
-another thing that designing from the
-
-front enables is this sort of deductive
-
-solution where as a solver you're making
-
-logical deductions you're never guessing
-
-right like when you solve a sudoku you
-
-generally aren't guessing you're putting
-
-in a number once you're confident that
-
-that's true
-
-and that means that once you get to the
-
-end and you found a unique solution
-
-you're sort of aware that it is unique
-
-because in solving the puzzle
-
-deductively you have established that
-
-uniqueness
-
-and this can be a source of pleasure as
-
-a solver because it's it's sort of like
-
-the soundness and completeness meeting
-
-together
-
-implying that both the existence and
-
-uniqueness of the puzzle have been
-
-established
-
-and that's different than a puzzle where
-
-you guess and you find the answer and
-
-you don't even know is this the unique
-
-answer is this the only answer
-
-you know this definitively is the unique
-
-answer and you had to find it by sort of
-
-going through
-
-the the motions that were uh
-
-intended for you to go through um and
-
-and that is what enables this
-
-communication because you know that this
-
-is what the puzzle designer
-
-intended you to do when you're solving
-
-it and you're consciously aware of that
-
-and the the puzzle designer is
-
-surprising you with what the next step
-
-is and how it's been laid out
-
-and not just with the you know what the
-
-actual solution is the
-
-the surprising thing at the end of the
-
-puzzle isn't what the final grid looks
-
-like when it's done
-
-it's what was the logic that enabled you
-
-to deduce that that was the only way
-
-it could be and that is is the thing
-
-that elevates
-
-these types of logic puzzles to a
-
-greater aesthetic than a computer
-
-generated sudoku
-
-one of the important things to do is
-
-make the key move or sort of the key
-
-step that you have to do
-
-provably unique if we go back to that
-
-um chess puzzle by sam lloyd
-
-king e2 is the only way to achieve that
-
-made in three
-
-and and the fact that that's true kind
-
-of forces the puzzle
-
-uh the puzzle forces the solver to
-
-uncover the planned eureka moment
-
-that has been set up um and in chess you
-
-know
-
-sometimes there's different responses
-
-like if the player goes king e2
-
-uh the opponent playing black does not
-
-have to respond by queening the pawn the
-
-player
-
-the opponent can respond by just moving
-
-a bishop or doing something else
-
-right and in all of those cases the
-
-player does have mate in three
-
-but the most interesting part of the
-
-puzzle is sort of what do you do against
-
-the most challenging response
-
-and so the fact that there's one key
-
-move on the first move is essential in
-
-all
-
-chess puzzles it's sort of a requirement
-
-of the genre there needs to be a single
-
-unique
-
-key move on turn one but then often in
-
-subsequent turns it can sort of fork and
-
-branch a little bit more depending on
-
-what the opponent does
-
-and it's not you know you need to kind
-
-of find a response to
-
-everything right so the fact that the
-
-later part of the puzzle may not be
-
-unique because of what the opponent can
-
-do doesn't spoil the aesthetics of the
-
-puzzle having a unique key move
-
-puzzles that lack a unique key move are
-
-often called
-
-cooked puzzles meaning you know as in
-
-his goose is cooked it's just like not a
-
-good puzzle or it's not worthy of being
-
-printed
-
-a second solution is often called a duel
-
-or
-
-in video games i've heard it called an
-
-exploit where the player can get around
-
-the intended thing
-
-that the developer was trying to force
-
-them to do
-
-but the player is somehow able to find
-
-an exploit to avoid
-
-doing this and if the purpose of your
-
-puzzle is to conceal a unique
-
-eureka moment then intentionally having
-
-multiple solutions is not a good idea
-
-and accidentally having multiple
-
-solutions
-
-may be a problem that you know you want
-
-your qa to catch if you're doing puzzle
-
-design you want to make sure that your
-
-test solvers are really good at finding
-
-those
-
-multiple solutions and the way you want
-
-them to do that is by by being deductive
-
-solvers that can really try and
-
-establish the uniqueness of every
-
-solution by proving it
-
-um and that's hard for some types of
-
-puzzles especially
-
-uh very stateful puzzles like block
-
-pushing puzzles where there's a million
-
-different states that the puzzle can be
-
-in and it's often very hard
-
-to determine that an alternative way of
-
-solving the puzzle is impossible
-
-you really want to as a puzzle designer
-
-make sure you're slicing off those
-
-rabbit trails and just
-
-making it so that you don't have to
-
-check too deep in order to
-
-make sure that something doesn't happen
-
-i can give you a million examples of
-
-these
-
-which i didn't include in the talk i
-
-think
-
-the one that sticks with me the most is
-
-in steven's sausage roll they have this
-
-level called the tower where there's
-
-eight sausages stacked up and you have
-
-to sort of set them up in this unique
-
-way
-
-um but the way i solved that puzzle was
-
-not the intended way
-
-and the way a number of people solved it
-
-i've checked on youtube and twitch
-
-videos was really not the intended way
-
-um
-
-i mean they ultimately got to the same
-
-final state but the the sort of setup or
-
-the way they went about going about the
-
-setup to get there
-
-uh can vary in a lot of ways and some of
-
-the setups are
-
-really convoluted like the thing that i
-
-did was was kind of
-
-really complex and annoying and and
-
-difficult to set up and painful
-
-whereas there was a nice intended
-
-solution to the puzzle
-
-but i never even saw it during my first
-
-playthrough i basically had to cheat and
-
-look up the answer before i learned what
-
-the intended solution was
-
-and i think my experience playing that
-
-game would have been a lot better if i
-
-had
-
-been coerced toward the intended
-
-solution more
-
-strongly anyways
-
-like deductive puzzles kind of need to
-
-have unique solutions because
-
-the the flow demands that you sort of
-
-prove
-
-every step you're not guessing right so
-
-you need to be able to prove every step
-
-that you move forward on and therefore
-
-you have to just end up with one
-
-solution at the end
-
-you wouldn't be able to have deductive
-
-flow if the solution wasn't unique
-
-um so many types of puzzles chess
-
-puzzles logic puzzles etc demand
-
-solutions
-
-but many other types of puzzles ought to
-
-have unique solutions
-
-because of the aesthetics and because of
-
-the need to have a unique eureka moment
-
-and to force that on the player unique
-
-solutions are just a way to facilitate
-
-that
-
-so i advocate uniqueness whenever
-
-somebody asks me
-
-you know and for those point-and-click
-
-adventure games that have multiple
-
-solutions to some puzzles
-
-that can be okay like there are there
-
-are many downsides right like you're
-
-you're doing extra work that the player
-
-might not even see
-
-um sometimes you'll end up with an extra
-
-item and not even know what it was for
-
-um you know like like oh that was for
-
-the second possible
-
-solution to that puzzle and you never
-
-used it like like you want to have this
-
-feeling of every item in the game having
-
-had a purpose right like i got that
-
-thing what was it for
-
-um if you leave the game without feeling
-
-that you understood that purpose then
-
-sometimes it can feel a little
-
-incomplete or it feels like
-
-you know the communication was lost at
-
-some point um
-
-you know so there's there's a lot to
-
-think about with regards to uniqueness
 
 moving on let's talk about themes
 
