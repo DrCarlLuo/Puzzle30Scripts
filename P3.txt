@@ -663,670 +663,187 @@ you know so there's a lot to think about with regards to uniqueness
 所以关于唯一性的问题还是有很多东西需要思考的
 
 
-
 moving on let's talk about themes
-
-adding a theme to puzzles can bring
-
-value in many different ways
-
-one example that i will give are are
-
-burr puzzles
-
-or or kamiki puzzles kumiki puzzles are
-
-japanese animal themed burr puzzles
-
-i have one right here this is sort of
-
-themed as a pig
-
-uh i can show you too it's it's a cool
-
-puzzle it's cute it's not particularly
-
-difficult but it has this move where you
-
-have to press the nose in and then
-
-that's
-
-what's required to sort of get out the
-
-first piece uh
-
-you press the nose in and it's it's just
-
-kind of quaint and clever
-
-um as opposed to just a regular old burr
-
-puzzle
-
-which is uh you know just a bunch of
-
-wooden sticks that you have to notch
-
-together there's there's something a
-
-little bit more
-
-and uh it can also help you kind of
-
-remember what you're doing like when you
-
-have the pieces laid out on the table
-
-and you're trying to put this thing back
-
-together
-
-um you realize well okay that's the ears
-
-that's the legs that's the
-
-you know the the language of where
-
-things go and how things fit together
-
-uh can somehow uh be easier if the theme
-
-is there
-
-uh i'll show you a couple of other
-
-examples these are slither links
-
-on the left is one by circonurekly and
-
-this was done
-
-for the indian national puzzle
-
-championship
-
-uh maybe like six seven years ago i it's
-
-done in the theme of i'm not sure if
-
-it's a lily pad or a lotus flower or
-
-some kind of
-
-uh elaborate geometric design but that
-
-design
-
-actually makes the slitherling puzzle
-
-more interesting like there is a vertex
-
-of degree
-
-17 in the middle of this puzzle which
-
-you know you never see in a normal
-
-uh slither link with square geometry and
-
-sort of these two twos over here and the
-
-way they
-
-uh relate to this degree high degree
-
-vertex in the middle that's actually
-
-the break into this puzzle the essential
-
-part of the solution is to kind of
-
-work out how that might function um
-
-and so it's it's not just aesthetic for
-
-the sake of aesthetics it also
-
-lends itself to the solution the puzzle
-
-which is amazing
-
-the one on the right is a um
-
-slither link puzzle where the 0 1 2 and
-
-3 numbers
-
-have been replaced by the the four
-
-letters
-
-m-o-m-o-a-y in some order
-
-and figuring out that order is part of
-
-the puzzle um
-
-and this was also published on mother's
-
-day on grandmaster puzzles and it has
-
-the words mama
-
-mama mommy you know in in in a bunch of
-
-uh corners of the grid you know mama is
-
-there like it's
-
-it's just kind of cute and clever and
-
-interesting but it's also a valid
-
-slitherlink
-
-uh and you know it just adds some little
-
-bit of extra sparkle or spice to this
-
-puzzle
-
-um another benefit is like when you're
-
-creating these puzzles
-
-sometimes you know it's like a blank
-
-page you don't know what to do what you
-
-want to create and coming up with a good
-
-theme
-
-can lead you in the direction of uh
-
-concretizing your ideas and having some
-
-kind of uh
-
-you know key thing to frame your puzzle
-
-around like themes allow you to
-
-have a purpose to your puzzle beyond
-
-just you know make one more of the same
-
-type of
-
-logic puzzle or crossword puzzle or
-
-you know wood puzzle whatever it is
-
-you're making
-
-so you get this additional aesthetic
-
-value but but it's also useful as a
-
-constructor to be able to have them
-
-it also makes the puzzles more memorable
-
-because you know everybody knows oh that
-
-like 17 degrees slitherlink or that
-
-mother's day puzzle right it it
-
-uh gives a short description to the
-
-puzzle and
-
-allows it to have a place in your brain
-
-where it sort of sticks out
-
-the converse to that is don't be clever
-
-in ways that the solver will never
-
-notice
-
-uh there are some themes that people
-
-think of as an idea for a crossword that
-
-uh
-
-maybe make the crossword worse here's a
-
-crossword
-
-uh it's it's actually quite a remarkable
-
-construction
-
-it is a quintuple pangram meaning every
-
-letter of the alphabet from a to z
-
-has been used five times in this grid so
-
-you will notice there are five
-
-queues in the grid there are five x's
-
-and there are five zeds
-
-um and five j's and so on like
-
-so really uh the constructor here had to
-
-get in a lot of
-
-interesting words you could see like so
-
-five qs means there are ten
-
-keywords in this uh crossword because
-
-they are both across
-
-and down um so you know there's there's
-
-barbecue and square feet and
-
-quirk and quack and quintuple and quick
-
-and down quark uh q-tip right so a lot
-
-of
-
-interesting and flavorful q words but
-
-there's also some words that are kind of
-
-not
-
-that great that that you wouldn't want
-
-in a crossword there's there's
-
-dxix for example like what what is that
-
-uh i will show you in a moment um let's
-
-i'll share this quote with you which is
-
-from the late nancy solomon who passed
-
-away just a couple of months ago she is
-
-a
-
-godmother to all crossword creators with
-
-her famous
-
-sage advice uh blog um
-
-you know she she shares that a plethora
-
-of x's zed's cues and jays and the like
-
-will buy you nothing but
-
-rejections if you pay too high a price
-
-for them um
-
-and so here's a couple of examples one
-
-clue is albuquerque's home and the
-
-answer is
-
-nmex like it's supposed to be the state
-
-of new mexico
-
-but who writes nmex for new mexico like
-
-you might write nm
-
-uh this is kind of a weird abbreviation
-
-that feels
-
-kind of off and wrong and is that really
-
-the answer you want in your crossword
-
-you know the dxix is is 519 in old rome
-
-it is a roman numeral clue
-
-and let me tell you that the the number
-
-of times you've seen these if you've
-
-been doing crosswords long enough it
-
-always elicits a groan
-
-and it's always like well i guess if you
-
-had to
-
-if you really had to but like putting
-
-numbers
-
-in a crossword grid is kind of you know
-
-once you've seen it once you've seen it
-
-and like the point is you're paying
-
-sort of in the sparkle and the
-
-liveliness of the clues and the quality
-
-of the fill
-
-uh in order to achieve this goal of a
-
-quintuple pangram
-
-so the question is like you know what is
-
-what are you willing to do
-
-for your art right and are you making
-
-this as something that is designed to be
-
-pleasurable for the solver or are you
-
-making this as a work of art
-
-maybe if if you're making this as a work
-
-of art then it's worth it
-
-um but if your goal is to make it as
-
-something that's pleasurable for the
-
-solver then you've got to be a little
-
-bit careful
-
-um this puzzle is by david c duncan
-
-decker and it is a remarkable puzzle
-
-um and i think that as far as a
-
-quintuple pan gram goes it's not
-
-that bad like there's actually some good
-
-words in here it's
-
-mostly lively fill there's not
-
-too many like really tenuous ones but
-
-there are some and it's just unavoidable
-
-when you're trying to achieve a goal
-
-this lofty i can think of all the
-
-puzzles that i've like
-
-wasted hours and hours trying to finish
-
-um it was because i was trying to
-
-achieve some kind of aesthetic goal that
-
-was just not cooperating and i tried one
-
-thing and it didn't work tried another
-
-thing didn't work and constantly having
-
-to back
-
-out and a lesson hard learned is to
-
-not make your goals too difficult and
-
-especially not to compromise on the
-
-quality of the puzzle in order to
-
-achieve them
-
-i will show you one more example this is
-
-the cast elk puzzle
-
-where is it i had it on my desk at some
-
-point
-
-is it on my shelf
-
-it's hiding my my desk has a lot of
-
-stuff on it where is it there it is okay
-
-uh here we go so this is a puzzle called
-
-the cast elk it's published by hanayama
-
-uh it's actually a really cool puzzle so
-
-there's these two
-
-uh they're basically interlocked
-
-semicircular sort of c-shaped rings that
-
-are themed like a deer with
-
-antlers or an elk i guess you know is
-
-what it's called and you kind of have to
-
-slip them past each other and then sort
-
-of like
-
-rotate them sideways a bit and then they
-
-come apart
-
-and you can reverse that to push them
-
-back together the thing that's
-
-interesting about these is that
-
-well my my spouse alissa had this as a
-
-teenager
-
-and she was able to solve the puzzle but
-
-she never
-
-actually noticed the trick and the trick
-
-is that when you have these
-
-two things together um and you try to
-
-slip when you try to do this move
-
-it actually most of the time will not
-
-work uh and it's because
-
-these uh sort of tips of the antlers
-
-uh are not all the same length uh there
-
-are
-
-two antler tips in this that are shorter
-
-than all of the rest
-
-and when you have this interlock c shape
-
-there's four kind of ways of
-
-taking it apart that seem like they're
-
-isometric but they're actually not
-
-because the antlers are not the same
-
-length so
-
-my spouse spent her teenage years not
-
-realizing why sometimes she could solve
-
-this puzzle and sometimes not
-
-and when you go to put it back together
-
-it's even worse because there's actually
-
-eight possible ways of putting it
-
-together only one of which works
-
-um and so it's kind of like a cruel joke
-
-played by the puzzle designer
-
-and if you're in on it it's great you
-
-know once you know the secret it seems
-
-clever but when you're solving it it
-
-just seems kind of
-
-like a bit baffling and it can leave you
-
-with this feeling of like not really
-
-understanding what the intent of the
-
-puzzle designer was
-
-um and so i i think the the lesson is
-
-that it would be great if after you
-
-solved this puzzle you could sort of
-
-open a fortune cookie and learn
-
-by the way the secret is this um because
-
-understanding that secret is sort of
-
-having the eureka moment and if you
-
-solve the puzzle without having a eureka
-
-moment then
-
-uh part of the aesthetic value of that
-
-puzzle is lost on you
-
-and i can't count the number of times
-
-where i've i've watched somebody solve a
-
-video game puzzle and they accidentally
-
-find the solution and move on and
-
-they're sort of missing out on the
-
-beauty that lies within that puzzle
-
-because they haven't discovered
-
-that the deeper secret lying within and
-
-i mean many video game puzzles simply do
-
-not have a deeper a deeper secret lying
-
-within
-
-uh but when they do i think you know
-
-my goal is always to allow the player to
-
-experience that deeper secret to let
-
-them in on the joke to sort of maximize
-
-their exposure to the eureka moment even
-
-if it means
-
-telling them afterwards what is the
-
-thing that they were supposed to have
-
-figured out
-
-um because to me experiencing the eureka
-
-moment is the important part of the
-
-puzzle
-
-now maybe you want to leave that secret
-
-in there maybe you want it to be
-
-something that somebody can come back to
-
-maybe you want it to be
-
-you know a book that when you read it
-
-the second time you uh
-
-learn a little bit more there's a little
-
-bit of depth that you can uncover
-
-in the second reading right that that
-
-could be an option too but it's just
-
-something to think about
-
-um and and you know that's that's
-
-the end of this example i guess um next
+继续下一课，我们来谈一谈“主题”
+adding a theme to puzzles can bring value in many different ways
+为谜题添加一个主题可以在很多方面带来价值
+one example that I will give are burr puzzles or kumiki puzzles 
+我举一个例子，就是一般的孔明锁（Burr Puzzle）和“組木”（Kumiki Puzzle）
+kumiki puzzles are Japanese animal themed burr puzzles
+組木 是日本的以动物为主题的孔明锁
+I have one right here 
+我这里就有一个 
+this is sort of themed as a pig
+这个是以猪为主题的
+uh I can show you too it's a cool puzzle 
+我给你看看，这是一个很酷的谜题
+it's cute it's not particularly difficult 
+很可爱，也不是特别难 
+but it has this move where you have to press the nose in 
+但它有个操作，你必须得把鼻子按进去
+and then that's what's required to sort of get out the first piece uh
+然后才能取出第一块组件
+you press the nose in and it's just kind of quaint and clever
+你得把鼻子按进去，这设计得很巧妙、聪明
+um as opposed to just a regular old burr puzzle which is uh you know just a bunch of wooden sticks that you have to notch together 
+而左边普通的孔明锁，相比较起来就是一堆木棍，你得把它们拼合在一起
+there's something a little bit more
+右边的谜题有些更多的东西
+and uh it can also help you kind of remember what you're doing 
+而且它还能帮助你记住正在做什么 
+like when you have the pieces laid out on the table and you're trying to put this thing back together
+比如说你把所有的组件放在桌子上，你想把这个东西拼起来的时候
+um you realize well okay that's the ears that's the legs 
+你会意识到，好吧，那个是耳朵，那个是腿
+that's the you know the language of where things go and how things fit together uh can somehow uh be easier if the theme is there
+如果有主题的话，就会形成关于这个谜题的语言，拼起来也更简单一下
+uh I’ll show you a couple of other examples these are slitherlinks
+我给你看几个其他的例子，这些是数回谜题
+on the left is one by Serkan Yürekli and this was done for the Indian national puzzle championship uh maybe like six seven years ago 
+左边这个是Serkan Yürekli为印度全国谜题锦标赛设计的，大概6、7年前做的
+it's done in the theme of I’m not sure if it's a lily pad or a lotus flower or some kind of uh elaborate geometric design 
+它的主题是...... 我不确定这是睡莲还是莲华，或者是某种精心设计的几何图形
+but that design actually makes the slitherlinks puzzle more interesting 
+但这一设计实际上使得数回谜题更有趣
+like there is a vertex of degree 17 in the middle of this puzzle which you know you never see in a normal uh slither link with square geometry 
+比如这个谜题中间有个17度的顶点，在普通方形的数回谜题中是看不到的
+and sort of these two twos over here and the way they uh relate to this degree high degree vertex in the middle that's actually the break into this puzzle 
+而这里的两个2，它们如何与中间这个点的度数相关的，正是这个谜题的突破点
+the essential part of the solution is to kind of work out how that might function 
+而这个谜题最关键的点就是找出这部分是如何起作用的
+um and so it's not just aesthetic for the sake of aesthetics it also lends itself to the solution the puzzle which is amazing
+所以这不仅仅为了美学的目的，这也支持着这个谜题的解，这很了不起
+the one on the right is a slitherlink puzzle 
+右边这个也是一个数回谜题
+where the 0,1,2, and 3 numbers have been replaced by the four letters M, O, A, Y in some order 
+0,1,2,3这几个数字被M,O,A,Y这四个字母按一定顺序取代了 
+and figuring out that order is part of the puzzle 
+而弄清这个顺序也是谜题的一部分
+um and this was also published on Mother’s Day on grandmaster puzzles
+这个谜题是在母亲节那天发表在Grandmaster Puzzles上的
+and it has the words mama mommy you know in in in a bunch of uh corners of the grid 
+上面有“MAMA”“MOMMY”的字样，在角落里
+you know mama is there like it's just kind of cute and clever and interesting 
+这是一种有点可爱、聪明、有趣的设计
+but it's also a valid slitherlink
+但它也是一个有效的数回谜题
+uh and you know it just adds some little bit of extra sparkle or spice to this puzzle
+这就给谜题带来了些额外的Sparkle和趣味
+um another benefit is like when you're creating these puzzles 
+另一个好处是，当你创作谜题的时候
+sometimes you know it's like a blank page you don't know what to do what you want to create
+有时你就像拿出了一张白纸，你不知道该做什么，你想创造什么
+and coming up with a good theme can lead you in the direction of uh concretizing your ideas
+而想出一个好的主题可以引导你把你的想法具体化
+and having some kind of uh you know key thing to frame your puzzle around 
+以及给你一些你可以围绕着表达的关键点
+like themes allow you to have a purpose to your puzzle 
+就像说主题可以让你的谜题有一个目的
+beyond just you know make one more of the same type of logic puzzle or crossword puzzle or you know wood puzzle whatever it is you're making
+而不仅仅是做一个相同类型的逻辑谜题或填字游戏或木制谜题之类的
+so, you get this additional aesthetic value but it's also useful as a constructor to be able to have them
+所以，你得到了额外的美学价值，但作为创作者，拥有主题（对构造谜题）也是很有用的
+it also makes the puzzles more memorable 
+它也让谜题更容易被记住
+because you know everybody knows oh that like 17 degrees slitherlink or that mother's day puzzle right 
+因为，比如说，每个人都能记得那个17度的数回或那个母亲节的谜题，对吗？
+it uh gives a short description to the puzzle and allows it to have a place in your brain where it sort of sticks out
+它为谜题提供了一个简短的描述，让它在你的大脑中占有一席之地，让它变得更加突出
+
+
+the converse to that is "don't be clever in ways that the solver will never notice"
+而与之相反的是「不要在解谜者注意不到的地方耍小聪明」
+uh there are some themes that people think of as an idea for a crossword that uh maybe make the crossword worse 
+有一些人们可能认为是填字游戏的主题，可能实际上会让谜题变得更糟
+here's a crossword
+这里有个填字游戏
+uh it's actually quite a remarkable construction
+这实际上是个很了不起的构造
+it is a quintuple pangram meaning every letter of the alphabet from a to z has been used five times in this grid 
+这是一个“Quintuple Pangram”，意思是网格状从A到Z每个字母都正好用了5次
+so, you will notice there are five Q’s in the grid there are five X’s and there are five Z’s and five J's and so on like
+所以，你会注意到网格中有五个Q，五个X，五个Z，五个J，等等
+so really uh the constructor here had to get in a lot of interesting words 
+所以，创作者必须得在这里面加入很多有趣的词语 
+you could see like so five Qs means there are ten keywords in this uh crossword 
+你可以看到五个Q意味着这个字谜里有十个关键词里有Q
+because they are both across and down um 
+因为既有横着的也有竖着的
+so, you know there's barbecue and square feet and quirk 
+所以你知道，这里有Barbecue（烤肉）、SQFT（square feet平方英尺）
+and quack and quintuple and 
+Quirk（怪癖）、Quack（呱呱叫）、Quintuple（五元组）
+quick and downquark uh q-tip right 
+Quick（快）、Downquark（下夸克）、Q-TIP
+so, a lot of interesting and flavorful q words 
+所以，有很多有趣的有意思的含q的词 
+but there's also some words that are kind of not that great that that you wouldn't want in a crossword 
+但也有一些词不是很好，是那种你不会想在填字游戏中出现的词 
+there's dxix for example like what is that 
+比如说DXIX，那是什么？
+I will show you in a moment um let's
+我待会给你们看
+I’ll share this quote with you which is from the late Nancy Salomon who passed away just a couple of months ago 
+我和你们分享下这段话，这来自已故的Nancy Salomon，她在几个月前刚刚去世
+she is a godmother to all crossword creators with her famous sage advice uh blog um
+她是所有填字游戏创作者的教母，有这样一篇著名的叫“Sage Advice”的博客
+（译者注：Sage Advice这篇博客可以在cruciverb.com上搜索到，这是供新手填字游戏创作者学习的一篇文章）
+you know she shares that "a plethora of X’s, Z’s, Q’s, J’s and the like will buy you nothing but rejections if you pay too high a price for them."
+她分享说：“如果你为过多的X、Z、Q、J单词付出太多的代价，这只会让你的填字游戏被出版商退稿”
+（译者注：这句话我个人是这么理解的，如果有误还望指正）
+and so, here's a couple of examples 
+所以，这里面有这么几个例子
+one clue is Albuquerque’s home and the answer is NMEX 
+一个谜面是“阿尔伯克基的所在地”，答案是NMEX
+like it's supposed to be the state of New Mexico 
+这个答案本来应该是 新墨西哥州
+（译者注：Albuquerque 阿尔伯克基/阿尔布开克/阿布奎基，是新墨西哥州最大的城市）
+but who writes NMEX for New Mexico, like you might write NM
+但谁会把新墨西哥州缩写成NMEX，最多也就写成NM
+uh this is kind of a weird abbreviation that feels kind of off and wrong 
+这是一种奇怪的缩写，感觉有点不对、不太行
+and is that really the answer you want in your crossword?
+这真的是你在填字游戏中想要的答案吗？
+you know the DXIX is 519 in old Rome it is a Roman numeral clue 
+而DXIX则是罗马数字的519，这是个罗马数字的线索
+and let me tell you that the number of times you've seen these if you've been doing crosswords long enough it always elicits a groan
+让我告诉你，如果你玩填字游戏的时间够久，每次见到这种线索，总会引起一声叹息
+and it's always like well I guess if you had to if you really had to but like putting numbers in a crossword grid is kind of 
+我想如果你真的不得不这么做…但把数字放到填字游戏里有点…
+you know once you've seen it once, you've seen it
+你懂得，一旦你见过一次，你也就见过了
+and like the point is you're paying sort of in the sparkle and the liveliness of the clues and the quality of the fill uh in order to achieve this goal of a quintuple pangram
+重点是，你为了达到每个字母用五次的目标，你牺牲了谜题的闪光点、生动性和质量
+so, the question is like you know what is what are you willing to do for your art right?
+所以，问题是，为了艺术性你愿意付出什么？
+and are you making this as something that is designed to be pleasurable for the solver or are you making this as a work of art
+你是为了让解谜者感到愉悦，还是把它当作一件艺术品来做？
+maybe if you're making this as a work of art then it's worth it
+如果你把它作为一件艺术作品，那么它就值得
+but if your goal is to make it as something that's pleasurable for the solver then you've got to be a little bit careful
+但如果你的目标是让解谜者感到愉悦，那你就得小心一点了
+this puzzle is by David C. Duncan Dekker and it is a remarkable puzzle 
+这道谜题的作者是David C. Duncan Dekker，而这是一道了不起的谜题 
+and I think that as far as a quintuple pangram goes it's not that bad like there's actually some good words in here 
+我认为就每个字母用五次这种谜题而言，它并没有那么糟糕，这里面还是有些好词的 
+it's mostly lively fill there's not too many like really tenuous ones 
+大部分都是充满生动性的词，没有太多浅薄的词
+but there are some and it's just unavoidable when you're trying to achieve a goal this lofty 
+但总还是有一些的，而这是当你想实现如此高的目标时所难以避免的
+I can think of all the puzzles that I’ve like wasted hours and hours trying to finish 
+我回想我那些浪费了很多时间来尝试创作的谜题
+it was because I was trying to achieve some kind of aesthetic goal that was just not cooperating
+那都是因为我试图达到某种美学目标，但却难以与其他方面配合到一起
+and I tried one thing and it didn't work tried another thing didn't work 
+我试了一件事，但没有成功，又试了另一件事也没有成功 
+and constantly having to back out and a lesson hard learned is to not make your goals too difficult 
+只能一次次放弃，而我学到的一个惨痛教训是，不要让你的目标太难以实现
+and especially not to compromise on the quality of the puzzle in order to achieve them
+尤其是不要为了实现这些目标而牺牲了谜题的质量
+
+
+
+um next
 
 lesson is the format
 
