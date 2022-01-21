@@ -1164,3 +1164,619 @@ Dialogue: 1,0:44:53.47,0:44:57.25,Eng,,0,0,0,,{\fad(120,120)}but they do a good 
 Dialogue: 0,0:44:53.47,0:44:57.25,Chi,,0,0,0,,{\fad(120,120)}不过（纸上游戏）在让人通过记笔记感到取得进展这方面做得很好
 Dialogue: 1,0:44:57.25,0:45:01.98,Eng,,0,0,0,,{\fad(120,120)}and that's how they're able to access their depth in a way that isn't too annoying
 Dialogue: 0,0:44:57.25,0:45:01.98,Chi,,0,0,0,,{\fad(120,120)}这就是他们如何能够以一种不太令人讨厌的方式拓展它们游戏的深度
+Dialogue: 1,0:45:01.98,0:45:08.51,Eng,,0,0,0,,{\fad(120,120)}related to that “beware of the temptations offered by the interactive medium”
+Dialogue: 0,0:45:01.98,0:45:08.51,Chi,,0,0,0,,{\fad(120,120)}与此相关的是，「当心互动媒介带来的诱惑」
+Dialogue: 1,0:45:08.51,0:45:13.50,Eng,,0,0,0,,{\fad(120,120)}um you know there are certain things that players are often or sorry
+Dialogue: 0,0:45:08.51,0:45:13.50,Chi,,0,0,0,,{\fad(120,120)}你知道有这么些东西
+Dialogue: 1,0:45:13.50,0:45:17.47,Eng,,0,0,0,,{\fad(120,120)}that puzzle creators and video games are often tempted to put in their puzzles
+Dialogue: 0,0:45:13.50,0:45:17.47,Chi,,0,0,0,,{\fad(120,120)}经常会吸引谜题创作者和电子游戏设计师去把这些东西加入到谜题当中
+Dialogue: 1,0:45:17.47,0:45:25.73,Eng,,0,0,0,,{\fad(120,120)}that uh especially sort of novice puzzle designers in video games uh would possibly be advised to avoid
+Dialogue: 0,0:45:17.47,0:45:25.73,Chi,,0,0,0,,{\fad(120,120)}特别是对于新手电子游戏设计师，他们应该被建议去避开这些东西
+Dialogue: 1,0:45:25.73,0:45:28.99,Eng,,0,0,0,,{\fad(120,120)}and I say this with a lot of deliberate nuance um
+Dialogue: 0,0:45:25.73,0:45:28.99,Chi,,0,0,0,,{\fad(120,120)}我在说这句话的时候有很多刻意的细微差别
+Dialogue: 1,0:45:28.99,0:45:31.42,Eng,,0,0,0,,{\fad(120,120)}but one example is physics
+Dialogue: 0,0:45:28.99,0:45:31.42,Chi,,0,0,0,,{\fad(120,120)}其中一个例子是物理元素
+Dialogue: 1,0:45:31.42,0:45:35.65,Eng,,0,0,0,,{\fad(120,120)}um you know if you have unity or unreal or whatever there's this physics in the game
+Dialogue: 0,0:45:31.42,0:45:35.65,Chi,,0,0,0,,{\fad(120,120)}如果你用Unity或虚幻或者其他游戏引擎，里面有物理引擎的话
+Dialogue: 1,0:45:35.65,0:45:40.25,Eng,,0,0,0,,{\fad(120,120)}it's very tempting to just use those built-in physics systems as ways to create puzzles
+Dialogue: 0,0:45:35.65,0:45:40.25,Chi,,0,0,0,,{\fad(120,120)}那么用内置的物理引擎来创作谜题是件很吸引人的事情
+Dialogue: 1,0:45:40.25,0:45:43.52,Eng,,0,0,0,,{\fad(120,120)}you know you have rolling balls you have cubes that move under gravity
+Dialogue: 0,0:45:40.25,0:45:43.52,Chi,,0,0,0,,{\fad(120,120)}你知道，你可以有滚动的球、在重力作用下移动的立方体
+Dialogue: 1,0:45:43.52,0:45:48.06,Eng,,0,0,0,,{\fad(120,120)}you can place on buttons or be placed to jump on etc.
+Dialogue: 0,0:45:43.52,0:45:48.06,Chi,,0,0,0,,{\fad(120,120)}你可以放东西在按钮上，或者站到一些地方来跳跃等等
+Dialogue: 1,0:45:48.06,0:45:54.78,Eng,,0,0,0,,{\fad(120,120)}um the problem is that puzzles are often about eureka moments that are sort of about discrete state spaces
+Dialogue: 0,0:45:48.06,0:45:54.78,Chi,,0,0,0,,{\fad(120,120)}问题是，谜题是关于尤里卡时刻的，而尤里卡时刻往往是关于离散状态空间的
+Dialogue: 1,0:45:54.78,0:45:58.24,Eng,,0,0,0,,{\fad(120,120)}you know what is necessary in order to get here or to do this
+Dialogue: 0,0:45:54.78,0:45:58.24,Chi,,0,0,0,,{\fad(120,120)}比如说，为了到达这里或者为了做到这件事，什么是必须的
+Dialogue: 1,0:45:58.24,0:46:06.37,Eng,,0,0,0,,{\fad(120,120)}and physics lives in a continuous space and sometimes it's just not as nice to reason about a continuous space as a discrete one
+Dialogue: 0,0:45:58.24,0:46:06.37,Chi,,0,0,0,,{\fad(120,120)}而物理元素则是在连续空间中，有时候对连续空间的推理并不像对离散空间的推理那样好
+Dialogue: 1,0:46:06.37,0:46:11.04,Eng,,0,0,0,,{\fad(120,120)}you know if you're trying to like aim a thing to see if you know the ball can get over there
+Dialogue: 0,0:46:06.37,0:46:11.04,Chi,,0,0,0,,{\fad(120,120)}比如，如果你想瞄准一个位置看球能不能扔过去
+Dialogue: 1,0:46:11.04,0:46:15.71,Eng,,0,0,0,,{\fad(120,120)}sometimes it's not clear like can the ball make it over there or can it not
+Dialogue: 0,0:46:11.04,0:46:15.71,Chi,,0,0,0,,{\fad(120,120)}有时候并不太清楚这个球能不能被扔得过去
+Dialogue: 1,0:46:15.71,0:46:22.56,Eng,,0,0,0,,{\fad(120,120)}you know did I just aim it wrong I need to aim a little higher or move a little closer or is it fundamentally impossible
+Dialogue: 0,0:46:15.71,0:46:22.56,Chi,,0,0,0,,{\fad(120,120)}是我瞄错了，我需要瞄高一点吗，或者靠近点，还是说根本就不可能？
+Dialogue: 1,0:46:22.56,0:46:30.49,Eng,,0,0,0,,{\fad(120,120)}and sort of the projection from that continuous space down to that discrete space removes the clarity of the solver when they're trying to analyze the puzzle and what to do
+Dialogue: 0,0:46:22.56,0:46:30.49,Chi,,0,0,0,,{\fad(120,120)}当解谜者尝试分析谜题和该做什么时，这种从连续空间到离散空间的映射会使他们失去明确性
+Dialogue: 1,0:46:30.49,0:46:39.65,Eng,,0,0,0,,{\fad(120,120)}if your goal is to make a clear game that presents its uniqueness moments with as clear state of possible that as possible
+Dialogue: 0,0:46:30.49,0:46:39.65,Chi,,0,0,0,,{\fad(120,120)}如果你的目标是制作一个，以尽可能明确清晰的状态来展示其独特时刻的游戏
+Dialogue: 1,0:46:39.65,0:46:42.27,Eng,,0,0,0,,{\fad(120,120)}then physics can be a thing that makes that harder
+Dialogue: 0,0:46:39.65,0:46:42.27,Chi,,0,0,0,,{\fad(120,120)}那么物理元素就会使之变得更难
+Dialogue: 1,0:46:42.27,0:46:44.70,Eng,,0,0,0,,{\fad(120,120)}another thing that can make it harder is statefulness
+Dialogue: 0,0:46:42.27,0:46:44.70,Chi,,0,0,0,,{\fad(120,120)}另一个可能使之更难的东西是多状态性
+Dialogue: 1,0:46:44.70,0:46:48.41,Eng,,0,0,0,,{\fad(120,120)}um the paper-based puzzles you know they're stateless
+Dialogue: 0,0:46:44.70,0:46:48.41,Chi,,0,0,0,,{\fad(120,120)}纸上谜题通常是无状态的
+Dialogue: 1,0:46:48.41,0:46:52.19,Eng,,0,0,0,,{\fad(120,120)}in the sense that there aren't things moving around there's not blocks that you can push
+Dialogue: 0,0:46:48.41,0:46:52.19,Chi,,0,0,0,,{\fad(120,120)}上面没有什么东西需要移动，没有方块需要你去推动
+Dialogue: 1,0:46:52.19,0:46:54.94,Eng,,0,0,0,,{\fad(120,120)}they are just you know provide the answer to this puzzle
+Dialogue: 0,0:46:52.19,0:46:54.94,Chi,,0,0,0,,{\fad(120,120)}他们只是为这个谜题提供答案
+Dialogue: 1,0:46:54.94,0:46:59.55,Eng,,0,0,0,,{\fad(120,120)}they are they are puzzles where you have to supply a certificate that obeys certain mathematical rules
+Dialogue: 0,0:46:54.94,0:46:59.55,Chi,,0,0,0,,{\fad(120,120)}这些谜题中你只需要给出一个满足特定数学规则的证明
+Dialogue: 1,0:46:59.55,0:47:03.71,Eng,,0,0,0,,{\fad(120,120)}um whereas if you have a block pushing puzzle like Sokoban
+Dialogue: 0,0:46:59.55,0:47:03.71,Chi,,0,0,0,,{\fad(120,120)}而如果你有一个推动方块的谜题，比如推箱子
+Dialogue: 1,0:47:03.71,0:47:07.68,Eng,,0,0,0,,{\fad(120,120)}that puzzle can be in a lot of different states depending on where the boxes are
+Dialogue: 0,0:47:03.71,0:47:07.68,Chi,,0,0,0,,{\fad(120,120)}这个谜题可以有很多不同的状态，取决于方块的位置
+Dialogue: 1,0:47:07.68,0:47:16.57,Eng,,0,0,0,,{\fad(120,120)}and it's often very difficult to reason about what can and cannot be done or what is and is not possible because of the complexity of that state space
+Dialogue: 0,0:47:07.68,0:47:16.57,Chi,,0,0,0,,{\fad(120,120)}而由于状态空间的复杂性，通常很难推理出什么可以做什么不能做、什么是可能的什么不可能
+Dialogue: 1,0:47:16.57,0:47:24.00,Eng,,0,0,0,,{\fad(120,120)}statefulness can make it harder to understand that this eureka moment was necessary or that I had to move through this bottleneck
+Dialogue: 0,0:47:16.57,0:47:24.00,Chi,,0,0,0,,{\fad(120,120)}多状态性会让人更加难以理解这个尤里卡时刻的必要性，或必须通过这个瓶颈的必要性
+Dialogue: 1,0:47:24.00,0:47:26.88,Eng,,0,0,0,,{\fad(120,120)}because it just seems like there are so many things to try
+Dialogue: 0,0:47:24.00,0:47:26.88,Chi,,0,0,0,,{\fad(120,120)}因为看起来有很多事情可以尝试
+Dialogue: 1,0:47:26.88,0:47:36.22,Eng,,0,0,0,,{\fad(120,120)}and achieving the sort of clarity of a puzzle with a unique eureka moment is much harder when the state space of your puzzle is exponentially large
+Dialogue: 0,0:47:26.88,0:47:36.22,Chi,,0,0,0,,{\fad(120,120)}当你谜题的状态空间是指数级的大时，要实现明确的具有独特尤里卡时刻的谜题就更难了
+Dialogue: 1,0:47:36.22,0:47:40.45,Eng,,0,0,0,,{\fad(120,120)}because you have you know 10 different boxes all of which can be moved around
+Dialogue: 0,0:47:36.22,0:47:40.45,Chi,,0,0,0,,{\fad(120,120)}因为就比如说你有10个不同的箱子，而所有这些箱子都可以被移动
+Dialogue: 1,0:47:40.45,0:47:43.45,Eng,,0,0,0,,{\fad(120,120)}linearity I already mentioned
+Dialogue: 0,0:47:40.45,0:47:43.45,Chi,,0,0,0,,{\fad(120,120)}我之前已经提到过线性游戏的问题
+Dialogue: 1,0:47:43.45,0:47:48.57,Eng,,0,0,0,,{\fad(120,120)}and plot-driven puzzle games fits into there because you often have the urge to make them linear
+Dialogue: 0,0:47:43.45,0:47:48.57,Chi,,0,0,0,,{\fad(120,120)}情节驱动的解谜游戏也是如此，因为你经常会有一种把情节驱动游戏做成线性的冲动
+Dialogue: 1,0:47:48.57,0:47:54.27,Eng,,0,0,0,,{\fad(120,120)}if your puzzles come in a linear sequence where one depends on the previous and depends on the previous
+Dialogue: 0,0:47:48.57,0:47:54.27,Chi,,0,0,0,,{\fad(120,120)}如果你的谜题是一个线性的序列，其中一个取决于前一个，另一个又取决于前一个
+Dialogue: 1,0:47:54.27,0:47:56.51,Eng,,0,0,0,,{\fad(120,120)}game designers tend to gravitate towards this
+Dialogue: 0,0:47:54.27,0:47:56.51,Chi,,0,0,0,,{\fad(120,120)}电子游戏设计师倾向于被这种方法吸引
+Dialogue: 1,0:47:56.51,0:48:03.29,Eng,,0,0,0,,{\fad(120,120)}because they like the idea of one idea building upon an old one and building upon another one and getting more interesting and more complex
+Dialogue: 0,0:47:56.51,0:48:03.29,Chi,,0,0,0,,{\fad(120,120)}因为他们喜欢让一个想法建立在旧想法基础上，并变得更有趣、更复杂
+Dialogue: 1,0:48:03.29,0:48:05.66,Eng,,0,0,0,,{\fad(120,120)}it's used in a lot of different types of game design
+Dialogue: 0,0:48:03.29,0:48:05.66,Chi,,0,0,0,,{\fad(120,120)}这种方法被用在很多不同类型的游戏设计中
+Dialogue: 1,0:48:05.66,0:48:10.14,Eng,,0,0,0,,{\fad(120,120)}the problem when doing that with puzzles is again a blocking player progress
+Dialogue: 0,0:48:05.66,0:48:10.14,Chi,,0,0,0,,{\fad(120,120)}但在解谜游戏上运用这种方法的问题还是，这会阻碍玩家的进度
+Dialogue: 1,0:48:10.14,0:48:15.45,Eng,,0,0,0,,{\fad(120,120)}if the player gets stuck and they can't advance then they may not have anything else to do other than look up the solution
+Dialogue: 0,0:48:10.14,0:48:15.45,Chi,,0,0,0,,{\fad(120,120)}如果玩家被卡住了，他们无法前进，那么他们除了查找攻略之外，可能就没有其他事情可做了
+Dialogue: 1,0:48:15.45,0:48:25.25,Eng,,0,0,0,,{\fad(120,120)}and you know having to stand off the difficulty or the challenges or the interestingness of your puzzles in order to preserve player flow through the linearity
+Dialogue: 0,0:48:15.45,0:48:25.25,Chi,,0,0,0,,{\fad(120,120)}为了保护玩家在线性游戏过程中的心流或流畅性，你必须降低谜题的难度、挑战或趣味性
+Dialogue: 1,0:48:25.25,0:48:28.96,Eng,,0,0,0,,{\fad(120,120)}you know that can be a tough decision to make
+Dialogue: 0,0:48:25.25,0:48:28.96,Chi,,0,0,0,,{\fad(120,120)}你知道这会是一个很难做出的决定
+Dialogue: 1,0:48:28.96,0:48:33.76,Eng,,0,0,0,,{\fad(120,120)}because maybe that precious eureka moment that you want it to have is not going to be as impactful
+Dialogue: 0,0:48:28.96,0:48:33.76,Chi,,0,0,0,,{\fad(120,120)}也许你想要实现的那个宝贵的尤里卡时刻就不会有如此的冲击力了
+Dialogue: 1,0:48:33.76,0:48:37.79,Eng,,0,0,0,,{\fad(120,120)}because you've had to stick it in a puzzle where it's just spoon fed to the player
+Dialogue: 0,0:48:33.76,0:48:37.79,Chi,,0,0,0,,{\fad(120,120)}因为你在谜题中给了玩家太多的线索信息或帮助了
+Dialogue: 1,0:48:37.79,0:48:40.73,Eng,,0,0,0,,{\fad(120,120)}you know maybe that's the design you're going for and that's fine
+Dialogue: 0,0:48:37.79,0:48:40.73,Chi,,0,0,0,,{\fad(120,120)}你知道，也许这就是你要的设计，这当然很好
+Dialogue: 1,0:48:40.73,0:48:42.85,Eng,,0,0,0,,{\fad(120,120)}maybe you're going for a low difficulty game
+Dialogue: 0,0:48:40.73,0:48:42.85,Chi,,0,0,0,,{\fad(120,120)}或许你就想做一个低难度的游戏
+Dialogue: 1,0:48:42.85,0:48:49.44,Eng,,0,0,0,,{\fad(120,120)}but if you're trying to make challenging puzzles I would really strongly advise you not to make a linear game
+Dialogue: 0,0:48:42.85,0:48:49.44,Chi,,0,0,0,,{\fad(120,120)}但如果你想做有挑战性的谜题，我强烈建议你不要做成一个线性游戏
+Dialogue: 1,0:48:49.44,0:48:53.41,Eng,,0,0,0,,{\fad(120,120)}and look at look towards Talos Principles, the Witness, Antichamber
+Dialogue: 0,0:48:49.44,0:48:53.41,Chi,,0,0,0,,{\fad(120,120)}可以看看《塔罗斯法则》、《见证者》和《环绕走廊》
+Dialogue: 1,0:48:53.41,0:48:58.65,Eng,,0,0,0,,{\fad(120,120)}uh so I think many of the most successful puzzle games of the last decade were non-linear
+Dialogue: 0,0:48:53.41,0:48:58.65,Chi,,0,0,0,,{\fad(120,120)}所以，我认为过去十年中许多相当成功的解谜游戏，其结构上都是非线性的
+Dialogue: 1,0:48:58.65,0:49:02.24,Eng,,0,0,0,,{\fad(120,120)}in their structure of the sort of prerequisite chain of puzzles
+Dialogue: 0,0:48:58.65,0:49:02.24,Chi,,0,0,0,,{\fad(120,120)}其谜题的前提依赖链是非线性的结构
+Dialogue: 1,0:49:02.24,0:49:04.09,Eng,,0,0,0,,{\fad(120,120)}um and it's something to look towards
+Dialogue: 0,0:49:02.24,0:49:04.09,Chi,,0,0,0,,{\fad(120,120)}这是一个值得关注的问题
+Dialogue: 1,0:49:04.09,0:49:06.08,Eng,,0,0,0,,{\fad(120,120)}now the problem with this advice is
+Dialogue: 0,0:49:04.09,0:49:06.08,Chi,,0,0,0,,{\fad(120,120)}但是，现在，这些建议有一个问题
+Dialogue: 1,0:49:06.08,0:49:13.12,Eng,,0,0,0,,{\fad(120,120)}this advice uh has been violated by the most successful puzzle game uh of 10 years ago
+Dialogue: 0,0:49:06.08,0:49:13.12,Chi,,0,0,0,,{\fad(120,120)}那就是这四条建议被10年前这个最成功的解谜游戏给全部违反了（即《传送门2》）
+Dialogue: 1,0:49:13.12,0:49:18.24,Eng,,0,0,0,,{\fad(120,120)}and uh so many puzzle game developers I’ve seen hop onto these trends
+Dialogue: 0,0:49:13.12,0:49:18.24,Chi,,0,0,0,,{\fad(120,120)}因此，我见过很多解谜游戏开发者都跳上了这些潮流
+Dialogue: 1,0:49:18.24,0:49:22.91,Eng,,0,0,0,,{\fad(120,120)}they try to make a portal-like they make a linear puzzle game based on physics and statefulness
+Dialogue: 0,0:49:18.24,0:49:22.91,Chi,,0,0,0,,{\fad(120,120)}他们试图制作一个类传送门游戏，一个基于物理元素和多状态性的线性解谜游戏
+Dialogue: 1,0:49:22.91,0:49:30.33,Eng,,0,0,0,,{\fad(120,120)}uh you know and they have a unique narrative bit that's sort of delivered every time you go into the next room and you have to solve one puzzle after another
+Dialogue: 0,0:49:22.91,0:49:30.33,Chi,,0,0,0,,{\fad(120,120)}而且他们有独特的叙事部分，每进入下一个房间就给你来一段叙事，然后一个接一个解决谜题
+Dialogue: 1,0:49:30.33,0:49:37.18,Eng,,0,0,0,,{\fad(120,120)}the problem is uh if you're not valve and you don't have valve level resources developing your game
+Dialogue: 0,0:49:30.33,0:49:37.18,Chi,,0,0,0,,{\fad(120,120)}但问题是，如果你不是V社，你没有V社级别的资源来开发你的游戏
+Dialogue: 1,0:49:37.18,0:49:45.25,Eng,,0,0,0,,{\fad(120,120)}uh then you may find it difficult to control the experience in a way that makes players always eager to press on
+Dialogue: 0,0:49:37.18,0:49:45.25,Chi,,0,0,0,,{\fad(120,120)}那么你很可能会发现你很难控制这种，让玩家总是迫不及待继续下去的体验
+Dialogue: 1,0:49:45.25,0:49:48.00,Eng,,0,0,0,,{\fad(120,120)}like you're either gonna have something that's too difficult
+Dialogue: 0,0:49:45.25,0:49:48.00,Chi,,0,0,0,,{\fad(120,120)}你要么会做得太难
+Dialogue: 1,0:49:48.00,0:49:49.85,Eng,,0,0,0,,{\fad(120,120)}in which case players will become discouraged
+Dialogue: 0,0:49:48.00,0:49:49.85,Chi,,0,0,0,,{\fad(120,120)}在这种情况下，玩家会变得灰心丧气
+Dialogue: 1,0:49:49.85,0:49:55.10,Eng,,0,0,0,,{\fad(120,120)}they'll look up the answer they won't have that experience of finding the eureka moments for themselves
+Dialogue: 0,0:49:49.85,0:49:55.10,Chi,,0,0,0,,{\fad(120,120)}他们会去找攻略，他们不会有那种自己找到尤里卡时刻的体验
+Dialogue: 1,0:49:55.10,0:50:01.63,Eng,,0,0,0,,{\fad(120,120)}or the puzzle will be so devoid of interest or challenge because you've sent it off all the difficulty you know
+Dialogue: 0,0:49:55.10,0:50:01.63,Chi,,0,0,0,,{\fad(120,120)}要么你会把谜题做得完全没有乐趣和挑战，因为你把难度全部给去除掉了
+Dialogue: 1,0:50:01.63,0:50:04.83,Eng,,0,0,0,,{\fad(120,120)}portal 2 I think sometimes feels like it's focus tested to a fault
+Dialogue: 0,0:50:01.63,0:50:04.83,Chi,,0,0,0,,{\fad(120,120)}有时我总觉得《传送门2》简直把重点测试做到了极值
+Dialogue: 1,0:50:04.83,0:50:08.16,Eng,,0,0,0,,{\fad(120,120)}every time a player must have got stuck on a puzzle they added a light in a corner
+Dialogue: 0,0:50:04.83,0:50:08.16,Chi,,0,0,0,,{\fad(120,120)}每当玩家有可能会卡住的时候，他们就会在角落里加个灯
+Dialogue: 1,0:50:08.16,0:50:10.21,Eng,,0,0,0,,{\fad(120,120)}or an arrow pointing to this part of the room
+Dialogue: 0,0:50:08.16,0:50:10.21,Chi,,0,0,0,,{\fad(120,120)}或者加一个箭头指向房间的某个部分
+Dialogue: 1,0:50:10.21,0:50:18.40,Eng,,0,0,0,,{\fad(120,120)}or a you know uh a GLaDOS or you know other character a bark where the character kind of tells you what to look at and what to look for
+Dialogue: 0,0:50:10.21,0:50:18.40,Chi,,0,0,0,,{\fad(120,120)}或者是GLaDOS或者其他角色的语音，会告诉你该看什么，该找什么
+Dialogue: 1,0:50:18.40,0:50:19.74,Eng,,0,0,0,,{\fad(120,120)}and some players find this insulting
+Dialogue: 0,0:50:18.40,0:50:19.74,Chi,,0,0,0,,{\fad(120,120)}而有的玩家觉得这是对他们的侮辱
+Dialogue: 1,0:50:19.74,0:50:24.09,Eng,,0,0,0,,{\fad(120,120)}or they find it kind of spoiling the experience they want out of the puzzle game right
+Dialogue: 0,0:50:19.74,0:50:24.09,Chi,,0,0,0,,{\fad(120,120)}或者他们认为这破坏了他们想从解谜游戏中获得的体验，对吗？
+Dialogue: 1,0:50:24.09,0:50:29.85,Eng,,0,0,0,,{\fad(120,120)}um but those concessions are necessary when you're making a long linear story-based puzzle game of that complexity
+Dialogue: 0,0:50:24.09,0:50:29.85,Chi,,0,0,0,,{\fad(120,120)}但是，当你要制作一个如此复杂的长线性故事驱动型解谜游戏时，这些让步是必要的
+Dialogue: 1,0:50:29.85,0:50:33.89,Eng,,0,0,0,,{\fad(120,120)}um so again be aware of the trade-offs
+Dialogue: 0,0:50:29.85,0:50:33.89,Chi,,0,0,0,,{\fad(120,120)}所以还是要注意权衡利弊
+Dialogue: 1,0:50:33.89,0:50:41.63,Eng,,0,0,0,,{\fad(120,120)}but I would strongly advise people not to copy portal 2 if they're not valve and you know are less confident in what they're doing
+Dialogue: 0,0:50:33.89,0:50:41.63,Chi,,0,0,0,,{\fad(120,120)}但我强烈建议，如果你不是V社或对自己做的东西没有十足把握的话，还是不要去抄传送门2
+Dialogue: 1,0:50:41.63,0:50:44.70,Eng,,0,0,0,,{\fad(120,120)}non-linearity solves a lot of problems
+Dialogue: 0,0:50:41.63,0:50:44.70,Chi,,0,0,0,,{\fad(120,120)}而非线性能解决很多问题
+Dialogue: 1,0:50:44.70,0:50:51.36,Eng,,0,0,0,,{\fad(120,120)}and even if you want to do a story-driven game you can still have story-driven bits in a non-linear game
+Dialogue: 0,0:50:44.70,0:50:51.36,Chi,,0,0,0,,{\fad(120,120)}即便你想做一个故事驱动的游戏，你依然可以在一个非线性游戏中拥有故事驱动的部分
+Dialogue: 1,0:50:51.36,0:50:55.65,Eng,,0,0,0,,{\fad(120,120)}you just have to be a bit more creative about how you deliver those bits
+Dialogue: 0,0:50:51.36,0:50:55.65,Chi,,0,0,0,,{\fad(120,120)}你只需要在如何传达叙事上更有创意一点
+Dialogue: 1,0:50:55.65,0:51:00.00,Eng,,0,0,0,,{\fad(120,120)}you know there's lots of games that have done that and done it well
+Dialogue: 0,0:50:55.65,0:51:00.00,Chi,,0,0,0,,{\fad(120,120)}你知道有很多游戏都是这样做的，而且做得很好
+Dialogue: 1,0:51:00.00,0:51:03.45,Eng,,0,0,0,,{\fad(120,120)}next lesson “break the rules, sometimes perversely”
+Dialogue: 0,0:51:00.00,0:51:03.45,Chi,,0,0,0,,{\fad(120,120)}下一课「打破前面说的规则，有时反常一点」
+Dialogue: 1,0:51:03.45,0:51:06.78,Eng,,0,0,0,,{\fad(120,120)}so, I think a lot of puzzles are memorable
+Dialogue: 0,0:51:03.45,0:51:06.78,Chi,,0,0,0,,{\fad(120,120)}那么，我认为很多谜题之所以令人难忘
+Dialogue: 1,0:51:06.78,0:51:10.75,Eng,,0,0,0,,{\fad(120,120)}because they broke one of the rules that I have mentioned previously in this talk
+Dialogue: 0,0:51:06.78,0:51:10.75,Chi,,0,0,0,,{\fad(120,120)}正是因为它们打破了这次讲座前面讲的那些规则之一
+Dialogue: 1,0:51:10.75,0:51:12.67,Eng,,0,0,0,,{\fad(120,120)}I’ll show you a few examples
+Dialogue: 0,0:51:10.75,0:51:12.67,Chi,,0,0,0,,{\fad(120,120)}我给你们看几个例子
+Dialogue: 2,0:51:12.67,0:51:19.97,Annote,,0,0,0,,{\fad(120,120)}（译者注：比尔·克林顿和鲍勃·多尔分别是第53届美国总统选举的民主党候选人和共和党候选人，当然今天我们都知道最后是克林顿当选）
+Dialogue: 1,0:51:12.67,0:51:16.89,Eng,,0,0,0,,{\fad(120,120)}this is “The Clinton/Bob Dole” crossword very famous from 1996
+Dialogue: 0,0:51:12.67,0:51:16.89,Chi,,0,0,0,,{\fad(120,120)}这是1996年非常著名的 《克林顿/鲍勃·多尔》填字游戏
+Dialogue: 1,0:51:16.89,0:51:19.97,Eng,,0,0,0,,{\fad(120,120)}this was literally on election day
+Dialogue: 0,0:51:16.89,0:51:19.97,Chi,,0,0,0,,{\fad(120,120)}这真正是在选举日当天发表的
+Dialogue: 1,0:51:19.97,0:51:24.70,Eng,,0,0,0,,{\fad(120,120)}and this puzzle does not have a unique answer
+Dialogue: 0,0:51:19.97,0:51:24.70,Chi,,0,0,0,,{\fad(120,120)}而这个谜题没有一个唯一的答案
+Dialogue: 1,0:51:24.70,0:51:29.37,Eng,,0,0,0,,{\fad(120,120)}there are two possible answers for 39 across, they are Clinton and Bob Dole
+Dialogue: 0,0:51:24.70,0:51:29.37,Chi,,0,0,0,,{\fad(120,120)}在横着39号位，“CLINTON”（克林顿）和“BOBDOLE”（鲍勃多尔）两个答案都可以
+Dialogue: 1,0:51:29.37,0:51:38.91,Eng,,0,0,0,,{\fad(120,120)}and uh you know I think the clue for 39 across was with 43 across “tomorrow's newspaper headline”
+Dialogue: 0,0:51:29.37,0:51:38.91,Chi,,0,0,0,,{\fad(120,120)}横着39号和横着43号合起来的线索是“明天报纸的头条”
+Dialogue: 1,0:51:38.91,0:51:45.12,Eng,,0,0,0,,{\fad(120,120)}and so, 39 plus 43 a cross is either “Clinton elected” or “Bob Dole elected”
+Dialogue: 0,0:51:38.91,0:51:45.12,Chi,,0,0,0,,{\fad(120,120)}所以这两个位置合起来是“克林顿当选”或“鲍勃多尔当选”
+Dialogue: 1,0:51:45.12,0:51:47.87,Eng,,0,0,0,,{\fad(120,120)}um and then they had two other cute uh clues
+Dialogue: 0,0:51:45.12,0:51:47.87,Chi,,0,0,0,,{\fad(120,120)}这里面还有另外两个巧妙的线索
+Dialogue: 1,0:51:47.87,0:51:53.18,Eng,,0,0,0,,{\fad(120,120)}one at 17 across was you know what this puzzle is making or something like that “prognostication”
+Dialogue: 0,0:51:47.87,0:51:53.18,Chi,,0,0,0,,{\fad(120,120)}横着17号的答案，你懂的，就是这个谜题在做的事情，是“Prognostication”（预测）
+Dialogue: 1,0:51:53.18,0:51:57.09,Eng,,0,0,0,,{\fad(120,120)}and 68 across is “Mister President” it's kind of cute
+Dialogue: 0,0:51:53.18,0:51:57.09,Chi,,0,0,0,,{\fad(120,120)}横着68号是“MisterPresident”（总统先生），很可爱
+Dialogue: 1,0:51:57.09,0:51:59.52,Eng,,0,0,0,,{\fad(120,120)}um but how did they do this
+Dialogue: 0,0:51:57.09,0:51:59.52,Chi,,0,0,0,,{\fad(120,120)}但是他们是如何做到的呢？
+Dialogue: 1,0:51:59.52,0:52:06.37,Eng,,0,0,0,,{\fad(120,120)}well all of the down clues that cross Clinton and Bob Dole have to have two answers that work for both of them
+Dialogue: 0,0:51:59.52,0:52:06.37,Chi,,0,0,0,,{\fad(120,120)}所有跨越Clinton和BobDole的线索都必须有两个答案，对这两个都生效才行
+Dialogue: 1,0:52:06.37,0:52:12.13,Eng,,0,0,0,,{\fad(120,120)}and so down here 39 down you get cat down here 39 down you get bat
+Dialogue: 0,0:52:06.37,0:52:12.13,Chi,,0,0,0,,{\fad(120,120)}所以，竖着39号，既可以是“Cat”（猫），也可以是“Bat”（蝙蝠）
+Dialogue: 1,0:52:12.13,0:52:18.65,Eng,,0,0,0,,{\fad(120,120)}and the clue was “black Halloween animal” which has both cat and bat as answers
+Dialogue: 0,0:52:12.13,0:52:18.65,Chi,,0,0,0,,{\fad(120,120)}而线索是“黑色的万圣节动物”（black Halloween animal），有猫和蝙蝠两个答案
+Dialogue: 1,0:52:18.65,0:52:21.21,Eng,,0,0,0,,{\fad(120,120)}these are called Schrödinger clues
+Dialogue: 0,0:52:18.65,0:52:21.21,Chi,,0,0,0,,{\fad(120,120)}这种被称为“薛定谔线索”（Schrödinger clues）
+Dialogue: 1,0:52:21.21,0:52:25.37,Eng,,0,0,0,,{\fad(120,120)}another example is French 101 word is either “lui” or “oui”
+Dialogue: 0,0:52:21.21,0:52:25.37,Chi,,0,0,0,,{\fad(120,120)}另一个例子是“法语初学者单词”（French 101 word），答案是“lui”或“oui”
+Dialogue: 1,0:52:25.37,0:52:28.83,Eng,,0,0,0,,{\fad(120,120)}a sewing shop purchase is either “yarn” or “yard”
+Dialogue: 0,0:52:25.37,0:52:28.83,Chi,,0,0,0,,{\fad(120,120)}“缝纫店买的东西”（a sewing shop purchase）是“Yarn”（纱线）或“Yard”（码）
+Dialogue: 2,0:52:28.83,0:52:34.65,Annote,,0,0,0,,{\fad(120,120)}（译者注：trumpet本义是喇叭，而blast是喇叭吹奏声；而trumpet也有吹嘘的意思，这就跟boast是一个意思）
+Dialogue: 1,0:52:28.83,0:52:34.65,Eng,,0,0,0,,{\fad(120,120)}“boast” or “blast” I think was “trumpet”
+Dialogue: 0,0:52:28.83,0:52:34.65,Chi,,0,0,0,,{\fad(120,120)}“boast”或“blast”对应的线索我记得应该是“Trumpet”
+Dialogue: 1,0:52:34.65,0:52:41.05,Eng,,0,0,0,,{\fad(120,120)}Um and you know so there's a lot of cleverness in designing clues that work with two possible answers
+Dialogue: 0,0:52:34.65,0:52:41.05,Chi,,0,0,0,,{\fad(120,120)}所以这里面有很多设计的很巧妙的线索，来使得其能够满足两种答案
+Dialogue: 1,0:52:41.05,0:52:45.53,Eng,,0,0,0,,{\fad(120,120)}that themselves are one letter apart where the one letter is the difference between Clinton and Bob Dole like
+Dialogue: 0,0:52:41.05,0:52:45.53,Chi,,0,0,0,,{\fad(120,120)}而且这两种答案本身只相差一个字母，而且得是Clinton和BobDole中的字母
+Dialogue: 1,0:52:45.53,0:52:49.57,Eng,,0,0,0,,{\fad(120,120)}This is a work of art this is spectacular
+Dialogue: 0,0:52:45.53,0:52:49.57,Chi,,0,0,0,,{\fad(120,120)}这是一件艺术品，非常令人惊叹
+Dialogue: 1,0:52:49.57,0:52:56.22,Eng,,0,0,0,,{\fad(120,120)}um just a wonderful and exciting puzzle that through violating the rule of have a unique answer becomes something even more
+Dialogue: 0,0:52:49.57,0:52:56.22,Chi,,0,0,0,,{\fad(120,120)}这是通过违反“拥有唯一答案”这条规则变得更有内涵的一个美妙而令人兴奋的谜题
+Dialogue: 1,0:52:56.22,0:53:00.38,Eng,,0,0,0,,{\fad(120,120)}I’ll show you another puzzle this is called “x-ray fish”
+Dialogue: 0,0:52:56.22,0:53:00.38,Chi,,0,0,0,,{\fad(120,120)}我再和你展示一个谜题，叫《X-Ray Fish》
+Dialogue: 1,0:53:00.38,0:53:02.69,Eng,,0,0,0,,{\fad(120,120)}it's from the galactic puzzle hunt from 2017
+Dialogue: 0,0:53:00.38,0:53:02.69,Chi,,0,0,0,,{\fad(120,120)}这是来自2017年Galactic Puzzle Hunt的一个谜题
+Dialogue: 1,0:53:02.69,0:53:05.05,Eng,,0,0,0,,{\fad(120,120)}I believe if I click this it will actually show it to you
+Dialogue: 0,0:53:02.69,0:53:05.05,Chi,,0,0,0,,{\fad(120,120)}我觉得我点这个链接，它应该能展示出来
+Dialogue: 1,0:53:05.05,0:53:09.09,Eng,,0,0,0,,{\fad(120,120)}this puzzle is a video uh
+Dialogue: 0,0:53:05.05,0:53:09.09,Chi,,0,0,0,,{\fad(120,120)}这个谜题是一个视频
+Dialogue: 1,0:53:09.15,0:53:14.21,Eng,,0,0,0,,{\fad(120,120)}is it going to play I don't know if it's actually going to play I was hoping it would I tested this
+Dialogue: 0,0:53:09.15,0:53:14.21,Chi,,0,0,0,,{\fad(120,120)}它能播放吗，我不知道它能不能放，我希望它可以，我之前测试过了
+Dialogue: 1,0:53:14.21,0:53:16.83,Eng,,0,0,0,,{\fad(120,120)}okay there we go
+Dialogue: 0,0:53:14.21,0:53:16.83,Chi,,0,0,0,,{\fad(120,120)}好的
+Dialogue: 1,0:53:16.83,0:53:18.62,Eng,,0,0,0,,{\fad(120,120)}okay there it is and it has music right
+Dialogue: 0,0:53:16.83,0:53:18.62,Chi,,0,0,0,,{\fad(120,120)}这就是这个谜题，它有音乐，是吧？
+Dialogue: 1,0:53:18.62,0:53:20.86,Eng,,0,0,0,,{\fad(120,120)}like this this thing is kind of crazy
+Dialogue: 0,0:53:18.62,0:53:20.86,Chi,,0,0,0,,{\fad(120,120)}这个东西有点疯狂
+Dialogue: 1,0:53:20.86,0:53:24.51,Eng,,0,0,0,,{\fad(120,120)}so, it's got all of these different fish in it that are moving around
+Dialogue: 0,0:53:20.86,0:53:24.51,Chi,,0,0,0,,{\fad(120,120)}这里面有各种不同的鱼，它们都在游动
+Dialogue: 1,0:53:24.51,0:53:31.42,Eng,,0,0,0,,{\fad(120,120)}it turns out that the thing you had to do to solve this puzzle was count the number of each types of fish and figure out what they all were
+Dialogue: 0,0:53:24.51,0:53:31.42,Chi,,0,0,0,,{\fad(120,120)}而要解决这个谜题，你要做的就是数出每种鱼的数量，并确定它具体是哪种鱼
+Dialogue: 1,0:53:31.42,0:53:35.01,Eng,,0,0,0,,{\fad(120,120)}and then the numbers were sort of indices into words which then made a secret message
+Dialogue: 0,0:53:31.42,0:53:35.01,Chi,,0,0,0,,{\fad(120,120)}然后这些数字对应着一些单词中字母的索引，构成一条秘密信息
+Dialogue: 1,0:53:35.01,0:53:36.93,Eng,,0,0,0,,{\fad(120,120)}it was crazy
+Dialogue: 0,0:53:35.01,0:53:36.93,Chi,,0,0,0,,{\fad(120,120)}这很疯狂
+Dialogue: 1,0:53:36.93,0:53:41.79,Eng,,0,0,0,,{\fad(120,120)}um except there was one fish that you were not supposed to count
+Dialogue: 0,0:53:36.93,0:53:41.79,Chi,,0,0,0,,{\fad(120,120)}但是，除了一点，其中有一种鱼你不应该去数它
+Dialogue: 2,0:53:41.79,0:53:44.35,Annote,,0,0,0,,{\fad(120,120)}（译者注：正如前面17课所提及的，红鲱鱼Red Herrings指转移注意力的事物）
+Dialogue: 1,0:53:41.79,0:53:44.35,Eng,,0,0,0,,{\fad(120,120)}and those were the red herrings
+Dialogue: 0,0:53:41.79,0:53:44.35,Chi,,0,0,0,,{\fad(120,120)}而这种鱼正是红鲱鱼（Red Herrings）
+Dialogue: 1,0:53:44.35,0:53:48.45,Eng,,0,0,0,,{\fad(120,120)}which uh which were intentional red herrings in the puzzle
+Dialogue: 0,0:53:44.35,0:53:48.45,Chi,,0,0,0,,{\fad(120,120)}这些就是故意做成转移注意力的东西
+Dialogue: 1,0:53:48.45,0:53:53.57,Eng,,0,0,0,,{\fad(120,120)}but the fact that they themselves were red herrings is sort of a joke it's a bit of humor it's
+Dialogue: 0,0:53:48.45,0:53:53.57,Chi,,0,0,0,,{\fad(120,120)}但它们本身是红鲱鱼这个事实算是一个笑话，是一种幽默
+Dialogue: 1,0:53:53.57,0:53:56.06,Eng,,0,0,0,,{\fad(120,120)}it's itself a source of sparkle in the puzzle right
+Dialogue: 0,0:53:53.57,0:53:56.06,Chi,,0,0,0,,{\fad(120,120)}它本身就是谜题中的闪光点，对吗？
+Dialogue: 1,0:53:56.06,0:54:00.03,Eng,,0,0,0,,{\fad(120,120)}so, the rule of don't put red herrings in your puzzle is somehow flipped on its head
+Dialogue: 0,0:53:56.06,0:54:00.03,Chi,,0,0,0,,{\fad(120,120)}所以，不要在你的谜题里放红鲱鱼这条规则规则在某种程度上被颠覆了
+Dialogue: 1,0:54:00.03,0:54:04.70,Eng,,0,0,0,,{\fad(120,120)}by deliberately putting red herrings on the puzzle in sort of a cute way
+Dialogue: 0,0:54:00.03,0:54:04.70,Chi,,0,0,0,,{\fad(120,120)}反而故意把红鲱鱼放进谜题中，有点可爱的意思
+Dialogue: 1,0:54:04.70,0:54:07.13,Eng,,0,0,0,,{\fad(120,120)}uh and I’ve always remembered that because I thought it was funny
+Dialogue: 0,0:54:04.70,0:54:07.13,Chi,,0,0,0,,{\fad(120,120)}我一直都记得这个谜题，因为我觉得这很有趣
+Dialogue: 1,0:54:07.13,0:54:12.83,Eng,,0,0,0,,{\fad(120,120)}I’ve also seen escape rooms where they literally have like a fish on the wall and it's a giant red herring
+Dialogue: 0,0:54:07.13,0:54:12.83,Chi,,0,0,0,,{\fad(120,120)}我还见过一些密室逃脱，他们在墙上挂了一条鱼，一条巨大的红鲱鱼
+Dialogue: 1,0:54:12.83,0:54:19.36,Eng,,0,0,0,,{\fad(120,120)}at 2021 MIT mystery hunt there was a puzzle that you had to put together uh made of puzzle pieces
+Dialogue: 0,0:54:12.83,0:54:19.36,Chi,,0,0,0,,{\fad(120,120)}在2021年MIT解谜寻宝比赛中有一个拼图
+Dialogue: 1,0:54:19.36,0:54:20.96,Eng,,0,0,0,,{\fad(120,120)}and the answer was a giant red herring
+Dialogue: 0,0:54:19.36,0:54:20.96,Chi,,0,0,0,,{\fad(120,120)}而最后拼出来是个巨大的红鲱鱼
+Dialogue: 1,0:54:20.96,0:54:29.53,Eng,,0,0,0,,{\fad(120,120)}and it turned out that what mattered in that puzzle was whether or not the puzzle pieces went in or went out you know whether they were innie or outie
+Dialogue: 0,0:54:20.96,0:54:29.53,Chi,,0,0,0,,{\fad(120,120)}而最后会发现，这个拼出来的图像并不重要，重要的是每一块拼图是凸出来还是凹进去的
+Dialogue: 1,0:54:29.53,0:54:32.86,Eng,,0,0,0,,{\fad(120,120)}that was actually the information you needed from the puzzle
+Dialogue: 0,0:54:29.53,0:54:32.86,Chi,,0,0,0,,{\fad(120,120)}这才是你需要从拼图中获得的信息
+Dialogue: 1,0:54:32.86,0:54:37.73,Eng,,0,0,0,,{\fad(120,120)}uh and so to illustrate that the picture itself wasn't relevant the picture was made of red herring
+Dialogue: 0,0:54:32.86,0:54:37.73,Chi,,0,0,0,,{\fad(120,120)}所以为了说明图片本身并不重要，图片就由红鲱鱼构成的
+Dialogue: 1,0:54:37.73,0:54:40.99,Eng,,0,0,0,,{\fad(120,120)}somewhat perversely but it's hilarious
+Dialogue: 0,0:54:37.73,0:54:40.99,Chi,,0,0,0,,{\fad(120,120)}有点反常，但这很有趣
+Dialogue: 1,0:54:40.99,0:54:44.38,Eng,,0,0,0,,{\fad(120,120)}here's the slitherlink example this is one of mine
+Dialogue: 0,0:54:40.99,0:54:44.38,Chi,,0,0,0,,{\fad(120,120)}这里是一个数回的例子，这是我创作的一个谜题
+Dialogue: 1,0:54:44.38,0:54:47.71,Eng,,0,0,0,,{\fad(120,120)}although the trick is not original to me it's been seen before
+Dialogue: 0,0:54:44.38,0:54:47.71,Chi,,0,0,0,,{\fad(120,120)}不过这个技巧不是我的原创，以前也见过
+Dialogue: 1,0:54:47.71,0:54:51.49,Eng,,0,0,0,,{\fad(120,120)}usually when you have two threes next to each other in a slitherlink
+Dialogue: 0,0:54:47.71,0:54:51.49,Chi,,0,0,0,,{\fad(120,120)}通常情况下，当你在数回中出现两个3挨到一起
+Dialogue: 1,0:54:51.49,0:54:53.73,Eng,,0,0,0,,{\fad(120,120)}there's only two possible things that could happen with it
+Dialogue: 0,0:54:51.49,0:54:53.73,Chi,,0,0,0,,{\fad(120,120)}那么只可能有两种画法
+Dialogue: 1,0:54:53.73,0:54:56.67,Eng,,0,0,0,,{\fad(120,120)}either they go like this or they go like this
+Dialogue: 0,0:54:53.73,0:54:56.67,Chi,,0,0,0,,{\fad(120,120)}要么像这样，要么像这样
+Dialogue: 1,0:54:56.67,0:55:00.32,Eng,,0,0,0,,{\fad(120,120)}because there's just nothing else that can work with the two threes
+Dialogue: 0,0:54:56.67,0:55:00.32,Chi,,0,0,0,,{\fad(120,120)}因为没有其他方法
+Dialogue: 1,0:55:00.32,0:55:05.31,Eng,,0,0,0,,{\fad(120,120)}the problem is when you try to solve it in either one of those two ways you run into a problem
+Dialogue: 0,0:55:00.32,0:55:05.31,Chi,,0,0,0,,{\fad(120,120)}问题是，当你试图用这两种方法中的任何一种来解题时，会遇到一个问题
+Dialogue: 1,0:55:05.31,0:55:08.96,Eng,,0,0,0,,{\fad(120,120)}you sort of start navigating around the board and you just hit a dead end you can't get through
+Dialogue: 0,0:55:05.31,0:55:08.96,Chi,,0,0,0,,{\fad(120,120)}你能在网格上一步一步走下去，但会遇到一个死胡同，没法连起来
+Dialogue: 1,0:55:08.96,0:55:12.48,Eng,,0,0,0,,{\fad(120,120)}and actually the solution is this
+Dialogue: 0,0:55:08.96,0:55:12.48,Chi,,0,0,0,,{\fad(120,120)}而实际上，解法是这样的
+Dialogue: 1,0:55:12.48,0:55:18.43,Eng,,0,0,0,,{\fad(120,120)}which you know you can only really do this once you can only do it on a small puzzle
+Dialogue: 0,0:55:12.48,0:55:18.43,Chi,,0,0,0,,{\fad(120,120)}这东西，你知道的，只能做这么一次，而且只能在一个小谜题上这么做
+Dialogue: 1,0:55:18.43,0:55:25.28,Eng,,0,0,0,,{\fad(120,120)}but there it is you know for the once in your lifetime the thing you're doing with two threes and a slither link is not the typical one
+Dialogue: 0,0:55:18.43,0:55:25.28,Chi,,0,0,0,,{\fad(120,120)}但这也是你一生中唯一一次在数回中遇到两个3却不能按传统方法来做
+Dialogue: 1,0:55:25.28,0:55:35.45,Eng,,0,0,0,,{\fad(120,120)}take from that what you will but again violating in a perverse manner the sort of rules and conventions of the genre can lead to a bit of excitement or delight
+Dialogue: 0,0:55:25.28,0:55:35.45,Chi,,0,0,0,,{\fad(120,120)}以一种反常的方式打破这类谜题的规则和惯例，可以带来一点刺激和快乐
+Dialogue: 1,0:55:35.45,0:55:39.55,Eng,,0,0,0,,{\fad(120,120)}let me show you one more this is a chess puzzle by Pal Benko
+Dialogue: 0,0:55:35.45,0:55:39.55,Chi,,0,0,0,,{\fad(120,120)}让我再给你看一个例子，这是Pal Benko创作的国际象棋拼图
+Dialogue: 1,0:55:39.55,0:55:46.59,Eng,,0,0,0,,{\fad(120,120)}who is uh he was a chess grandmaster and also a prolific uh chess composer uh one of the greats
+Dialogue: 0,0:55:39.55,0:55:46.59,Chi,,0,0,0,,{\fad(120,120)}他是一位国际象棋大师，也是一位伟大的多产的棋谜创作者
+Dialogue: 1,0:55:46.59,0:55:51.84,Eng,,0,0,0,,{\fad(120,120)}and this is a delightful one it's from a book uh called chess braintwisters
+Dialogue: 0,0:55:46.59,0:55:51.84,Chi,,0,0,0,,{\fad(120,120)}这是个令人愉快的谜题，它来自一本叫作《Chess Braintwister》
+Dialogue: 1,0:55:51.84,0:55:59.52,Eng,,0,0,0,,{\fad(120,120)}which uh was compiled together by Burt Hochberg who was I think he was editor of chess and life magazine
+Dialogue: 0,0:55:51.84,0:55:59.52,Chi,,0,0,0,,{\fad(120,120)}这本书是由Burt Hochberg编辑的，我想他应该是《Chess and Life》杂志的编辑
+Dialogue: 1,0:55:59.52,0:56:05.98,Eng,,0,0,0,,{\fad(120,120)}or um you know he basically got exposed to a lot of these different unique and interesting chess puzzles
+Dialogue: 0,0:55:59.52,0:56:05.98,Chi,,0,0,0,,{\fad(120,120)}他接触过很多不同的独特而有趣的国际象棋谜题
+Dialogue: 1,0:56:05.98,0:56:12.32,Eng,,0,0,0,,{\fad(120,120)}and the book has been reprinted under a different title called outrageous chess problems uh
+Dialogue: 0,0:56:05.98,0:56:12.32,Chi,,0,0,0,,{\fad(120,120)}这本书应该是以《Outrageous Chess Problems》的名字再版过
+Dialogue: 1,0:56:12.32,0:56:15.01,Eng,,0,0,0,,{\fad(120,120)}or maybe outrageous chess puzzles I can't remember
+Dialogue: 0,0:56:12.32,0:56:15.01,Chi,,0,0,0,,{\fad(120,120)}或者叫《Outrageous Chess Puzzles》，我不记得了
+Dialogue: 1,0:56:15.01,0:56:20.13,Eng,,0,0,0,,{\fad(120,120)}it is this is honestly my favorite puzzle book in the universe above all logic puzzle books everything else
+Dialogue: 0,0:56:15.01,0:56:20.13,Chi,,0,0,0,,{\fad(120,120)}说实话这本书是我在全宇宙中最喜欢的一本，超过其他所有逻辑解谜书
+Dialogue: 1,0:56:20.13,0:56:26.59,Eng,,0,0,0,,{\fad(120,120)}it's a glorious book and it contains chess puzzles that are so absurd uh
+Dialogue: 0,0:56:20.13,0:56:26.59,Chi,,0,0,0,,{\fad(120,120)}这是本非常不错的书，它包含了一些非常荒诞的棋谜
+Dialogue: 1,0:56:26.59,0:56:28.83,Eng,,0,0,0,,{\fad(120,120)}you know they're jaw-dropping absurdities
+Dialogue: 0,0:56:26.59,0:56:28.83,Chi,,0,0,0,,{\fad(120,120)}你知道，那种令人瞠目结舌的荒谬之作
+Dialogue: 1,0:56:28.83,0:56:36.70,Eng,,0,0,0,,{\fad(120,120)}this one right here is a puzzle where the stipulation is both sides must collaborate to not checkmate black
+Dialogue: 0,0:56:28.83,0:56:36.70,Chi,,0,0,0,,{\fad(120,120)}而这道谜题的规定是，双方必须合作，来让黑方不被将死
+Dialogue: 1,0:56:36.70,0:56:40.54,Eng,,0,0,0,,{\fad(120,120)}so, it's not just white trying not to checkmate it's both sides collaborating
+Dialogue: 0,0:56:36.70,0:56:40.54,Chi,,0,0,0,,{\fad(120,120)}所以不仅仅是白棋试图不将死黑棋，而是双方都要合作
+Dialogue: 1,0:56:40.54,0:56:42.59,Eng,,0,0,0,,{\fad(120,120)}uh and so what's going on here well
+Dialogue: 0,0:56:40.54,0:56:42.59,Chi,,0,0,0,,{\fad(120,120)}那么这里面会发生什么呢
+Dialogue: 1,0:56:42.59,0:56:44.57,Eng,,0,0,0,,{\fad(120,120)}first of all white has very few moves to make
+Dialogue: 0,0:56:42.59,0:56:44.57,Chi,,0,0,0,,{\fad(120,120)}首先，白棋可以走的棋很少
+Dialogue: 1,0:56:44.57,0:56:50.46,Eng,,0,0,0,,{\fad(120,120)}like this knight can move uh but if you move it down there you'll literally put black into checkmate so you can't do that
+Dialogue: 0,0:56:44.57,0:56:50.46,Chi,,0,0,0,,{\fad(120,120)}比如说这个马可以走，但如果把它往下走，就直接将死黑方了，所以你不能这样做
+Dialogue: 1,0:56:50.46,0:56:54.94,Eng,,0,0,0,,{\fad(120,120)}this pawn can move but if you push it forward guess what you've checkmated black
+Dialogue: 0,0:56:50.46,0:56:54.94,Chi,,0,0,0,,{\fad(120,120)}这个兵可以走，但如果你把它往前走，你猜怎么着？又把黑方将死了
+Dialogue: 1,0:56:54.94,0:56:59.23,Eng,,0,0,0,,{\fad(120,120)}you can move this pawn up and then you know the question is okay well what's black gonna do
+Dialogue: 0,0:56:54.94,0:56:59.23,Chi,,0,0,0,,{\fad(120,120)}你可以把这个兵移上去，然后问题是，接下来黑方该怎么走？
+Dialogue: 1,0:56:59.23,0:57:02.56,Eng,,0,0,0,,{\fad(120,120)}black can move this uh pawn down here and queen it
+Dialogue: 0,0:56:59.23,0:57:02.56,Chi,,0,0,0,,{\fad(120,120)}黑方可以把这个兵往下走，然后升变为后
+Dialogue: 1,0:57:02.56,0:57:10.49,Eng,,0,0,0,,{\fad(120,120)}but by queening this pawn uh black will put white into check which white will be forced to block with this knight moving down there which then puts black into checkmate
+Dialogue: 0,0:57:02.56,0:57:10.49,Chi,,0,0,0,,{\fad(120,120)}但是升变成后了，白方会被将军，而白方就被迫用这个马去挡住下方，然后黑棋又被将死了
+Dialogue: 1,0:57:10.49,0:57:15.36,Eng,,0,0,0,,{\fad(120,120)}so you somehow have to find a sequence of moves that will not result in checkmate
+Dialogue: 0,0:57:10.49,0:57:15.36,Chi,,0,0,0,,{\fad(120,120)}所以你必须找到一连串不会将死黑方的走法
+Dialogue: 1,0:57:15.36,0:57:20.73,Eng,,0,0,0,,{\fad(120,120)}uh and in fact this pawn can go all the way up and promote uh to a queen which would checkmate
+Dialogue: 0,0:57:15.36,0:57:20.73,Chi,,0,0,0,,{\fad(120,120)}事实上这个兵可以一直往上走，然后升变为后，又把黑方将死了
+Dialogue: 1,0:57:20.73,0:57:23.49,Eng,,0,0,0,,{\fad(120,120)}but maybe you want to under promote to a bishop or a knight
+Dialogue: 0,0:57:20.73,0:57:23.49,Chi,,0,0,0,,{\fad(120,120)}但也许你想可以不用升变成后，升变成象或马呢
+Dialogue: 1,0:57:23.49,0:57:29.05,Eng,,0,0,0,,{\fad(120,120)}the problem is if you promote it to a knight the only place it has to move is here
+Dialogue: 0,0:57:23.49,0:57:29.05,Chi,,0,0,0,,{\fad(120,120)}问题是，如果你把它升变为马，它唯一可以移动的地方就是这里
+Dialogue: 1,0:57:29.05,0:57:29.89,Eng,,0,0,0,,{\fad(120,120)}which checkmate's black
+Dialogue: 0,0:57:29.05,0:57:29.89,Chi,,0,0,0,,{\fad(120,120)}这又把黑方将死了
+Dialogue: 1,0:57:29.89,0:57:33.34,Eng,,0,0,0,,{\fad(120,120)}if you promote it to a bishop the only place it has to move is here which checkmate's black
+Dialogue: 0,0:57:29.89,0:57:33.34,Chi,,0,0,0,,{\fad(120,120)}如果你把它升变为象，它唯一可以移动的地方是这里，也把黑棋将死了
+Dialogue: 1,0:57:33.34,0:57:37.18,Eng,,0,0,0,,{\fad(120,120)}so it's this really unique situation where it seems like no matter what happens
+Dialogue: 0,0:57:33.34,0:57:37.18,Chi,,0,0,0,,{\fad(120,120)}所以这是一个非常独特的情形，似乎无论发生什么事
+Dialogue: 1,0:57:37.18,0:57:39.68,Eng,,0,0,0,,{\fad(120,120)}black is heading for a checkmate in three
+Dialogue: 0,0:57:37.18,0:57:39.68,Chi,,0,0,0,,{\fad(120,120)}黑方都会在三步内被将死
+Dialogue: 1,0:57:39.68,0:57:42.81,Eng,,0,0,0,,{\fad(120,120)}and there is a way to stop it I will leave it to you to find it uh
+Dialogue: 0,0:57:39.68,0:57:42.81,Chi,,0,0,0,,{\fad(120,120)}有一个方法可以阻止它，我留给你自己思考
+Dialogue: 1,0:57:42.81,0:57:48.89,Eng,,0,0,0,,{\fad(120,120)}but it's a remarkable and hilarious puzzle not necessarily because of the solution just because of the construction and the stipulation
+Dialogue: 0,0:57:42.81,0:57:48.89,Chi,,0,0,0,,{\fad(120,120)}但这是一个非凡而有趣的谜题，不一定是因为它的答案，而是因为它的构造和规定
+Dialogue: 1,0:57:48.89,0:57:53.18,Eng,,0,0,0,,{\fad(120,120)}and  i think this may be a unique stipulation I’ve never seen another help not mate
+Dialogue: 0,0:57:48.89,0:57:53.18,Chi,,0,0,0,,{\fad(120,120)}我想这是一个很独特的规定，我从来没有见过其他这种互相帮助不去将军的规定
+Dialogue: 1,0:57:53.18,0:57:57.47,Eng,,0,0,0,,{\fad(120,120)}uh but such a clever and interesting idea that I will always remember
+Dialogue: 0,0:57:53.18,0:57:57.47,Chi,,0,0,0,,{\fad(120,120)}这样一个聪明而有趣的想法会让我永远记住的
+Dialogue: 1,0:57:57.47,0:58:07.01,Eng,,0,0,0,,{\fad(120,120)}so, the last lesson is about serendipity and about how to find unique and interesting constructions for puzzles
+Dialogue: 0,0:57:57.47,0:58:07.01,Chi,,0,0,0,,{\fad(120,120)}那么，最后一课是关于偶然幸运的发现，以及如何为谜题找到独特而有趣的构造
+Dialogue: 1,0:58:07.01,0:58:13.53,Eng,,0,0,0,,{\fad(120,120)}and that is that “serendipity occurs when you are actively searching for good ideas”
+Dialogue: 0,0:58:07.01,0:58:13.53,Chi,,0,0,0,,{\fad(120,120)}那就是「当你主动寻找好想法时，缘分自然会到来」
+Dialogue: 1,0:58:13.53,0:58:19.29,Eng,,0,0,0,,{\fad(120,120)}um you know one thing that is common is that great puzzles are often discovered not invented
+Dialogue: 0,0:58:13.53,0:58:19.29,Chi,,0,0,0,,{\fad(120,120)}你知道，有件事是很常见的，那就是“伟大的谜题往往是被发现出来的而不是被发明出来的”
+Dialogue: 1,0:58:19.29,0:58:24.67,Eng,,0,0,0,,{\fad(120,120)}but you have to be looking out for those discoveries constantly when you're sort of working on puzzles
+Dialogue: 0,0:58:19.29,0:58:24.67,Chi,,0,0,0,,{\fad(120,120)}但当你在创作谜题的时候，你必须不断地去寻找这些发现
+Dialogue: 1,0:58:24.67,0:58:27.42,Eng,,0,0,0,,{\fad(120,120)}I will show you one example this is from our upcoming game
+Dialogue: 0,0:58:24.67,0:58:27.42,Chi,,0,0,0,,{\fad(120,120)}我给你们看一个例子，这是我们即将推出的游戏中的例子
+Dialogue: 1,0:58:27.42,0:58:29.92,Eng,,0,0,0,,{\fad(120,120)}and it was uh you know I would say created
+Dialogue: 0,0:58:27.42,0:58:29.92,Chi,,0,0,0,,{\fad(120,120)}而这个，我说它是创作出来的
+Dialogue: 1,0:58:29.92,0:58:33.63,Eng,,0,0,0,,{\fad(120,120)}but almost I would say it was discovered by one of our puzzle authors
+Dialogue: 0,0:58:29.92,0:58:33.63,Chi,,0,0,0,,{\fad(120,120)}但也几乎可以说它是由我们一个谜题作者发现的
+Dialogue: 1,0:58:33.63,0:58:37.98,Eng,,0,0,0,,{\fad(120,120)}when they were working with a new type of clue that we had just added to the game
+Dialogue: 0,0:58:33.63,0:58:37.98,Chi,,0,0,0,,{\fad(120,120)}这是他们在尝试一种我们刚刚在游戏中加入新的线索时发现的
+Dialogue: 1,0:58:37.98,0:58:39.77,Eng,,0,0,0,,{\fad(120,120)}and I’ll show you what the puzzle is
+Dialogue: 0,0:58:37.98,0:58:39.77,Chi,,0,0,0,,{\fad(120,120)}我来告诉你这个谜题是什么
+Dialogue: 1,0:58:39.77,0:58:45.15,Eng,,0,0,0,,{\fad(120,120)}basically uh whoops let's see if we can open this
+Dialogue: 0,0:58:39.77,0:58:45.15,Chi,,0,0,0,,{\fad(120,120)}基本上说…让我看看是否能打开它
+Dialogue: 1,0:58:45.15,0:58:52.45,Eng,,0,0,0,,{\fad(120,120)}um the way this puzzle system works is there are sort of different types of clues that can go into it
+Dialogue: 0,0:58:45.15,0:58:52.45,Chi,,0,0,0,,{\fad(120,120)}这个谜题网站的工作方式是，下面有很多种不同的线索可以选择加进去
+Dialogue: 1,0:58:52.45,0:58:58.14,Eng,,0,0,0,,{\fad(120,120)}um and you can color the cells in the grid either dark or light colored
+Dialogue: 0,0:58:52.45,0:58:58.14,Chi,,0,0,0,,{\fad(120,120)}这个谜题中，你可以给网格中的格子涂色，可以涂成深色或浅色
+Dialogue: 1,0:58:58.14,0:59:03.65,Eng,,0,0,0,,{\fad(120,120)}um but there are a couple of rules one is that the white cells have to be connected orthogonally
+Dialogue: 0,0:58:58.14,0:59:03.65,Chi,,0,0,0,,{\fad(120,120)}但有几条规则，一是浅色格子必须是直角边连通的
+Dialogue: 1,0:59:03.65,0:59:07.68,Eng,,0,0,0,,{\fad(120,120)}meaning that you know if these are light-colored cells and we make dark cells like this
+Dialogue: 0,0:59:03.65,0:59:07.68,Chi,,0,0,0,,{\fad(120,120)}也就是说，如果这些是浅色的格子，而我们把深色的格子做成这样
+Dialogue: 1,0:59:07.68,0:59:11.65,Eng,,0,0,0,,{\fad(120,120)}then this would disconnect the light-colored part of the grid so that is not allowed
+Dialogue: 0,0:59:07.68,0:59:11.65,Chi,,0,0,0,,{\fad(120,120)}这样浅色部分就不连通了，所以这是不允许的
+Dialogue: 1,0:59:11.65,0:59:18.62,Eng,,0,0,0,,{\fad(120,120)}it's similar to um some other puzzles like uh I don't know nurikabe puzzles
+Dialogue: 0,0:59:11.65,0:59:18.62,Chi,,0,0,0,,{\fad(120,120)}这跟其他一些谜题类似，比如…我不知道…可能《数墙》（Nurikabe）谜题吧
+Dialogue: 1,0:59:18.62,0:59:21.76,Eng,,0,0,0,,{\fad(120,120)}the dark cells all have to be connected here the light cells have to be connected
+Dialogue: 0,0:59:18.62,0:59:21.76,Chi,,0,0,0,,{\fad(120,120)}在那个谜题里面深色格子必须连通，而这里是浅色格子要连通
+Dialogue: 1,0:59:21.76,0:59:25.02,Eng,,0,0,0,,{\fad(120,120)}the other rules are there certain patterns that you have to avoid
+Dialogue: 0,0:59:21.76,0:59:25.02,Chi,,0,0,0,,{\fad(120,120)}其他的规则是，你必须避免某些特定的模式
+Dialogue: 1,0:59:25.02,0:59:29.69,Eng,,0,0,0,,{\fad(120,120)}you cannot have two dark cells adjacent and you cannot have four light cells adjacent
+Dialogue: 0,0:59:25.02,0:59:29.69,Chi,,0,0,0,,{\fad(120,120)}两个深色格不能相邻，也不能有连续四个浅色格子
+Dialogue: 1,0:59:29.69,0:59:34.81,Eng,,0,0,0,,{\fad(120,120)}and then finally this one in a region means exactly one cell in that area is darkened
+Dialogue: 0,0:59:29.69,0:59:34.81,Chi,,0,0,0,,{\fad(120,120)}最后，这个区域中的1意味着这里面有且只有一个格子被涂黑
+Dialogue: 1,0:59:34.81,0:59:39.81,Eng,,0,0,0,,{\fad(120,120)}so this one could be dark and then the rest could be light or this one could be dark and the rest could be light
+Dialogue: 0,0:59:34.81,0:59:39.81,Chi,,0,0,0,,{\fad(120,120)}所以这一格可能是深色，然后剩下这些就得是浅色的，或者这个是深色其它是浅色
+Dialogue: 1,0:59:39.81,0:59:43.71,Eng,,0,0,0,,{\fad(120,120)}and it turns out from just this there is a unique solution to this puzzle
+Dialogue: 0,0:59:39.81,0:59:43.71,Chi,,0,0,0,,{\fad(120,120)}而最后我们可以看到，从这条规则出发，这个谜题有一个唯一的解法
+Dialogue: 1,0:59:43.71,0:59:46.85,Eng,,0,0,0,,{\fad(120,120)}and I’ll show you the start of the solution
+Dialogue: 0,0:59:43.71,0:59:46.85,Chi,,0,0,0,,{\fad(120,120)}我给你们展示下这个解法的开头
+Dialogue: 1,0:59:46.85,0:59:48.70,Eng,,0,0,0,,{\fad(120,120)}and basically you look at this region and you think well
+Dialogue: 0,0:59:46.85,0:59:48.70,Chi,,0,0,0,,{\fad(120,120)}基本上来说，你看到这个区域，你会想
+Dialogue: 1,0:59:48.70,0:59:52.48,Eng,,0,0,0,,{\fad(120,120)}okay let's try putting a dark cell there and then these all have to be light
+Dialogue: 0,0:59:48.70,0:59:52.48,Chi,,0,0,0,,{\fad(120,120)}让我们试试在这里放个深色格子，那么这些都得是浅色的
+Dialogue: 1,0:59:52.48,0:59:56.77,Eng,,0,0,0,,{\fad(120,120)}well because of the no four in a row rule these two then have to be dark
+Dialogue: 0,0:59:52.48,0:59:56.77,Chi,,0,0,0,,{\fad(120,120)}因为要求不能有4个连续浅色格子，所以这两个必须是深色
+Dialogue: 1,0:59:56.77,1:00:00.61,Eng,,0,0,0,,{\fad(120,120)}but we said that the dark cells can't be adjacent to one another so that's impossible
+Dialogue: 0,0:59:56.77,1:00:00.61,Chi,,0,0,0,,{\fad(120,120)}但深色格子不能相邻，所以这是不可能的
+Dialogue: 1,1:00:00.61,1:00:02.65,Eng,,0,0,0,,{\fad(120,120)}therefore that one can't be the dark cell
+Dialogue: 0,1:00:00.61,1:00:02.65,Chi,,0,0,0,,{\fad(120,120)}所以这一格不能涂成深色
+Dialogue: 1,1:00:02.65,1:00:06.94,Eng,,0,0,0,,{\fad(120,120)}and similarly none of these other outer ones on the periphery can be dark
+Dialogue: 0,1:00:02.65,1:00:06.94,Chi,,0,0,0,,{\fad(120,120)}同样地，外围这一圈都不能涂成深色
+Dialogue: 1,1:00:06.94,1:00:09.44,Eng,,0,0,0,,{\fad(120,120)}so in fact the middle one is the dark cell
+Dialogue: 0,1:00:06.94,1:00:09.44,Chi,,0,0,0,,{\fad(120,120)}所以事实上，中间那个得涂成深色
+Dialogue: 1,1:00:09.44,1:00:11.17,Eng,,0,0,0,,{\fad(120,120)}and then you get a lot of three in a row
+Dialogue: 0,1:00:09.44,1:00:11.17,Chi,,0,0,0,,{\fad(120,120)}然后这里有很多连续三个浅色格子
+Dialogue: 1,1:00:11.17,1:00:14.30,Eng,,0,0,0,,{\fad(120,120)}so you have to block off all of the possible four in a rows
+Dialogue: 0,1:00:11.17,1:00:14.30,Chi,,0,0,0,,{\fad(120,120)}所以你必须把所有可能的连续四个都阻挡掉
+Dialogue: 1,1:00:14.30,1:00:19.68,Eng,,0,0,0,,{\fad(120,120)}and then you can't have two dark cells adjacent to one another so these ones all have to be light
+Dialogue: 0,1:00:14.30,1:00:19.68,Chi,,0,0,0,,{\fad(120,120)}然后不能有两个相邻的深色格子，所以这些格子都必须是浅色的
+Dialogue: 1,1:00:19.68,1:00:25.63,Eng,,0,0,0,,{\fad(120,120)}and then I mean the light cells all have to be connected
+Dialogue: 0,1:00:19.68,1:00:25.63,Chi,,0,0,0,,{\fad(120,120)}然后，由于浅色格子必须是连通的
+Dialogue: 1,1:00:25.63,1:00:28.38,Eng,,0,0,0,,{\fad(120,120)}so you this light cell has to move upwards,
+Dialogue: 0,1:00:25.63,1:00:28.38,Chi,,0,0,0,,{\fad(120,120)}所以这个浅色格子必须通过上方与外面连通
+Dialogue: 1,1:00:28.38,1:00:31.45,Eng,,0,0,0,,{\fad(120,120)}if this was dark then this light cell would be disconnected for everything so that's light
+Dialogue: 0,1:00:28.38,1:00:31.45,Chi,,0,0,0,,{\fad(120,120)}如果这是深色的，那么就会把它断开，所以这里得是浅色的
+Dialogue: 1,1:00:31.45,1:00:38.37,Eng,,0,0,0,,{\fad(120,120)}and then this cell here you know if there was four in a row here then that would violate the rule so this cell has to be dark
+Dialogue: 0,1:00:31.45,1:00:38.37,Chi,,0,0,0,,{\fad(120,120)}然后这个格子，如果这里有四个连在一起，那就违反了规则，所以这个必须是深色
+Dialogue: 1,1:00:38.37,1:00:41.50,Eng,,0,0,0,,{\fad(120,120)}and then this light area has to escape so it's got to go out here
+Dialogue: 0,1:00:38.37,1:00:41.50,Chi,,0,0,0,,{\fad(120,120)}然后这个浅色区域必须和外面连通，所以它必须从这里出去
+Dialogue: 1,1:00:41.50,1:00:43.74,Eng,,0,0,0,,{\fad(120,120)}and then there's three in a row here so that one has to be dark
+Dialogue: 0,1:00:41.50,1:00:43.74,Chi,,0,0,0,,{\fad(120,120)}然后这里有三个连续的，所以这一格必须是深色
+Dialogue: 1,1:00:43.74,1:00:45.09,Eng,,0,0,0,,{\fad(120,120)}and we just keep going
+Dialogue: 0,1:00:43.74,1:00:45.09,Chi,,0,0,0,,{\fad(120,120)}就这样继续下去
+Dialogue: 1,1:00:45.09,1:00:46.62,Eng,,0,0,0,,{\fad(120,120)}there's three in a row here
+Dialogue: 0,1:00:45.09,1:00:46.62,Chi,,0,0,0,,{\fad(120,120)}这里有三个连在一起
+Dialogue: 1,1:00:46.62,1:00:51.42,Eng,,0,0,0,,{\fad(120,120)}this puzzle doesn't stop the logic of how you solve this thing
+Dialogue: 0,1:00:46.62,1:00:51.42,Chi,,0,0,0,,{\fad(120,120)}这个谜题不会阻断你解决这个谜题的逻辑
+Dialogue: 1,1:00:51.42,1:01:00.83,Eng,,0,0,0,,{\fad(120,120)}just keeps flowing and it turns out that from this initial just you know one in a square in the corner there's a unique solution to this puzzle
+Dialogue: 0,1:00:51.42,1:01:00.83,Chi,,0,0,0,,{\fad(120,120)}你会一直持续这个过程，从最初角落那个1一直到最后唯一的解
+Dialogue: 1,1:01:00.83,1:01:07.61,Eng,,0,0,0,,{\fad(120,120)}and it's quite remarkable uh and I asked the creator of this his name is Jeffrey Barton
+Dialogue: 0,1:01:00.83,1:01:07.61,Chi,,0,0,0,,{\fad(120,120)}这很了不起，我问过这个谜题的创作者，他叫Jeffrey Barton（音）
+Dialogue: 1,1:01:07.61,1:01:12.03,Eng,,0,0,0,,{\fad(120,120)}how he came upon this and he says I don't know I just got lucky I just found it
+Dialogue: 0,1:01:07.61,1:01:12.03,Chi,,0,0,0,,{\fad(120,120)}他说：“我不知道，我只是很幸运，我就是发现了它
+Dialogue: 1,1:01:12.03,1:01:17.85,Eng,,0,0,0,,{\fad(120,120)}I was just kind of I put this one region in because I thought the one region was kind of interesting and was very forcing
+Dialogue: 0,1:01:12.03,1:01:17.85,Chi,,0,0,0,,{\fad(120,120)}我只是想把这个1的区域放进去，因为我觉得这个区域很有趣，能迫使很多结果出现
+Dialogue: 1,1:01:17.85,1:01:21.05,Eng,,0,0,0,,{\fad(120,120)}and then I realized that you could really get a lot from it
+Dialogue: 0,1:01:17.85,1:01:21.05,Chi,,0,0,0,,{\fad(120,120)}然后我意识到你真的可以从那里面得到很多东西
+Dialogue: 1,1:01:21.05,1:01:24.89,Eng,,0,0,0,,{\fad(120,120)}and I found a place to put it where there was just one single unique solution
+Dialogue: 0,1:01:21.05,1:01:24.89,Chi,,0,0,0,,{\fad(120,120)}然后我找了个地方，把它放到一个只会出现一个唯一解的地方”
+Dialogue: 1,1:01:24.89,1:01:28.41,Eng,,0,0,0,,{\fad(120,120)}and that was remarkable it was amazing
+Dialogue: 0,1:01:24.89,1:01:28.41,Chi,,0,0,0,,{\fad(120,120)}这是很了不起的，很令人惊叹的
+Dialogue: 1,1:01:28.41,1:01:34.56,Eng,,0,0,0,,{\fad(120,120)}and everybody who test solved this puzzle remarked that like this is a fantastic puzzle this is very exciting
+Dialogue: 0,1:01:28.41,1:01:34.56,Chi,,0,0,0,,{\fad(120,120)}每个测试过这个谜题的人都说这是一个神奇的谜题，非常令人兴奋
+Dialogue: 1,1:01:34.56,1:01:40.06,Eng,,0,0,0,,{\fad(120,120)}there's another example called “The Miracle” sudoku which was done by Mitchell lee
+Dialogue: 0,1:01:34.56,1:01:40.06,Chi,,0,0,0,,{\fad(120,120)}另一例子是一个叫做“The Miracle”的数独，由Mitchell Lee创作的
+Dialogue: 1,1:01:40.06,1:01:44.86,Eng,,0,0,0,,{\fad(120,120)}you can look it up on YouTube it's one of the most famous sudoku puzzles on YouTube
+Dialogue: 0,1:01:40.06,1:01:44.86,Chi,,0,0,0,,{\fad(120,120)}你可以在YouTube上找到它，它是YouTube上最著名的数独谜题之一
+Dialogue: 1,1:01:44.86,1:01:47.55,Eng,,0,0,0,,{\fad(120,120)}it has only two givens and it has some extra rules
+Dialogue: 0,1:01:44.86,1:01:47.55,Chi,,0,0,0,,{\fad(120,120)}它里面只给了两个数，以及有一些额外的规则
+Dialogue: 1,1:01:47.55,1:01:52.54,Eng,,0,0,0,,{\fad(120,120)}like for example uh numbers that are knights move away from each other cannot be the same
+Dialogue: 0,1:01:47.55,1:01:52.54,Chi,,0,0,0,,{\fad(120,120)}比如像马一样走日字的两个格子的数字不能是相同的
+Dialogue: 1,1:01:52.54,1:01:56.51,Eng,,0,0,0,,{\fad(120,120)}there's some additional extra rules but using only two givens the whole puzzle can be solved
+Dialogue: 0,1:01:52.54,1:01:56.51,Chi,,0,0,0,,{\fad(120,120)}还有一些额外的规则，但是只给了两个数，这整个谜题就能被解出来
+Dialogue: 1,1:01:56.51,1:02:03.29,Eng,,0,0,0,,{\fad(120,120)}and the YouTube video the solver uh he's a guy named Simon on Cracking the Cryptic
+Dialogue: 0,1:01:56.51,1:02:03.29,Chi,,0,0,0,,{\fad(120,120)}在这个YouTube视频中，解谜者是油管频道Cracking the Cryptic的Simon
+Dialogue: 1,1:02:03.29,1:02:06.24,Eng,,0,0,0,,{\fad(120,120)}he can't believe that this thing has a solution
+Dialogue: 0,1:02:03.29,1:02:06.24,Chi,,0,0,0,,{\fad(120,120)}他不相信这东西能解出来
+Dialogue: 1,1:02:06.24,1:02:09.89,Eng,,0,0,0,,{\fad(120,120)}he thinks that somebody's joking with him that somebody has pranked him
+Dialogue: 0,1:02:06.24,1:02:09.89,Chi,,0,0,0,,{\fad(120,120)}他以为有人在和他开玩笑，有人在搞恶作剧
+Dialogue: 1,1:02:09.89,1:02:13.21,Eng,,0,0,0,,{\fad(120,120)}and when he finally realizes that this puzzle actually works his jaw hits the floor
+Dialogue: 0,1:02:09.89,1:02:13.21,Chi,,0,0,0,,{\fad(120,120)}而当他最终意识到这个谜题真的可以解出来时，他的下巴都快掉到地上了
+Dialogue: 2,1:02:13.21,1:02:16.73,Annote,,0,0,0,,{\fad(120,120)}（译者注：youtube.com/watch?v=yKf9aUIxdb4）
+Dialogue: 1,1:02:13.21,1:02:16.73,Eng,,0,0,0,,{\fad(120,120)}fantastic video highly encourage you to watch it
+Dialogue: 0,1:02:13.21,1:02:16.73,Chi,,0,0,0,,{\fad(120,120)}很精彩的视频，强烈建议你去看看
+Dialogue: 1,1:02:16.73,1:02:20.64,Eng,,0,0,0,,{\fad(120,120)}but you know the question again how do you make these discoveries
+Dialogue: 0,1:02:16.73,1:02:20.64,Chi,,0,0,0,,{\fad(120,120)}但你知道问题又来了，你要如何才能做出这些发现？
+Dialogue: 1,1:02:20.64,1:02:25.25,Eng,,0,0,0,,{\fad(120,120)}one thing is to notice your own eureka moments and turn them into puzzles
+Dialogue: 0,1:02:20.64,1:02:25.25,Chi,,0,0,0,,{\fad(120,120)}一是要注意你自己感受到的尤里卡时刻，并把它们变成谜题
+Dialogue: 1,1:02:25.25,1:02:34.01,Eng,,0,0,0,,{\fad(120,120)}uh but another thing is just be actively searching for things that seem like there might be more there than you expect
+Dialogue: 0,1:02:25.25,1:02:34.01,Chi,,0,0,0,,{\fad(120,120)}另一方面，去积极寻找那些看起来会超出你预期的东西
+Dialogue: 1,1:02:34.01,1:02:39.01,Eng,,0,0,0,,{\fad(120,120)}another example Jonathan blow was talking about this puzzle from the witness
+Dialogue: 0,1:02:34.01,1:02:39.01,Chi,,0,0,0,,{\fad(120,120)}另一个例子是Jonathan blow在谈论《见证者》中的这个谜题的时候
+Dialogue: 1,1:02:39.01,1:02:41.95,Eng,,0,0,0,,{\fad(120,120)}and somebody asked him how did you get it to work
+Dialogue: 0,1:02:39.01,1:02:41.95,Chi,,0,0,0,,{\fad(120,120)}有人问他，你是怎么做到的？
+Dialogue: 1,1:02:41.95,1:02:45.41,Eng,,0,0,0,,{\fad(120,120)}and this particular puzzle is quite remarkable
+Dialogue: 0,1:02:41.95,1:02:45.41,Chi,,0,0,0,,{\fad(120,120)}这个谜题相当了不起
+Dialogue: 1,1:02:45.41,1:02:51.93,Eng,,0,0,0,,{\fad(120,120)}essentially you're solving a grid puzzle which simultaneously is making paths on the floor that you can walk on
+Dialogue: 0,1:02:45.41,1:02:51.93,Chi,,0,0,0,,{\fad(120,120)}从本质上讲，你要解决的是一个网格谜题，你画的线会同时在前面地上产生出你可以走的道路
+Dialogue: 1,1:02:51.93,1:02:57.82,Eng,,0,0,0,,{\fad(120,120)}and you can only edit the blue part of the grid from one side and you can only edit the orange part of the grid from the other side
+Dialogue: 0,1:02:51.93,1:02:57.82,Chi,,0,0,0,,{\fad(120,120)}并且你站在这边只能编辑网格中蓝色部分，你只能到另一边去编辑橙色部分
+Dialogue: 1,1:02:57.82,1:03:02.52,Eng,,0,0,0,,{\fad(120,120)}and you actually have to physically walk on the path to get to the other side to be able to edit the other one
+Dialogue: 0,1:02:57.82,1:03:02.52,Chi,,0,0,0,,{\fad(120,120)}你实际上得从这个道路上走过去才能编辑另一个
+Dialogue: 1,1:03:02.52,1:03:08.32,Eng,,0,0,0,,{\fad(120,120)}and you have to go back and forth like five times in order to actually get to the final state of this puzzle
+Dialogue: 0,1:03:02.52,1:03:08.32,Chi,,0,0,0,,{\fad(120,120)}你必须来回走大概五次，才能真正达到这个谜题的最终状态
+Dialogue: 1,1:03:08.32,1:03:13.57,Eng,,0,0,0,,{\fad(120,120)}um but the sort of journey you're taking when doing that is remarkable
+Dialogue: 0,1:03:08.32,1:03:13.57,Chi,,0,0,0,,{\fad(120,120)}但你在解这个谜题的时候所经历的那种旅程是很了不起的
+Dialogue: 1,1:03:13.57,1:03:20.29,Eng,,0,0,0,,{\fad(120,120)}and the fact that it works at all seems outlandish outstanding like somebody must have been a genius to put this thing together
+Dialogue: 0,1:03:13.57,1:03:20.29,Chi,,0,0,0,,{\fad(120,120)}而这做出来是非常奇特非常出色的，就像是个天才把这些东西组合到一起
+Dialogue: 1,1:03:20.29,1:03:25.66,Eng,,0,0,0,,{\fad(120,120)}and no doubt this is a very clever and very uh beautifully crafted puzzle
+Dialogue: 0,1:03:20.29,1:03:25.66,Chi,,0,0,0,,{\fad(120,120)}毫无疑问，这是个非常聪明的谜题，而且做得非常漂亮
+Dialogue: 1,1:03:25.66,1:03:29.63,Eng,,0,0,0,,{\fad(120,120)}but when john was asked how he was able to figure this out
+Dialogue: 0,1:03:25.66,1:03:29.63,Chi,,0,0,0,,{\fad(120,120)}但当吹哥被问到他是如何想出这么做的时候
+Dialogue: 1,1:03:29.63,1:03:35.71,Eng,,0,0,0,,{\fad(120,120)}he kind of said well you know I started putting stuff together and then towards the end he kind of just got a bit lucky
+Dialogue: 0,1:03:29.63,1:03:35.71,Chi,,0,0,0,,{\fad(120,120)}他说，我最开始就把这些东西放到一起，然后到最后有点幸运，就弄出来了
+Dialogue: 1,1:03:35.71,1:03:42.94,Eng,,0,0,0,,{\fad(120,120)}um you know the fact that you had to go back and forth five times the fact that that kind of just worked out you know he was just able to make it work
+Dialogue: 0,1:03:35.71,1:03:42.94,Chi,,0,0,0,,{\fad(120,120)}你知道…这样来回走五次…这样能够做出来…
+Dialogue: 1,1:03:42.94,1:03:50.17,Eng,,0,0,0,,{\fad(120,120)}um and it's kind of difficult sometimes to learn why you were able to make it work it just turned out that way
+Dialogue: 0,1:03:42.94,1:03:50.17,Chi,,0,0,0,,{\fad(120,120)}有时很难知道为什么你能成功构造出来，它最后就是突然就成了
+Dialogue: 1,1:03:50.17,1:03:54.27,Eng,,0,0,0,,{\fad(120,120)}and this type of serendipity happens a lot when you're creating puzzles
+Dialogue: 0,1:03:50.17,1:03:54.27,Chi,,0,0,0,,{\fad(120,120)}这种机缘巧合在你创作谜题时经常发生
+Dialogue: 1,1:03:54.27,1:04:00.22,Eng,,0,0,0,,{\fad(120,120)}sometimes you will just find that you're able to do something a little bit remarkable or even more remarkable than you thought
+Dialogue: 0,1:03:54.27,1:04:00.22,Chi,,0,0,0,,{\fad(120,120)}有时你会发现你能做一些非常了不起的事情，或者比你想象中的还要出色的事情
+Dialogue: 1,1:04:00.22,1:04:04.77,Eng,,0,0,0,,{\fad(120,120)}every puzzle creator has had moments in their life or in their career of creating puzzles
+Dialogue: 0,1:04:00.22,1:04:04.77,Chi,,0,0,0,,{\fad(120,120)}每个谜题创作者在他们的生活中，或者在他们的谜题创作生涯中，都有过这样的时刻
+Dialogue: 1,1:04:04.77,1:04:14.30,Eng,,0,0,0,,{\fad(120,120)}where for whatever reason they were able to like obtain an unexpectedly exciting or fantastic result because it just happened to work out
+Dialogue: 0,1:04:04.77,1:04:14.30,Chi,,0,0,0,,{\fad(120,120)}无论什么原因，他们能够获得一个意想不到的奇妙结果，因为它碰巧就能够实现
+Dialogue: 1,1:04:14.37,1:04:22.30,Eng,,0,0,0,,{\fad(120,120)}and as a puzzle creator I think that one of the most important lessons is to be actively looking for these opportunities and seize them
+Dialogue: 0,1:04:14.37,1:04:22.30,Chi,,0,0,0,,{\fad(120,120)}而作为一个谜题创作者，我认为最重要的经验之一就是要积极寻找这些机会并抓住它们
+Dialogue: 1,1:04:22.30,1:04:24.80,Eng,,0,0,0,,{\fad(120,120)}I will give you a quote from Raf Peeters
+Dialogue: 0,1:04:22.30,1:04:24.80,Chi,,0,0,0,,{\fad(120,120)}我引用Raf Peeters的一段话
+Dialogue: 1,1:04:24.80,1:04:30.69,Eng,,0,0,0,,{\fad(120,120)}who's I think he's the founder of Smart Games or he's one of the guys who's created a lot of puzzle for Smart Games
+Dialogue: 0,1:04:24.80,1:04:30.69,Chi,,0,0,0,,{\fad(120,120)}我想他应该是SmartGames的创始人，或者说他为SmartGames制作了很多谜题
+Dialogue: 1,1:04:30.69,1:04:34.14,Eng,,0,0,0,,{\fad(120,120)}um this is one of his puzzles “penguins on ice”
+Dialogue: 0,1:04:30.69,1:04:34.14,Chi,,0,0,0,,{\fad(120,120)}这是他的一个谜题《Penguins On Ice》
+Dialogue: 1,1:04:34.14,1:04:40.29,Eng,,0,0,0,,{\fad(120,120)}and in describing this puzzle he talked about uh how he came upon the theme for it
+Dialogue: 0,1:04:34.14,1:04:40.29,Chi,,0,0,0,,{\fad(120,120)}在描述这个谜题时，他谈到了他是如何想到这个主题的
+Dialogue: 1,1:04:40.29,1:04:45.79,Eng,,0,0,0,,{\fad(120,120)}why it was sort of these penguins on ice as sort of a pentomino puzzle
+Dialogue: 0,1:04:40.29,1:04:45.79,Chi,,0,0,0,,{\fad(120,120)}以及为什么是冰上企鹅这样的五格骨牌的谜题
+Dialogue: 1,1:04:45.79,1:04:49.82,Eng,,0,0,0,,{\fad(120,120)}and there's a unique mechanic where these pentominos can slide next to each other
+Dialogue: 0,1:04:45.79,1:04:49.82,Chi,,0,0,0,,{\fad(120,120)}这里面有个独特的机制，这些五格骨牌内部可以滑动
+Dialogue: 1,1:04:49.82,1:04:59.81,Eng,,0,0,0,,{\fad(120,120)}so that polyamino can go from an F pentomino to a P pentomino to a W pentomino as sort of these two blocks up top slide over here and over here
+Dialogue: 0,1:04:49.82,1:04:59.81,Chi,,0,0,0,,{\fad(120,120)}所以这个骨牌可以变成F型再到P型再到W型，因为上面这两个块可以在这里和这里滑动
+Dialogue: 1,1:04:59.81,1:05:06.01,Eng,,0,0,0,,{\fad(120,120)}and this one as well this block sort of slides up and down so it could be a Y pentomino or an L pentomino
+Dialogue: 0,1:04:59.81,1:05:06.01,Chi,,0,0,0,,{\fad(120,120)}这块也是，这块可以上下滑动，所以它可以变成Y型或L型
+Dialogue: 1,1:05:06.01,1:05:13.12,Eng,,0,0,0,,{\fad(120,120)}and you know this is the quote “the most important idea is: you don't find good ideas by luck
+Dialogue: 0,1:05:06.01,1:05:13.12,Chi,,0,0,0,,{\fad(120,120)}这段话是“最重要的一点是：你不能光靠运气找到好的想法，
+Dialogue: 1,1:05:13.12,1:05:18.69,Eng,,0,0,0,,{\fad(120,120)}you find them by actively searching for them and actively trying hard to recognize the potential in the things you discover
+Dialogue: 0,1:05:13.12,1:05:18.69,Chi,,0,0,0,,{\fad(120,120)}你要通过积极寻找他们并积极努力去认识你所发现的事物的潜力，来找到好的想法
+Dialogue: 1,1:05:18.69,1:05:21.44,Eng,,0,0,0,,{\fad(120,120)}often one small innovation isn't that valuable
+Dialogue: 0,1:05:18.69,1:05:21.44,Chi,,0,0,0,,{\fad(120,120)}通常情况下，一个小创新并不那么有价值
+Dialogue: 1,1:05:21.44,1:05:25.98,Eng,,0,0,0,,{\fad(120,120)}but a combination of many small things may produce something that brings your creation to a whole new level”
+Dialogue: 0,1:05:21.44,1:05:25.98,Chi,,0,0,0,,{\fad(120,120)}但许多小东西组合起来就能产生一些东西，就能使你的创造达到一个全新的水平。”
+Dialogue: 1,1:05:25.98,1:05:31.81,Eng,,0,0,0,,{\fad(120,120)}and he was referencing um the theme of the puzzle and why he chose to make it penguins and ice
+Dialogue: 0,1:05:25.98,1:05:31.81,Chi,,0,0,0,,{\fad(120,120)}他谈到了这个谜题的主题，以及他为什么选择企鹅和冰来做主题
+Dialogue: 1,1:05:31.81,1:05:37.18,Eng,,0,0,0,,{\fad(120,120)}one thing is that the penguins uh made it clear that there was a top and a bottom
+Dialogue: 0,1:05:31.81,1:05:37.18,Chi,,0,0,0,,{\fad(120,120)}一是，上面的企鹅能清楚地表示这个谜题有顶部和底部
+Dialogue: 1,1:05:37.18,1:05:39.93,Eng,,0,0,0,,{\fad(120,120)}so, it made clear that the puzzles could not be flipped
+Dialogue: 0,1:05:37.18,1:05:39.93,Chi,,0,0,0,,{\fad(120,120)}所以，它清楚地表明了这个谜题是不能翻转的
+Dialogue: 1,1:05:39.93,1:05:47.04,Eng,,0,0,0,,{\fad(120,120)}the sliding allowed the pieces to reach more configurations which made a more possible instances of the puzzle
+Dialogue: 0,1:05:39.93,1:05:47.04,Chi,,0,0,0,,{\fad(120,120)}而滑动则允许每个部件有更多的构造，这使得谜题中有更多的可能的情况
+Dialogue: 1,1:05:47.04,1:05:51.97,Eng,,0,0,0,,{\fad(120,120)}the way the puzzle works by the way is you get a card that shows you where the penguins ultimately have to be in the finished puzzle
+Dialogue: 0,1:05:47.04,1:05:51.97,Chi,,0,0,0,,{\fad(120,120)}顺便说下这个谜题的玩法是，你有一张卡片，上面写着企鹅在完成的谜题中的最终位置
+Dialogue: 1,1:05:51.97,1:05:58.17,Eng,,0,0,0,,{\fad(120,120)}and then you have to find a way to slide the ice blocks and build the puzzle so that the penguins lie in the right spots
+Dialogue: 0,1:05:51.97,1:05:58.17,Chi,,0,0,0,,{\fad(120,120)}然后你必须找到一种方式滑动这些部件，然后放入到里面使得企鹅位于正确的位置上
+Dialogue: 1,1:05:58.17,1:06:01.31,Eng,,0,0,0,,{\fad(120,120)}but like there's a lot of pentomino puzzles out there
+Dialogue: 0,1:05:58.17,1:06:01.31,Chi,,0,0,0,,{\fad(120,120)}但是市面上有很多这种五格骨牌的谜题
+Dialogue: 1,1:06:01.31,1:06:06.56,Eng,,0,0,0,,{\fad(120,120)}and he wanted to make one that had fewer moving parts so that it was easier to manufacture and less frightening
+Dialogue: 0,1:06:01.31,1:06:06.56,Chi,,0,0,0,,{\fad(120,120)}而他想做这样一个谜题，其中活动部件较少，这样更容易制造，也不太劝退
+Dialogue: 1,1:06:06.56,1:06:08.41,Eng,,0,0,0,,{\fad(120,120)}and didn't seem like a really complicated puzzle
+Dialogue: 0,1:06:06.56,1:06:08.41,Chi,,0,0,0,,{\fad(120,120)}并且不会看起来使一个非常复杂的谜题
+Dialogue: 1,1:06:08.41,1:06:11.17,Eng,,0,0,0,,{\fad(120,120)}he wanted it to look simple and be more elegant
+Dialogue: 0,1:06:08.41,1:06:11.17,Chi,,0,0,0,,{\fad(120,120)}他想让它看起来更简单，更优雅
+Dialogue: 1,1:06:11.17,1:06:17.25,Eng,,0,0,0,,{\fad(120,120)}and the sliding added back the interestingness that was lost when the number of puzzles were removed
+Dialogue: 0,1:06:11.17,1:06:17.25,Chi,,0,0,0,,{\fad(120,120)}而这些滑动的部分又把因为减少部件数量而失去的有趣性给弥补了回来
+Dialogue: 1,1:06:17.25,1:06:22.24,Eng,,0,0,0,,{\fad(120,120)}um and sort of the theme made it less abstract and sort of more fun and playful
+Dialogue: 0,1:06:17.25,1:06:22.24,Chi,,0,0,0,,{\fad(120,120)}而这个主题让它不那么抽象，而且更有趣味性和游戏性
+Dialogue: 1,1:06:22.24,1:06:24.48,Eng,,0,0,0,,{\fad(120,120)}and by putting all of these things together
+Dialogue: 0,1:06:22.24,1:06:24.48,Chi,,0,0,0,,{\fad(120,120)}通过把所有这些东西放到一起
+Dialogue: 1,1:06:24.48,1:06:32.29,Eng,,0,0,0,,{\fad(120,120)}he was able to create something that was far more exciting and compelling and interesting than just a pentomino puzzle where you're putting blocks in a grit
+Dialogue: 0,1:06:24.48,1:06:32.29,Chi,,0,0,0,,{\fad(120,120)}他能够创造出比起一般的五格骨牌更刺激、更引人注目、更有趣的谜题
+Dialogue: 1,1:06:32.29,1:06:37.47,Eng,,0,0,0,,{\fad(120,120)}and the sort of synergy of the theme with the idea that you can't flip them over with the playfulness
+Dialogue: 0,1:06:32.29,1:06:37.47,Chi,,0,0,0,,{\fad(120,120)}而这个主题和你不能将其翻转这个想法，以及整个谜题的乐趣
+Dialogue: 1,1:06:37.47,1:06:41.31,Eng,,0,0,0,,{\fad(120,120)}and the sliding of the puzzle and somehow ice sliding into different configurations
+Dialogue: 0,1:06:37.47,1:06:41.31,Chi,,0,0,0,,{\fad(120,120)}还有谜题中的滑动操作以及这些冰能够通过滑动组合出不同的结构
+Dialogue: 1,1:06:41.31,1:06:42.91,Eng,,0,0,0,,{\fad(120,120)}feels like it makes sense
+Dialogue: 0,1:06:41.31,1:06:42.91,Chi,,0,0,0,,{\fad(120,120)}这些一起协同作用，让这个谜题感觉起来有意义
+Dialogue: 1,1:06:42.91,1:06:46.88,Eng,,0,0,0,,{\fad(120,120)}um it just ends up being more than the sum of its parts
+Dialogue: 0,1:06:42.91,1:06:46.88,Chi,,0,0,0,,{\fad(120,120)}最终，它比其各部分的总和拥有更多东西
+Dialogue: 1,1:06:46.88,1:06:53.47,Eng,,0,0,0,,{\fad(120,120)}and that idea was a combination of many small things that each in and of themselves wasn't that valuable
+Dialogue: 0,1:06:46.88,1:06:53.47,Chi,,0,0,0,,{\fad(120,120)}而这个想法是由许多小东西组合起来的，每个东西本身并不那么有价值
+Dialogue: 1,1:06:53.47,1:06:56.67,Eng,,0,0,0,,{\fad(120,120)}but somehow added up to a really great result
+Dialogue: 0,1:06:53.47,1:06:56.67,Chi,,0,0,0,,{\fad(120,120)}但以某种方式把这些加起来就有了一个非常棒的结果
+Dialogue: 1,1:06:56.67,1:07:00.25,Eng,,0,0,0,,{\fad(120,120)}and the way he was able to do this you know he chalks it all down to
+Dialogue: 0,1:06:56.67,1:07:00.25,Chi,,0,0,0,,{\fad(120,120)}而他能够做到这一切的原因，他把这一切归结为
+Dialogue: 1,1:07:00.25,1:07:09.47,Eng,,0,0,0,,{\fad(120,120)}just being alert and looking for those things uh trying really hard to recognize the potential in every little possible innovation you might see
+Dialogue: 0,1:07:00.25,1:07:09.47,Chi,,0,0,0,,{\fad(120,120)}警觉地去寻找这些东西，努力去认识你能看到的每一个小创新的潜力
+Dialogue: 1,1:07:09.47,1:07:14.97,Eng,,0,0,0,,{\fad(120,120)}um and that's something that as a puzzle creator you're constantly doing for your whole career
+Dialogue: 0,1:07:09.47,1:07:14.97,Chi,,0,0,0,,{\fad(120,120)}作为一个谜题创作者，这就是你在整个职业生涯中一直做的事
+Dialogue: 1,1:07:14.97,1:07:19.26,Eng,,0,0,0,,{\fad(120,120)}you're trying to notice the little eureka moments that you're having when playing around with the parts
+Dialogue: 0,1:07:14.97,1:07:19.26,Chi,,0,0,0,,{\fad(120,120)}你要注意到你在玩这些部件时所出现的尤里卡时刻
+Dialogue: 1,1:07:19.26,1:07:25.09,Eng,,0,0,0,,{\fad(120,120)}and uh trying to find ways to cultivate more depth from those eureka moments
+Dialogue: 0,1:07:19.26,1:07:25.09,Chi,,0,0,0,,{\fad(120,120)}并试图找到方法从这些尤里卡时刻中培养出更多的深度
+Dialogue: 1,1:07:25.09,1:07:27.52,Eng,,0,0,0,,{\fad(120,120)}so that's the end of the talk
+Dialogue: 0,1:07:25.09,1:07:27.52,Chi,,0,0,0,,{\fad(120,120)}那么这个讲座到这里就结束了
+Dialogue: 1,1:07:27.52,1:07:36.86,Eng,,0,0,0,,{\fad(120,120)}this is the sort of summary slide where we show all of the uh the tips or the lessons or the rules um
+Dialogue: 0,1:07:27.52,1:07:36.86,Chi,,0,0,0,,{\fad(120,120)}这是一张总结的幻灯片，上面是我们之前讲的所有这些小诀窍、经验以及规则
+Dialogue: 1,1:07:36.86,1:07:43.65,Eng,,0,0,0,,{\fad(120,120)}you know we've been here a while this is the extended sort of director's cut version of this talk there's a lot there um
+Dialogue: 0,1:07:36.86,1:07:43.65,Chi,,0,0,0,,{\fad(120,120)}你知道，我们已经讲了好一会了，这是讲座的扩展版本，类似于导演剪辑版，有很多内容
+Dialogue: 1,1:07:43.65,1:07:48.19,Eng,,0,0,0,,{\fad(120,120)}you know if you if you came from the GDC talk uh i knew it was a bit rushed
+Dialogue: 0,1:07:43.65,1:07:48.19,Chi,,0,0,0,,{\fad(120,120)}如果你是从当时GDC讲座中来过来的，我知道当时有点仓促
+Dialogue: 1,1:07:48.19,1:07:51.77,Eng,,0,0,0,,{\fad(120,120)}I apologize it's hard to cram all this stuff into an hour
+Dialogue: 0,1:07:48.19,1:07:51.77,Chi,,0,0,0,,{\fad(120,120)}我很抱歉，要把这些东西都塞进一个小时里是很难的
+Dialogue: 1,1:07:51.77,1:07:58.43,Eng,,0,0,0,,{\fad(120,120)}uh here it feels like I’ve had a bit more room to breathe and more to give a bit more nuance and discussion to the topics uh
+Dialogue: 0,1:07:51.77,1:07:58.43,Chi,,0,0,0,,{\fad(120,120)}而在这次讲座就不这么赶了，我有更多空间发挥，可以对这些主题进行更多细节上的探讨
+Dialogue: 1,1:07:58.43,1:08:02.08,Eng,,0,0,0,,{\fad(120,120)}if you like this stuff I will probably be making more videos on it in the future
+Dialogue: 0,1:07:58.43,1:08:02.08,Chi,,0,0,0,,{\fad(120,120)}如果你喜欢这些东西，我可能会在之后制作更多相关内容的视频
+Dialogue: 1,1:08:02.08,1:08:08.54,Eng,,0,0,0,,{\fad(120,120)}although I don't know how soon because game number three is very uh demanding of my time right now
+Dialogue: 0,1:08:02.08,1:08:08.54,Chi,,0,0,0,,{\fad(120,120)}虽然近期可能不行，因为我们现在第三个游戏的开发很花时间
+Dialogue: 1,1:08:08.54,1:08:16.48,Eng,,0,0,0,,{\fad(120,120)}but um yeah that's sort of the puzzle design uh GDC talk or extended version of it uh
+Dialogue: 0,1:08:08.54,1:08:16.48,Chi,,0,0,0,,{\fad(120,120)}那么，这就是我们谜题设计GDC研究的扩展版了
+Dialogue: 1,1:08:16.48,1:08:18.59,Eng,,0,0,0,,{\fad(120,120)}I hope this was useful uh
+Dialogue: 0,1:08:16.48,1:08:18.59,Chi,,0,0,0,,{\fad(120,120)}我希望这对你有帮助
+Dialogue: 1,1:08:18.59,1:08:21.47,Eng,,0,0,0,,{\fad(120,120)}I love talking about any and all things puzzle related
+Dialogue: 0,1:08:18.59,1:08:21.47,Chi,,0,0,0,,{\fad(120,120)}我很细探讨所有与谜题有关的事情
+Dialogue: 1,1:08:21.47,1:08:28.51,Eng,,0,0,0,,{\fad(120,120)}uh please contact me I love playing demos of puzzle games or betas or early access games
+Dialogue: 0,1:08:21.47,1:08:28.51,Chi,,0,0,0,,{\fad(120,120)}请和我联系，我很喜欢玩解谜游戏的Demo或者测试版或者抢先体验版
+Dialogue: 1,1:08:28.51,1:08:35.93,Eng,,0,0,0,,{\fad(120,120)}I love giving feedback on them so please share them with me and i would love to share with you my thoughts
+Dialogue: 0,1:08:28.51,1:08:35.93,Chi,,0,0,0,,{\fad(120,120)}我喜欢给予一些反馈，所以请和我分享你的游戏，我很乐意和你分享我的想法
+Dialogue: 1,1:08:35.93,1:08:40.09,Eng,,0,0,0,,{\fad(120,120)}if you are a puzzle designer and you are looking for a job in video games
+Dialogue: 0,1:08:35.93,1:08:40.09,Chi,,0,0,0,,{\fad(120,120)}如果你是一个谜题设计师，并且正在寻找一份电子游戏方面的工作
+Dialogue: 1,1:08:40.09,1:08:43.36,Eng,,0,0,0,,{\fad(120,120)}talk to me I’ve gotten lots of puzzle designers jobs in video games
+Dialogue: 0,1:08:40.09,1:08:43.36,Chi,,0,0,0,,{\fad(120,120)}请联系我，我这里有很多电子游戏谜题设计师的职位
+Dialogue: 1,1:08:43.36,1:08:47.90,Eng,,0,0,0,,{\fad(120,120)}I’ve also hired many of them myself um either way talk to me
+Dialogue: 0,1:08:43.36,1:08:47.90,Chi,,0,0,0,,{\fad(120,120)}我也已经雇用了很多人，不管怎样，请联系我把
+Dialogue: 1,1:08:47.90,1:08:52.00,Eng,,0,0,0,,{\fad(120,120)}and yeah that's the end of the talk
+Dialogue: 0,1:08:47.90,1:08:52.00,Chi,,0,0,0,,{\fad(120,120)}那么这次讲座就结束了
+Dialogue: 1,1:08:52.00,1:08:54.05,Eng,,0,0,0,,{\fad(120,120)}have a good one
+Dialogue: 0,1:08:52.00,1:08:54.05,Chi,,0,0,0,,{\fad(120,120)}祝你过得愉快，玩得开心
