@@ -840,588 +840,317 @@ and constantly having to back out and a lesson hard learned is to not make your 
 只能一次次放弃，而我学到的一个惨痛教训是，不要让你的目标太难以实现
 and especially not to compromise on the quality of the puzzle in order to achieve them
 尤其是不要为了实现这些目标而牺牲了谜题的质量
-
-
-
-um next
-
-lesson is the format
-
-changes everything i want to show you a
-
-few examples of puzzles that are
-
-almost all the same these are all
-
-puzzles where you have to
-
-draw a path that sort of goes through
-
-everything on the grid and so on this
-
-left this is a puzzle called simple loop
-
-it's a paper-based logic puzzle you have
-
-to draw a loop that passes through every
-
-tile
-
-um exactly once not including the shaded
-
-ones
-
-this one on the bottom left is from a
-
-game called blossom tails
-
-and it's sort of the same puzzle except
-
-there's an entrance at the top and an
-
-exit at the bottom
-
-this one in the middle is from the
-
-witness and it's the same except there's
-
-an entrance and an exit and you only
-
-have to collect all the dots you don't
-
-actually have to visit sort of every
-
-vertex of the grid this one on the right
-
-has
-
-multiple entrances and exits and you may
-
-not know where they are this is from
-
-a mobile puzzle game called alcazar
-
-and it seems like they're all similar
-
-but there's actually a lot of
-
-differences
-
-in the solver experience when you're
-
-solving these puzzles
-
-um you know the the modality of your
-
-input
-
-and the output that you're being shown
-
-right whether you're seeing a screen or
-
-seeing something physically in front of
-
-you or doing something on paper uh
-
-whether you're using even controller
-
-versus keyboard mouse versus touch they
-
-all provide different affordances like
-
-can you click and drag do you have to
-
-move a cursor around to select which
-
-square you're on
-
-are you on a small screen or a big
-
-screen how big is the text of your
-
-puzzle
-
-um can you undo and restart can you save
-
-your progress on paper you have to
-
-literally use an eraser but you can also
-
-use multiple colors of pencils to maybe
-
-make a guess and try something out and
-
-then you know
-
-what you want to erase uh when you're
-
-uh done making that guess and decided
-
-that's not the way forward
-
-um some video games have undo systems
-
-where you can make a move and go back
-
-some don't
-
-some are brutal blossom tales actually
-
-if you step off the path onto those red
-
-zones you take damage and you have to
-
-restart
-
-and there's no undo meaning that if you
-
-don't solve the puzzle correctly on the
-
-first try you actually
-
-are hurt um you know when i got to this
-
-puzzle i literally just print screened
-
-it and turned it into ms paint and
-
-solved it in there
-
-um punishment of mistakes is is sort of
-
-uh an interesting aspect like some
-
-puzzle games if you go back to the early
-
-uh like early 90s chips challenge style
-
-puzzly adventure games which had some
-
-real time and some turn-based elements
-
-many of those games were very punishing
-
-like if you stepped the wrong way
-
-you'd have to completely restart the
-
-whole level you'd lose a life it was
-
-very frustrating
-
-um nowadays i think fewer games have
-
-that aesthetic
-
-and they're more uh you know they're
-
-more about solving the puzzles about
-
-their eureka moments and they allow undo
-
-and reset and you can often even undo
-
-your reset
-
-which can be useful if you hit it by
-
-mistake um
-
-another big one is note taking and we'll
-
-get to this in the next section but but
-
-essentially what i mean by note-taking
-
-is
-
-in the witness you just have to draw a
-
-line from the start to the end you can't
-
-sort of draw a partial line on the
-
-corner of the grid whereas in alcazar
-
-the way you're making progress is by
-
-um sort of adding little bits of lines
-
-slowly until you've drawn in the whole
-
-path and the experience of solving those
-
-two puzzles is very different
-
-note taking can increase depth and this
-
-is you know an
-
-important enough uh lesson to be a
-
-number of its own
-
-i want to show you an example in sudoku
-
-and then we will go back to the path
-
-drawing puzzles
-
-a lot of players have had different ways
-
-of doing sudoku notation but they're
-
-sort of three that are most in in common
-
-use
-
-uh and many sudoku solvers are using all
-
-three of these notations at once
-
-they're sort of candidate notation
-
-meaning this cell must contain one of
-
-these numbers you know seven two means
-
-this cell is either a seven or a two uh
-
-snyder notation
-
-is sort of the reverse it's this number
-
-goes in one of these cells like here's a
-
-box
-
-the two in this box goes in one of these
-
-cells and sometimes you sort of draw a
-
-two
-
-on the border between two boxes it's
-
-sometimes called a by value there's
-
-different ways that people do it and
-
-annotate it and then there are colors
-
-which means these two cells are the same
-
-number but i don't know which one they
-
-are yet
-
-um and this is an example from cracking
-
-the cryptic where here mark goodlife is
-
-is filling out this grid and hasn't put
-
-in a single number yet or he's just put
-
-in his first number which is a seven
-
-over here
-
-uh in this thermometer and uh it took
-
-him 30 minutes to get this far but after
-
-he put in that seven he was then able to
-
-finish the whole puzzle in less than a
-
-minute because
-
-as soon as you get one number the whole
-
-thing collapses um
-
-but this type of puzzle would not be
-
-solvable without note taking like you
-
-can't
-
-solve it the way you would in normal
-
-sudoku where you're just putting in one
-
-number then the next then the next then
-
-the next then the next you need to be
-
-able to take notes and sort of reduce
-
-the possibility
-
-space down from this large you know so
-
-many things could be the answer down to
-
-only these things could be the answer
-
-and then from there you realize ah this
-
-number has to go there
-
-um and so the eureka moments that are
-
-possible with note taking are much
-
-deeper than those without it
-
-let's go back to the witness this is an
-
-example from it's very early in the game
-
-in fact that you see this puzzle and
-
-there's multiple start locations
-
-multiple places where you could possibly
-
-end it the the goal is basically you
-
-have to draw a single line from
-
-one of those start locations to an end
-
-location that both passes through all
-
-these black hexagons
-
-as well as um well it has to cut
-
-the light and dark cells uh so that they
-
-don't live in the same connected
-
-component and there's a long
-
-uh you know definition of what that
-
-really is but it sort of is like
-
-keeping all the light cells on the left
-
-and dark cells on the right or vice
-
-versa
-
-it's it's similar to that um and if you
-
-sort of take this puzzle into ms paint
-
-you could
-
-kind of draw in some little bits of
-
-deductive analysis of where the path
-
-must go and from here you can actually
-
-solve the puzzle pretty easily
-
-uh but that's sort of not really the way
-
-this puzzle is designed right
-
-it's not a puzzle where you can enter
-
-partial bits of progress while playing
-
-it
-
-um it's it's a puzzle game where you
-
-sort of start at the beginning and then
-
-draw a line out and it goes through
-
-everything and exits
-
-this isn't necessarily a bad thing but
-
-it does
-
-limit the complexity of the types of
-
-puzzles that you could create in the
-
-witness
-
-like if you go back to this alcazar
-
-puzzle on the right hand side here
-
-you could never make this in the puzzle
-
-in the witness because it would just be
-
-too frustrating for players like they
-
-would literally need to print screen it
-
-and go into paint because you can't
-
-necessarily solve it
-
-start to end uh without making a mistake
-
-um it's just sort of too much for the
-
-player's working memory to be able to do
-
-that in their
-
-head right it's it's too big of a grid
-
-for you to be able to head solve
-
-and so the witness fundamentally limits
-
-itself to
-
-smaller grids because it wants to you
-
-know have grids that people can head
-
-solve
-
-rather than grids that people are going
-
-to need to take a million notes for but
-
-that sort of limits
-
-how deep and interesting those puzzles
-
-can be now that said
-
-taking notes isn't necessarily a good
-
-fit for the theme of the witness the
-
-witness is fundamentally a game about
-
-drawing a line from one place to the
-
-next and not a game about
-
-note-taking when you're solving logic
-
-puzzles um so i
-
-i think the witnesses approach is
-
-correct for what the witness is trying
-
-to do
-
-um but i'm just saying it does create
-
-some limitation in what types of puzzles
-
-can be expressed or or you know can be
-
-expressed in a way that's convenient for
-
-the solver
-
-to access without copy pasting the
-
-puzzle into ms paint
-
-or taking notes on paper or trying to
-
-keep
-
-way too many things in their head at
-
-once
-
-some puzzles are basically designed such
-
-that note taking
-
-is the solution to the puzzle
-
-mindsweeper is one of them if you try
-
-solving mindsweeper without noting the
-
-minds
-
-it's really hard but also even just
-
-noting where the numbers are that is the
-
-form of progress of the puzzle like note
-
-taking is progress it feels like
-
-progress
-
-uh for these types of zebra crossing or
-
-einstein's riddle type puzzles where
-
-they give you a bunch of
-
-uh sort of logical hints and then you
-
-have to fill
-
-in the grid like you know who had the
-
-milk who had the water
-
-you know who was what color etc
-
-those types of puzzles that the note
-
-taking is the progress it's what you're
-
-doing when you're solving the puzzle and
-
-this is often true
-
-of many types of logic puzzles and paper
-
-logic puzzles
-
-and it is a tradition that isn't used as
-
-much
-
-in video game puzzles that sort of rely
-
-more on statefulness and interaction
-
-because that you know this is a natural
-
-fit to pen and paper
-
-it's less of a natural fit when you're
-
-playing a game and moving a character
-
-around in three-dimensional space
-
-but they do a good job of making
-
-note-taking feel like progress and
-
-that's how they're able to access their
-
-depth in a way that isn't
-
-too annoying related to that beware of
+I will show you one more example this is the cast elk puzzle
+我再给你看一个例子，这是“Cast Elk”
+where is it I had it on my desk at some point is it on my shelf
+它放到哪里去了…它之前在我桌子上…在书架上吗
+it's hiding my desk has a lot of stuff on it where is it 
+它藏起来了…我桌子上有很多东西…它在哪里
+there it is okay uh here we go 
+在这里，好吧
+so, this is a puzzle called the Cast Elk it's published by Hanayama
+所以，这是一个由Hanayama发售的一个叫“Cast Elk”的谜题
+uh it's actually a really cool puzzle 
+这其实是个非常酷的谜题 
+so, there's these two uh they're basically interlocked semicircular sort of c-shaped rings that are themed like a deer with antlers 
+有这样两个扣起来的半圆形的，有点类似C形的环，是以带着鹿角的鹿为主题的
+or an elk I guess you know is what it's called 
+或者说应该说是麋鹿，你知道它名字就是这么叫的
+and you kind of have to slip them past each other and then sort of like rotate them sideways a bit and then they come apart
+你必须把它滑过对方，然后把它们侧向旋转一下，然后它们就分开了
+and you can reverse that to push them back together 
+你可以反着这个过程来把它们又扣起来
+the thing that's interesting about these is that well my spouse Alissa had this as a teenager 
+这里面有趣的是…我的配偶Alissa在十几岁时就有这个东西了 
+and she was able to solve the puzzle but she never actually noticed the trick 
+她能够解决这个谜题，但她从来没有注意到其中的窍门
+and the trick is that when you have these two things together um and you try to slip when you try to do this move
+诀窍是当这两部分扣起来时，当你试图做这个操作时
+it actually most of the time will not work uh 
+大多数情况下是不会成功的 
+and it's because these uh sort of tips of the antlers uh are not all the same length uh 
+这是因为这些鹿角的尖端并不都是一样长的 
+there are two antler tips in this that are shorter than all of the rest
+这里面有两个鹿角的尖端比其他的都要短
+and when you have this interlock c-shape there's four kind of ways of taking it apart 
+当这两个C型的部分互扣着的时候，有四种方式可以把它们拆开
+that seem like they're isometric but they're actually not
+看起来像是等距的，但实际上不是的
+because the antlers are not the same length 
+因为鹿角的长度是不一样的 
+so my spouse spent her teenage years not realizing why sometimes she could solve this puzzle and sometimes not
+所以我的配偶在她十几岁的时候并没有意识到为什么她有时能解开，有时又不能
+and when you go to put it back together it's even worse 
+而当你把它拼起来的时候，情况就更糟糕了 
+because there's actually eight possible ways of putting it together only one of which works
+因为实际上有八种可能的组合方式，只有一种可行
+um and so it's kind of like a cruel joke played by the puzzle designer
+所以这有点像谜题设计师开的一个残酷的玩笑
+and if you're in on it it's great you know once you know the secret it seems clever 
+一旦你知道了这个秘密就会觉得这看起来很聪明
+but when you're solving it. it just seems kind of like a bit baffling and it can leave you with this feeling of like not really understanding what the intent of the puzzle designer was
+但当你解开它的时候，就会觉得有点困惑，会让你感觉到不明白谜题设计者的意图是什么
+um and so I think the lesson is that it would be great if after you solved this puzzle 
+所以我觉得，如果在你解开这个谜题后
+you could sort of open a fortune cookie and learn by the way the secret is this um 
+你能够类似于打开幸运饼干，顺便了解一下这个秘密，那就还不错
+because understanding that secret is sort of having the eureka moment 
+因为理解了这个秘密，就有了尤里卡时刻
+and if you solve the puzzle without having a eureka moment 
+如果你解开了这个谜题，却没有尤里卡的时刻 
+then uh part of the aesthetic value of that puzzle is lost on you
+那么这个谜题的一部分美学价值就会消失了
+and I can't count the number of times where I’ve watched somebody solve a video game puzzle 
+我已经数不清有多少次看到有人解决一个电子游戏的谜题时
+and they accidentally find the solution and move on and they're sort of missing out on the beauty that lies within that puzzle
+他们是意外地找到了答案，然后就往前走了，他们就错过了那道谜题中美丽的部分
+because they haven't discovered that the deeper secret lying within 
+因为他们没有发现隐藏在其中的更深的秘密 
+and I mean many video game puzzles simply do not have a deeper secret lying within
+其实很多电子游戏根本就没有更深层次的秘密
+but when they do I think you know my goal is always to allow the player to experience that deeper secret to let them in on the joke 
+但如果有的话，我想我的目标是让玩家体验到更深层次的秘密
+to sort of maximize their exposure to the eureka moment 
+去让他们最大限度地接触到尤里卡时刻
+even if it means telling them afterwards what is the thing that they were supposed to have figured out
+即使这意味着在事后告诉他们自己本应该发现的东西
+because to me experiencing the eureka moment is the important part of the puzzle
+因为对我来说，体验尤里卡时刻是谜题的重要部分
+now maybe you want to leave that secret in there 
+或许你想把这个秘密留在那里 
+maybe you want it to be something that somebody can come back to 
+也许你想让它成为别人可以回味的东西 
+maybe you want it to be you know a book 
+也许你想让它成为那种，类似于一本书
+that when you read it the second time you learn a little bit more 
+当你读第二遍的时候，你会学到一点更多的东西 
+there's a little bit of depth that you can uncover in the second reading right 
+有一些你能够在第二次阅读时发现的深度，对吗？
+that could be an option too but it's just something to think about 
+这也是一个选项，但这也得好好经过思考
+and you know that's the end of this example I guess
+那么这个例子就到此为止了
+
+
+Next lesson is “the format changes everything”
+下一课是「形式会改变一切」
+I want to show you a few examples of puzzles that are almost all the same
+我给你们看几个例子，这些谜题几乎都一样
+these are all puzzles where you have to draw a path that sort of goes through everything on the grid 
+这些谜题都要求你必须画出穿过网格上所有东西的一条路径
+and so, on this left this is a puzzle called simple loop
+左上角这个谜题叫《Simple Loop》
+it's a paper-based logic puzzle you have to draw a loop that passes through every tile exactly once not including the shaded ones
+这是一个纸质的逻辑解谜，你必须画一个环，经过每一个格子且只经过一次，不包括阴影部分
+this one on the bottom left is from a game called blossom tales 
+左下角这个谜题来自于一个叫《花之传说》（Blossom Tales）的游戏
+and it's sort of the same puzzle except there's an entrance at the top and an exit at the bottom
+它也差不多是一样的谜题，只不过上面有一个入口，下面有一个出口
+this one in the middle is from the witness and it's the same except there's an entrance and an exit 
+中间这个来自《见证者》，基本上也是一样的，除了有个入口和出口
+and you only have to collect all the dots you don't actually have to visit sort of every vertex of the grid 
+而且只需要经过所有的点就行了，不用经过网格的每个顶点
+this one on the right has multiple entrances and exits and you may not know where they are 
+右边这个有多个入口和出口，你可能不知道它们在哪里
+this is from a mobile puzzle game called alcazar
+这是一个叫《Alcazar》的解谜手游
+and it seems like they're all similar 
+看起来它们都很相似
+but there's actually a lot of differences in the solver experience when you're solving these puzzles
+但实际上当你解这些谜题时，体验有很大不同
+um you know the modality of your input and the output that you're being shown right 
+比如你的输入和输出显示的形式（不同）
+whether you're seeing a screen or seeing something physically in front of you or doing something on paper
+不论你看到的是屏幕，还是看到的实体的物品，或者说在纸上解谜
+whether you're using even controller versus keyboard mouse versus touch 
+不论你用的是手柄还是键盘，鼠标还是触摸屏
+they all provide different affordances like can you click and drag do you have to move a cursor around to select which square you're on
+它们都提供了不同的能力，比如你能点击拖动吗，你需要移动光标来选择吗
+are you on a small screen or a big screen how big is the text of your puzzle
+是在小屏幕还是大屏幕上，谜题的文字有多大
+um can you undo and restart can you save your progress 
+可以撤销和重启吗，可以保存进度吗
+on paper you have to literally use an eraser 
+在纸上你需要用橡皮擦
+but you can also use multiple colors of pencils to maybe make a guess and try something out
+但你也可以用多种颜色的铅笔来做出猜测或者尝试 
+and then you know what you want to erase uh when you're uh done making that guess and decided that's not the way forward
+之后你就需要擦除一些东西
+some video games have undo systems where you can make a move and go back some don't
+有的电子游戏有撤销的操作，你可以做一个操作然后回到上一步，而有的游戏没有
+some are brutal blossom tales actually if you step off the path onto those red zones 
+有的又很残酷，《花之传说》里面如果你走到红格子上了
+you take damage and you have to restart
+你会受到伤害，而且你必须重新开始
+and there's no undo meaning that if you don't solve the puzzle correctly on the first try you actually are hurt 
+没有撤销就意味着如果你一次没有做出正确尝试，你就会受到伤害
+you know when I got to this puzzle I literally just print screened it and turned it into MS paint and solved it in there
+当时我解这个谜题的时候，我是截屏然后放到画图里面，先在里面把它解出来
+punishment of mistakes is sort of an interesting aspect 
+对错误的惩罚是一个有趣的方面 
+like some puzzle games if you go back to the early uh like early 90s chip’s challenge style puzzly adventure games 
+如果你回到上世纪90年代早期，那种《Chip’s Challenge》风格的冒险解密游戏
+which had some real time and some turn-based elements
+里面有些实时的和回合制的元素
+many of those games were very punishing 
+这些游戏中很多的惩罚都非常重
+like if you stepped the wrong way you'd have to completely restart the whole level you'd lose a life it was very frustrating
+如果你走错了，你就得重新开始整个关卡或者丢失一条命，这让人很沮丧
+um nowadays I think fewer games have that aesthetic 
+我觉得现在有这种审美的游戏越来越少了 
+and they're more uh you know they're more about solving the puzzles about their eureka moments 
+现在的游戏更多是关注在解谜上，关注尤里卡时刻
+and they allow undo and reset and you can often even undo your reset
+而且它们允许撤销和重置，你甚至可以撤销你的重置
+which can be useful if you hit it by mistake um
+如果你不小心按到重置按钮的话，这就很有用
+another big one is note taking and we'll get to this in the next section 
+另一个重要的方面是做笔记，我们会在下一节中讨论这个问题
+but essentially what I mean by note-taking is in the witness you just have to draw a line from the start to the end you can't sort of draw a partial line on the corner of the grid 
+但本质上说，在《见证者》中，你必须从头到尾画完整的一条先，你不能只画一部分的线
+whereas in alcazar the way you're making progress is by um sort of adding little bits of lines slowly until you've drawn in the whole path 
+而在《Alcazar》中，你是一点点加上小线段，知道你画出整条路径
+and the experience of solving those two puzzles is very different
+而解决这两个谜题的体验是非常不同的
+
+
+
+Note-taking can increase depth and this is you know an important enough uh lesson to be a number of its own
+「记笔记可以增加深度」，这是很重要的一课，值得单独拿出来作为一点
+I want to show you an example in sudoku and then we will go back to the path drawing puzzles
+我想给你们看一个数独的例子，然后我们再回来看前面画线谜题的例子
+a lot of players have had different ways of doing sudoku notation but they're sort of three that are most in in common use
+很多玩家都有不同的方法来做数独的记号，但这是最常用的三种
+uh and many sudoku solvers are using all three of these notations at once
+还有许多数独解题者同时使用这三种记法
+they're sort of candidate notation meaning this cell must contain one of these numbers 
+一种是候选记号（Candidate notation），意思是格子中一定是这些数字之一
+you know seven two means this cell is either a seven or a two 
+写成“72”就意味着这个格子里要么是7要么是2
+uh Snyder notation is sort of the reverse it's this number goes in one of these cells 
+而Snyder记号是一种相反的记号，就是这个数字要放到这些格子中的一个位置
+like here's a box the two in this box goes in one of these cells 
+比如有这么个框，2就会放入这个框中的其中一格
+and sometimes you sort of draw a two on the border between two boxes it's sometimes called a bivalue 
+有时你会在两个框交界的地方写个2，这有时被叫做“bivalue”
+there's different ways that people do it and annotate it 
+人们有不同的方法来做这样的记号和注释 
+and then there are colors which means these two cells are the same number but I don't know which one they are yet
+然后还有涂色记号，意味着两个格子数字相同，但还不确定是什么数字
+um and this is an example from cracking the cryptic where here Mark Goodlife is filling out this grid 
+这里这个例子来自Cracking the Cryptic频道，Mark Goodlife正在填这个格子
+and hasn't put in a single number yet or he's just put in his first number which is a seven over here uh in this thermometer 
+还没有填上一个数字，或者说他刚刚填了第一个数字，也就是这个温度计里的7
+（译者注：这是个温度计数独，含温度计的格子从头部开始数字增大）
+and uh it took him 30 minutes to get this far 
+他走到当前这个状态花了30分钟
+but after he put in that seven he was then able to finish the whole puzzle in less than a minute 
+但当他填入7后，他就能在一分钟内完成整个谜题
+because as soon as you get one number the whole thing collapses um
+因为一旦你得到一个数字，整个谜题就会“崩塌”
+but this type of puzzle would not be solvable without note taking 
+但这种类型的谜题如果不做笔记的话是无法解决的
+like you can't solve it the way you would in normal sudoku where you're just putting in one number then the next then the next then the next then the next 
+你不能像普通的数独游戏那样，先填一个数字，然后再一个接一个填
+you need to be able to take notes and sort of reduce the possibility space down from this large you know 
+你需要做笔记，把这么大的可能性空间给所需
+so many things could be the answer down to only these things could be the answer
+从很多又可以是答案，到只有这些才是答案
+and then from there you realize ah this number has to go there 
+然后你就会意识到，这个数字一定要放在那里
+um and so the eureka moments that are possible with note taking are much deeper than those without it
+所以，含有记笔记过程的尤里卡时刻，要比那些没有的要深刻得多
+let's go back to the witness this is an example from it's very early in the game 
+让我们回到《见证者》来，这是游戏前期的一个例子
+in fact that you see this puzzle and there's multiple start locations multiple places where you could possibly end it 
+事实上，你看到这个谜题之后会发现，它有多个起点和终点
+the goal is basically you have to draw a single line from one of those start locations to an end location that both passes through all these black hexagons
+目标是你必须从其中一个起点位置画一条线到终点，同时穿过所有这些黑色的六边形
+as well as um well it has to cut the light and dark cells uh so that they don't live in the same connected component 
+同时还得把含有黑块和白块的格子分隔开来，使得它们在不同的连通分量当中
+and there's a long uh you know definition of what that really is but it sort of is like keeping all the light cells on the left and dark cells on the right or vice versa it's similar to that 
+基本上就是说让所有含黑块的格子在线一边，含有白块的格子在线的另一边
+um and if you sort of take this puzzle into MS paint 
+而如果你把这个谜题截屏放到画图里面看
+you could kind of draw in some little bits of deductive analysis of where the path must go 
+你就可以推理分析出一些小线段来代表路径必须经过的地方
+and from here you can actually solve the puzzle pretty easily
+而根据这个你可以很容易地解决这个谜题
+uh but that's sort of not really the way this puzzle is designed right
+但这个谜题设计出来并不是这样的方式，对吗？
+it's not a puzzle where you can enter partial bits of progress while playing it
+这不是那种你玩的时候一小截一小截线段往里添加的谜题
+it's a puzzle game where you sort of start at the beginning and then draw a line out and it goes through everything and exits
+这是你得从起点开始画一条线、穿过所有东西直到终点的谜题
+this isn't necessarily a bad thing but it does limit the complexity of the types of puzzles that you could create in the witness
+这不一定是件坏事，但它也的确限制了《见证者》中能创作的谜题的复杂性
+like if you go back to this Alcazar puzzle on the right hand side here 
+就比如我们回到之前那个《Alcazar》的谜题，在右手边这个
+you could never make this in the puzzle in the witness because it would just be too frustrating for players 
+你永远不可能在《见证者》中做这样一个谜题，因为这会让玩家非常懊恼
+like they would literally need to print screen it and go into paint because you can't necessarily solve it start to end without making a mistake
+你真的可能得截个屏然后放到画图里来看，你不可能从头到尾不犯错画根线就把它解出来了
+um it's just sort of too much for the player's working memory to be able to do that in their head right 
+这对玩家的短期记忆能力来说实在是太多了，不可能就在脑海里完成这个任务
+it's too big of a grid for you to be able to head solve
+这个网格太大了，不可能在脑海里解出来的
+and so, the witness fundamentally limits itself to smaller grids
+因此，《见证者》从根本上说限制了自己只能使用较小一点的网格
+because it wants to you know have grids that people can head solve
+因为它希望它的网格能直接让人在脑海里解出来
+rather than grids that people are going to need to take a million notes for 
+而不是需要人们去做无数的笔记
+but that sort of limits how deep and interesting those puzzles can be 
+但这同时也限制那些谜题的深度和趣味性
+now that said taking notes isn't necessarily a good fit for the theme of the witness 
+虽然这么说，但做笔记本身不一定适合《见证者》的主题
+the witness is fundamentally a game about drawing a line from one place to the next
+《见证者》从根本上说就是从一点到另一点画线的游戏
+and not a game about note-taking when you're solving logic puzzles
+而不是要求边解逻辑谜题边做笔记的游戏
+um so I think the witnesses approach is correct for what the witness is trying to do
+所以我认为《见证者》的方法对于《见证者》本身所要尝试做的事情来说，是正确的
+um but I’m just saying it does create some limitation in what types of puzzles can be expressed 
+但我还是得说它对能够表达的谜题类型产生了一些限制
+or you know can be expressed in a way that's convenient for the solver to access 
+或者说（它限制了）那种能够用让玩家可以方便解出来的方式表达的
+without copy pasting the puzzle into MS paint or taking notes on paper or trying to keep way too many things in their head at once
+而不需要把谜题粘贴到画图中，或者在纸上做笔记，或者在脑海中记太多东西的谜题
+some puzzles are basically designed such that note taking is the solution to the puzzle
+而有些谜题基本上就是把记笔记作为谜题的解决步骤
+minesweeper is one of them 
+扫雷就是其中之一 
+if you try solving minesweeper without noting the mines it's really hard 
+如果你试着不标记地雷的位置来解开扫雷，那真的很困难
+but also even just noting where the numbers are that is the form of progress of the puzzle 
+但即便只是去留意数字的位置，那也是解谜取得进展的一种形式
+like note-taking is progress it feels like progress
+记笔记就是一种进展，它感觉上就像取得了进展一样
+uh for these types of zebra crossing or Einstein’s riddle type puzzles 
+对于这种《斑马难题》
+where they give you a bunch of uh sort of logical hints and then you have to fill in the grid 
+里面给你一些逻辑线索，然后你得填上这个表格
+like you know who had the milk who had the water you know who was what color etc
+比如给你线索说，谁喜欢喝牛奶，谁喜欢喝水，谁的房子是什么颜色等等
+those types of puzzles that the note taking is the progress it's what you're doing when you're solving the puzzle 
+对这种类型的谜题，记笔记就是取得进展，就是你在解谜时做的事情
+and this is often true of many types of logic puzzles and paper logic puzzles
+很多类型的逻辑谜题和纸质逻辑谜题都是如此
+and it is a tradition that isn't used as much in video game puzzles that sort of rely more on statefulness and interaction
+而这一传统在电子游戏谜题中并不常有，因为电子游戏谜题更依赖与状态和交互
+because that you know this is a natural fit to pen and paper
+因为你知道，（做笔记）很自然地使用与纸上游戏
+it's less of a natural fit when you're playing a game and moving a character around in three-dimensional space
+但当你在三维空间中移动一个角色时，它就不那么自然了
+but they do a good job of making note-taking feel like progress 
+不过（纸上游戏）在让人通过记笔记感到取得进展这方面做得很好
+and that's how they're able to access their depth in a way that isn't too annoying
+这就是他们如何能够以一种不太令人讨厌的方式拓展它们游戏的深度
+
+
+
+
+related to that beware of
 
 the temptations offered by the
 

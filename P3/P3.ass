@@ -811,7 +811,7 @@ Dialogue: 0,0:30:22.30,0:30:27.23,Chi,,0,0,0,,{\fad(120,120)}我和你们分享�
 Dialogue: 2,0:30:27.23,0:30:34.46,Annote,,0,0,0,,{\fad(120,120)}（译者注：Sage Advice这篇博客可以在cruciverb.com上搜索到，这是供新手填字游戏创作者学习的一篇文章）
 Dialogue: 1,0:30:27.23,0:30:34.46,Eng,,0,0,0,,{\fad(120,120)}she is a godmother to all crossword creators with her famous sage advice uh blog um
 Dialogue: 0,0:30:27.23,0:30:34.46,Chi,,0,0,0,,{\fad(120,120)}她是所有填字游戏创作者的教母，有这样一篇著名的叫“Sage Advice”的博客
-Dialogue: 2,0:30:34.46,0:30:42.97,Annote,,0,0,0,,{\fad(120,120)}（译者注：这句话我个人是这么理解的，如果有误还望指正）
+Dialogue: 2,0:30:34.46,0:30:42.97,Annote,,0,0,0,,{\pos(995,910)\fad(120,120)}（译者注：这句话我个人是这么理解的，如果有误还望指正）
 Dialogue: 1,0:30:34.46,0:30:42.97,Eng,,0,0,0,,{\fad(120,120)}you know she shares that "a plethora of X’s, Z’s, Q’s, J’s and the like will buy you nothing but rejections if you pay too high a price for them."
 Dialogue: 0,0:30:34.46,0:30:42.97,Chi,,0,0,0,,{\fad(120,120)}她分享说： \N “如果你为过多的X、Z、Q、J单词付出太多的代价，这只会让你的填字游戏被出版商退稿”
 Dialogue: 1,0:30:42.97,0:30:45.92,Eng,,0,0,0,,{\fad(120,120)}and so, here's a couple of examples
@@ -861,5 +861,306 @@ Dialogue: 1,0:32:38.62,0:32:40.99,Eng,,0,0,0,,{\fad(120,120)}and I tried one thi
 Dialogue: 0,0:32:38.62,0:32:40.99,Chi,,0,0,0,,{\fad(120,120)}我试了一件事，但没有成功，又试了另一件事也没有成功
 Dialogue: 1,0:32:40.99,0:32:48.86,Eng,,0,0,0,,{\fad(120,120)}and constantly having to back out and a lesson hard learned is to not make your goals too difficult
 Dialogue: 0,0:32:40.99,0:32:48.86,Chi,,0,0,0,,{\fad(120,120)}只能一次次放弃，而我学到的一个惨痛教训是，不要让你的目标太难以实现
-Dialogue: 1,0:32:48.86,0:32:52.89,Eng,,0,0,0,,{\fad(120,120)}and especially not to compromise on the quality of the puzzle in order to achieve them
-Dialogue: 0,0:32:48.86,0:32:52.89,Chi,,0,0,0,,{\fad(120,120)}尤其是不要为了实现这些目标而牺牲了谜题的质量
+Dialogue: 1,0:32:48.86,0:32:53.47,Eng,,0,0,0,,{\fad(120,120)}and especially not to compromise on the quality of the puzzle in order to achieve them
+Dialogue: 0,0:32:48.86,0:32:53.47,Chi,,0,0,0,,{\fad(120,120)}尤其是不要为了实现这些目标而牺牲了谜题的质量
+Dialogue: 1,0:32:53.47,0:32:58.14,Eng,,0,0,0,,{\fad(120,120)}I will show you one more example this is the cast elk puzzle
+Dialogue: 0,0:32:53.47,0:32:58.14,Chi,,0,0,0,,{\fad(120,120)}我再给你看一个例子，这是“Cast Elk”
+Dialogue: 1,0:32:58.14,0:33:05.82,Eng,,0,0,0,,{\fad(120,120)}where is it I had it on my desk at some point is it on my shelf
+Dialogue: 0,0:32:58.14,0:33:05.82,Chi,,0,0,0,,{\fad(120,120)}它放到哪里去了…它之前在我桌子上…在书架上吗
+Dialogue: 1,0:33:05.82,0:33:09.53,Eng,,0,0,0,,{\fad(120,120)}it's hiding my desk has a lot of stuff on it where is it
+Dialogue: 0,0:33:05.82,0:33:09.53,Chi,,0,0,0,,{\fad(120,120)}它藏起来了…我桌子上有很多东西…它在哪里
+Dialogue: 1,0:33:09.53,0:33:12.35,Eng,,0,0,0,,{\fad(120,120)}there it is okay uh here we go
+Dialogue: 0,0:33:09.53,0:33:12.35,Chi,,0,0,0,,{\fad(120,120)}在这里，好吧
+Dialogue: 1,0:33:12.35,0:33:16.70,Eng,,0,0,0,,{\fad(120,120)}so, this is a puzzle called the Cast Elk it's published by Hanayama
+Dialogue: 0,0:33:12.35,0:33:16.70,Chi,,0,0,0,,{\fad(120,120)}所以，这是一个由Hanayama发售的一个叫“Cast Elk”的谜题
+Dialogue: 1,0:33:16.70,0:33:18.69,Eng,,0,0,0,,{\fad(120,120)}uh it's actually a really cool puzzle
+Dialogue: 0,0:33:16.70,0:33:18.69,Chi,,0,0,0,,{\fad(120,120)}这其实是个非常酷的谜题
+Dialogue: 1,0:33:18.69,0:33:30.27,Eng,,0,0,0,,{\fad(120,120)}so, there's these two uh they're basically interlocked semicircular sort of c-shaped rings that are themed like a deer with antlers
+Dialogue: 0,0:33:18.69,0:33:30.27,Chi,,0,0,0,,{\fad(120,120)}有这样两个扣起来的半圆形的，有点类似C形的环，是以带着鹿角的鹿为主题的
+Dialogue: 1,0:33:30.27,0:33:32.25,Eng,,0,0,0,,{\fad(120,120)}or an elk I guess you know is what it's called
+Dialogue: 0,0:33:30.27,0:33:32.25,Chi,,0,0,0,,{\fad(120,120)}或者说应该说是麋鹿，你知道它名字就是这么叫的
+Dialogue: 1,0:33:32.25,0:33:38.65,Eng,,0,0,0,,{\fad(120,120)}and you kind of have to slip them past each other and then sort of like rotate them sideways a bit and then they come apart
+Dialogue: 0,0:33:32.25,0:33:38.65,Chi,,0,0,0,,{\fad(120,120)}你必须把它滑过对方，然后把它们侧向旋转一下，然后它们就分开了
+Dialogue: 1,0:33:38.65,0:33:42.69,Eng,,0,0,0,,{\fad(120,120)}and you can reverse that to push them back together
+Dialogue: 0,0:33:38.65,0:33:42.69,Chi,,0,0,0,,{\fad(120,120)}你可以反着这个过程来把它们又扣起来
+Dialogue: 1,0:33:42.69,0:33:50.11,Eng,,0,0,0,,{\fad(120,120)}the thing that's interesting about these is that well my spouse Alissa had this as a teenager
+Dialogue: 0,0:33:42.69,0:33:50.11,Chi,,0,0,0,,{\fad(120,120)}这里面有趣的是…我的配偶Alissa在十几岁时就有这个东西了
+Dialogue: 1,0:33:50.11,0:33:55.81,Eng,,0,0,0,,{\fad(120,120)}and she was able to solve the puzzle but she never actually noticed the trick
+Dialogue: 0,0:33:50.11,0:33:55.81,Chi,,0,0,0,,{\fad(120,120)}她能够解决这个谜题，但她从来没有注意到其中的窍门
+Dialogue: 1,0:33:55.81,0:34:02.46,Eng,,0,0,0,,{\fad(120,120)}and the trick is that when you have these two things together um and you try to slip when you try to do this move
+Dialogue: 0,0:33:55.81,0:34:02.46,Chi,,0,0,0,,{\fad(120,120)}诀窍是当这两部分扣起来时，当你试图做这个操作时
+Dialogue: 1,0:34:02.46,0:34:04.96,Eng,,0,0,0,,{\fad(120,120)}it actually most of the time will not work uh
+Dialogue: 0,0:34:02.46,0:34:04.96,Chi,,0,0,0,,{\fad(120,120)}大多数情况下是不会成功的
+Dialogue: 1,0:34:04.96,0:34:12.25,Eng,,0,0,0,,{\fad(120,120)}and it's because these uh sort of tips of the antlers uh are not all the same length uh
+Dialogue: 0,0:34:04.96,0:34:12.25,Chi,,0,0,0,,{\fad(120,120)}这是因为这些鹿角的尖端并不都是一样长的
+Dialogue: 1,0:34:12.25,0:34:16.80,Eng,,0,0,0,,{\fad(120,120)}there are two antler tips in this that are shorter than all of the rest
+Dialogue: 0,0:34:12.25,0:34:16.80,Chi,,0,0,0,,{\fad(120,120)}这里面有两个鹿角的尖端比其他的都要短
+Dialogue: 1,0:34:16.80,0:34:21.73,Eng,,0,0,0,,{\fad(120,120)}and when you have this interlock c-shape there's four kind of ways of taking it apart
+Dialogue: 0,0:34:16.80,0:34:21.73,Chi,,0,0,0,,{\fad(120,120)}当这两个C型的部分互扣着的时候，有四种方式可以把它们拆开
+Dialogue: 1,0:34:21.73,0:34:24.99,Eng,,0,0,0,,{\fad(120,120)}that seem like they're isometric but they're actually not
+Dialogue: 0,0:34:21.73,0:34:24.99,Chi,,0,0,0,,{\fad(120,120)}看起来像是等距的，但实际上不是的
+Dialogue: 1,0:34:24.99,0:34:28.06,Eng,,0,0,0,,{\fad(120,120)}because the antlers are not the same length
+Dialogue: 0,0:34:24.99,0:34:28.06,Chi,,0,0,0,,{\fad(120,120)}因为鹿角的长度是不一样的
+Dialogue: 1,0:34:28.06,0:34:34.85,Eng,,0,0,0,,{\fad(120,120)}so my spouse spent her teenage years not realizing why sometimes she could solve this puzzle and sometimes not
+Dialogue: 0,0:34:28.06,0:34:34.85,Chi,,0,0,0,,{\fad(120,120)}所以我的配偶在她十几岁的时候并没有意识到为什么她有时能解开，有时又不能
+Dialogue: 1,0:34:34.85,0:34:36.57,Eng,,0,0,0,,{\fad(120,120)}and when you go to put it back together it's even worse
+Dialogue: 0,0:34:34.85,0:34:36.57,Chi,,0,0,0,,{\fad(120,120)}而当你把它拼起来的时候，情况就更糟糕了
+Dialogue: 1,0:34:36.57,0:34:41.12,Eng,,0,0,0,,{\fad(120,120)}because there's actually eight possible ways of putting it together only one of which works
+Dialogue: 0,0:34:36.57,0:34:41.12,Chi,,0,0,0,,{\fad(120,120)}因为实际上有八种可能的组合方式，只有一种可行
+Dialogue: 1,0:34:41.12,0:34:46.43,Eng,,0,0,0,,{\fad(120,120)}um and so it's kind of like a cruel joke played by the puzzle designer
+Dialogue: 0,0:34:41.12,0:34:46.43,Chi,,0,0,0,,{\fad(120,120)}所以这有点像谜题设计师开的一个残酷的玩笑
+Dialogue: 1,0:34:46.43,0:34:49.76,Eng,,0,0,0,,{\fad(120,120)}and if you're in on it it's great you know once you know the secret it seems clever
+Dialogue: 0,0:34:46.43,0:34:49.76,Chi,,0,0,0,,{\fad(120,120)}一旦你知道了这个秘密就会觉得这看起来很聪明
+Dialogue: 1,0:34:49.76,0:34:59.17,Eng,,0,0,0,,{\fad(120,120)}but when you're solving it. it just seems kind of like a bit baffling and it can leave you with this feeling of like not really understanding what the intent of the puzzle designer was
+Dialogue: 0,0:34:49.76,0:34:59.17,Chi,,0,0,0,,{\fad(120,120)}但当你解开它的时候，就会觉得有点困惑，会让你感觉到不明白谜题设计者的意图是什么
+Dialogue: 1,0:34:59.17,0:35:05.44,Eng,,0,0,0,,{\fad(120,120)}um and so I think the lesson is that it would be great if after you solved this puzzle
+Dialogue: 0,0:34:59.17,0:35:05.44,Chi,,0,0,0,,{\fad(120,120)}所以我觉得，如果在你解开这个谜题后
+Dialogue: 1,0:35:05.44,0:35:10.43,Eng,,0,0,0,,{\fad(120,120)}you could sort of open a fortune cookie and learn by the way the secret is this um
+Dialogue: 0,0:35:05.44,0:35:10.43,Chi,,0,0,0,,{\fad(120,120)}你能够类似于打开幸运饼干，顺便了解一下这个秘密，那就还不错
+Dialogue: 1,0:35:10.43,0:35:13.57,Eng,,0,0,0,,{\fad(120,120)}because understanding that secret is sort of having the eureka moment
+Dialogue: 0,0:35:10.43,0:35:13.57,Chi,,0,0,0,,{\fad(120,120)}因为理解了这个秘密，就有了尤里卡时刻
+Dialogue: 1,0:35:13.57,0:35:16.13,Eng,,0,0,0,,{\fad(120,120)}and if you solve the puzzle without having a eureka moment
+Dialogue: 0,0:35:13.57,0:35:16.13,Chi,,0,0,0,,{\fad(120,120)}如果你解开了这个谜题，却没有尤里卡的时刻
+Dialogue: 1,0:35:16.13,0:35:20.48,Eng,,0,0,0,,{\fad(120,120)}then uh part of the aesthetic value of that puzzle is lost on you
+Dialogue: 0,0:35:16.13,0:35:20.48,Chi,,0,0,0,,{\fad(120,120)}那么这个谜题的一部分美学价值就会消失了
+Dialogue: 1,0:35:20.48,0:35:24.77,Eng,,0,0,0,,{\fad(120,120)}and I can't count the number of times where I’ve watched somebody solve a video game puzzle
+Dialogue: 0,0:35:20.48,0:35:24.77,Chi,,0,0,0,,{\fad(120,120)}我已经数不清有多少次看到有人解决一个电子游戏的谜题时
+Dialogue: 1,0:35:24.77,0:35:30.27,Eng,,0,0,0,,{\fad(120,120)}and they accidentally find the solution and move on and they're sort of missing out on the beauty that lies within that puzzle
+Dialogue: 0,0:35:24.77,0:35:30.27,Chi,,0,0,0,,{\fad(120,120)}他们是意外地找到了答案，然后就往前走了，他们就错过了那道谜题中美丽的部分
+Dialogue: 1,0:35:30.27,0:35:33.47,Eng,,0,0,0,,{\fad(120,120)}because they haven't discovered that the deeper secret lying within
+Dialogue: 0,0:35:30.27,0:35:33.47,Chi,,0,0,0,,{\fad(120,120)}因为他们没有发现隐藏在其中的更深的秘密
+Dialogue: 1,0:35:33.47,0:35:38.33,Eng,,0,0,0,,{\fad(120,120)}and I mean many video game puzzles simply do not have a deeper secret lying within
+Dialogue: 0,0:35:33.47,0:35:38.33,Chi,,0,0,0,,{\fad(120,120)}其实很多电子游戏根本就没有更深层次的秘密
+Dialogue: 1,0:35:38.33,0:35:46.91,Eng,,0,0,0,,{\fad(120,120)}but when they do I think you know my goal is always to allow the player to experience that deeper secret to let them in on the joke
+Dialogue: 0,0:35:38.33,0:35:46.91,Chi,,0,0,0,,{\fad(120,120)}但如果有的话，我想我的目标是让玩家体验到更深层次的秘密
+Dialogue: 1,0:35:46.91,0:35:49.53,Eng,,0,0,0,,{\fad(120,120)}to sort of maximize their exposure to the eureka moment
+Dialogue: 0,0:35:46.91,0:35:49.53,Chi,,0,0,0,,{\fad(120,120)}去让他们最大限度地接触到尤里卡时刻
+Dialogue: 1,0:35:49.53,0:35:54.91,Eng,,0,0,0,,{\fad(120,120)}even if it means telling them afterwards what is the thing that they were supposed to have figured out
+Dialogue: 0,0:35:49.53,0:35:54.91,Chi,,0,0,0,,{\fad(120,120)}即使这意味着在事后告诉他们自己本应该发现的东西
+Dialogue: 1,0:35:54.91,0:35:59.07,Eng,,0,0,0,,{\fad(120,120)}because to me experiencing the eureka moment is the important part of the puzzle
+Dialogue: 0,0:35:54.91,0:35:59.07,Chi,,0,0,0,,{\fad(120,120)}因为对我来说，体验尤里卡时刻是谜题的重要部分
+Dialogue: 1,0:35:59.07,0:36:00.86,Eng,,0,0,0,,{\fad(120,120)}now maybe you want to leave that secret in there
+Dialogue: 0,0:35:59.07,0:36:00.86,Chi,,0,0,0,,{\fad(120,120)}或许你想把这个秘密留在那里
+Dialogue: 1,0:36:00.86,0:36:03.17,Eng,,0,0,0,,{\fad(120,120)}maybe you want it to be something that somebody can come back to
+Dialogue: 0,0:36:00.86,0:36:03.17,Chi,,0,0,0,,{\fad(120,120)}也许你想让它成为别人可以回味的东西
+Dialogue: 1,0:36:03.17,0:36:05.09,Eng,,0,0,0,,{\fad(120,120)}maybe you want it to be you know a book
+Dialogue: 0,0:36:03.17,0:36:05.09,Chi,,0,0,0,,{\fad(120,120)}也许你想让它成为那种，类似于一本书
+Dialogue: 1,0:36:05.09,0:36:09.12,Eng,,0,0,0,,{\fad(120,120)}that when you read it the second time you learn a little bit more
+Dialogue: 0,0:36:05.09,0:36:09.12,Chi,,0,0,0,,{\fad(120,120)}当你读第二遍的时候，你会学到一点更多的东西
+Dialogue: 1,0:36:09.12,0:36:12.96,Eng,,0,0,0,,{\fad(120,120)}there's a little bit of depth that you can uncover in the second reading right
+Dialogue: 0,0:36:09.12,0:36:12.96,Chi,,0,0,0,,{\fad(120,120)}有一些你能够在第二次阅读时发现的深度，对吗？
+Dialogue: 1,0:36:12.96,0:36:15.97,Eng,,0,0,0,,{\fad(120,120)}that could be an option too but it's just something to think about
+Dialogue: 0,0:36:12.96,0:36:15.97,Chi,,0,0,0,,{\fad(120,120)}这也是一个选项，但这也得好好经过思考
+Dialogue: 1,0:36:15.97,0:36:20.89,Eng,,0,0,0,,{\fad(120,120)}and you know that's the end of this example I guess
+Dialogue: 0,0:36:15.97,0:36:20.89,Chi,,0,0,0,,{\fad(120,120)}那么这个例子就到此为止了
+Dialogue: 1,0:36:20.89,0:36:25.44,Eng,,0,0,0,,{\fad(120,120)}Next lesson is “the format changes everything”
+Dialogue: 0,0:36:20.89,0:36:25.44,Chi,,0,0,0,,{\fad(120,120)}下一课是「形式会改变一切」
+Dialogue: 1,0:36:25.44,0:36:30.30,Eng,,0,0,0,,{\fad(120,120)}I want to show you a few examples of puzzles that are almost all the same
+Dialogue: 0,0:36:25.44,0:36:30.30,Chi,,0,0,0,,{\fad(120,120)}我给你们看几个例子，这些谜题几乎都一样
+Dialogue: 1,0:36:30.30,0:36:38.49,Eng,,0,0,0,,{\fad(120,120)}these are all puzzles where you have to draw a path that sort of goes through everything on the grid
+Dialogue: 0,0:36:30.30,0:36:38.49,Chi,,0,0,0,,{\fad(120,120)}这些谜题都要求你必须画出穿过网格上所有东西的一条路径
+Dialogue: 1,0:36:38.49,0:36:41.63,Eng,,0,0,0,,{\fad(120,120)}and so, on this left this is a puzzle called simple loop
+Dialogue: 0,0:36:38.49,0:36:41.63,Chi,,0,0,0,,{\fad(120,120)}左上角这个谜题叫《Simple Loop》
+Dialogue: 1,0:36:41.63,0:36:48.48,Eng,,0,0,0,,{\fad(120,120)}it's a paper-based logic puzzle you have to draw a loop that passes through every tile exactly once not including the shaded ones
+Dialogue: 0,0:36:41.63,0:36:48.48,Chi,,0,0,0,,{\fad(120,120)}这是一个纸质的逻辑解谜，你必须画一个环，经过每一个格子且只经过一次，不包括阴影部分
+Dialogue: 1,0:36:48.48,0:36:52.51,Eng,,0,0,0,,{\fad(120,120)}this one on the bottom left is from a game called blossom tales
+Dialogue: 0,0:36:48.48,0:36:52.51,Chi,,0,0,0,,{\fad(120,120)}左下角这个谜题来自于一个叫《花之传说》（Blossom Tales）的游戏
+Dialogue: 1,0:36:52.51,0:36:57.44,Eng,,0,0,0,,{\fad(120,120)}and it's sort of the same puzzle except there's an entrance at the top and an exit at the bottom
+Dialogue: 0,0:36:52.51,0:36:57.44,Chi,,0,0,0,,{\fad(120,120)}它也差不多是一样的谜题，只不过上面有一个入口，下面有一个出口
+Dialogue: 1,0:36:57.44,0:37:01.73,Eng,,0,0,0,,{\fad(120,120)}this one in the middle is from the witness and it's the same except there's an entrance and an exit
+Dialogue: 0,0:36:57.44,0:37:01.73,Chi,,0,0,0,,{\fad(120,120)}中间这个来自《见证者》，基本上也是一样的，除了有个入口和出口
+Dialogue: 1,0:37:01.73,0:37:08.45,Eng,,0,0,0,,{\fad(120,120)}and you only have to collect all the dots you don't actually have to visit sort of every vertex of the grid
+Dialogue: 0,0:37:01.73,0:37:08.45,Chi,,0,0,0,,{\fad(120,120)}而且只需要经过所有的点就行了，不用经过网格的每个顶点
+Dialogue: 1,0:37:08.45,0:37:13.31,Eng,,0,0,0,,{\fad(120,120)}this one on the right has multiple entrances and exits and you may not know where they are
+Dialogue: 0,0:37:08.45,0:37:13.31,Chi,,0,0,0,,{\fad(120,120)}右边这个有多个入口和出口，你可能不知道它们在哪里
+Dialogue: 1,0:37:13.31,0:37:17.66,Eng,,0,0,0,,{\fad(120,120)}this is from a mobile puzzle game called alcazar
+Dialogue: 0,0:37:13.31,0:37:17.66,Chi,,0,0,0,,{\fad(120,120)}这是一个叫《Alcazar》的解谜手游
+Dialogue: 1,0:37:17.66,0:37:19.71,Eng,,0,0,0,,{\fad(120,120)}and it seems like they're all similar
+Dialogue: 0,0:37:17.66,0:37:19.71,Chi,,0,0,0,,{\fad(120,120)}看起来它们都很相似
+Dialogue: 1,0:37:19.71,0:37:24.96,Eng,,0,0,0,,{\fad(120,120)}but there's actually a lot of differences in the solver experience when you're solving these puzzles
+Dialogue: 0,0:37:19.71,0:37:24.96,Chi,,0,0,0,,{\fad(120,120)}但实际上当你解这些谜题时，体验有很大不同
+Dialogue: 1,0:37:24.96,0:37:31.17,Eng,,0,0,0,,{\fad(120,120)}um you know the modality of your input and the output that you're being shown right
+Dialogue: 0,0:37:24.96,0:37:31.17,Chi,,0,0,0,,{\fad(120,120)}比如你的输入和输出显示的形式（不同）
+Dialogue: 1,0:37:31.17,0:37:35.71,Eng,,0,0,0,,{\fad(120,120)}whether you're seeing a screen or seeing something physically in front of you or doing something on paper
+Dialogue: 0,0:37:31.17,0:37:35.71,Chi,,0,0,0,,{\fad(120,120)}不论你看到的是屏幕，还是看到的实体的物品，或者说在纸上解谜
+Dialogue: 1,0:37:35.71,0:37:39.74,Eng,,0,0,0,,{\fad(120,120)}whether you're using even controller versus keyboard mouse versus touch
+Dialogue: 0,0:37:35.71,0:37:39.74,Chi,,0,0,0,,{\fad(120,120)}不论你用的是手柄还是键盘，鼠标还是触摸屏
+Dialogue: 1,0:37:39.74,0:37:45.25,Eng,,0,0,0,,{\fad(120,120)}they all provide different affordances like can you click and drag do you have to move a cursor around to select which square you're on
+Dialogue: 0,0:37:39.74,0:37:45.25,Chi,,0,0,0,,{\fad(120,120)}它们都提供了不同的能力，比如你能点击拖动吗，你需要移动光标来选择吗
+Dialogue: 1,0:37:45.25,0:37:51.52,Eng,,0,0,0,,{\fad(120,120)}are you on a small screen or a big screen how big is the text of your puzzle
+Dialogue: 0,0:37:45.25,0:37:51.52,Chi,,0,0,0,,{\fad(120,120)}是在小屏幕还是大屏幕上，谜题的文字有多大
+Dialogue: 1,0:37:51.52,0:37:54.65,Eng,,0,0,0,,{\fad(120,120)}um can you undo and restart can you save your progress
+Dialogue: 0,0:37:51.52,0:37:54.65,Chi,,0,0,0,,{\fad(120,120)}可以撤销和重启吗，可以保存进度吗
+Dialogue: 1,0:37:54.65,0:37:56.96,Eng,,0,0,0,,{\fad(120,120)}on paper you have to literally use an eraser
+Dialogue: 0,0:37:54.65,0:37:56.96,Chi,,0,0,0,,{\fad(120,120)}在纸上你需要用橡皮擦
+Dialogue: 1,0:37:56.96,0:38:01.44,Eng,,0,0,0,,{\fad(120,120)}but you can also use multiple colors of pencils to maybe make a guess and try something out
+Dialogue: 0,0:37:56.96,0:38:01.44,Chi,,0,0,0,,{\fad(120,120)}但你也可以用多种颜色的铅笔来做出猜测或者尝试
+Dialogue: 1,0:38:01.44,0:38:08.99,Eng,,0,0,0,,{\fad(120,120)}and then you know what you want to erase uh when you're uh done making that guess and decided that's not the way forward
+Dialogue: 0,0:38:01.44,0:38:08.99,Chi,,0,0,0,,{\fad(120,120)}之后你就需要擦除一些东西
+Dialogue: 1,0:38:08.99,0:38:13.79,Eng,,0,0,0,,{\fad(120,120)}some video games have undo systems where you can make a move and go back some don't
+Dialogue: 0,0:38:08.99,0:38:13.79,Chi,,0,0,0,,{\fad(120,120)}有的电子游戏有撤销的操作，你可以做一个操作然后回到上一步，而有的游戏没有
+Dialogue: 1,0:38:13.79,0:38:19.74,Eng,,0,0,0,,{\fad(120,120)}some are brutal blossom tales actually if you step off the path onto those red zones
+Dialogue: 0,0:38:13.79,0:38:19.74,Chi,,0,0,0,,{\fad(120,120)}有的又很残酷，《花之传说》里面如果你走到红格子上了
+Dialogue: 1,0:38:19.74,0:38:21.79,Eng,,0,0,0,,{\fad(120,120)}you take damage and you have to restart
+Dialogue: 0,0:38:19.74,0:38:21.79,Chi,,0,0,0,,{\fad(120,120)}你会受到伤害，而且你必须重新开始
+Dialogue: 1,0:38:21.79,0:38:27.29,Eng,,0,0,0,,{\fad(120,120)}and there's no undo meaning that if you don't solve the puzzle correctly on the first try you actually are hurt
+Dialogue: 0,0:38:21.79,0:38:27.29,Chi,,0,0,0,,{\fad(120,120)}没有撤销就意味着如果你一次没有做出正确尝试，你就会受到伤害
+Dialogue: 1,0:38:27.29,0:38:33.57,Eng,,0,0,0,,{\fad(120,120)}you know when I got to this puzzle I literally just print screened it and turned it into MS paint and solved it in there
+Dialogue: 0,0:38:27.29,0:38:33.57,Chi,,0,0,0,,{\fad(120,120)}当时我解这个谜题的时候，我是截屏然后放到画图里面，先在里面把它解出来
+Dialogue: 1,0:38:33.57,0:38:38.81,Eng,,0,0,0,,{\fad(120,120)}punishment of mistakes is sort of an interesting aspect
+Dialogue: 0,0:38:33.57,0:38:38.81,Chi,,0,0,0,,{\fad(120,120)}对错误的惩罚是一个有趣的方面
+Dialogue: 1,0:38:38.81,0:38:46.24,Eng,,0,0,0,,{\fad(120,120)}like some puzzle games if you go back to the early uh like early 90s chip’s challenge style puzzly adventure games
+Dialogue: 0,0:38:38.81,0:38:46.24,Chi,,0,0,0,,{\fad(120,120)}如果你回到上世纪90年代早期，那种《Chip’s Challenge》风格的冒险解密游戏
+Dialogue: 1,0:38:46.24,0:38:48.67,Eng,,0,0,0,,{\fad(120,120)}which had some real time and some turn-based elements
+Dialogue: 0,0:38:46.24,0:38:48.67,Chi,,0,0,0,,{\fad(120,120)}里面有些实时的和回合制的元素
+Dialogue: 1,0:38:48.67,0:38:50.33,Eng,,0,0,0,,{\fad(120,120)}many of those games were very punishing
+Dialogue: 0,0:38:48.67,0:38:50.33,Chi,,0,0,0,,{\fad(120,120)}这些游戏中很多的惩罚都非常重
+Dialogue: 1,0:38:50.33,0:38:56.48,Eng,,0,0,0,,{\fad(120,120)}like if you stepped the wrong way you'd have to completely restart the whole level you'd lose a life it was very frustrating
+Dialogue: 0,0:38:50.33,0:38:56.48,Chi,,0,0,0,,{\fad(120,120)}如果你走错了，你就得重新开始整个关卡或者丢失一条命，这让人很沮丧
+Dialogue: 1,0:38:56.48,0:39:00.25,Eng,,0,0,0,,{\fad(120,120)}um nowadays I think fewer games have that aesthetic
+Dialogue: 0,0:38:56.48,0:39:00.25,Chi,,0,0,0,,{\fad(120,120)}我觉得现在有这种审美的游戏越来越少了
+Dialogue: 1,0:39:00.25,0:39:04.03,Eng,,0,0,0,,{\fad(120,120)}and they're more uh you know they're more about solving the puzzles about their eureka moments
+Dialogue: 0,0:39:00.25,0:39:04.03,Chi,,0,0,0,,{\fad(120,120)}现在的游戏更多是关注在解谜上，关注尤里卡时刻
+Dialogue: 1,0:39:04.03,0:39:07.93,Eng,,0,0,0,,{\fad(120,120)}and they allow undo and reset and you can often even undo your reset
+Dialogue: 0,0:39:04.03,0:39:07.93,Chi,,0,0,0,,{\fad(120,120)}而且它们允许撤销和重置，你甚至可以撤销你的重置
+Dialogue: 1,0:39:07.93,0:39:10.75,Eng,,0,0,0,,{\fad(120,120)}which can be useful if you hit it by mistake um
+Dialogue: 0,0:39:07.93,0:39:10.75,Chi,,0,0,0,,{\fad(120,120)}如果你不小心按到重置按钮的话，这就很有用
+Dialogue: 1,0:39:10.75,0:39:14.65,Eng,,0,0,0,,{\fad(120,120)}another big one is note taking and we'll get to this in the next section
+Dialogue: 0,0:39:10.75,0:39:14.65,Chi,,0,0,0,,{\fad(120,120)}另一个重要的方面是做笔记，我们会在下一节中讨论这个问题
+Dialogue: 1,0:39:14.65,0:39:22.91,Eng,,0,0,0,,{\fad(120,120)}but essentially what I mean by note-taking is in the witness you just have to draw a line from the start to the end you can't sort of draw a partial line on the corner of the grid
+Dialogue: 0,0:39:14.65,0:39:22.91,Chi,,0,0,0,,{\fad(120,120)}但本质上说，在《见证者》中，你必须从头到尾画完整的一条先，你不能只画一部分的线
+Dialogue: 1,0:39:22.91,0:39:32.64,Eng,,0,0,0,,{\fad(120,120)}whereas in alcazar the way you're making progress is by um sort of adding little bits of lines slowly until you've drawn in the whole path
+Dialogue: 0,0:39:22.91,0:39:32.64,Chi,,0,0,0,,{\fad(120,120)}而在《Alcazar》中，你是一点点加上小线段，知道你画出整条路径
+Dialogue: 1,0:39:32.64,0:39:36.03,Eng,,0,0,0,,{\fad(120,120)}and the experience of solving those two puzzles is very different
+Dialogue: 0,0:39:32.64,0:39:36.03,Chi,,0,0,0,,{\fad(120,120)}而解决这两个谜题的体验是非常不同的
+Dialogue: 1,0:39:36.03,0:39:43.65,Eng,,0,0,0,,{\fad(120,120)}Note-taking can increase depth and this is you know an important enough uh lesson to be a number of its own
+Dialogue: 0,0:39:36.03,0:39:43.65,Chi,,0,0,0,,{\fad(120,120)}「记笔记可以增加深度」，这一点还比较重要，值得单独列出来
+Dialogue: 1,0:39:43.65,0:39:48.38,Eng,,0,0,0,,{\fad(120,120)}I want to show you an example in sudoku and then we will go back to the path drawing puzzles
+Dialogue: 0,0:39:43.65,0:39:48.38,Chi,,0,0,0,,{\fad(120,120)}我想给你们看一个数独的例子，然后我们再回来看前面画线谜题的例子
+Dialogue: 1,0:39:48.38,0:39:56.45,Eng,,0,0,0,,{\fad(120,120)}a lot of players have had different ways of doing sudoku notation but they're sort of three that are most in in common use
+Dialogue: 0,0:39:48.38,0:39:56.45,Chi,,0,0,0,,{\fad(120,120)}很多玩家都有不同的方法来做数独的记号，但这是最常用的三种
+Dialogue: 1,0:39:56.45,0:40:00.41,Eng,,0,0,0,,{\fad(120,120)}uh and many sudoku solvers are using all three of these notations at once
+Dialogue: 0,0:39:56.45,0:40:00.41,Chi,,0,0,0,,{\fad(120,120)}还有许多数独解题者同时使用这三种记法
+Dialogue: 1,0:40:00.41,0:40:04.77,Eng,,0,0,0,,{\fad(120,120)}they're sort of candidate notation meaning this cell must contain one of these numbers
+Dialogue: 0,0:40:00.41,0:40:04.77,Chi,,0,0,0,,{\fad(120,120)}一种是候选记号（Candidate notation），意思是格子中一定是这些数字之一
+Dialogue: 1,0:40:04.77,0:40:07.71,Eng,,0,0,0,,{\fad(120,120)}you know seven two means this cell is either a seven or a two
+Dialogue: 0,0:40:04.77,0:40:07.71,Chi,,0,0,0,,{\fad(120,120)}写成“72”就意味着这个格子里要么是7要么是2
+Dialogue: 1,0:40:07.71,0:40:12.77,Eng,,0,0,0,,{\fad(120,120)}uh Snyder notation is sort of the reverse it's this number goes in one of these cells
+Dialogue: 0,0:40:07.71,0:40:12.77,Chi,,0,0,0,,{\fad(120,120)}而Snyder记号是一种相反的记号，就是这个数字要放到这些格子中的一个位置
+Dialogue: 1,0:40:12.77,0:40:16.86,Eng,,0,0,0,,{\fad(120,120)}like here's a box the two in this box goes in one of these cells
+Dialogue: 0,0:40:12.77,0:40:16.86,Chi,,0,0,0,,{\fad(120,120)}比如有这么个框，2就会放入这个框中的其中一格
+Dialogue: 1,0:40:16.86,0:40:22.17,Eng,,0,0,0,,{\fad(120,120)}and sometimes you sort of draw a two on the border between two boxes it's sometimes called a bivalue
+Dialogue: 0,0:40:16.86,0:40:22.17,Chi,,0,0,0,,{\fad(120,120)}有时你会在两个框交界的地方写个2，这有时被叫做“bivalue”
+Dialogue: 1,0:40:22.17,0:40:25.12,Eng,,0,0,0,,{\fad(120,120)}there's different ways that people do it and annotate it
+Dialogue: 0,0:40:22.17,0:40:25.12,Chi,,0,0,0,,{\fad(120,120)}人们有不同的方法来做这样的记号和注释
+Dialogue: 1,0:40:25.12,0:40:30.37,Eng,,0,0,0,,{\fad(120,120)}and then there are colors which means these two cells are the same number but I don't know which one they are yet
+Dialogue: 0,0:40:25.12,0:40:30.37,Chi,,0,0,0,,{\fad(120,120)}然后还有涂色记号，意味着两个格子数字相同，但还不确定是什么数字
+Dialogue: 1,0:40:30.37,0:40:36.96,Eng,,0,0,0,,{\fad(120,120)}um and this is an example from cracking the cryptic where here Mark Goodlife is filling out this grid
+Dialogue: 0,0:40:30.37,0:40:36.96,Chi,,0,0,0,,{\fad(120,120)}这里这个例子来自Cracking the Cryptic频道，Mark Goodlife正在填这个格子
+Dialogue: 2,0:40:36.96,0:40:43.55,Annote,,0,0,0,,{\fad(120,120)}（译者注：这是一个温度计数独，含温度计的格子从头部开始数字增大）
+Dialogue: 1,0:40:36.96,0:40:43.55,Eng,,0,0,0,,{\fad(120,120)}and hasn't put in a single number yet or he's just put in his first number which is a seven over here uh in this thermometer
+Dialogue: 0,0:40:36.96,0:40:43.55,Chi,,0,0,0,,{\fad(120,120)}还没有填上一个数字，或者说他刚刚填了第一个数字，也就是这个温度计里的7
+Dialogue: 1,0:40:43.55,0:40:46.69,Eng,,0,0,0,,{\fad(120,120)}and uh it took him 30 minutes to get this far
+Dialogue: 0,0:40:43.55,0:40:46.69,Chi,,0,0,0,,{\fad(120,120)}他走到当前这个状态花了30分钟
+Dialogue: 1,0:40:46.69,0:40:50.53,Eng,,0,0,0,,{\fad(120,120)}but after he put in that seven he was then able to finish the whole puzzle in less than a minute
+Dialogue: 0,0:40:46.69,0:40:50.53,Chi,,0,0,0,,{\fad(120,120)}但当他填入7后，他就能在一分钟内完成整个谜题
+Dialogue: 1,0:40:50.53,0:40:53.21,Eng,,0,0,0,,{\fad(120,120)}because as soon as you get one number the whole thing collapses um
+Dialogue: 0,0:40:50.53,0:40:53.21,Chi,,0,0,0,,{\fad(120,120)}因为一旦你得到一个数字，整个谜题就会“崩塌”
+Dialogue: 1,0:40:53.21,0:40:57.50,Eng,,0,0,0,,{\fad(120,120)}but this type of puzzle would not be solvable without note taking
+Dialogue: 0,0:40:53.21,0:40:57.50,Chi,,0,0,0,,{\fad(120,120)}但这种类型的谜题如果不做笔记的话是无法解决的
+Dialogue: 1,0:40:57.50,0:41:03.65,Eng,,0,0,0,,{\fad(120,120)}like you can't solve it the way you would in normal sudoku where you're just putting in one number then the next then the next then the next then the next
+Dialogue: 0,0:40:57.50,0:41:03.65,Chi,,0,0,0,,{\fad(120,120)}你不能像普通的数独游戏那样，先填一个数字，然后再一个接一个填
+Dialogue: 1,0:41:03.65,0:41:08.89,Eng,,0,0,0,,{\fad(120,120)}you need to be able to take notes and sort of reduce the possibility space down from this large you know
+Dialogue: 0,0:41:03.65,0:41:08.89,Chi,,0,0,0,,{\fad(120,120)}你需要做笔记，把这么大的可能性空间给缩小
+Dialogue: 1,0:41:08.89,0:41:12.09,Eng,,0,0,0,,{\fad(120,120)}so many things could be the answer down to only these things could be the answer
+Dialogue: 0,0:41:08.89,0:41:12.09,Chi,,0,0,0,,{\fad(120,120)}从很多东西都可以是答案，到只有这些才是答案
+Dialogue: 1,0:41:12.09,0:41:15.61,Eng,,0,0,0,,{\fad(120,120)}and then from there you realize ah this number has to go there
+Dialogue: 0,0:41:12.09,0:41:15.61,Chi,,0,0,0,,{\fad(120,120)}然后你就会意识到，这个数字一定要放在那里
+Dialogue: 1,0:41:15.61,0:41:21.05,Eng,,0,0,0,,{\fad(120,120)}um and so the eureka moments that are possible with note taking are much deeper than those without it
+Dialogue: 0,0:41:15.61,0:41:21.05,Chi,,0,0,0,,{\fad(120,120)}所以，含有记笔记过程的尤里卡时刻，要比那些没有的要深刻得多
+Dialogue: 1,0:41:21.05,0:41:25.60,Eng,,0,0,0,,{\fad(120,120)}let's go back to the witness this is an example from it's very early in the game
+Dialogue: 0,0:41:21.05,0:41:25.60,Chi,,0,0,0,,{\fad(120,120)}让我们回到《见证者》来，这是游戏前期的一个例子
+Dialogue: 1,0:41:25.60,0:41:30.78,Eng,,0,0,0,,{\fad(120,120)}in fact that you see this puzzle and there's multiple start locations multiple places where you could possibly end it
+Dialogue: 0,0:41:25.60,0:41:30.78,Chi,,0,0,0,,{\fad(120,120)}事实上，你看到这个谜题之后会发现，它有多个起点和终点
+Dialogue: 1,0:41:30.78,0:41:40.38,Eng,,0,0,0,,{\fad(120,120)}the goal is basically you have to draw a single line from one of those start locations to an end location that both passes through all these black hexagons
+Dialogue: 0,0:41:30.78,0:41:40.38,Chi,,0,0,0,,{\fad(120,120)}目标是你必须从其中一个起点位置画一条线到终点，同时穿过所有这些黑色的六边形
+Dialogue: 1,0:41:40.38,0:41:48.06,Eng,,0,0,0,,{\fad(120,120)}as well as um well it has to cut the light and dark cells uh so that they don't live in the same connected component
+Dialogue: 0,0:41:40.38,0:41:48.06,Chi,,0,0,0,,{\fad(120,120)}同时还得把含有黑块和白块的格子分隔开来，使得它们在不同的连通分量当中
+Dialogue: 1,0:41:48.06,0:41:59.13,Eng,,0,0,0,,{\fad(120,120)}and there's a long uh you know definition of what that really is but it sort of is like keeping all the light cells on the left and dark cells on the right or vice versa it's similar to that
+Dialogue: 0,0:41:48.06,0:41:59.13,Chi,,0,0,0,,{\fad(120,120)}基本上就是说让所有含黑块的格子在线一边，含有白块的格子在线的另一边
+Dialogue: 1,0:41:59.13,0:42:02.97,Eng,,0,0,0,,{\fad(120,120)}um and if you sort of take this puzzle into MS paint
+Dialogue: 0,0:41:59.13,0:42:02.97,Chi,,0,0,0,,{\fad(120,120)}而如果你把这个谜题截屏放到画图里面看
+Dialogue: 1,0:42:02.97,0:42:09.44,Eng,,0,0,0,,{\fad(120,120)}you could kind of draw in some little bits of deductive analysis of where the path must go
+Dialogue: 0,0:42:02.97,0:42:09.44,Chi,,0,0,0,,{\fad(120,120)}你就可以推理分析出一些小线段来代表路径必须经过的地方
+Dialogue: 1,0:42:09.44,0:42:12.83,Eng,,0,0,0,,{\fad(120,120)}and from here you can actually solve the puzzle pretty easily
+Dialogue: 0,0:42:09.44,0:42:12.83,Chi,,0,0,0,,{\fad(120,120)}而根据这个你可以很容易地解决这个谜题
+Dialogue: 1,0:42:12.83,0:42:16.86,Eng,,0,0,0,,{\fad(120,120)}uh but that's sort of not really the way this puzzle is designed right
+Dialogue: 0,0:42:12.83,0:42:16.86,Chi,,0,0,0,,{\fad(120,120)}但这个谜题设计出来并不是这样的方式，对吗？
+Dialogue: 1,0:42:16.86,0:42:21.60,Eng,,0,0,0,,{\fad(120,120)}it's not a puzzle where you can enter partial bits of progress while playing it
+Dialogue: 0,0:42:16.86,0:42:21.60,Chi,,0,0,0,,{\fad(120,120)}这不是那种你玩的时候一小截一小截线段往里添加的谜题
+Dialogue: 1,0:42:21.60,0:42:28.51,Eng,,0,0,0,,{\fad(120,120)}it's a puzzle game where you sort of start at the beginning and then draw a line out and it goes through everything and exits
+Dialogue: 0,0:42:21.60,0:42:28.51,Chi,,0,0,0,,{\fad(120,120)}这是你得从起点开始画一条线、穿过所有东西直到终点的谜题
+Dialogue: 1,0:42:28.51,0:42:36.64,Eng,,0,0,0,,{\fad(120,120)}this isn't necessarily a bad thing but it does limit the complexity of the types of puzzles that you could create in the witness
+Dialogue: 0,0:42:28.51,0:42:36.64,Chi,,0,0,0,,{\fad(120,120)}这不一定是件坏事，但它也的确限制了《见证者》中能创作的谜题的复杂性
+Dialogue: 1,0:42:36.64,0:42:40.61,Eng,,0,0,0,,{\fad(120,120)}like if you go back to this Alcazar puzzle on the right hand side here
+Dialogue: 0,0:42:36.64,0:42:40.61,Chi,,0,0,0,,{\fad(120,120)}就比如我们回到之前那个《Alcazar》的谜题，在右手边这个
+Dialogue: 1,0:42:40.61,0:42:45.09,Eng,,0,0,0,,{\fad(120,120)}you could never make this in the puzzle in the witness because it would just be too frustrating for players
+Dialogue: 0,0:42:40.61,0:42:45.09,Chi,,0,0,0,,{\fad(120,120)}你永远不可能在《见证者》中做这样一个谜题，因为这会让玩家非常懊恼
+Dialogue: 1,0:42:45.09,0:42:53.28,Eng,,0,0,0,,{\fad(120,120)}like they would literally need to print screen it and go into paint because you can't necessarily solve it start to end without making a mistake
+Dialogue: 0,0:42:45.09,0:42:53.28,Chi,,0,0,0,,{\fad(120,120)}你真的可能得截个屏然后放到画图里来看，你不可能从头到尾不犯错画根线就把它解出来了
+Dialogue: 1,0:42:53.28,0:42:58.91,Eng,,0,0,0,,{\fad(120,120)}um it's just sort of too much for the player's working memory to be able to do that in their head right
+Dialogue: 0,0:42:53.28,0:42:58.91,Chi,,0,0,0,,{\fad(120,120)}这对玩家的短期记忆能力来说实在是太多了，不可能就在脑海里完成这个任务
+Dialogue: 1,0:42:58.91,0:43:01.79,Eng,,0,0,0,,{\fad(120,120)}it's too big of a grid for you to be able to head solve
+Dialogue: 0,0:42:58.91,0:43:01.79,Chi,,0,0,0,,{\fad(120,120)}这个网格太大了，不可能在脑海里解出来的
+Dialogue: 1,0:43:01.79,0:43:05.82,Eng,,0,0,0,,{\fad(120,120)}and so, the witness fundamentally limits itself to smaller grids
+Dialogue: 0,0:43:01.79,0:43:05.82,Chi,,0,0,0,,{\fad(120,120)}因此，《见证者》从根本上说限制了自己只能使用较小一点的网格
+Dialogue: 1,0:43:05.82,0:43:09.28,Eng,,0,0,0,,{\fad(120,120)}because it wants to you know have grids that people can head solve
+Dialogue: 0,0:43:05.82,0:43:09.28,Chi,,0,0,0,,{\fad(120,120)}因为它希望它的网格能直接让人在脑海里解出来
+Dialogue: 1,0:43:09.28,0:43:12.41,Eng,,0,0,0,,{\fad(120,120)}rather than grids that people are going to need to take a million notes for
+Dialogue: 0,0:43:09.28,0:43:12.41,Chi,,0,0,0,,{\fad(120,120)}而不是需要人们去做无数的笔记
+Dialogue: 1,0:43:12.41,0:43:16.83,Eng,,0,0,0,,{\fad(120,120)}but that sort of limits how deep and interesting those puzzles can be
+Dialogue: 0,0:43:12.41,0:43:16.83,Chi,,0,0,0,,{\fad(120,120)}但这同时也限制那些谜题的深度和趣味性
+Dialogue: 1,0:43:16.83,0:43:20.29,Eng,,0,0,0,,{\fad(120,120)}now that said taking notes isn't necessarily a good fit for the theme of the witness
+Dialogue: 0,0:43:16.83,0:43:20.29,Chi,,0,0,0,,{\fad(120,120)}虽然这么说，但做笔记本身不一定适合《见证者》的主题
+Dialogue: 1,0:43:20.29,0:43:24.45,Eng,,0,0,0,,{\fad(120,120)}the witness is fundamentally a game about drawing a line from one place to the next
+Dialogue: 0,0:43:20.29,0:43:24.45,Chi,,0,0,0,,{\fad(120,120)}《见证者》从根本上说就是从一点到另一点画线的游戏
+Dialogue: 1,0:43:24.45,0:43:28.35,Eng,,0,0,0,,{\fad(120,120)}and not a game about note-taking when you're solving logic puzzles
+Dialogue: 0,0:43:24.45,0:43:28.35,Chi,,0,0,0,,{\fad(120,120)}而不是要求边解逻辑谜题边做笔记的游戏
+Dialogue: 1,0:43:28.35,0:43:32.38,Eng,,0,0,0,,{\fad(120,120)}um so I think the witnesses approach is correct for what the witness is trying to do
+Dialogue: 0,0:43:28.35,0:43:32.38,Chi,,0,0,0,,{\fad(120,120)}所以我认为《见证者》的方法对于《见证者》本身所要尝试做的事情来说，是正确的
+Dialogue: 1,0:43:32.38,0:43:37.63,Eng,,0,0,0,,{\fad(120,120)}um but I’m just saying it does create some limitation in what types of puzzles can be expressed
+Dialogue: 0,0:43:32.38,0:43:37.63,Chi,,0,0,0,,{\fad(120,120)}但我还是得说它对能够表达的谜题类型产生了一些限制
+Dialogue: 1,0:43:37.63,0:43:42.05,Eng,,0,0,0,,{\fad(120,120)}or you know can be expressed in a way that's convenient for the solver to access
+Dialogue: 0,0:43:37.63,0:43:42.05,Chi,,0,0,0,,{\fad(120,120)}或者说（它限制了）那种能够用让玩家可以方便解出来的方式表达的
+Dialogue: 1,0:43:42.05,0:43:50.94,Eng,,0,0,0,,{\fad(120,120)}without copy pasting the puzzle into MS paint or taking notes on paper or trying to keep way too many things in their head at once
+Dialogue: 0,0:43:42.05,0:43:50.94,Chi,,0,0,0,,{\fad(120,120)}而不需要把谜题粘贴到画图中，或者在纸上做笔记，或者在脑海中记太多东西的谜题
+Dialogue: 1,0:43:51.01,0:43:57.66,Eng,,0,0,0,,{\fad(120,120)}some puzzles are basically designed such that note taking is the solution to the puzzle
+Dialogue: 0,0:43:51.01,0:43:57.66,Chi,,0,0,0,,{\fad(120,120)}而有些谜题基本上就是把记笔记作为谜题的解决步骤
+Dialogue: 1,0:43:57.66,0:43:59.13,Eng,,0,0,0,,{\fad(120,120)}minesweeper is one of them
+Dialogue: 0,0:43:57.66,0:43:59.13,Chi,,0,0,0,,{\fad(120,120)}扫雷就是其中之一
+Dialogue: 1,0:43:59.13,0:44:03.23,Eng,,0,0,0,,{\fad(120,120)}if you try solving minesweeper without noting the mines it's really hard
+Dialogue: 0,0:43:59.13,0:44:03.23,Chi,,0,0,0,,{\fad(120,120)}如果你试着不标记地雷的位置来解开扫雷，那真的很困难
+Dialogue: 1,0:44:03.23,0:44:07.77,Eng,,0,0,0,,{\fad(120,120)}but also even just noting where the numbers are that is the form of progress of the puzzle
+Dialogue: 0,0:44:03.23,0:44:07.77,Chi,,0,0,0,,{\fad(120,120)}但即便只是去留意数字的位置，那也是解谜取得进展的一种形式
+Dialogue: 1,0:44:07.77,0:44:11.36,Eng,,0,0,0,,{\fad(120,120)}like note-taking is progress it feels like progress
+Dialogue: 0,0:44:07.77,0:44:11.36,Chi,,0,0,0,,{\fad(120,120)}记笔记就是一种进展，它感觉上就像取得了进展一样
+Dialogue: 1,0:44:11.36,0:44:15.58,Eng,,0,0,0,,{\fad(120,120)}uh for these types of zebra crossing or Einstein’s riddle type puzzles
+Dialogue: 0,0:44:11.36,0:44:15.58,Chi,,0,0,0,,{\fad(120,120)}对于这种《斑马难题》
+Dialogue: 1,0:44:15.58,0:44:20.64,Eng,,0,0,0,,{\fad(120,120)}where they give you a bunch of uh sort of logical hints and then you have to fill in the grid
+Dialogue: 0,0:44:15.58,0:44:20.64,Chi,,0,0,0,,{\fad(120,120)}里面给你一些逻辑线索，然后你得填上这个表格
+Dialogue: 1,0:44:20.64,0:44:27.55,Eng,,0,0,0,,{\fad(120,120)}like you know who had the milk who had the water you know who was what color etc
+Dialogue: 0,0:44:20.64,0:44:27.55,Chi,,0,0,0,,{\fad(120,120)}比如给你线索说，谁喜欢喝牛奶，谁喜欢喝水，谁的房子是什么颜色等等
+Dialogue: 1,0:44:27.55,0:44:32.54,Eng,,0,0,0,,{\fad(120,120)}those types of puzzles that the note taking is the progress it's what you're doing when you're solving the puzzle
+Dialogue: 0,0:44:27.55,0:44:32.54,Chi,,0,0,0,,{\fad(120,120)}对这种类型的谜题，记笔记就是取得进展，就是你在解谜时做的事情
+Dialogue: 1,0:44:32.54,0:44:36.57,Eng,,0,0,0,,{\fad(120,120)}and this is often true of many types of logic puzzles and paper logic puzzles
+Dialogue: 0,0:44:32.54,0:44:36.57,Chi,,0,0,0,,{\fad(120,120)}很多类型的逻辑谜题和纸质逻辑谜题都是如此
+Dialogue: 1,0:44:36.57,0:44:45.28,Eng,,0,0,0,,{\fad(120,120)}and it is a tradition that isn't used as much in video game puzzles that sort of rely more on statefulness and interaction
+Dialogue: 0,0:44:36.57,0:44:45.28,Chi,,0,0,0,,{\fad(120,120)}而这一传统在电子游戏谜题中并不常有，电子游戏谜题更依赖于状态和交互
+Dialogue: 1,0:44:45.28,0:44:48.86,Eng,,0,0,0,,{\fad(120,120)}because that you know this is a natural fit to pen and paper
+Dialogue: 0,0:44:45.28,0:44:48.86,Chi,,0,0,0,,{\fad(120,120)}因为你知道，（做笔记）很自然地使用于纸上游戏
+Dialogue: 1,0:44:48.86,0:44:53.47,Eng,,0,0,0,,{\fad(120,120)}it's less of a natural fit when you're playing a game and moving a character around in three-dimensional space
+Dialogue: 0,0:44:48.86,0:44:53.47,Chi,,0,0,0,,{\fad(120,120)}但当你在三维空间中移动一个角色时，它就不那么自然了
+Dialogue: 1,0:44:53.47,0:44:57.25,Eng,,0,0,0,,{\fad(120,120)}but they do a good job of making note-taking feel like progress
+Dialogue: 0,0:44:53.47,0:44:57.25,Chi,,0,0,0,,{\fad(120,120)}不过（纸上游戏）在让人通过记笔记感到取得进展这方面做得很好
+Dialogue: 1,0:44:57.25,0:45:01.98,Eng,,0,0,0,,{\fad(120,120)}and that's how they're able to access their depth in a way that isn't too annoying
+Dialogue: 0,0:44:57.25,0:45:01.98,Chi,,0,0,0,,{\fad(120,120)}这就是他们如何能够以一种不太令人讨厌的方式拓展它们游戏的深度
